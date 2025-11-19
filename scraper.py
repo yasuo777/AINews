@@ -9,8 +9,8 @@ from openai import OpenAI
 
 # 配置部分
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY") # 从环境变量获取
-OPENAI_BASE_URL = "https://api.openai.com/v1" # 如果用DeepSeek或其他，修改此处
-MODEL_NAME = "gpt-3.5-turbo" # 或 deepseek-chat
+OPENAI_BASE_URL = "https://api.deepseek.com" # 如果用DeepSeek或其他，修改此处
+MODEL_NAME = "deepseek-chat" # 或 deepseek-chat
 
 # AI新闻源列表 (RSS)
 RSS_FEEDS = [
