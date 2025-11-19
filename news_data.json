@@ -1,5 +1,37 @@
 [
   {
+    "title": "Function Health raises $298M Series B at $2.5B valuation",
+    "link": "https://techcrunch.com/2025/11/19/function-health-closes-298m-series-b-at-a-2-5b-valuation-launches-medical-intelligence/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1132225622-e1709210197672.jpg?resize=1200,812",
+    "summary": "医疗检测公司Function完成2.98亿美元B轮融资，由Redpoint Ventures领投，投后估值达25亿美元。",
+    "date": "2025-11-19 20:46",
+    "timestamp": 1763585199.7391565
+  },
+  {
+    "title": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform",
+    "link": "https://techcrunch.com/2025/11/19/warner-music-settles-copyright-lawsuit-with-udio-signs-deal-for-ai-music-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2155987987.jpg?resize=1200,800",
+    "summary": "摘要：某订阅服务将推出新功能，允许用户使用签约歌手的声音和作曲家的作品进行混音、翻唱及原创歌曲创作。",
+    "date": "2025-11-19 20:46",
+    "timestamp": 1763585201.9542696
+  },
+  {
+    "title": "Why January Ventures is funding underrepresented AI founders",
+    "link": "https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Interview-1118-Jennifer-Neundorfer.png?resize=1200,675",
+    "summary": "当市场聚焦旧金山AI基础设施时，January Ventures正专注投资于医疗、制造和供应链等传统行业中由经验丰富但融资困难的创始人推动的AI企业，填补市场空白。",
+    "date": "2025-11-19 20:46",
+    "timestamp": 1763585204.7689483
+  },
+  {
+    "title": "Critics scoff after Microsoft warns AI feature can infect machines and pilfer data",
+    "link": "https://arstechnica.com/security/2025/11/critics-scoff-after-microsoft-warns-ai-feature-can-infect-machines-and-pilfer-data/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+    "summary": "微软Copilot Actions目前默认未集成至Windows系统，但业界关注其未来可能转为默认启用的趋势。",
+    "date": "2025-11-19 20:46",
+    "timestamp": 1763585207.3978062
+  },
+  {
     "title": "Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows",
     "link": "https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800",
