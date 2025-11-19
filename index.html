@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 前沿快讯</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-800">
+    <div class="container mx-auto px-4 py-8">
+        <header class="text-center mb-12">
+            <h1 class="text-4xl font-bold text-blue-600 mb-2">🤖 AI 前沿快讯</h1>
+            <p class="text-gray-600">每小时自动聚合全球最新人工智能动态</p>
+            <p class="text-sm text-gray-400 mt-2" id="last-updated"></p>
+        </header>
+
+        <div id="news-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            <!-- 新闻卡片将通过JS插入这里 -->
+            <div class="text-center col-span-full text-gray-500">加载中...</div>
+        </div>
+    </div>
+
+    <script>
+        async function loadNews() {
+            try {
+                // 加上时间戳防止缓存
+                const response = await fetch('news_data.json?' + new Date().getTime());
+                const newsData = await response.json();
+                
+                const container = document.getElementById('news-container');
+                container.innerHTML = ''; // 清空加载文字
+
+                newsData.forEach(news => {
+                    const card = `
+                        <div class="bg-white rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300 flex flex-col">
+                            <div class="h-48 overflow-hidden relative">
+                                <img src="${news.image}" alt="${news.title}" class="w-full h-full object-cover hover:scale-105 transition-transform duration-500">
+                            </div>
+                            <div class="p-6 flex-1 flex flex-col">
+                                <div class="text-xs text-blue-500 mb-2 font-semibold">${news.date}</div>
+                                <h2 class="text-xl font-bold mb-3 leading-tight text-gray-900 hover:text-blue-600">
+                                    <a href="${news.link}" target="_blank">${news.title}</a>
+                                </h2>
+                                <p class="text-gray-600 text-sm flex-1">${news.summary}</p>
+                                <a href="${news.link}" target="_blank" class="mt-4 inline-block text-blue-600 hover:text-blue-800 font-medium text-sm">阅读原文 &rarr;</a>
+                            </div>
+                        </div>
+                    `;
+                    container.insertAdjacentHTML('beforeend', card);
+                });
+                
+                if(newsData.length > 0) {
+                    document.getElementById('last-updated').innerText = '最新更新: ' + newsData[0].date;
+                }
+
+            } catch (error) {
+                console.error('加载失败:', error);
+                document.getElementById('news-container').innerHTML = '<p class="text-center text-red-500 col-span-full">新闻加载失败，请稍后刷新。</p>';
+            }
+        }
+
+        loadNews();
+    </script>
+</body>
+</html>
