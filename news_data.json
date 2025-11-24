@@ -1,5 +1,21 @@
 [
   {
+    "title": "Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone",
+    "link": "https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+    "summary": "艾曼与艾夫正合作开发一款简洁的AI设备，主打无干扰、沉静式交互体验，计划两年内推出，旨在重塑专注型计算体验。",
+    "date": "2025-11-24 23:46",
+    "timestamp": 1764027995.322203
+  },
+  {
+    "title": "Anthropic introduces cheaper, more powerful, more efficienct Opus 4.5 model",
+    "link": "https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-4.57.28-PM-1152x648.png",
+    "summary": "针对此前用户对Claude对话长度的批评，Anthropic公司推出全新模型，通过显著延长单次对话能力有效解决了这一核心痛点。该升级使Claude在持续交互场景中展现出更强实用性。",
+    "date": "2025-11-24 23:46",
+    "timestamp": 1764027999.6614296
+  },
+  {
     "title": "OpenAI learned the hard way that Cameo trademarked the word ‘cameo’",
     "link": "https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
