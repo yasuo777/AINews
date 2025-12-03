@@ -1,5 +1,21 @@
 [
   {
+    "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+    "link": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
+    "summary": "亚马逊云科技大会本周举行，发布涵盖自研芯片及生成式AI服务的多项更新。",
+    "date": "2025-12-03 02:25",
+    "timestamp": 1764728723.749738
+  },
+  {
+    "title": "Amazon challenges competitors with on-premises Nvidia ‘AI Factories’",
+    "link": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Amazon-AWS-AI-Factory.jpg?resize=1200,675",
+    "summary": "AWS与英伟达合作推出新产品，融合双方技术优势。",
+    "date": "2025-12-03 02:25",
+    "timestamp": 1764728725.8628738
+  },
+  {
     "title": "Google tests merging AI Overviews with AI Mode",
     "link": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI编程公司Lovable CEO Anton Osika表示，公司成功的关键在于未听从迁至硅谷的建议。",
     "date": "2025-11-19 13:48",
     "timestamp": 1763560097.6241374
-  },
-  {
-    "title": "TikTok now lets you choose how much AI-generated content you want to see",
-    "link": "https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/03/GettyImages-1248373545.jpg?resize=1200,788",
-    "summary": "平台推出AI生成内容调控功能，用户可根据个人偏好自主调节内容显示频率，实现个性化内容管理。",
-    "date": "2025-11-19 13:48",
-    "timestamp": 1763560099.6575122
-  },
-  {
-    "title": "Hugging Face CEO says we’re in an ‘LLM bubble,’ not an AI bubble",
-    "link": "https://techcrunch.com/2025/11/18/hugging-face-ceo-says-were-in-an-llm-bubble-not-an-ai-bubble/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
-    "summary": "Hugging Face CEO指出，尽管当前焦点集中于大语言模型，但未来许多应用场景中，专业化的小型模型将更具实际价值。",
-    "date": "2025-11-19 13:48",
-    "timestamp": 1763560102.1424115
   }
 ]
