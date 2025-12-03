@@ -1,5 +1,21 @@
 [
   {
+    "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
+    "link": "https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
+    "summary": "亚马逊云科技大会本周举行，发布涵盖自研芯片及生成式AI服务等多领域更新。",
+    "date": "2025-12-03 23:47",
+    "timestamp": 1764805631.2016127
+  },
+  {
+    "title": "Meta poaches Apple design exec Alan Dye",
+    "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675",
+    "summary": "过去十年，Dye一直领导苹果的用户界面设计团队。",
+    "date": "2025-12-03 23:47",
+    "timestamp": 1764805633.0561118
+  },
+  {
     "title": "Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business",
     "link": "https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
@@ -782,21 +798,5 @@
     "summary": "医疗检测公司Function完成2.98亿美元B轮融资，由Redpoint Ventures领投，投后估值达25亿美元。",
     "date": "2025-11-19 20:46",
     "timestamp": 1763585199.7391565
-  },
-  {
-    "title": "Warner Music settles copyright lawsuit with Udio, signs deal for AI music platform",
-    "link": "https://techcrunch.com/2025/11/19/warner-music-settles-copyright-lawsuit-with-udio-signs-deal-for-ai-music-platform/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2155987987.jpg?resize=1200,800",
-    "summary": "摘要：某订阅服务将推出新功能，允许用户使用签约歌手的声音和作曲家的作品进行混音、翻唱及原创歌曲创作。",
-    "date": "2025-11-19 20:46",
-    "timestamp": 1763585201.9542696
-  },
-  {
-    "title": "Why January Ventures is funding underrepresented AI founders",
-    "link": "https://techcrunch.com/video/why-january-ventures-is-funding-underrepresented-ai-founders/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Interview-1118-Jennifer-Neundorfer.png?resize=1200,675",
-    "summary": "当市场聚焦旧金山AI基础设施时，January Ventures正专注投资于医疗、制造和供应链等传统行业中由经验丰富但融资困难的创始人推动的AI企业，填补市场空白。",
-    "date": "2025-11-19 20:46",
-    "timestamp": 1763585204.7689483
   }
 ]
