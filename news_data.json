@@ -1,5 +1,29 @@
 [
   {
+    "title": "WordPress’s vibe-coding experiment, Telex, has already been put to real-world use",
+    "link": "https://techcrunch.com/2025/12/03/wordpresss-vibe-coding-experiment-telex-has-already-been-put-to-real-world-use/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?resize=1200,800",
+    "summary": "WordPress旗下实验性软件Telex虽处测试阶段，但已实际应用于网站开发。",
+    "date": "2025-12-03 20:52",
+    "timestamp": 1764795144.6768537
+  },
+  {
+    "title": "VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy",
+    "link": "https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1366296426.jpg?resize=1200,801",
+    "summary": "风投机构正将重金押注头部项目的策略推向新高度，以加速赛道赢家的形成。",
+    "date": "2025-12-03 20:52",
+    "timestamp": 1764795146.65407
+  },
+  {
+    "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
+    "link": "https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/crucial_ram_header-1080x648.jpg",
+    "summary": "美光科技宣布将终止旗下DIY升级品牌Crucial，并称该决策源于AI数据中心需求增长，公司将更专注于企业级存储产品。",
+    "date": "2025-12-03 20:52",
+    "timestamp": 1764795149.703194
+  },
+  {
     "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
     "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
@@ -774,29 +798,5 @@
     "summary": "微软Copilot Actions目前默认未集成至Windows系统，但业界关注其未来可能转为默认启用的趋势。",
     "date": "2025-11-19 20:46",
     "timestamp": 1763585207.3978062
-  },
-  {
-    "title": "Amazon’s Prime Video is getting AI-generated Video Recaps for some TV shows",
-    "link": "https://techcrunch.com/2025/11/19/amazons-prime-video-is-getting-ai-generated-video-recaps-for-some-tv-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1240319612.jpg?resize=1200,800",
-    "summary": "亚马逊推出新功能，利用生成式AI制作具备影院级品质的剧集季终回顾，可同步生成旁白、对话及配乐。",
-    "date": "2025-11-19 17:47",
-    "timestamp": 1763574424.0199819
-  },
-  {
-    "title": "YC-backed Poly relaunches as a cloud-hosted file storage with AI search",
-    "link": "https://techcrunch.com/2025/11/19/yc-backed-poly-relaunches-as-a-cloud-hosted-file-storage-with-ai-search/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Poly-feat.jpg?resize=1200,675",
-    "summary": "Poly推出云端文件存储系统，集成AI智能搜索功能，可跨文本、图像、音频及视频内容进行快速检索。",
-    "date": "2025-11-19 17:47",
-    "timestamp": 1763574426.3422213
-  },
-  {
-    "title": "DeepMind’s latest: An AI for handling mathematical proofs",
-    "link": "https://arstechnica.com/ai/2025/11/deepminds-latest-an-ai-for-handling-mathematical-proofs/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-643999103-1152x648.jpg",
-    "summary": "目前，AlphaProof已具备处理复杂数学问题的能力，但在特定场景下仍需人工辅助优化。",
-    "date": "2025-11-19 16:54",
-    "timestamp": 1763571293.0376654
   }
 ]
