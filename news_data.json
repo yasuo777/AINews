@@ -1,5 +1,29 @@
 [
   {
+    "title": "AWS doubles down on custom LLMs with features meant to simplify model creation",
+    "link": "https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Sagemaker.png?resize=1200,675",
+    "summary": "AWS升级Amazon Bedrock和SageMaker AI服务，新增多项功能以简化定制模型开发流程。",
+    "date": "2025-12-03 16:58",
+    "timestamp": 1764781120.4151874
+  },
+  {
+    "title": "Another bid to block state AI regulation has failed… for now",
+    "link": "https://techcrunch.com/2025/12/03/another-bid-to-block-state-ai-regulation-has-failedfor-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1246479507.jpg?w=1024",
+    "summary": "共和党禁止各州监管AI的提案因两党反对被移出国防法案，凸显科技行业诉求、消费者保护与特朗普推动联邦全面优先权之间的紧张关系。",
+    "date": "2025-12-03 16:58",
+    "timestamp": 1764781123.0369155
+  },
+  {
+    "title": "Google Photos’ 2025 Recap turns to Gemini to find your highlights",
+    "link": "https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Google-Photos-Recap-2025-12-03-at-10.34.31-AM.jpg?resize=1200,751",
+    "summary": "谷歌相册年度回顾功能将利用Gemini AI自动筛选年度精彩瞬间，并新增“自拍次数”等量化指标。",
+    "date": "2025-12-03 16:58",
+    "timestamp": 1764781125.3948805
+  },
+  {
     "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
     "link": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
@@ -774,29 +798,5 @@
     "summary": "OpenAI与Target合作推出零售业ChatGPT应用，下周启动测试版，标志着AI技术进一步深入零售场景。",
     "date": "2025-11-19 14:52",
     "timestamp": 1763563957.0701058
-  },
-  {
-    "title": "The Epstein files have claimed their first OpenAI victim: board member Larry Summers",
-    "link": "https://techcrunch.com/2025/11/19/the-epstein-files-have-claimed-their-first-openai-victim-board-member-larry-summers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "前财长萨默斯因被曝与性犯罪者爱泼斯坦关系密切，已辞去OpenAI董事会职务。",
-    "date": "2025-11-19 14:52",
-    "timestamp": 1763563959.5565732
-  },
-  {
-    "title": "How Louvre thieves exploited human psychology to avoid suspicion—and what it reveals about AI",
-    "link": "https://arstechnica.com/science/2025/11/how-louvre-thieves-exploited-human-psychology-to-avoid-suspicion-and-what-it-reveals-about-ai/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2242090240-2560x1440.jpg",
-    "summary": "人类与AI均对符合“普通”范畴的事物自动忽略。这一共性揭示了认知系统对常规信息的过滤机制，对理解人机交互模式具有重要启示。",
-    "date": "2025-11-19 14:52",
-    "timestamp": 1763563962.8191202
-  },
-  {
-    "title": "As Lovable hits $200M ARR, its CEO credits staying in Europe for its success",
-    "link": "https://techcrunch.com/2025/11/19/as-lovable-hits-200m-arr-its-ceo-credits-staying-in-europe-for-its-success/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
-    "summary": "AI编程公司Lovable CEO Anton Osika表示，公司成功的关键在于未听从迁至硅谷的建议。",
-    "date": "2025-11-19 13:48",
-    "timestamp": 1763560097.6241374
   }
 ]
