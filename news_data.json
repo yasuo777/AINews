@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic hires lawyers as it preps for IPO",
+    "link": "https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Anthropic-economic-futures-program.png?resize=1200,667",
+    "summary": "AI公司Anthropic计划最早于2026年进行首次公开募股（IPO）。",
+    "date": "2025-12-03 17:50",
+    "timestamp": 1764784258.1826482
+  },
+  {
     "title": "AWS doubles down on custom LLMs with features meant to simplify model creation",
     "link": "https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Sagemaker.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "前财长萨默斯因被曝与性犯罪者爱泼斯坦关系密切，辞去OpenAI董事会职务。",
     "date": "2025-11-19 15:47",
     "timestamp": 1763567239.4590914
-  },
-  {
-    "title": "Target joins OpenAI’s growing list of retail apps",
-    "link": "https://techcrunch.com/2025/11/19/target-joins-openais-growing-list-of-retail-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/2025_TargetxOpenAi_ChatGPT_PR-Image_Hero.png?resize=1200,675",
-    "summary": "OpenAI与Target合作推出零售业ChatGPT应用，下周启动测试版，标志着AI技术进一步深入零售场景。",
-    "date": "2025-11-19 14:52",
-    "timestamp": 1763563957.0701058
   }
 ]
