@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft drops AI sales targets in half after salespeople miss their quotas",
+    "link": "https://arstechnica.com/ai/2025/12/microsoft-slashes-ai-sales-growth-targets-as-customers-resist-unproven-agents/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/dartboard_missed-1152x648.jpg",
+    "summary": "微软五月提出\"AI智能体时代\"，但企业客户反应冷淡，市场接纳度仍待观察。",
+    "date": "2025-12-03 18:58",
+    "timestamp": 1764788280.276791
+  },
+  {
+    "title": "Prime Video pulls eerily emotionless AI-generated anime dubs after complaints",
+    "link": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/cf4e3cf73353496b14e14688baba726e09889d10ccc8c588dd7db36bc058b8df-1152x648-1764781755.jpg",
+    "summary": "In some cases, better dubs already existed.",
+    "date": "2025-12-03 18:58",
+    "timestamp": 1764788280.6701748
+  },
+  {
     "title": "Anthropic hires lawyers as it preps for IPO",
     "link": "https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/Anthropic-economic-futures-program.png?resize=1200,667",
@@ -782,21 +798,5 @@
     "summary": "目前，AlphaProof已具备处理复杂数学问题的能力，但在特定场景下仍需人工辅助优化。",
     "date": "2025-11-19 16:54",
     "timestamp": 1763571293.0376654
-  },
-  {
-    "title": "Adobe to buy Semrush for $1.9 billion",
-    "link": "https://techcrunch.com/2025/11/19/adobe-to-buy-semrush-for-1-9-billion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-    "summary": "Adobe拟以每股12美元收购Semrush，较后者消息披露前6.89美元的收盘价溢价约74%。",
-    "date": "2025-11-19 15:47",
-    "timestamp": 1763567237.2145371
-  },
-  {
-    "title": "OpenAI board member Larry Summers steps down amid Epstein file revelations",
-    "link": "https://techcrunch.com/2025/11/19/openai-board-member-larry-summers-steps-down-amid-epstein-file-revelations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "前财长萨默斯因被曝与性犯罪者爱泼斯坦关系密切，辞去OpenAI董事会职务。",
-    "date": "2025-11-19 15:47",
-    "timestamp": 1763567239.4590914
   }
 ]
