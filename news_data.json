@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors",
+    "link": "https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/amodei-at-dealbook-2025.png?resize=1200,675",
+    "summary": "Anthropic CEO评论AI行业经济，称部分竞争对手在支出方面采取\"YOLO\"式冒险策略。",
+    "date": "2025-12-04 20:52",
+    "timestamp": 1764881522.4006493
+  },
+  {
+    "title": "Researchers find what makes AI chatbots politically persuasive",
+    "link": "https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/twitter-bot-1152x648.jpg",
+    "summary": "一项大型政治说服研究发现，人工智能对改变人类政治观点的实际影响微弱，效果有限。",
+    "date": "2025-12-04 20:52",
+    "timestamp": 1764881525.0832462
+  },
+  {
     "title": "Meta centralizes Facebook and Instagram support, tests AI support assistant",
     "link": "https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "维基百科发布专业指南，系统梳理AI写作特征，为识别大语言模型生成文本提供实用方法。",
     "date": "2025-11-20 16:55",
     "timestamp": 1763657727.1453354
-  },
-  {
-    "title": "India’s TCS gets TPG to fund half of $2B AI data center project",
-    "link": "https://techcrunch.com/2025/11/20/indias-tcs-gets-tpg-to-fund-half-of-2b-ai-data-center-project/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/tcs-tpg-deal.jpg?resize=1200,800",
-    "summary": "印度IT巨头TCS与私募股权公司TPG将共同投资高达20亿美元，在印度建设用于AI训练和推理的数据中心，以强化AI基础设施布局。",
-    "date": "2025-11-20 15:50",
-    "timestamp": 1763653813.5469382
-  },
-  {
-    "title": "As its voice dectation app takes off, Wispr secures $25M from Notable Capital",
-    "link": "https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/press_1200×675_logo-background-green.jpeg?w=1200",
-    "summary": "声控AI公司Wispr在完成3000万美元A轮融资仅数月后，再度融资2500万美元。",
-    "date": "2025-11-20 15:50",
-    "timestamp": 1763653815.8779194
   }
 ]
