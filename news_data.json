@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta centralizes Facebook and Instagram support, tests AI support assistant",
+    "link": "https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
+    "summary": "新支持中心将整合安全工具、账户恢复选项及AI助手，为用户提供一站式安全服务支持。",
+    "date": "2025-12-04 17:51",
+    "timestamp": 1764870681.502987
+  },
+  {
     "title": "Meta reportedly plans to slash Metaverse budget by up to 30%",
     "link": "https://techcrunch.com/2025/12/04/meta-reportedly-plans-to-slash-metaverse-budget-by-up-to-30/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "声控AI公司Wispr在完成3000万美元A轮融资仅数月后，再度融资2500万美元。",
     "date": "2025-11-20 15:50",
     "timestamp": 1763653815.8779194
-  },
-  {
-    "title": "Google releases Nano Banana Pro, its latest image generation model",
-    "link": "https://techcrunch.com/2025/11/20/google-releases-nano-banana-pro-its-latest-image-generation-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/GEMINI-Woodchuck.jpeg?resize=1200,655",
-    "summary": "谷歌升级图像生成模型，新增编辑功能、提升分辨率与文本渲染精准度，并支持联网搜索。",
-    "date": "2025-11-20 15:50",
-    "timestamp": 1763653817.9228792
   }
 ]
