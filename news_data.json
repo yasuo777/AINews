@@ -1,5 +1,13 @@
 [
   {
+    "title": "The New York Times is suing Perplexity for copyright infringement",
+    "link": "https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2150495091.jpg?resize=1200,825",
+    "summary": "《纽约时报》起诉AI公司Perplexity侵犯版权，出版商正通过法律手段推动AI企业付费使用新闻内容。",
+    "date": "2025-12-05 16:54",
+    "timestamp": 1764953686.3613381
+  },
+  {
     "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
     "link": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "谷歌在印度升级反诈系统，新增实时诈骗检测与屏幕共享欺诈警告功能，以加强用户防护。",
     "date": "2025-11-20 22:46",
     "timestamp": 1763678768.1230936
-  },
-  {
-    "title": "ChatGPT launches group chats globally",
-    "link": "https://techcrunch.com/2025/11/20/chatgpt-launches-group-chats-globally/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI推出群聊功能，支持用户通过ChatGPT协作规划行程、合写文档及开展研究，AI助手可同步完成信息搜索、摘要生成与方案对比。",
-    "date": "2025-11-20 19:46",
-    "timestamp": 1763668016.0725598
   }
 ]
