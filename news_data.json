@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta acquires AI device startup Limitless",
+    "link": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Limitless-pendant.jpg?resize=1200,675",
+    "summary": "AI公司Limitless宣布与Meta愿景一致，致力于为大众提供个人超级智能服务。",
+    "date": "2025-12-05 21:47",
+    "timestamp": 1764971239.3537269
+  },
+  {
     "title": "ChatGPT’s user growth has slowed, report finds",
     "link": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "人工智能通过识别功能相关基因的聚集规律，显著提升了基因功能预测的准确性与效率。",
     "date": "2025-11-21 21:46",
     "timestamp": 1763761606.4676063
-  },
-  {
-    "title": "AI mania is making Nvidia a lot of money",
-    "link": "https://techcrunch.com/podcast/ai-mania-is-making-nvidia-a-lot-of-money/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/jensen-nvidia-ai-gtc-2024.png?w=1200",
-    "summary": "AI公司基础设施投入激增，英伟达数据中心业务年收入近500亿美元。市场热议其增长是否可持续，以及依赖信念支撑的AI生态是否构成泡沫。",
-    "date": "2025-11-21 20:48",
-    "timestamp": 1763758085.3233373
   }
 ]
