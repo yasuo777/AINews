@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nothing wants your money, AWS wants your trust, and Spotify wants your data",
+    "link": "https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/25W_Sharecards.jpg?resize=1200,675",
+    "summary": "AWS在re:Invent 2025发布多款AI智能体工具，并推出第三代自研芯片及数据库折扣以发力企业AI市场。然而，其在基础设施之外能否真正比肩行业领先者，仍有待验证。",
+    "date": "2025-12-05 18:53",
+    "timestamp": 1764960813.0020869
+  },
+  {
+    "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
+    "link": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900",
+    "summary": "AWS发布多项AI新技术，但其企业客户在技术准备度上面临挑战。",
+    "date": "2025-12-05 18:53",
+    "timestamp": 1764960815.1368158
+  },
+  {
     "title": "The New York Times is suing Perplexity for copyright infringement",
     "link": "https://techcrunch.com/2025/12/05/the-new-york-times-is-suing-perplexity-for-copyright-infringement/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2150495091.jpg?resize=1200,825",
@@ -782,21 +798,5 @@
     "summary": "目前市场上涌现多款AI穿戴设备，如Bee、Friend、Plaud等，成为行业关注焦点。",
     "date": "2025-11-21 20:48",
     "timestamp": 1763758087.5492651
-  },
-  {
-    "title": "Grok says Elon Musk is better than basically everyone, except Shohei Ohtani",
-    "link": "https://techcrunch.com/2025/11/20/grok-says-elon-musk-is-better-than-basically-everyone-except-shohei-ohtani/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-2158237938.jpg?resize=1200,800",
-    "summary": "埃隆·马斯克旗下AI模型Grok称，其除无法超越棒球巨星大谷翔平外，实力可超越MLB其他顶尖重炮手。",
-    "date": "2025-11-20 23:46",
-    "timestamp": 1763682413.2136495
-  },
-  {
-    "title": "Google steps up AI scam protection in India, but gaps remain",
-    "link": "https://techcrunch.com/2025/11/20/google-steps-up-ai-scam-protection-in-india-but-gaps-remain/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-    "summary": "谷歌在印度升级反诈系统，新增实时诈骗检测与屏幕共享欺诈警告功能，以加强用户防护。",
-    "date": "2025-11-20 22:46",
-    "timestamp": 1763678768.1230936
   }
 ]
