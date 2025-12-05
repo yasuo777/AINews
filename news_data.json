@@ -1,5 +1,13 @@
 [
   {
+    "title": "AWS needs you to believe in AI agents",
+    "link": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "亚马逊在re:Invent 2025发布多款AI智能体工具，并推出第三代自研芯片及数据库折扣以发力企业AI市场。然而，其在基础设施之外能否真正比肩行业领导者，仍有待证明。",
+    "date": "2025-12-05 22:46",
+    "timestamp": 1764974808.7228236
+  },
+  {
     "title": "Meta acquires AI device startup Limitless",
     "link": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/Limitless-pendant.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "谷歌AI基础设施负责人表示，公司需在未来五年内将计算能力提升千倍，以满足人工智能发展需求。",
     "date": "2025-11-21 22:47",
     "timestamp": 1763765222.5043328
-  },
-  {
-    "title": "AI trained on bacterial genomes produces never-before-seen proteins",
-    "link": "https://arstechnica.com/science/2025/11/generative-ai-meets-the-genome/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/GettyImages-2216287507-1152x648.jpg",
-    "summary": "人工智能通过识别功能相关基因的聚集规律，显著提升了基因功能预测的准确性与效率。",
-    "date": "2025-11-21 21:46",
-    "timestamp": 1763761606.4676063
   }
 ]
