@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
+    "link": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+    "summary": "Meta宣布与CNN、福克斯新闻、福克斯体育、世界报集团、People Inc.旗下媒体品牌、《每日来电》、《华盛顿观察家报》及《今日美国》等多家新闻机构建立内容合作关系。",
+    "date": "2025-12-05 15:51",
+    "timestamp": 1764949888.2179284
+  },
+  {
     "title": "Chicago Tribune sues Perplexity",
     "link": "https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2169504075.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "OpenAI推出群聊功能，支持用户通过ChatGPT协作规划行程、合写文档及开展研究，AI助手可同步完成信息搜索、摘要生成与方案对比。",
     "date": "2025-11-20 19:46",
     "timestamp": 1763668016.0725598
-  },
-  {
-    "title": "Mixup is a new, Mad Libs-style app for creating AI images from photos, text and doodles",
-    "link": "https://techcrunch.com/2025/11/20/mixup-is-a-new-mad-libs-style-app-for-creating-ai-images-from-photos-text-and-doodles/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/mixup-header.jpg?resize=1200,692",
-    "summary": "谷歌推出新应用，用户可通过填空式AI“配方”趣味使用其Nano Banana技术。",
-    "date": "2025-11-20 18:55",
-    "timestamp": 1763664928.378862
   }
 ]
