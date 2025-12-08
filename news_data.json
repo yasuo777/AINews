@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘ONE RULE’: Trump says he’ll sign an executive order blocking state AI laws despite bipartisan pushback",
+    "link": "https://techcrunch.com/2025/12/08/one-rule-trump-says-hell-sign-an-executive-order-blocking-state-ai-laws-despite-bipartisan-pushback/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/rnc-2024-report-v3.jpg?resize=1200,675",
+    "summary": "特朗普本周将签署行政令，简化企业审批流程，旨在减少项目所需的重复许可。",
+    "date": "2025-12-08 16:56",
+    "timestamp": 1765213017.852802
+  },
+  {
     "title": "Hinge’s new AI feature helps daters move beyond boring small talk",
     "link": "https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/HingeConvoStarter.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "OpenAI面临多起诉讼，指控其ChatGPT使用操控性语言诱导用户疏远亲友，将自身塑造为用户唯一依赖对象。",
     "date": "2025-11-23 16:50",
     "timestamp": 1763916604.797865
-  },
-  {
-    "title": "Trump administration might not fight state AI regulations after all",
-    "link": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227934246.jpg?w=1024",
-    "summary": "特朗普政府一项旨在限制州级人工智能监管的行政命令据报已暂停推进。",
-    "date": "2025-11-22 22:46",
-    "timestamp": 1763851609.6024678
   }
 ]
