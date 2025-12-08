@@ -1,5 +1,13 @@
 [
   {
+    "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds",
+    "link": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/claude-code-slack.png?resize=1200,685",
+    "summary": "Anthropic在Slack推出Claude Code功能，允许开发者在聊天线程中委托编程任务。这标志着AI深度嵌入协作工具的趋势，或将重塑软件开发流程。",
+    "date": "2025-12-08 19:46",
+    "timestamp": 1765223208.3777428
+  },
+  {
     "title": "Google details security measures for Chrome’s agentic features",
     "link": "https://techcrunch.com/2025/12/08/google-details-security-measures-for-chromes-agentic-features/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/chrome-with-ai-GettyImages-2184968624.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英国政府拟推出计划，为本土人工智能硬件初创企业提供资金保障。",
     "date": "2025-11-24 14:52",
     "timestamp": 1763995967.390249
-  },
-  {
-    "title": "“Go generate a bridge and jump off it”: How video pros are navigating AI",
-    "link": "https://arstechnica.com/features/2025/11/go-generate-a-bridge-and-jump-off-it-how-video-pros-are-navigating-ai/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/ai-actress-render-1152x648.jpg",
-    "summary": "九位创作者就经济压力与粉丝负面反馈问题接受访谈，探讨当前行业挑战。",
-    "date": "2025-11-24 13:20",
-    "timestamp": 1763990443.1252882
   }
 ]
