@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cashew Research is going after the $90B market research industry with AI",
+    "link": "https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Cashew-photo.jpg?resize=1200,800",
+    "summary": "Cashew Research运用AI自动化市场调研流程，同时通过真人采集现实世界数据，实现高效精准分析。",
+    "date": "2025-12-09 22:48",
+    "timestamp": 1765320489.7788994
+  },
+  {
+    "title": "Max Hodak is more worried about Twitter than brain-computer interface hacking",
+    "link": "https://techcrunch.com/podcast/max-hodak-is-more-worried-about-twitter-than-brain-computer-interface-hacking/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-05-at-2.45.47-AM.png?resize=1200,852",
+    "summary": "本周，Science Corp创始人马克斯·霍达克表示，脑机接口技术发展超预期。其公司近期在视觉恢复领域取得重大突破，约80%的盲人患者已能恢复阅读能力。",
+    "date": "2025-12-09 22:48",
+    "timestamp": 1765320492.593636
+  },
+  {
     "title": "B Capital founding partner Kabir Narang leaves to launch new investment platform",
     "link": "https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/kabir-narang-b-capital-GettyImages-1027568616.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI护发应用MyHair通过分析头皮照片辅助诊断脱发问题，并基于科学验证推荐专业诊所及治疗方案。",
     "date": "2025-11-26 17:48",
     "timestamp": 1764179283.2754247
-  },
-  {
-    "title": "Onton raises $7.5M to expand its AI-powered shopping site beyond furniture",
-    "link": "https://techcrunch.com/2025/11/26/onton-raises-7-5m-to-expand-its-ai-powered-shopping-site-beyond-furniture/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Multimodal-text-and-image-search-with-Onton.jpeg?resize=1200,675",
-    "summary": "AI图像生成平台Onton推出无限画布功能，旨在通过AI技术加速用户购物决策。",
-    "date": "2025-11-26 13:21",
-    "timestamp": 1764163317.8035614
-  },
-  {
-    "title": "Character.AI will offer interactive ‘Stories’ to kids instead of open-ended chat",
-    "link": "https://techcrunch.com/2025/11/25/character-ai-will-offer-interactive-stories-to-kids-instead-of-open-ended-chat/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/U18-Product-Image.jpg?resize=1200,819",
-    "summary": "该公司上月宣布将全面禁止未成年人使用其在线聊天功能。",
-    "date": "2025-11-25 21:46",
-    "timestamp": 1764107193.3938332
   }
 ]
