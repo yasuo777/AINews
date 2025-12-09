@@ -1,5 +1,29 @@
 [
   {
+    "title": "Amazon adds delivery tracking, last-minute adds, gift ideas to Alexa+",
+    "link": "https://techcrunch.com/2025/12/09/amazon-adds-delivery-tracking-last-minute-adds-gift-ideas-to-alexa/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
+    "summary": "亚马逊升级Alexa+，新增购物功能，将Echo屏幕打造为集下单、促销和礼品采购于一体的智能购物中心。",
+    "date": "2025-12-09 16:56",
+    "timestamp": 1765299417.5991826
+  },
+  {
+    "title": "Google’s first AI glasses expected next year",
+    "link": "https://techcrunch.com/2025/12/09/googles-first-ai-glasses-expected-next-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/glasses_2745f1.jpg?resize=1200,716",
+    "summary": "谷歌将推出AI智能眼镜产品线，与Meta展开竞争。",
+    "date": "2025-12-09 16:56",
+    "timestamp": 1765299419.0502043
+  },
+  {
+    "title": "EU launches antitrust probe into Google’s AI search tools",
+    "link": "https://techcrunch.com/2025/12/09/eu-launches-antitrust-probe-into-googles-ai-search-tools/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
+    "summary": "欧盟委员会就谷歌AI摘要功能涉嫌垄断展开调查。",
+    "date": "2025-12-09 16:57",
+    "timestamp": 1765299420.8401318
+  },
+  {
     "title": "Anthropic and Accenture sign multi-year AI strategic partnership",
     "link": "https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/Anthropic-economic-futures-program.png?resize=1200,667",
@@ -774,29 +798,5 @@
     "summary": "艾曼与艾夫正合作开发一款简洁的AI设备，主打无干扰、沉静式交互体验，计划两年内推出，旨在重塑专注型计算体验。",
     "date": "2025-11-24 23:46",
     "timestamp": 1764027995.322203
-  },
-  {
-    "title": "Anthropic introduces cheaper, more powerful, more efficienct Opus 4.5 model",
-    "link": "https://arstechnica.com/ai/2025/11/anthropic-introduces-opus-4-5-cuts-api-pricing-and-enables-much-longer-claude-chats/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/Screenshot-2025-11-24-at-4.57.28-PM-1152x648.png",
-    "summary": "针对此前用户对Claude对话长度的批评，Anthropic公司推出全新模型，通过显著延长单次对话能力有效解决了这一核心痛点。该升级使Claude在持续交互场景中展现出更强实用性。",
-    "date": "2025-11-24 23:46",
-    "timestamp": 1764027999.6614296
-  },
-  {
-    "title": "OpenAI learned the hard way that Cameo trademarked the word ‘cameo’",
-    "link": "https://techcrunch.com/2025/11/24/openai-learned-the-hard-way-that-cameo-trademarked-the-word-cameo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
-    "summary": "OpenAI或因名称版权问题，需重新命名Sora视频生成应用的\"cameo\"功能。此举可能涉及品牌权益纠纷，体现科技公司在产品命名时面临的合规挑战。",
-    "date": "2025-11-24 22:47",
-    "timestamp": 1764024446.8328102
-  },
-  {
-    "title": "Hands on with Stickerbox, the AI-powered sticker maker for kids",
-    "link": "https://techcrunch.com/2025/11/24/hands-on-with-stickerbox-the-ai-powered-sticker-maker-for-kids/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Stickerbox-Sunflower.jpg?resize=1200,800",
-    "summary": "AI创企Stickerbox将儿童画作转化为可打印贴纸，结合数字生成与手工涂色，打造低电子屏幕使用的创意实体互动体验。",
-    "date": "2025-11-24 20:48",
-    "timestamp": 1764017287.0760307
   }
 ]
