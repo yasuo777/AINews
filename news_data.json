@@ -1,5 +1,21 @@
 [
   {
+    "title": "B Capital founding partner Kabir Narang leaves to launch new investment platform",
+    "link": "https://techcrunch.com/2025/12/09/b-capital-founding-partner-kabir-narang-leaves-to-launch-new-investment-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/kabir-narang-b-capital-GettyImages-1027568616.jpg?resize=1200,800",
+    "summary": "高盛高管Kabir Narang正牵头筹建新投资平台，计划于2026年推出。",
+    "date": "2025-12-09 21:46",
+    "timestamp": 1765316812.583853
+  },
+  {
+    "title": "Why Cursor’s CEO believes OpenAI, Anthropic competition won’t crush his startup",
+    "link": "https://techcrunch.com/2025/12/09/why-cursors-ceo-believes-openai-anthropic-competition-wont-crush-his-startup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "summary": "AI编程助手Anysphere年收入突破10亿美元，CEO Michael Truell阐述了公司未来重点开发的功能方向。",
+    "date": "2025-12-09 21:46",
+    "timestamp": 1765316814.5172336
+  },
+  {
     "title": "Rivian is building its own AI assistant",
     "link": "https://techcrunch.com/2025/12/09/rivian-is-building-its-own-ai-assistant/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/250522-ANASTASIA-BENSON-GOOGLE-MAPS-AEB08056-FINAL.jpg?resize=1200,790",
@@ -782,21 +798,5 @@
     "summary": "该公司上月宣布将全面禁止未成年人使用其在线聊天功能。",
     "date": "2025-11-25 21:46",
     "timestamp": 1764107193.3938332
-  },
-  {
-    "title": "ChatGPT’s voice mode is no longer a separate interface",
-    "link": "https://techcrunch.com/2025/11/25/chatgpts-voice-mode-is-no-longer-a-separate-interface/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI推出ChatGPT语音与文本同步交互功能，实现实时语音对话及可视化反馈，显著提升人机交互的自然流畅度。",
-    "date": "2025-11-25 20:50",
-    "timestamp": 1764103802.4064758
-  },
-  {
-    "title": "Warner Music signs deal with AI music startup Suno, settles lawsuit",
-    "link": "https://techcrunch.com/2025/11/25/warner-music-signs-deal-with-ai-music-startup-suno-settles-lawsuit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/piratedea-hMJ-r8y9zzA-unsplash.jpg?resize=1200,900",
-    "summary": "华纳音乐集团宣布，将确保艺人及词曲作者对其姓名、肖像、声音及作品在AI生成音乐中的使用拥有完全自主决定权。",
-    "date": "2025-11-25 20:50",
-    "timestamp": 1764103804.9718766
   }
 ]
