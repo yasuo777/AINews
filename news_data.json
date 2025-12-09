@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI, Anthropic and Block join new Linux Foundation effort to standardize the AI agent era",
+    "link": "https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
+    "summary": "Anthropic、Block与OpenAI共同支持Linux基金会新成立的Agentic AI基金会，通过捐赠MCP、Goose和AGENTS.md等标准推动AI智能体标准化，旨在提升互操作性并减少技术碎片化。",
+    "date": "2025-12-09 17:51",
+    "timestamp": 1765302663.189838
+  },
+  {
     "title": "Amazon adds delivery tracking, last-minute adds, gift ideas to Alexa+",
     "link": "https://techcrunch.com/2025/12/09/amazon-adds-delivery-tracking-last-minute-adds-gift-ideas-to-alexa/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "谷歌与安塞尔达成新合作，将共同向每家初创企业投资最高200万美元。",
     "date": "2025-11-25 02:23",
     "timestamp": 1764037389.0833158
-  },
-  {
-    "title": "Altman describes OpenAI’s forthcoming AI device as more peaceful and calm than the iPhone",
-    "link": "https://techcrunch.com/2025/11/24/altman-describes-openais-forthcoming-ai-device-as-more-peaceful-and-calm-than-the-iphone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-    "summary": "艾曼与艾夫正合作开发一款简洁的AI设备，主打无干扰、沉静式交互体验，计划两年内推出，旨在重塑专注型计算体验。",
-    "date": "2025-11-24 23:46",
-    "timestamp": 1764027995.322203
   }
 ]
