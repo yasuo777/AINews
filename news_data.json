@@ -1,5 +1,21 @@
 [
   {
+    "title": "Slack CEO Denise Dresser to join OpenAI as chief revenue officer",
+    "link": "https://techcrunch.com/2025/12/09/slack-ceo-denise-dresser-to-join-openai-as-chief-revenue-officer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/54103320653_6eb7d509ce_k.jpg?resize=1200,800",
+    "summary": "OpenAI任命Dresser负责企业及客户成功部门的营收战略。",
+    "date": "2025-12-09 19:47",
+    "timestamp": 1765309626.2695394
+  },
+  {
+    "title": "Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells",
+    "link": "https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/ring_battery_doorbell_2024.jpg?w=1200",
+    "summary": "亚马逊旗下Ring推出新功能，允许用户创建最多50人的面部识别名单，以识别常访者。该功能需用户主动启用，公司承诺相关生物特征数据不会用于训练AI模型。",
+    "date": "2025-12-09 19:47",
+    "timestamp": 1765309628.5238354
+  },
+  {
     "title": "OpenAI, Anthropic and Block join new Linux Foundation effort to standardize the AI agent era",
     "link": "https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
@@ -782,21 +798,5 @@
     "summary": "WhatsApp更新平台政策，明确禁止通用型AI聊天机器人（如Copilot）使用其服务。",
     "date": "2025-11-25 17:48",
     "timestamp": 1764092931.0781317
-  },
-  {
-    "title": "Speechify adds voice typing and voice assistant to its Chrome extension",
-    "link": "https://techcrunch.com/2025/11/25/speechify-adds-voice-typing-and-voice-assistant-to-its-chrome-extension/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Voice-AI-Assistant.jpeg?resize=1200,810",
-    "summary": "过去一年，语音识别模型质量提升推动多款听写工具问世。Speechify顺势推出首款支持英语的听写工具。",
-    "date": "2025-11-25 16:56",
-    "timestamp": 1764089815.796366
-  },
-  {
-    "title": "Google teams up with Accel to hunt for India’s next AI breakouts",
-    "link": "https://techcrunch.com/2025/11/24/google-teams-up-with-accel-to-hunt-for-indias-next-ai-breakouts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/google-india.jpg?resize=1200,800",
-    "summary": "谷歌与安塞尔达成新合作，将共同向每家初创企业投资最高200万美元。",
-    "date": "2025-11-25 02:23",
-    "timestamp": 1764037389.0833158
   }
 ]
