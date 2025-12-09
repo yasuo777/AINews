@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic and Accenture sign multi-year AI strategic partnership",
+    "link": "https://techcrunch.com/2025/12/09/anthropic-and-accenture-sign-multi-year-ai-strategic-partnership/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Anthropic-economic-futures-program.png?resize=1200,667",
+    "summary": "埃森哲与Anthropic联合成立业务集团，旨在将后者人工智能技术引入埃森哲内部员工体系。",
+    "date": "2025-12-09 15:49",
+    "timestamp": 1765295378.1877842
+  },
+  {
+    "title": "Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button",
+    "link": "https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Index01-polished-silver-hero.png?w=1024",
+    "summary": "Pebble创始人埃里克·米吉科夫斯基推出新款AI智能戒指Index 01，售价75美元。该产品主打快速记录备忘，通过按键启动本地语音转文本及AI处理，强调隐私保护与可靠性，不支持全天候监听或健康监测。",
+    "date": "2025-12-09 15:49",
+    "timestamp": 1765295381.7769208
+  },
+  {
     "title": "Mistral AI surfs vibe coding tailwinds with new coding models",
     "link": "https://techcrunch.com/2025/12/09/mistral-ai-surfs-vibe-coding-tailwinds-with-new-coding-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2147859992-e1713960898378.webp?resize=1200,676",
@@ -782,21 +798,5 @@
     "summary": "AI创企Stickerbox将儿童画作转化为可打印贴纸，结合数字生成与手工涂色，打造低电子屏幕使用的创意实体互动体验。",
     "date": "2025-11-24 20:48",
     "timestamp": 1764017287.0760307
-  },
-  {
-    "title": "AWS is spending $50B build AI infrastructure for the US government",
-    "link": "https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_4752.jpg?resize=1200,797",
-    "summary": "AWS自2011年起与美国政府合作，目前正为其专门构建人工智能基础设施。",
-    "date": "2025-11-24 19:46",
-    "timestamp": 1764013587.3466918
-  },
-  {
-    "title": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
-    "link": "https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675",
-    "summary": "Anthropic发布旗舰模型Opus 4.5，新增Chrome与Excel集成功能。",
-    "date": "2025-11-24 19:46",
-    "timestamp": 1764013589.342105
   }
 ]
