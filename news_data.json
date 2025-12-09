@@ -1,5 +1,13 @@
 [
   {
+    "title": "Empromptu raises $2M pre-seed to help enterprises build AI apps",
+    "link": "https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1410815886.jpg?resize=1200,800",
+    "summary": "AI开发平台Empromptu推出新功能，用户只需向AI助手描述需求（如创建HTML或JavaScript应用），即可自动生成对应程序。",
+    "date": "2025-12-09 13:55",
+    "timestamp": 1765288543.9317875
+  },
+  {
     "title": "Department of Commerce may approve Nvidia H200 chip exports to China",
     "link": "https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
@@ -790,13 +798,5 @@
     "summary": "新型评测工具Humane Bench以人类福祉为核心，首次将心理健康安全、注意力保护等指标纳入AI模型评估体系，推动技术发展更人性化。",
     "date": "2025-11-24 16:52",
     "timestamp": 1764003143.3520525
-  },
-  {
-    "title": "Former MrBeast content strategist is building an AI tool for creator ideation and analytics",
-    "link": "https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Palo-Track.jpeg?resize=1200,721",
-    "summary": "专业视频创作分析工具Palo上线，通过数据分析为短视频创作者提供内容优化洞察。",
-    "date": "2025-11-24 15:51",
-    "timestamp": 1763999494.866682
   }
 ]
