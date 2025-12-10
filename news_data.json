@@ -1,5 +1,21 @@
 [
   {
+    "title": "Spotify tests more personalized, AI-powered ‘Prompted Playlists’",
+    "link": "https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Prompted-Playlist-Static-Image-1-Correct-1234832-scaled-1.jpg?resize=1200,675",
+    "summary": "该播放列表可结合全球音乐数据、用户完整收听历史，并支持每日或每周动态更新。",
+    "date": "2025-12-10 20:53",
+    "timestamp": 1765400026.3700144
+  },
+  {
+    "title": "A new open AI coding model is closing in on proprietary options",
+    "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
+    "summary": "开源模型Devstral 2在行业基准测试中取得72%的分数，性能已接近闭源竞品。",
+    "date": "2025-12-10 20:53",
+    "timestamp": 1765400029.1151223
+  },
+  {
     "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
     "link": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Adobe Analytics数据显示，美国消费者在“黑色星期五”线上支出达118亿美元，该机构监测超1万亿次美国零售网站访问。",
     "date": "2025-11-29 21:46",
     "timestamp": 1764452809.4752572
-  },
-  {
-    "title": "No, you can’t get your AI to ‘admit’ to being sexist, but it probably is",
-    "link": "https://techcrunch.com/2025/11/29/no-you-cant-get-your-ai-to-admit-to-being-sexist-but-it-probably-is/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/robot.jpg?resize=1200,600",
-    "summary": "研究人员指出，大型语言模型虽未必使用显性偏见语言，但可能通过推断用户人口特征数据而呈现隐性偏见。",
-    "date": "2025-11-29 16:51",
-    "timestamp": 1764435066.5973046
-  },
-  {
-    "title": "Supabase hit $5B by turning down million-dollar contracts. Here’s why.",
-    "link": "https://techcrunch.com/video/supabase-hit-5b-by-turning-down-million-dollar-contracts-heres-why/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/postgres-bloat-1.jpeg?w=640",
-    "summary": "开源数据库平台Supabase近期完成1亿美元融资，估值达50亿美元，短短数月内估值翻倍。该公司作为“氛围编程”生态的核心基础设施提供商，正随该趋势快速发展。",
-    "date": "2025-11-28 23:46",
-    "timestamp": 1764373607.0670533
   }
 ]
