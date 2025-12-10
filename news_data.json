@@ -1,5 +1,13 @@
 [
   {
+    "title": "ElevenLabs just hit a $6.6B valuation. Its CEO says the real money isn’t in voice anymore.",
+    "link": "https://techcrunch.com/podcast/elevenlabs-just-hit-a-6-6b-valuation-its-ceo-says-the-real-money-isnt-in-voice-anymore/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
+    "summary": "AI语音公司ElevenLabs凭借生成逼真语音技术迅速崛起，估值达66亿美元，较九个月前翻倍。公司近期宣布由红杉资本等领投的1亿美元要约收购，已实现盈利。",
+    "date": "2025-12-10 16:57",
+    "timestamp": 1765385853.0825474
+  },
+  {
     "title": "ChatGPT is Apple’s most downloaded app of 2025 in the US",
     "link": "https://techcrunch.com/2025/12/10/chatgpt-is-apples-most-downloaded-app-of-2025-in-the-us/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "开源数据库平台Supabase近期完成1亿美元融资，估值达50亿美元，成为“氛围编程”领域首选后端服务商，其基础设施类初创公司亦在行业热潮中迅速崛起。",
     "date": "2025-11-28 17:46",
     "timestamp": 1764352014.8054082
-  },
-  {
-    "title": "How OpenAI and Google see AI changing go-to-market strategies",
-    "link": "https://techcrunch.com/2025/11/28/how-openai-and-google-see-ai-changing-go-to-market-strategies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/gtm-disrupt-2025.jpeg?resize=1200,745",
-    "summary": "在TechCrunch Disrupt大会上，三位专家指出，人工智能正深刻改变投资者与初创企业的产品市场推广模式。",
-    "date": "2025-11-28 16:52",
-    "timestamp": 1764348734.669367
   }
 ]
