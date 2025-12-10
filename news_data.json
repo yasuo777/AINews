@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl",
+    "link": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+    "summary": "英伟达推出新软件功能，可追踪其部分AI芯片的近似位置。",
+    "date": "2025-12-10 22:50",
+    "timestamp": 1765407035.6480188
+  },
+  {
     "title": "Spotify tests more personalized, AI-powered ‘Prompted Playlists’",
     "link": "https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Prompted-Playlist-Static-Image-1-Correct-1234832-scaled-1.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "ChatChat的问世对全球商业与科技领域产生了深远影响。",
     "date": "2025-11-30 20:48",
     "timestamp": 1764535689.7076664
-  },
-  {
-    "title": "Black Friday sets online spending record of $11.8B, Adobe says",
-    "link": "https://techcrunch.com/2025/11/29/black-friday-sets-online-spending-record-of-11-8b-adobe-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/11/gg19-black-friday-text.png?resize=1200,638",
-    "summary": "Adobe Analytics数据显示，美国消费者在“黑色星期五”线上支出达118亿美元，该机构监测超1万亿次美国零售网站访问。",
-    "date": "2025-11-29 21:46",
-    "timestamp": 1764452809.4752572
   }
 ]
