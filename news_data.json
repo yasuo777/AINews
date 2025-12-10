@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
+    "link": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+    "summary": "谷歌周三宣布，正在部分合作新闻出版商的谷歌新闻页面测试AI生成的文章概述功能。参与测试的媒体包括《卫报》《华盛顿邮报》《印度时报》等多家国际知名机构。",
+    "date": "2025-12-10 17:51",
+    "timestamp": 1765389115.441519
+  },
+  {
     "title": "ElevenLabs just hit a $6.6B valuation. Its CEO says the real money isn’t in voice anymore.",
     "link": "https://techcrunch.com/podcast/elevenlabs-just-hit-a-6-6b-valuation-its-ceo-says-the-real-money-isnt-in-voice-anymore/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/Mati-Staniszewski_SXSW.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "开源数据库平台Supabase近期完成1亿美元融资，估值达50亿美元，短短数月内估值翻倍。该公司作为“氛围编程”生态的核心基础设施提供商，正随该趋势快速发展。",
     "date": "2025-11-28 23:46",
     "timestamp": 1764373607.0670533
-  },
-  {
-    "title": "Supabase CEO on the “painful” decisions that built a $5B company",
-    "link": "https://techcrunch.com/podcast/supabase-ceo-on-the-painful-decisions-that-built-a-5b-company/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Supabase-Ant-Wilson-Paul-Copplestone.jpg?w=1067",
-    "summary": "开源数据库平台Supabase近期完成1亿美元融资，估值达50亿美元，成为“氛围编程”领域首选后端服务商，其基础设施类初创公司亦在行业热潮中迅速崛起。",
-    "date": "2025-11-28 17:46",
-    "timestamp": 1764352014.8054082
   }
 ]
