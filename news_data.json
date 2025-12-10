@@ -1,5 +1,21 @@
 [
   {
+    "title": "Coreweave CEO defends AI circular deals as ‘working together’",
+    "link": "https://techcrunch.com/2025/12/09/coreweave-ceo-defends-ai-circular-deals-as-working-together/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Mike-Intrator-Headshot-e1750958788389.jpg?w=898",
+    "summary": "英伟达投资的AI数据中心供应商CEO称，市场需求正经历“剧烈变化”。",
+    "date": "2025-12-10 02:28",
+    "timestamp": 1765333697.4665344
+  },
+  {
+    "title": "Unconventional AI confirms its massive  $475M seed round",
+    "link": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Naveen-Rao-headshot.png?resize=1200,1000",
+    "summary": "前Databricks AI负责人Naveen Rao创立的新硬件初创公司估值已达45亿美元。",
+    "date": "2025-12-10 02:28",
+    "timestamp": 1765333699.497154
+  },
+  {
     "title": "Cashew Research is going after the $90B market research industry with AI",
     "link": "https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Cashew-photo.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "OpenAI持续迭代ChatGPT，年内密集发布多项产品更新与版本升级，涵盖功能增强与新版本发布，持续优化AI交互体验。",
     "date": "2025-11-26 19:46",
     "timestamp": 1764186382.4382224
-  },
-  {
-    "title": "Musk’s xAI to build small solar farm adjacent to Colossus data center",
-    "link": "https://techcrunch.com/2025/11/26/musks-xai-to-build-small-solar-farm-adjacent-to-colossus-data-center/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-    "summary": "人工智能公司宣布与开发商合作，计划在其孟菲斯园区旁88英亩土地上建设一座太阳能发电厂。",
-    "date": "2025-11-26 17:48",
-    "timestamp": 1764179281.3171482
-  },
-  {
-    "title": "Are you balding? There’s an AI for that",
-    "link": "https://techcrunch.com/2025/11/26/are-you-balding-theres-an-ai-for-that/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/07/Screen-Shot-2018-07-16-at-9.27.29-AM.png?resize=1200,539",
-    "summary": "AI护发应用MyHair通过分析头皮照片辅助诊断脱发问题，并基于科学验证推荐专业诊所及治疗方案。",
-    "date": "2025-11-26 17:48",
-    "timestamp": 1764179283.2754247
   }
 ]
