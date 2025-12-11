@@ -1,5 +1,13 @@
 [
   {
+    "title": "1X struck a deal to send its ‘home’ humanoids to factories and warehouses",
+    "link": "https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/1X_NEO-Home-Duster.jpg?resize=1200,675",
+    "summary": "人形机器人公司1X调整产品方向，其家用机器人NEO将转向工业应用场景。",
+    "date": "2025-12-11 22:50",
+    "timestamp": 1765493428.4140058
+  },
+  {
     "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
     "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "法国AI实验室Kyutai孵化的初创公司Gradium于周二正式公开亮相，该实验室由电信巨头泽维尔·尼尔支持。",
     "date": "2025-12-02 13:23",
     "timestamp": 1764681780.854208
-  },
-  {
-    "title": "Syntax hacking: Researchers discover sentence structure can bypass AI safety rules",
-    "link": "https://arstechnica.com/ai/2025/12/syntax-hacking-researchers-discover-sentence-structure-can-bypass-ai-safety-rules/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/BOOK_PAGES_FLYING-1152x648.jpg",
-    "summary": "新研究揭示了部分提示注入攻击得逞的原因，为理解其机制提供了线索。",
-    "date": "2025-12-02 13:23",
-    "timestamp": 1764681783.5560353
   }
 ]
