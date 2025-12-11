@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
+    "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
+    "summary": "某公司宣称其新型AI模型性能超越Gemini，在70%的工作任务中达到人类水平。",
+    "date": "2025-12-11 21:47",
+    "timestamp": 1765489646.8330917
+  },
+  {
     "title": "Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement",
     "link": "https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1337403704.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "新研究揭示了部分提示注入攻击得逞的原因，为理解其机制提供了线索。",
     "date": "2025-12-02 13:23",
     "timestamp": 1764681783.5560353
-  },
-  {
-    "title": "What does it mean when Uncle Sam is one of your biggest shareholders? Chip startup xLight is about to find out",
-    "link": "https://techcrunch.com/2025/12/01/what-does-it-mean-when-uncle-sam-is-one-of-your-biggest-shareholders-chip-startup-xlight-is-about-to-find-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/04/Screen-Shot-2019-04-09-at-12.38.58-PM.png?resize=1200,731",
-    "summary": "硅谷自由意志主义氛围浓厚，对此事反应强烈。",
-    "date": "2025-12-02 04:54",
-    "timestamp": 1764651279.779892
   }
 ]
