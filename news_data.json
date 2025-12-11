@@ -1,5 +1,13 @@
 [
   {
+    "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
+    "link": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/disney_1-1152x648.jpg",
+    "summary": "迪士尼与AI公司达成三年协议，授权用户使用米老鼠、达斯·维达等经典角色生成AI视频。",
+    "date": "2025-12-11 17:00",
+    "timestamp": 1765472453.097285
+  },
+  {
     "title": "Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters",
     "link": "https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "亚马逊云科技年度大会re:Invent 2025本周在拉斯维加斯举行，提供主题演讲实时直播。",
     "date": "2025-12-01 21:46",
     "timestamp": 1764625603.7518458
-  },
-  {
-    "title": "Construction workers are cashing in on the AI boom",
-    "link": "https://techcrunch.com/2025/12/01/construction-workers-are-cashing-in-on-the-ai-boom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2152222109.jpg?resize=1200,800",
-    "summary": "51岁员工晋升数据中心主管，管理200名团队，每日欣喜赴任，称“犹如美梦成真”。",
-    "date": "2025-12-01 19:48",
-    "timestamp": 1764618525.4825246
   }
 ]
