@@ -1,5 +1,13 @@
 [
   {
+    "title": "Port raises $100M at $800M valuation to take on Spotify’s Backstage",
+    "link": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Port-founders-e1764962616421.jpg?resize=1200,579",
+    "summary": "Port推出专有平台，可替代Spotify的Backstage开发工具目录，并新增AI智能体管理功能。",
+    "date": "2025-12-11 11:48",
+    "timestamp": 1765453697.2783747
+  },
+  {
     "title": "Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap",
     "link": "https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/jyoti-bansal-harness-founder.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "黑五期间，使用AI助手Rufus的美国亚马逊会话成交率提升100%，未使用时仅增长20%。",
     "date": "2025-12-01 16:57",
     "timestamp": 1764608251.4721434
-  },
-  {
-    "title": "Black Forest Labs raises $300M at $3.25B valuation",
-    "link": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/6844c7ed531e3aa09958eea8a9deae8bdabd0b54-3721x2798-1.png?resize=1200,902",
-    "summary": "本轮融资由Salesforce Ventures与Anjney Midha（AMP）共同领投，a16z、英伟达等十余家知名投资机构参与。",
-    "date": "2025-12-01 14:54",
-    "timestamp": 1764600861.5494194
   }
 ]
