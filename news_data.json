@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
+    "link": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-10-at-4.33.43-PM.png?resize=1200,699",
+    "summary": "谷歌任命Amin Vahdat为新任首席技术官，负责AI基础设施，直接向CEO皮查伊汇报。",
+    "date": "2025-12-11 02:30",
+    "timestamp": 1765420213.3141177
+  },
+  {
+    "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
+    "link": "https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "该信件要求企业建立新的防护措施，以保护用户免受有害心理影响。",
+    "date": "2025-12-11 02:30",
+    "timestamp": 1765420215.186082
+  },
+  {
     "title": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl",
     "link": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "著名导演詹姆斯·卡梅隆虽以推动视觉特效技术闻名，但公开表示不青睐生成式人工智能技术。",
     "date": "2025-11-30 23:47",
     "timestamp": 1764546423.219261
-  },
-  {
-    "title": "New report examines how David Sacks might profit from Trump administration role",
-    "link": "https://techcrunch.com/2025/11/30/new-report-examines-how-david-sacks-might-profit-from-trump-administration-role/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-604487976.jpg?resize=1200,798",
-    "summary": "报道称，David Sacks若出任特朗普的AI与加密货币顾问或有利于其投资，但他本人驳斥该报道内容空洞无物。",
-    "date": "2025-11-30 21:46",
-    "timestamp": 1764539214.721822
-  },
-  {
-    "title": "ChatGPT launched three years ago today",
-    "link": "https://techcrunch.com/2025/11/30/chatgpt-launched-three-years-ago-today/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "ChatChat的问世对全球商业与科技领域产生了深远影响。",
-    "date": "2025-11-30 20:48",
-    "timestamp": 1764535689.7076664
   }
 ]
