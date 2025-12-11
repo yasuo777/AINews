@@ -1,5 +1,13 @@
 [
   {
+    "title": "Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters",
+    "link": "https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "summary": "迪士尼宣布与OpenAI达成协议，将成为其重要客户，通过调用API为Disney+等平台开发新产品、工具及体验。",
+    "date": "2025-12-11 15:54",
+    "timestamp": 1765468450.0185578
+  },
+  {
     "title": "TIME names ‘Architects of AI’ its Person of the Year",
     "link": "https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/TIME-person-of-the-year.png?resize=1200,769",
@@ -790,13 +798,5 @@
     "summary": "51岁员工晋升数据中心主管，管理200名团队，每日欣喜赴任，称“犹如美梦成真”。",
     "date": "2025-12-01 19:48",
     "timestamp": 1764618525.4825246
-  },
-  {
-    "title": "Data center energy demand forecasted to soar nearly 300% through 2035",
-    "link": "https://techcrunch.com/2025/12/01/data-center-energy-demand-forecasted-to-soar-nearly-300-through-2035/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1453486183.jpeg?resize=1200,800",
-    "summary": "新建数据中心能耗将超预期，电网监测机构称其推高电价。",
-    "date": "2025-12-01 19:48",
-    "timestamp": 1764618527.9069178
   }
 ]
