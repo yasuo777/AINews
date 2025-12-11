@@ -1,5 +1,29 @@
 [
   {
+    "title": "Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement",
+    "link": "https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1337403704.jpg?resize=1200,800",
+    "summary": "迪士尼指控谷歌旗下Gemini AI未经授权使用其版权角色，涉嫌侵权。",
+    "date": "2025-12-11 18:59",
+    "timestamp": 1765479564.8325624
+  },
+  {
+    "title": "Google’s AI try-on feature for clothes now works with just a selfie",
+    "link": "https://techcrunch.com/2025/12/11/googles-ai-try-on-feature-for-clothes-now-works-with-just-a-selfie/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+    "summary": "Nano Banana推出虚拟试衣新技术，用户仅需上传自拍照即可生成全身数字形象，无需再提供全身照。",
+    "date": "2025-12-11 18:59",
+    "timestamp": 1765479566.9010534
+  },
+  {
+    "title": "OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo",
+    "link": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+    "summary": "OpenAI发布GPT-5.2前沿模型，面向开发者和专业人员，在推理与编程能力上对标谷歌Gemini 3，同时面临算力成本与无生成器限制的挑战。",
+    "date": "2025-12-11 18:59",
+    "timestamp": 1765479569.24717
+  },
+  {
     "title": "Runway releases its first world model, adds native audio to latest video model",
     "link": "https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Robotics.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "硅谷自由意志主义氛围浓厚，对此事反应强烈。",
     "date": "2025-12-02 04:54",
     "timestamp": 1764651279.779892
-  },
-  {
-    "title": "Apple just named a new AI chief with Google and Microsoft expertise, as John Giannandrea steps down",
-    "link": "https://techcrunch.com/2025/12/01/apple-just-named-a-new-ai-chief-with-google-and-microsoft-expertise-as-john-giannandrea-steps-down/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/09/tcdisrupt_sf17_johngiannadrea-3043.jpg?resize=1200,869",
-    "summary": "此次调整被视为一次重大改组，但回顾之下似已不可避免。",
-    "date": "2025-12-02 02:25",
-    "timestamp": 1764642327.5442188
-  },
-  {
-    "title": "One of Google’s biggest AI advantages is what it already knows about you",
-    "link": "https://techcrunch.com/2025/12/01/one-of-googles-biggest-ai-advantages-is-what-it-already-knows-about-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/pluribus.jpeg?resize=1200,803",
-    "summary": "AI助手因个性化而更高效，但同时也面临从服务滑向监控的风险。",
-    "date": "2025-12-02 02:25",
-    "timestamp": 1764642329.8021643
-  },
-  {
-    "title": "Nvidia announces new open AI models and tools for autonomous driving research",
-    "link": "https://techcrunch.com/2025/12/01/nvidia-announces-new-open-ai-models-and-tools-for-autonomous-driving-research/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-    "summary": "英伟达发布新型物理AI推理世界模型及相关工具，持续拓展物理人工智能领域布局。",
-    "date": "2025-12-01 21:46",
-    "timestamp": 1764625601.595749
   }
 ]
