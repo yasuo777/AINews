@@ -1,5 +1,13 @@
 [
   {
+    "title": "Runway releases its first world model, adds native audio to latest video model",
+    "link": "https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Robotics.png?resize=1200,675",
+    "summary": "Runway发布物理感知世界模型，能模拟现实训练智能体，赋能视频、机器人及虚拟形象应用。",
+    "date": "2025-12-11 17:57",
+    "timestamp": 1765475842.758189
+  },
+  {
     "title": "Disney invests $1 billion in OpenAI, licenses 200 characters for AI video app Sora",
     "link": "https://arstechnica.com/ai/2025/12/disney-invests-1-billion-in-openai-licenses-200-characters-for-ai-video-app-sora/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/disney_1-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "英伟达发布新型物理AI推理世界模型及相关工具，持续拓展物理人工智能领域布局。",
     "date": "2025-12-01 21:46",
     "timestamp": 1764625601.595749
-  },
-  {
-    "title": "AWS re:Invent 2025: How to watch and follow along live",
-    "link": "https://techcrunch.com/2025/12/01/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900",
-    "summary": "亚马逊云科技年度大会re:Invent 2025本周在拉斯维加斯举行，提供主题演讲实时直播。",
-    "date": "2025-12-01 21:46",
-    "timestamp": 1764625603.7518458
   }
 ]
