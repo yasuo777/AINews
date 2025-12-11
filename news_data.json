@@ -1,5 +1,21 @@
 [
   {
+    "title": "Opera wants you to pay $20 a month to use its AI-powered browser Neon",
+    "link": "https://techcrunch.com/2025/12/11/opera-wants-you-to-pay-20-a-month-to-use-its-ai-powered-browser-neon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Agent-Selector.jpeg?resize=1200,675",
+    "summary": "经过数月测试，Opera旗下AI浏览器Neon正式向公众开放，需支付每月19.9美元订阅费方可使用。",
+    "date": "2025-12-11 13:25",
+    "timestamp": 1765459502.8310916
+  },
+  {
+    "title": "Interest in Spoor’s bird monitoring AI software is soaring",
+    "link": "https://techcrunch.com/2025/12/11/interest-in-spoors-bird-monitoring-ai-software-is-soaring/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Spoor-founders.jpg?resize=1200,800",
+    "summary": "Spoor公司推出计算机视觉软件，可协助风电场等行业追踪鸟类种群与迁徙模式。",
+    "date": "2025-12-11 13:25",
+    "timestamp": 1765459505.2095432
+  },
+  {
     "title": "Port raises $100M at $800M valuation to take on Spotify’s Backstage",
     "link": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Port-founders-e1764962616421.jpg?resize=1200,579",
@@ -782,21 +798,5 @@
     "summary": "分析师将关注Thrive旗下企业能否真正利用OpenAI技术建立长期盈利业务，抑或仅因市场投机潜力推高估值。",
     "date": "2025-12-01 17:53",
     "timestamp": 1764611623.3252056
-  },
-  {
-    "title": "Nvidia’s $2B Synopsys bet tightens its grip on the chip-design stack",
-    "link": "https://techcrunch.com/2025/12/01/nvidias-2b-synopsys-bet-tightens-its-grip-on-the-chip-design-stack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192215566.jpg?resize=1200,800",
-    "summary": "新思科技获投20亿美元深化芯片设计合作，正值业界审视AI产业循环交易并警示泡沫风险之际。",
-    "date": "2025-12-01 16:57",
-    "timestamp": 1764608249.2571952
-  },
-  {
-    "title": "Amazon’s AI chatbot Rufus drove sales on Black Friday",
-    "link": "https://techcrunch.com/2025/12/01/amazons-ai-chatbot-rufus-drove-sales-on-black-friday/",
-    "image": "https://techcrunch.com/wp-content/uploads/2015/07/shutterstock_197269526.jpg?w=1000",
-    "summary": "黑五期间，使用AI助手Rufus的美国亚马逊会话成交率提升100%，未使用时仅增长20%。",
-    "date": "2025-12-01 16:57",
-    "timestamp": 1764608251.4721434
   }
 ]
