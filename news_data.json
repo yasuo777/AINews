@@ -1,5 +1,21 @@
 [
   {
+    "title": "OK, what’s going on with LinkedIn’s algo?",
+    "link": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/ST.art_.jpg?resize=1200,675",
+    "summary": "有女性用户实验质疑领英算法存在性别偏见，但专家指出其背后机制更为复杂，不宜简单归因。",
+    "date": "2025-12-12 19:46",
+    "timestamp": 1765568804.997097
+  },
+  {
+    "title": "Scientists built an AI co-pilot for prosthetic bionic hands",
+    "link": "https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2207559807-e1765565371849-1152x648-1765565584.jpg",
+    "summary": "借助传感器实现对手指独立操控，可有效缓解人机交互中的控制难题。",
+    "date": "2025-12-12 19:46",
+    "timestamp": 1765568807.1544435
+  },
+  {
     "title": "Trump tries to block state AI laws himself after Congress decided not to",
     "link": "https://arstechnica.com/tech-policy/2025/12/trump-tries-to-block-state-ai-laws-himself-after-congress-decided-not-to/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
@@ -782,21 +798,5 @@
     "summary": "黑五期间ChatGPT向购物应用的推荐量同比增长，沃尔玛和亚马逊为主要受益方。",
     "date": "2025-12-02 18:59",
     "timestamp": 1764701965.435081
-  },
-  {
-    "title": "AWS launches new Nova AI models and a service that gives customers more control",
-    "link": "https://techcrunch.com/2025/12/02/aws-launches-new-nova-ai-models-and-a-service-that-gives-customers-more-control/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_6848.jpg?resize=1200,900",
-    "summary": "AWS发布Nova系列四款新AI模型及前沿模型服务，强化AI产品矩阵。",
-    "date": "2025-12-02 18:59",
-    "timestamp": 1764701967.290543
-  },
-  {
-    "title": "Simular’s AI agent wants to run your Mac, Windows PC for you",
-    "link": "https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Simular_team.jpg?resize=1200,808",
-    "summary": "AI初创公司Simular推出Mac与Windows智能体，以创新方案有效解决AI幻觉问题。",
-    "date": "2025-12-02 17:52",
-    "timestamp": 1764697925.9072995
   }
 ]
