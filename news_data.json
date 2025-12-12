@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump tries to block state AI laws himself after Congress decided not to",
+    "link": "https://arstechnica.com/tech-policy/2025/12/trump-tries-to-block-state-ai-laws-himself-after-congress-decided-not-to/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
+    "summary": "特朗普称美国州立法强制AI模型植入“意识形态偏见”。",
+    "date": "2025-12-12 18:57",
+    "timestamp": 1765565837.961446
+  },
+  {
     "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
     "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225853634.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "AI初创公司Simular推出Mac与Windows智能体，以创新方案有效解决AI幻觉问题。",
     "date": "2025-12-02 17:52",
     "timestamp": 1764697925.9072995
-  },
-  {
-    "title": "OpenAI slammed for app suggestions that looked like ads",
-    "link": "https://techcrunch.com/2025/12/02/openai-slammed-for-app-suggestions-that-looked-like-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI表示，其应用推荐仅为测试内容，并非付费广告。",
-    "date": "2025-12-02 16:58",
-    "timestamp": 1764694704.9107208
   }
 ]
