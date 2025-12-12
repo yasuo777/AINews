@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
+    "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
+    "summary": "OpenAI表示其新款AI编程代理Codex主要由自身生成，强调其高度自主的开发能力。",
+    "date": "2025-12-12 22:49",
+    "timestamp": 1765579756.387725
+  },
+  {
     "title": "OK, what’s going on with LinkedIn’s algo?",
     "link": "https://techcrunch.com/2025/12/12/ok-whats-going-on-with-linkedins-algo/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/ST.art_.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "安卓16新功能将率先登陆Pixel设备，标志着安卓系统更新模式转变：从每年一次大版本更新转向更频繁的发布节奏。",
     "date": "2025-12-02 19:47",
     "timestamp": 1764704838.1958985
-  },
-  {
-    "title": "ChatGPT referrals to retailers’ apps increased 28% year-over-year, says report",
-    "link": "https://techcrunch.com/2025/12/02/chatgpt-referrals-to-retailers-apps-increased-28-year-over-year-says-report/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1336136316.jpg?resize=1200,800",
-    "summary": "黑五期间ChatGPT向购物应用的推荐量同比增长，沃尔玛和亚马逊为主要受益方。",
-    "date": "2025-12-02 18:59",
-    "timestamp": 1764701965.435081
   }
 ]
