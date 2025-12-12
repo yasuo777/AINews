@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2",
+    "link": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1147600063.jpg?resize=1200,817",
+    "summary": "谷歌首次开放基于Gemini 3 Pro的深度研究工具，允许开发者将其嵌入自有应用程序。",
+    "date": "2025-12-12 02:30",
+    "timestamp": 1765506612.0511608
+  },
+  {
+    "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
+    "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Runway-GWM-Worlds-1152x648.jpg",
+    "summary": "AI初创公司Runway宣布进军视频生成模型领域，将与谷歌、英伟达等科技巨头展开竞争。",
+    "date": "2025-12-12 02:30",
+    "timestamp": 1765506615.204732
+  },
+  {
     "title": "1X struck a deal to send its ‘home’ humanoids to factories and warehouses",
     "link": "https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/1X_NEO-Home-Duster.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "AWS升级AI代理平台，新增记忆与评估功能，提升智能体开发效率。",
     "date": "2025-12-02 16:58",
     "timestamp": 1764694708.4287517
-  },
-  {
-    "title": "Mistral closes in on Big AI rivals with new open-weight frontier and small models",
-    "link": "https://techcrunch.com/2025/12/02/mistral-closes-in-on-big-ai-rivals-with-mistral-3-open-weight-frontier-and-small-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2147859992-e1713960898378.webp?resize=1200,676",
-    "summary": "法国AI公司Mistral发布Mistral 3系列模型，包含前沿大模型及可离线定制的小型高效模型，旨在以精调小模型挑战闭源巨头。",
-    "date": "2025-12-02 15:53",
-    "timestamp": 1764690787.4217465
-  },
-  {
-    "title": "Paris-based AI voice startup Gradium nabs $70M seed",
-    "link": "https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/08/speech-recognition.png?resize=1200,675",
-    "summary": "法国AI实验室Kyutai孵化的初创公司Gradium于周二正式公开亮相，该实验室由电信巨头泽维尔·尼尔支持。",
-    "date": "2025-12-02 13:23",
-    "timestamp": 1764681780.854208
   }
 ]
