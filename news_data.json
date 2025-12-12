@@ -1,5 +1,21 @@
 [
   {
+    "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
+    "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225853634.jpg?w=1024",
+    "summary": "特朗普签署行政令，旨在统一美国人工智能监管规则，取代各州法规。批评者指出此举可能引发法律争端，增加初创企业不确定性，而国会仍在讨论联邦立法。",
+    "date": "2025-12-12 17:49",
+    "timestamp": 1765561780.956855
+  },
+  {
+    "title": "Google Translate now lets you hear real-time translations in your headphones",
+    "link": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+    "summary": "实时耳机翻译技术能完整保留说话者的语气、重音和节奏，使对话更易跟进并清晰分辨发言者。",
+    "date": "2025-12-12 17:49",
+    "timestamp": 1765561782.9232903
+  },
+  {
     "title": "Google launched its deepest AI research agent yet — on the same day OpenAI dropped GPT-5.2",
     "link": "https://techcrunch.com/2025/12/11/google-launched-its-deepest-ai-research-agent-yet-on-the-same-day-openai-dropped-gpt-5-2/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1147600063.jpg?resize=1200,817",
@@ -782,21 +798,5 @@
     "summary": "OpenAI表示，其应用推荐仅为测试内容，并非付费广告。",
     "date": "2025-12-02 16:58",
     "timestamp": 1764694704.9107208
-  },
-  {
-    "title": "AWS re:Invent 2025: How to watch and follow along live",
-    "link": "https://techcrunch.com/2025/12/02/aws-reinvent-2025-how-to-watch-and-follow-along-live/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900",
-    "summary": "亚马逊云科技年度大会re:Invent 2025本周在拉斯维加斯举行，提供主题演讲直播。",
-    "date": "2025-12-02 16:58",
-    "timestamp": 1764694706.7324843
-  },
-  {
-    "title": "AWS announces new capabilities for its AI agent builder",
-    "link": "https://techcrunch.com/2025/12/02/aws-announces-new-capabilities-for-its-ai-agent-builder/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/aws-reinvent-2024-logo.png?resize=1200,627",
-    "summary": "AWS升级AI代理平台，新增记忆与评估功能，提升智能体开发效率。",
-    "date": "2025-12-02 16:58",
-    "timestamp": 1764694708.4287517
   }
 ]
