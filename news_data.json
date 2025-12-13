@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI data center boom could be bad news for other infrastructure projects",
+    "link": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2152222109.jpg?resize=1200,800",
+    "summary": "数据中心建设加速或挤占道路桥梁等基础设施改善资源。",
+    "date": "2025-12-13 19:46",
+    "timestamp": 1765655205.5783982
+  },
+  {
     "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
     "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "谷歌三年前曾警示ChatGPT风险，如今形势逆转，OpenAI反成AI竞赛领跑者。",
     "date": "2025-12-02 22:48",
     "timestamp": 1764715690.9263768
-  },
-  {
-    "title": "Android 16 adds AI notification summaries, new customization options, and more",
-    "link": "https://techcrunch.com/2025/12/02/android-16-adds-ai-notification-summaries-new-customization-options-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/android-16-header.jpg?resize=1200,798",
-    "summary": "安卓16新功能将率先登陆Pixel设备，标志着安卓系统更新模式转变：从每年一次大版本更新转向更频繁的发布节奏。",
-    "date": "2025-12-02 19:47",
-    "timestamp": 1764704838.1958985
   }
 ]
