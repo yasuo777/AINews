@@ -1,5 +1,13 @@
 [
   {
+    "title": "Grok got crucial facts wrong about Bondi Beach shooting",
+    "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "summary": "马斯克旗下xAI开发的聊天机器人Grok在X平台传播关于悉尼邦迪海滩枪击案的不实信息。",
+    "date": "2025-12-14 23:46",
+    "timestamp": 1765756008.043001
+  },
+  {
     "title": "AI data center boom could be bad news for other infrastructure projects",
     "link": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2152222109.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "亚马逊云科技周二发布三款名为\"前沿智能体\"的AI代理，分别面向代码开发、安全运维和开发运营领域。",
     "date": "2025-12-02 22:48",
     "timestamp": 1764715688.2915668
-  },
-  {
-    "title": "OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months",
-    "link": "https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/aaltman_crop-1152x648.jpg",
-    "summary": "谷歌三年前曾警示ChatGPT风险，如今形势逆转，OpenAI反成AI竞赛领跑者。",
-    "date": "2025-12-02 22:48",
-    "timestamp": 1764715690.9263768
   }
 ]
