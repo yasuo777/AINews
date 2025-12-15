@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lightspeed raises record $9B in fresh capital",
+    "link": "https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1135021039.jpg?resize=1200,675",
+    "summary": "硅谷公司巨额融资将用于持续投资高投入的AI初创企业。",
+    "date": "2025-12-15 20:52",
+    "timestamp": 1765831973.2347376
+  },
+  {
+    "title": "Merriam-Webster names ‘slop’ the word of the year",
+    "link": "https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-119707787-e1729681720847.jpg?resize=1200,801",
+    "summary": "过去一年AI生成内容席卷网络，美国词典将\"hallucinate\"（AI幻觉）列为年度词汇，凸显人工智能在信息生成中的影响与问题。",
+    "date": "2025-12-15 20:52",
+    "timestamp": 1765831975.5811005
+  },
+  {
     "title": "First Voyage raises $2.5M for its AI companion helps you build habits",
     "link": "https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Copa.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "共和党禁止各州监管AI的提案因两党反对被移出国防法案，凸显科技行业诉求、消费者保护与特朗普推动联邦全面优先权之间的紧张关系。",
     "date": "2025-12-03 16:58",
     "timestamp": 1764781123.0369155
-  },
-  {
-    "title": "Google Photos’ 2025 Recap turns to Gemini to find your highlights",
-    "link": "https://techcrunch.com/2025/12/03/google-photos-2025-recap-turns-to-gemini-to-find-your-highlights/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Google-Photos-Recap-2025-12-03-at-10.34.31-AM.jpg?resize=1200,751",
-    "summary": "谷歌相册年度回顾功能将利用Gemini AI自动筛选年度精彩瞬间，并新增“自拍次数”等量化指标。",
-    "date": "2025-12-03 16:58",
-    "timestamp": 1764781125.3948805
-  },
-  {
-    "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
-    "link": "https://techcrunch.com/2025/12/02/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
-    "summary": "亚马逊云科技大会本周举行，发布涵盖自研芯片及生成式AI服务的多项更新。",
-    "date": "2025-12-03 02:25",
-    "timestamp": 1764728723.749738
   }
 ]
