@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mirelo raises $41M from Index and a16z to solve AI video’s silent problem",
+    "link": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Mirelo-cofounders.jpg?resize=1200,800",
+    "summary": "德国初创公司Mirelo完成4100万美元种子轮融资，由Index Ventures和Andreessen Horowitz领投。该公司专注于开发为视频自动添加同步音效的AI技术。",
+    "date": "2025-12-15 13:26",
+    "timestamp": 1765805194.085657
+  },
+  {
     "title": "Grok got crucial facts wrong about Bondi Beach shooting",
     "link": "https://techcrunch.com/2025/12/14/grok-gets-the-facts-wrong-about-bondi-beach-shooting/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌在全球测试中探索优化搜索至AI聊天的切换流程，旨在提升用户体验。",
     "date": "2025-12-02 22:48",
     "timestamp": 1764715686.1879623
-  },
-  {
-    "title": "Amazon previews 3 AI agents, including ‘Kiro’ that can code on its own for days",
-    "link": "https://techcrunch.com/2025/12/02/amazon-previews-3-ai-agents-including-kiro-that-can-code-on-its-own-for-days/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1065679054.jpg?resize=1200,849",
-    "summary": "亚马逊云科技周二发布三款名为\"前沿智能体\"的AI代理，分别面向代码开发、安全运维和开发运营领域。",
-    "date": "2025-12-02 22:48",
-    "timestamp": 1764715688.2915668
   }
 ]
