@@ -1,5 +1,21 @@
 [
   {
+    "title": "First Voyage raises $2.5M for its AI companion helps you build habits",
+    "link": "https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Copa.png?resize=1200,675",
+    "summary": "AI初创公司First Voyage完成250万美元种子轮融资，投资方包括a16z speed run、SignalFire、True Global等机构。",
+    "date": "2025-12-15 14:58",
+    "timestamp": 1765810686.8749855
+  },
+  {
+    "title": "Nvidia reportedly weighs ramping up H200 production to meet surging demand in China",
+    "link": "https://techcrunch.com/2025/12/15/nvidia-is-reportedly-weighs-ramping-up-h200-production-to-meet-surging-demand-in-china/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205210966.jpg?resize=1200,800",
+    "summary": "英伟达在成功游说美国政府批准对华销售H200芯片后，正考虑增加产能以扩大该芯片生产。",
+    "date": "2025-12-15 14:58",
+    "timestamp": 1765810688.862364
+  },
+  {
     "title": "Mirelo raises $41M from Index and a16z to solve AI video’s silent problem",
     "link": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Mirelo-cofounders.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "亚马逊云科技大会本周举行，发布涵盖自研芯片及生成式AI服务的多项更新。",
     "date": "2025-12-03 02:25",
     "timestamp": 1764728723.749738
-  },
-  {
-    "title": "Amazon challenges competitors with on-premises Nvidia ‘AI Factories’",
-    "link": "https://techcrunch.com/2025/12/02/amazon-challenges-competitors-with-on-premises-nvidia-ai-factories/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Amazon-AWS-AI-Factory.jpg?resize=1200,675",
-    "summary": "AWS与英伟达合作推出新产品，融合双方技术优势。",
-    "date": "2025-12-03 02:25",
-    "timestamp": 1764728725.8628738
-  },
-  {
-    "title": "Google tests merging AI Overviews with AI Mode",
-    "link": "https://techcrunch.com/2025/12/02/google-tests-merging-ai-overviews-with-ai-mode/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-    "summary": "谷歌在全球测试中探索优化搜索至AI聊天的切换流程，旨在提升用户体验。",
-    "date": "2025-12-02 22:48",
-    "timestamp": 1764715686.1879623
   }
 ]
