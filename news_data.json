@@ -1,5 +1,29 @@
 [
   {
+    "title": "Disney’s OpenAI deal is exclusive for just one year  — then it’s open season",
+    "link": "https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "summary": "迪士尼一年期满后可自由与其他AI公司签署类似协议。",
+    "date": "2025-12-15 22:50",
+    "timestamp": 1765839026.3637056
+  },
+  {
+    "title": "Nvidia bulks up open source offerings with an acquisition and new open AI models",
+    "link": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+    "summary": "英伟达收购Slurm主要开发商SchedMD，并推出开源AI模型系列Nemotron 3。",
+    "date": "2025-12-15 22:50",
+    "timestamp": 1765839028.3243434
+  },
+  {
+    "title": "Merriam-Webster crowns “slop” word of the year as AI content floods Internet",
+    "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2241620003-1152x648-1765829622.jpg",
+    "summary": "2024年词典收录“AI垃圾”一词，用以定义低质量人工智能生成内容，标志该现象已获正式语言认可。",
+    "date": "2025-12-15 22:50",
+    "timestamp": 1765839030.948655
+  },
+  {
     "title": "Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems",
     "link": "https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
@@ -774,29 +798,5 @@
     "summary": "微软五月提出\"AI智能体时代\"，但企业客户反应冷淡，市场接纳度仍待观察。",
     "date": "2025-12-03 18:58",
     "timestamp": 1764788280.276791
-  },
-  {
-    "title": "Prime Video pulls eerily emotionless AI-generated anime dubs after complaints",
-    "link": "https://arstechnica.com/gadgets/2025/12/prime-video-pulls-eerily-emotionless-ai-generated-anime-dubs-after-complaints/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/cf4e3cf73353496b14e14688baba726e09889d10ccc8c588dd7db36bc058b8df-1152x648-1764781755.jpg",
-    "summary": "In some cases, better dubs already existed.",
-    "date": "2025-12-03 18:58",
-    "timestamp": 1764788280.6701748
-  },
-  {
-    "title": "Anthropic hires lawyers as it preps for IPO",
-    "link": "https://techcrunch.com/2025/12/03/anthropic-hires-lawyers-as-it-preps-for-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Anthropic-economic-futures-program.png?resize=1200,667",
-    "summary": "AI公司Anthropic计划最早于2026年进行首次公开募股（IPO）。",
-    "date": "2025-12-03 17:50",
-    "timestamp": 1764784258.1826482
-  },
-  {
-    "title": "AWS doubles down on custom LLMs with features meant to simplify model creation",
-    "link": "https://techcrunch.com/2025/12/03/aws-doubles-down-on-custom-llms-with-features-meant-to-simplify-model-creation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Sagemaker.png?resize=1200,675",
-    "summary": "AWS升级Amazon Bedrock和SageMaker AI服务，新增多项功能以简化定制模型开发流程。",
-    "date": "2025-12-03 16:58",
-    "timestamp": 1764781120.4151874
   }
 ]
