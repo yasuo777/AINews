@@ -1,5 +1,13 @@
 [
   {
+    "title": "VCs discuss why most consumer AI startups still lack staying power",
+    "link": "https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/54963494924_04057a4970_c.jpg?w=799",
+    "summary": "下一代消费科技革命或将催生新型个人设备。",
+    "date": "2025-12-16 02:30",
+    "timestamp": 1765852249.057809
+  },
+  {
     "title": "OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation",
     "link": "https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
@@ -790,13 +798,5 @@
     "summary": "风投机构正将重金押注头部项目的策略推向新高度，以加速赛道赢家的形成。",
     "date": "2025-12-03 20:52",
     "timestamp": 1764795146.65407
-  },
-  {
-    "title": "After nearly 30 years, Crucial will stop selling RAM to consumers",
-    "link": "https://arstechnica.com/gadgets/2025/12/after-nearly-30-years-crucial-will-stop-selling-ram-to-consumers/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/crucial_ram_header-1080x648.jpg",
-    "summary": "美光科技宣布将终止旗下DIY升级品牌Crucial，并称该决策源于AI数据中心需求增长，公司将更专注于企业级存储产品。",
-    "date": "2025-12-03 20:52",
-    "timestamp": 1764795149.703194
   }
 ]
