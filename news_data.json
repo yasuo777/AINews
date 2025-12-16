@@ -1,5 +1,21 @@
 [
   {
+    "title": "Databricks raises $4B at $134B valuation as its AI business heats up",
+    "link": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/tc-databricks-only-1600x900-1.webp?resize=1200,675",
+    "summary": "数据智能公司近日完成L轮超40亿美元融资，估值达1340亿美元，较三个月前千亿估值增长34%。",
+    "date": "2025-12-16 14:56",
+    "timestamp": 1765896994.487277
+  },
+  {
+    "title": "Adobe Firefly now supports prompt-based video editing, adds more third-party models",
+    "link": "https://techcrunch.com/2025/12/16/adobe-firefly-now-supports-prompt-based-video-editing-adds-more-third-party-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Firefly-Video-Editor.jpg?resize=1200,675",
+    "summary": "Adobe更新其AI视频应用Firefly，新增支持精准提示编辑的视频编辑器，并集成FLUX.2和Topaz Astra等第三方图像视频生成模型。",
+    "date": "2025-12-16 14:56",
+    "timestamp": 1765896997.0521572
+  },
+  {
     "title": "Everbloom built an AI to turn chicken feathers into cashmere",
     "link": "https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Everbloom-fibers.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "过去十年，Dye一直领导苹果的用户界面设计团队。",
     "date": "2025-12-03 23:47",
     "timestamp": 1764805633.0561118
-  },
-  {
-    "title": "Andy Jassy says Amazon’s Nvidia competitor chip is already a multibillion-dollar business",
-    "link": "https://techcrunch.com/2025/12/03/andy-jassy-says-amazons-nvidia-competitor-chip-is-already-a-multi-billion-dollar-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-    "summary": "亚马逊正通过自研AI芯片挑战英伟达的主导地位，虽难完全颠覆其统治，但已实现显著商业收益。",
-    "date": "2025-12-03 22:49",
-    "timestamp": 1764802176.285572
-  },
-  {
-    "title": "WordPress’s vibe-coding experiment, Telex, has already been put to real-world use",
-    "link": "https://techcrunch.com/2025/12/03/wordpresss-vibe-coding-experiment-telex-has-already-been-put-to-real-world-use/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/wordpress-automattic-v2.jpg?resize=1200,800",
-    "summary": "WordPress旗下实验性软件Telex虽处测试阶段，但已实际应用于网站开发。",
-    "date": "2025-12-03 20:52",
-    "timestamp": 1764795144.6768537
   }
 ]
