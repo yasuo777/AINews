@@ -1,5 +1,13 @@
 [
   {
+    "title": "Everbloom built an AI to turn chicken feathers into cashmere",
+    "link": "https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Everbloom-fibers.jpeg?resize=1200,800",
+    "summary": "Everbloom公司研发出一种化学工艺，可将废弃纤维和羽毛转化为升级再造材料，其质感可媲美聚酯乃至羊绒等多种面料。",
+    "date": "2025-12-16 13:24",
+    "timestamp": 1765891496.221513
+  },
+  {
     "title": "VCs discuss why most consumer AI startups still lack staying power",
     "link": "https://techcrunch.com/2025/12/15/vcs-discuss-why-most-consumer-ai-startups-still-lack-staying-power/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/54963494924_04057a4970_c.jpg?w=799",
@@ -790,13 +798,5 @@
     "summary": "WordPress旗下实验性软件Telex虽处测试阶段，但已实际应用于网站开发。",
     "date": "2025-12-03 20:52",
     "timestamp": 1764795144.6768537
-  },
-  {
-    "title": "VCs deploy ‘kingmaking’ strategy to crown AI winners in their infancy",
-    "link": "https://techcrunch.com/2025/12/03/vcs-deploy-kingmaking-strategy-to-crown-ai-winners-in-their-infancy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1366296426.jpg?resize=1200,801",
-    "summary": "风投机构正将重金押注头部项目的策略推向新高度，以加速赛道赢家的形成。",
-    "date": "2025-12-03 20:52",
-    "timestamp": 1764795146.65407
   }
 ]
