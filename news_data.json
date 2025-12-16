@@ -1,5 +1,29 @@
 [
   {
+    "title": "DoorDash rolls out Zesty, an AI social app for discovering new restaurants",
+    "link": "https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/imgi_5_generic-shareable-thumbnail.png?w=1183",
+    "summary": "该应用是一款餐饮社交平台，用户可分享餐厅实拍与点评，浏览他人内容并关注好友，功能类似主流社交网络。",
+    "date": "2025-12-16 18:58",
+    "timestamp": 1765911537.349427
+  },
+  {
+    "title": "Meta’s AI glasses can now help you hear conversations better",
+    "link": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Conversation-Focus_Social-Share.webp?resize=1200,675",
+    "summary": "Meta推出AI眼镜新功能“对话聚焦”，利用开放式耳机增强对话者语音，提升沟通清晰度。",
+    "date": "2025-12-16 18:58",
+    "timestamp": 1765911539.3899672
+  },
+  {
+    "title": "OpenAI continues on its ‘code red’ warpath with new image generation model",
+    "link": "https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/skating-3.png?resize=1200,800",
+    "summary": "OpenAI推出GPT-Image-1.5模型，图像生成速度提升四倍，指令遵循与编辑精度显著增强。此举加剧了与谷歌Gemini的竞争态势。",
+    "date": "2025-12-16 18:59",
+    "timestamp": 1765911541.7658362
+  },
+  {
     "title": "Databricks raises $4B at $134B valuation as its AI business heats up",
     "link": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/tc-databricks-only-1600x900-1.webp?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Nexus Venture Partners管理资产规模达32亿美元，已累计投资超130家企业。",
     "date": "2025-12-04 11:47",
     "timestamp": 1764848836.8278468
-  },
-  {
-    "title": "Meta poaches Apple design exec Alan Dye to lead new creative studio in Reality Labs",
-    "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye-to-lead-new-creative-studio-in-reality-labs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675",
-    "summary": "过去十年，Dye一直领导苹果用户界面设计团队。",
-    "date": "2025-12-04 03:43",
-    "timestamp": 1764819794.206837
-  },
-  {
-    "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
-    "link": "https://techcrunch.com/2025/12/03/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
-    "summary": "亚马逊云科技大会本周举行，发布涵盖自研芯片及生成式AI服务等多领域更新。",
-    "date": "2025-12-03 23:47",
-    "timestamp": 1764805631.2016127
-  },
-  {
-    "title": "Meta poaches Apple design exec Alan Dye",
-    "link": "https://techcrunch.com/2025/12/03/meta-poaches-apple-design-exec-alan-dye/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/AppleEvent.SEP07Keynote.Alan_.Dye_.jpg?resize=1200,675",
-    "summary": "过去十年，Dye一直领导苹果的用户界面设计团队。",
-    "date": "2025-12-03 23:47",
-    "timestamp": 1764805633.0561118
   }
 ]
