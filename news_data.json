@@ -1,5 +1,21 @@
 [
   {
+    "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
+    "link": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900",
+    "summary": "Mozilla任命安东尼·恩佐尔-德梅奥为新任CEO，以期带领Firefox在快速变化的浏览器市场中调整战略、寻求突破。",
+    "date": "2025-12-17 15:54",
+    "timestamp": 1765986860.4378576
+  },
+  {
+    "title": "Google’s vibe-coding tool Opal comes to Gemini",
+    "link": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?resize=1200,675",
+    "summary": "该公司周三宣布，将把可构建AI驱动小程序的工具集成至Gemini网页应用中，使用户能够创建自定义应用。",
+    "date": "2025-12-17 15:54",
+    "timestamp": 1765986862.839915
+  },
+  {
     "title": "Skana Robotics helps fleets of underwater robots communicate with each other",
     "link": "https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Skana.jpg?resize=1200,1200",
@@ -782,21 +798,5 @@
     "summary": "新支持中心将整合安全工具、账户恢复选项及AI助手，为用户提供一站式安全服务支持。",
     "date": "2025-12-04 17:51",
     "timestamp": 1764870681.502987
-  },
-  {
-    "title": "Meta reportedly plans to slash Metaverse budget by up to 30%",
-    "link": "https://techcrunch.com/2025/12/04/meta-reportedly-plans-to-slash-metaverse-budget-by-up-to-30/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-    "summary": "Meta提议显示，市场对Horizon Worlds等社交虚拟现实平台普遍缺乏兴趣。",
-    "date": "2025-12-04 16:58",
-    "timestamp": 1764867500.7326102
-  },
-  {
-    "title": "Anthropic signs $200M deal to bring its LLMs to Snowflake’s customers",
-    "link": "https://techcrunch.com/2025/12/04/anthropic-signs-200m-deal-to-bring-its-llms-to-snowflakes-customers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/Anthropic.jpg?resize=1200,650",
-    "summary": "AI研究公司Anthropic与Snowflake达成2亿美元协议，将向后者1.26万家企业客户提供其人工智能模型服务。",
-    "date": "2025-12-04 14:54",
-    "timestamp": 1764860047.0983388
   }
 ]
