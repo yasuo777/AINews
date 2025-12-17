@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
+    "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/barbarian_crt_1-1152x648.jpg",
+    "summary": "OpenAI发布GPT Image 1.5，其增强的对话式图像编辑功能可实现更精细的图像修改，同时引发对技术滥用的担忧。",
+    "date": "2025-12-17 22:50",
+    "timestamp": 1766011854.5282826
+  },
+  {
     "title": "Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org",
     "link": "https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-data-center.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "AI人才平台Micro1年度经常性收入（ARR）从年初700万美元激增至超1亿美元，实现年内超14倍增长，较9月数据翻番。",
     "date": "2025-12-04 22:47",
     "timestamp": 1764888477.4276226
-  },
-  {
-    "title": "Anthropic CEO weighs in on AI bubble talk and risk-taking among competitors",
-    "link": "https://techcrunch.com/2025/12/04/anthropic-ceo-weighs-in-on-ai-bubble-talk-and-risk-taking-among-competitors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/amodei-at-dealbook-2025.png?resize=1200,675",
-    "summary": "Anthropic CEO评论AI行业经济，称部分竞争对手在支出方面采取\"YOLO\"式冒险策略。",
-    "date": "2025-12-04 20:52",
-    "timestamp": 1764881522.4006493
   }
 ]
