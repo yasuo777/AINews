@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
+    "link": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/gemini-3_flash_model_blog_header_dark_bleed_2096x1182.jpeg?resize=1200,677",
+    "summary": "谷歌宣布将Gemini 3 Flash设为Gemini应用及搜索AI服务的默认模型。",
+    "date": "2025-12-17 16:59",
+    "timestamp": 1765990763.6654446
+  },
+  {
     "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
     "link": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "一项大型政治说服研究发现，人工智能对改变人类政治观点的实际影响微弱，效果有限。",
     "date": "2025-12-04 20:52",
     "timestamp": 1764881525.0832462
-  },
-  {
-    "title": "Meta centralizes Facebook and Instagram support, tests AI support assistant",
-    "link": "https://techcrunch.com/2025/12/04/meta-centralizes-facebook-and-instagram-support-tests-ai-support-assistant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
-    "summary": "新支持中心将整合安全工具、账户恢复选项及AI助手，为用户提供一站式安全服务支持。",
-    "date": "2025-12-04 17:51",
-    "timestamp": 1764870681.502987
   }
 ]
