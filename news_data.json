@@ -1,5 +1,13 @@
 [
   {
+    "title": "Skana Robotics helps fleets of underwater robots communicate with each other",
+    "link": "https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Skana.jpg?resize=1200,1200",
+    "summary": "Skana Robotics开发决策算法，助力无人船舶根据他船数据实时响应与自适应。",
+    "date": "2025-12-17 14:56",
+    "timestamp": 1765983377.0584717
+  },
+  {
     "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
     "link": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI研究公司Anthropic与Snowflake达成2亿美元协议，将向后者1.26万家企业客户提供其人工智能模型服务。",
     "date": "2025-12-04 14:54",
     "timestamp": 1764860047.0983388
-  },
-  {
-    "title": "EU investigating Meta over policy change that bans rival AI chatbots from WhatsApp",
-    "link": "https://techcrunch.com/2025/12/04/eu-investigating-meta-over-policy-change-that-bans-rival-ai-chatbots-from-whatsapp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
-    "summary": "欧盟委员会对Meta展开反垄断调查，因其禁止其他AI公司使用WhatsApp商业工具向用户提供AI聊天机器人服务。",
-    "date": "2025-12-04 14:54",
-    "timestamp": 1764860049.5650537
   }
 ]
