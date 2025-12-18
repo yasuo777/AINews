@@ -1,5 +1,29 @@
 [
   {
+    "title": "Luma releases a new AI model that lets users generate a video from a start  and end frame",
+    "link": "https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Ray3Modify.png?resize=1200,675",
+    "summary": "Luma AI发布新模型，现已通过其Dream Machine平台开放使用。",
+    "date": "2025-12-18 14:54",
+    "timestamp": 1766069680.1248279
+  },
+  {
+    "title": "Vibe-coding startup Lovable raises $330M at a $6.6B valuation",
+    "link": "https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
+    "summary": "宠物品牌Lovable估值在五个月内增长超两倍，距其七月上一轮融资后大幅跃升。",
+    "date": "2025-12-18 14:54",
+    "timestamp": 1766069682.2862623
+  },
+  {
+    "title": "Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells",
+    "link": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/20250714_lifestyle_wireddoorbellprogen3_sn_frontdoor_RGB.jpeg?resize=1200,675",
+    "summary": "亚马逊宣布，其新功能通过分析智能门铃视频描述，依据人物着装、行为及手持物品等信息，自动识别来访者身份。",
+    "date": "2025-12-18 14:54",
+    "timestamp": 1766069684.880151
+  },
+  {
     "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
     "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "《纽约时报》起诉AI公司Perplexity侵犯版权，出版商正通过法律手段推动AI企业付费使用新闻内容。",
     "date": "2025-12-05 16:54",
     "timestamp": 1764953686.3613381
-  },
-  {
-    "title": "Meta signs commercial AI data agreements with publishers to offer real-time news on Meta AI",
-    "link": "https://techcrunch.com/2025/12/05/meta-signs-commercial-ai-data-agreements-with-publishers-to-offer-real-time-news-on-meta-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-    "summary": "Meta宣布与CNN、福克斯新闻、福克斯体育、世界报集团、People Inc.旗下媒体品牌、《每日来电》、《华盛顿观察家报》及《今日美国》等多家新闻机构建立内容合作关系。",
-    "date": "2025-12-05 15:51",
-    "timestamp": 1764949888.2179284
-  },
-  {
-    "title": "Chicago Tribune sues Perplexity",
-    "link": "https://techcrunch.com/2025/12/04/chicago-tribune-sues-perplexity/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2169504075.jpg?resize=1200,801",
-    "summary": "该报指控Perplexity的检索增强生成（RAG）技术涉嫌侵犯版权，并将其指认为侵权源头。",
-    "date": "2025-12-05 02:26",
-    "timestamp": 1764901561.1669092
-  },
-  {
-    "title": "All the biggest news from AWS’ big tech show re:Invent 2025",
-    "link": "https://techcrunch.com/2025/12/04/all-the-biggest-news-from-aws-big-tech-show-reinvent-2025/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
-    "summary": "亚马逊云科技年度大会re:Invent 2025本周举行，聚焦自研芯片与人工智能服务更新。",
-    "date": "2025-12-05 02:26",
-    "timestamp": 1764901563.733387
   }
 ]
