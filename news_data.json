@@ -1,5 +1,13 @@
 [
   {
+    "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
+    "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+    "summary": "针对AI产业的最新版权诉讼，标志着该领域正面临日益密集的法律挑战。",
+    "date": "2025-12-18 02:27",
+    "timestamp": 1766024833.2115016
+  },
+  {
     "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
     "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/barbarian_crt_1-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "亚马逊云科技年度大会re:Invent 2025本周举行，聚焦自研芯片与人工智能服务更新。",
     "date": "2025-12-05 02:26",
     "timestamp": 1764901563.733387
-  },
-  {
-    "title": "Micro1, a Scale AI competitor, touts crossing $100M ARR",
-    "link": "https://techcrunch.com/2025/12/04/micro1-a-scale-ai-competitor-touts-crossing-100m-arr/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686_36fac2.jpeg?w=1057",
-    "summary": "AI人才平台Micro1年度经常性收入（ARR）从年初700万美元激增至超1亿美元，实现年内超14倍增长，较9月数据翻番。",
-    "date": "2025-12-04 22:47",
-    "timestamp": 1764888477.4276226
   }
 ]
