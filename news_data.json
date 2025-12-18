@@ -1,5 +1,13 @@
 [
   {
+    "title": "LLMs’ impact on science: Booming publications, stagnating quality",
+    "link": "https://arstechnica.com/science/2025/12/llms-impact-on-science-booming-publications-stagnating-quality/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-839904424-1152x648.jpg",
+    "summary": "研究显示，学者使用大语言模型后论文数量上升，但质量未见提升。",
+    "date": "2025-12-18 21:46",
+    "timestamp": 1766094383.778567
+  },
+  {
     "title": "ChatGPT launches an app store, lets developers know it’s open for business",
     "link": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "亚马逊在re:Invent 2025发布多款AI智能体工具，并推出第三代自研芯片及数据库折扣以发力企业AI市场。然而，其在基础设施之外能否真正比肩行业领导者，仍有待证明。",
     "date": "2025-12-05 22:46",
     "timestamp": 1764974808.7228236
-  },
-  {
-    "title": "Meta acquires AI device startup Limitless",
-    "link": "https://techcrunch.com/2025/12/05/meta-acquires-ai-device-startup-limitless/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Limitless-pendant.jpg?resize=1200,675",
-    "summary": "AI公司Limitless宣布与Meta愿景一致，致力于为大众提供个人超级智能服务。",
-    "date": "2025-12-05 21:47",
-    "timestamp": 1764971239.3537269
   }
 ]
