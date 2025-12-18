@@ -1,5 +1,29 @@
 [
   {
+    "title": "ChatGPT launches an app store, lets developers know it’s open for business",
+    "link": "https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI计划为其旗舰聊天机器人引入多项新用户体验功能。",
+    "date": "2025-12-18 20:50",
+    "timestamp": 1766091010.9378488
+  },
+  {
+    "title": "Pickle Robot adds Tesla veteran as first CFO",
+    "link": "https://techcrunch.com/2025/12/18/pickle-robot-adds-tesla-veteran-as-first-cfo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/Pickle-Robot-unloading-a-Container-at-UEC-min.jpg?resize=1200,897",
+    "summary": "机器人初创公司Pickle Robot任命Jeff Evanson为首任首席财务官，公司据称正深化与UPS的合作关系。",
+    "date": "2025-12-18 20:50",
+    "timestamp": 1766091012.8695045
+  },
+  {
+    "title": "Why British politicians are flocking to American tech giants",
+    "link": "https://techcrunch.com/2025/12/18/why-british-politicians-are-flocking-to-american-tech-giants/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/george-osborne-2218770635.jpg?resize=1200,800",
+    "summary": "英国前财政大臣乔治·奥斯本加入OpenAI，担任董事总经理兼全球事务主管，并将同时负责Coinbase内部咨询委员会。",
+    "date": "2025-12-18 20:50",
+    "timestamp": 1766091014.8363671
+  },
+  {
     "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
     "link": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_7393_w_logo.jpeg?resize=1200,799",
@@ -774,29 +798,5 @@
     "summary": "AI公司Limitless宣布与Meta愿景一致，致力于为大众提供个人超级智能服务。",
     "date": "2025-12-05 21:47",
     "timestamp": 1764971239.3537269
-  },
-  {
-    "title": "ChatGPT’s user growth has slowed, report finds",
-    "link": "https://techcrunch.com/2025/12/05/chatgpts-user-growth-has-slowed-report-finds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-    "summary": "ChatGPT月活用户8至11月仅增约5%，而谷歌Gemini同期增长约30%，增速显著领先。",
-    "date": "2025-12-05 20:50",
-    "timestamp": 1764967808.6153
-  },
-  {
-    "title": "Nothing wants your money, AWS wants your trust, and Spotify wants your data",
-    "link": "https://techcrunch.com/podcast/nothing-wants-your-money-aws-wants-your-trust-and-spotify-wants-your-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/25W_Sharecards.jpg?resize=1200,675",
-    "summary": "AWS在re:Invent 2025发布多款AI智能体工具，并推出第三代自研芯片及数据库折扣以发力企业AI市场。然而，其在基础设施之外能否真正比肩行业领先者，仍有待验证。",
-    "date": "2025-12-05 18:53",
-    "timestamp": 1764960813.0020869
-  },
-  {
-    "title": "AWS re:Invent was an all-in pitch for AI. Customers might not be ready.",
-    "link": "https://techcrunch.com/2025/12/05/aws-reinvent-was-an-all-in-pitch-for-ai-customers-might-not-be-ready/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/IMG_3817.jpg?resize=1200,900",
-    "summary": "AWS发布多项AI新技术，但其企业客户在技术准备度上面临挑战。",
-    "date": "2025-12-05 18:53",
-    "timestamp": 1764960815.1368158
   }
 ]
