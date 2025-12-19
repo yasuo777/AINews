@@ -1,5 +1,13 @@
 [
   {
+    "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
+    "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1603701301-1152x648.jpg",
+    "summary": "LG将允许用户删除Copilot图标，但电视聊天机器人功能仍将保留。",
+    "date": "2025-12-19 21:47",
+    "timestamp": 1766180841.6957707
+  },
+  {
     "title": "Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation",
     "link": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1691376215.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "特朗普本周将签署行政令，简化企业审批流程，旨在减少项目所需的重复许可。",
     "date": "2025-12-08 16:56",
     "timestamp": 1765213017.852802
-  },
-  {
-    "title": "Hinge’s new AI feature helps daters move beyond boring small talk",
-    "link": "https://techcrunch.com/2025/12/08/hinges-new-ai-feature-helps-daters-start-better-convos-moving-beyond-boring-small-talk/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/HingeConvoStarter.png?w=1200",
-    "summary": "约会应用Hinge推出AI功能\"对话破冰器\"，可生成个性化聊天建议，帮助用户开启深度交流。",
-    "date": "2025-12-08 13:21",
-    "timestamp": 1765200116.9531856
   }
 ]
