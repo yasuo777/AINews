@@ -1,5 +1,13 @@
 [
   {
+    "title": "Yann LeCun confirms his new ‘world model’ startup, reportedly seeks $5B+ valuation",
+    "link": "https://techcrunch.com/2025/12/19/yann-lecun-confirms-his-new-world-model-startup-reportedly-seeks-5b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1691376215.jpg?w=1024",
+    "summary": "著名AI科学家Yann LeCun周四证实已创立新公司，但表示不会担任CEO。",
+    "date": "2025-12-19 19:46",
+    "timestamp": 1766173608.0482047
+  },
+  {
     "title": "Hardware’s brutal week: iRobot, Luminar, and Rad Power go bankrupt",
     "link": "https://techcrunch.com/podcast/hardwares-brutal-week-irobot-luminar-and-rad-power-go-bankrupt/",
     "image": "https://techcrunch.com/wp-content/uploads/2011/01/irobot-scooba-230.jpg?w=640",
@@ -790,13 +798,5 @@
     "summary": "约会应用Hinge推出AI功能\"对话破冰器\"，可生成个性化聊天建议，帮助用户开启深度交流。",
     "date": "2025-12-08 13:21",
     "timestamp": 1765200116.9531856
-  },
-  {
-    "title": "OpenAI boasts enterprise win days after internal ‘code red’ on Google threat",
-    "link": "https://techcrunch.com/2025/12/08/openai-boasts-enterprise-win-days-after-internal-code-red-on-google-threat/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/openai-enterprise-report.png?resize=1200,860",
-    "summary": "ChatGPT企业版年用量增长8倍，员工日均节省1小时。但OpenAI面临Anthropic的竞争压力及成本可持续性质疑。",
-    "date": "2025-12-08 13:21",
-    "timestamp": 1765200119.3488476
   }
 ]
