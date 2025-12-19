@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta is developing a new image and video model for a 2026 release, report says",
+    "link": "https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
+    "summary": "该公司正研发图像视频模型及辅助编程的文本模型，以拓展AI技术应用领域。",
+    "date": "2025-12-19 16:55",
+    "timestamp": 1766163333.4900575
+  },
+  {
     "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation",
     "link": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "AI演讲教练Yoodli获谷歌、Snowflake等科技企业采用。",
     "date": "2025-12-05 23:46",
     "timestamp": 1764978411.4188397
-  },
-  {
-    "title": "Sources: AI synthetic research startup Aaru raised a Series A at a $1B ‘headline’ valuation",
-    "link": "https://techcrunch.com/2025/12/05/ai-synthetic-research-startup-aaru-raised-a-series-a-at-a-1b-headline-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1224590022.jpg?resize=1200,632",
-    "summary": "AI市场研究初创公司完成多轮融资，估值未公开。",
-    "date": "2025-12-05 23:46",
-    "timestamp": 1764978413.5769405
   }
 ]
