@@ -1,5 +1,21 @@
 [
   {
+    "title": "Hardware’s brutal week: iRobot, Luminar, and Rad Power go bankrupt",
+    "link": "https://techcrunch.com/podcast/hardwares-brutal-week-irobot-luminar-and-rad-power-go-bankrupt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2011/01/irobot-scooba-230.jpg?w=640",
+    "summary": "本周硬件行业遭遇重挫，iRobot、Luminar与Rad Power Bikes相继申请破产。尽管各公司面临关税、供应链及市场变化等不同压力，但共同反映出在全球贸易紧张与海外低价竞争下，实体产品制造正面临严峻挑战。",
+    "date": "2025-12-19 18:56",
+    "timestamp": 1766170608.6831224
+  },
+  {
+    "title": "OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors",
+    "link": "https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-944229988-teens-on-phones.jpeg?resize=1200,800",
+    "summary": "OpenAI更新了针对未成年用户的AI使用指南，并发布了面向青少年及家长的AI素养资源。但政策如何有效落实仍存疑问。",
+    "date": "2025-12-19 18:56",
+    "timestamp": 1766170611.5057902
+  },
+  {
     "title": "Known uses voice AI to help you go on more in-person dates",
     "link": "https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Celeste-and-Asher-Headshot-feat-Known.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "ChatGPT企业版年用量增长8倍，员工日均节省1小时。但OpenAI面临Anthropic的竞争压力及成本可持续性质疑。",
     "date": "2025-12-08 13:21",
     "timestamp": 1765200119.3488476
-  },
-  {
-    "title": "OpenAI says it’s turned off app suggestions that look like ads",
-    "link": "https://techcrunch.com/2025/12/07/openai-says-its-turned-off-app-suggestions-that-look-like-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-    "summary": "OpenAI承认近期推广信息不当，但重申ChatGPT目前未上线广告或相关测试。",
-    "date": "2025-12-07 15:46",
-    "timestamp": 1765122409.3243976
-  },
-  {
-    "title": "Pat Gelsinger wants to save Moore’s Law, with a little help from the Feds",
-    "link": "https://techcrunch.com/2025/12/06/pat-gelsinger-wants-to-save-moores-law-with-a-little-help-from-the-feds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/54963243726_2bb5c81046_k.jpg?resize=1200,800",
-    "summary": "该公司计划于2028年产出首批硅片，并在2029年实现首个商业系统的上线运营。",
-    "date": "2025-12-07 02:35",
-    "timestamp": 1765074937.4817123
   }
 ]
