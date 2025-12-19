@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation",
+    "link": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
+    "summary": "OpenAI计划在2026年第一季度末完成新一轮融资，并考虑引入主权财富基金作为投资方。",
+    "date": "2025-12-19 13:53",
+    "timestamp": 1766152392.0758595
+  },
+  {
     "title": "LLMs’ impact on science: Booming publications, stagnating quality",
     "link": "https://arstechnica.com/science/2025/12/llms-impact-on-science-booming-publications-stagnating-quality/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-839904424-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI市场研究初创公司完成多轮融资，估值未公开。",
     "date": "2025-12-05 23:46",
     "timestamp": 1764978413.5769405
-  },
-  {
-    "title": "AWS needs you to believe in AI agents",
-    "link": "https://techcrunch.com/video/aws-needs-you-to-believe-in-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "亚马逊在re:Invent 2025发布多款AI智能体工具，并推出第三代自研芯片及数据库折扣以发力企业AI市场。然而，其在基础设施之外能否真正比肩行业领导者，仍有待证明。",
-    "date": "2025-12-05 22:46",
-    "timestamp": 1764974808.7228236
   }
 ]
