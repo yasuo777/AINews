@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
+    "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+    "summary": "ChatGPT新增自定义功能，用户可调节聊天机器人的语气热情度与表情符号使用频率。",
+    "date": "2025-12-20 20:47",
+    "timestamp": 1766263658.2755861
+  },
+  {
     "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
     "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243384061.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "科技巨头推出新推荐信息流，旨在帮助用户发现并虚拟试穿商品。信息流内几乎所有内容均可直接跳转商家链接购买。",
     "date": "2025-12-08 21:46",
     "timestamp": 1765230408.4001796
-  },
-  {
-    "title": "Claude Code is coming to Slack, and that’s a bigger deal than it sounds",
-    "link": "https://techcrunch.com/2025/12/08/claude-code-is-coming-to-slack-and-thats-a-bigger-deal-than-it-sounds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/claude-code-slack.png?resize=1200,685",
-    "summary": "Anthropic在Slack推出Claude Code功能，允许开发者在聊天线程中委托编程任务。这标志着AI深度嵌入协作工具的趋势，或将重塑软件开发流程。",
-    "date": "2025-12-08 19:46",
-    "timestamp": 1765223208.3777428
   }
 ]
