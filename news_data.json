@@ -1,5 +1,13 @@
 [
   {
+    "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
+    "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572",
+    "summary": "Waymo因旧金山大规模停电导致多辆自动驾驶出租车停滞，于周六晚间暂停了当地服务。",
+    "date": "2025-12-21 15:46",
+    "timestamp": 1766332009.1930563
+  },
+  {
     "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
     "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "美国国会近期提出法案，旨在限制对华高端芯片出口，以加强技术管控。",
     "date": "2025-12-08 21:46",
     "timestamp": 1765230406.3032954
-  },
-  {
-    "title": "Google’s AI try-on app Doppl adds a shoppable discovery feed",
-    "link": "https://techcrunch.com/2025/12/08/googles-ai-try-on-app-doppl-adds-a-shoppable-discovery-feed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/doppl.png?resize=1200,665",
-    "summary": "科技巨头推出新推荐信息流，旨在帮助用户发现并虚拟试穿商品。信息流内几乎所有内容均可直接跳转商家链接购买。",
-    "date": "2025-12-08 21:46",
-    "timestamp": 1765230408.4001796
   }
 ]
