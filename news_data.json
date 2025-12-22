@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
+    "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/openai-prompt-injection-demo.png?w=1198",
+    "summary": "OpenAI承认Atlas等AI浏览器将始终面临提示注入风险，但正通过部署“基于LLM的自动攻击系统”强化网络安全防护。",
+    "date": "2025-12-22 22:50",
+    "timestamp": 1766443849.8107076
+  },
+  {
     "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
     "link": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "谷歌将推出AI智能眼镜产品线，与Meta展开竞争。",
     "date": "2025-12-09 16:56",
     "timestamp": 1765299419.0502043
-  },
-  {
-    "title": "EU launches antitrust probe into Google’s AI search tools",
-    "link": "https://techcrunch.com/2025/12/09/eu-launches-antitrust-probe-into-googles-ai-search-tools/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
-    "summary": "欧盟委员会就谷歌AI摘要功能涉嫌垄断展开调查。",
-    "date": "2025-12-09 16:57",
-    "timestamp": 1765299420.8401318
   }
 ]
