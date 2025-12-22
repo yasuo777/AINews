@@ -1,5 +1,13 @@
 [
   {
+    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
+    "link": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+    "summary": "OpenAI持续更新ChatGPT产品线，年内相继发布多项功能升级与版本迭代，涵盖模型优化与新工具集成。",
+    "date": "2025-12-22 15:50",
+    "timestamp": 1766418657.4027934
+  },
+  {
     "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
     "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572",
@@ -790,13 +798,5 @@
     "summary": "AI开发平台Empromptu推出新功能，用户只需向AI助手描述需求（如创建HTML或JavaScript应用），即可自动生成对应程序。",
     "date": "2025-12-09 13:55",
     "timestamp": 1765288543.9317875
-  },
-  {
-    "title": "Department of Commerce may approve Nvidia H200 chip exports to China",
-    "link": "https://techcrunch.com/2025/12/08/department-of-commerce-may-approve-nvidia-h200-chip-exports-to-china/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "美国国会近期提出法案，旨在限制对华高端芯片出口，以加强技术管控。",
-    "date": "2025-12-08 21:46",
-    "timestamp": 1765230406.3032954
   }
 ]
