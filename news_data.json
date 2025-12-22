@@ -1,5 +1,21 @@
 [
   {
+    "title": "ChatGPT launches a year-end review like Spotify Wrapped",
+    "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/YYWC-Hero.png?resize=960,1200",
+    "summary": "OpenAI推出年度回顾功能，通过奖项、诗歌和图片为用户总结聊天记录中的年度亮点。",
+    "date": "2025-12-22 19:46",
+    "timestamp": 1766432794.3028128
+  },
+  {
+    "title": "World’s largest shadow library brags it scraped 300TB of Spotify music, metadata",
+    "link": "https://arstechnica.com/tech-policy/2025/12/worlds-largest-shadow-library-brags-it-scraped-300tb-of-spotify-music-metadata/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2248951918-1024x648.jpg",
+    "summary": "据报道，Spotify正调查Anna's Archive抓取平台音乐数据的具体规模。",
+    "date": "2025-12-22 19:46",
+    "timestamp": 1766432796.903724
+  },
+  {
     "title": "Splat’s app uses AI to turn your photos into coloring pages for kids",
     "link": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/splat-2025-12-22-at-11.34.26-AM.jpg?resize=1200,607",
@@ -782,21 +798,5 @@
     "summary": "埃森哲与Anthropic联合成立业务集团，旨在将后者人工智能技术引入埃森哲内部员工体系。",
     "date": "2025-12-09 15:49",
     "timestamp": 1765295378.1877842
-  },
-  {
-    "title": "Pebble’s founder introduces a $75 AI smart ring for recording brief notes with a press of a button",
-    "link": "https://techcrunch.com/2025/12/09/pebbles-founder-introduces-a-75-ai-smart-ring-for-recording-brief-notes-with-a-press-of-a-button/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Index01-polished-silver-hero.png?w=1024",
-    "summary": "Pebble创始人埃里克·米吉科夫斯基推出新款AI智能戒指Index 01，售价75美元。该产品主打快速记录备忘，通过按键启动本地语音转文本及AI处理，强调隐私保护与可靠性，不支持全天候监听或健康监测。",
-    "date": "2025-12-09 15:49",
-    "timestamp": 1765295381.7769208
-  },
-  {
-    "title": "Mistral AI surfs vibe coding tailwinds with new coding models",
-    "link": "https://techcrunch.com/2025/12/09/mistral-ai-surfs-vibe-coding-tailwinds-with-new-coding-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2147859992-e1713960898378.webp?resize=1200,676",
-    "summary": "法国AI初创公司Mistral发布新一代编程专用模型Devstral 2，旨在提升其编码能力，以追赶Anthropic等大型实验室及同类编程大模型。",
-    "date": "2025-12-09 14:54",
-    "timestamp": 1765292086.8096142
   }
 ]
