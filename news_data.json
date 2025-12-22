@@ -1,5 +1,13 @@
 [
   {
+    "title": "Splat’s app uses AI to turn your photos into coloring pages for kids",
+    "link": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/splat-2025-12-22-at-11.34.26-AM.jpg?resize=1200,607",
+    "summary": "一款AI应用可将用户照片自动转换为儿童填色页，提供个性化绘画体验。",
+    "date": "2025-12-22 17:48",
+    "timestamp": 1766425719.1792443
+  },
+  {
     "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
     "link": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "法国AI初创公司Mistral发布新一代编程专用模型Devstral 2，旨在提升其编码能力，以追赶Anthropic等大型实验室及同类编程大模型。",
     "date": "2025-12-09 14:54",
     "timestamp": 1765292086.8096142
-  },
-  {
-    "title": "Empromptu raises $2M pre-seed to help enterprises build AI apps",
-    "link": "https://techcrunch.com/2025/12/09/empromptu-raises-2m-pre-seed-to-help-enterprises-build-ai-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1410815886.jpg?resize=1200,800",
-    "summary": "AI开发平台Empromptu推出新功能，用户只需向AI助手描述需求（如创建HTML或JavaScript应用），即可自动生成对应程序。",
-    "date": "2025-12-09 13:55",
-    "timestamp": 1765288543.9317875
   }
 ]
