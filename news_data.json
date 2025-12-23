@@ -1,5 +1,29 @@
 [
   {
+    "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerruner’s Kirsten Green",
+    "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerruners-kirsten-green/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+    "summary": "梅耶尔关闭初创公司Sunshine后，推出新应用Dazzle，专注于照片与联系人管理。",
+    "date": "2025-12-23 16:56",
+    "timestamp": 1766508986.9053233
+  },
+  {
+    "title": "Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp",
+    "link": "https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
+    "summary": "该平台新增多项服务集成，现已涵盖Yelp、Uber及OpenTable等主流应用。",
+    "date": "2025-12-23 16:56",
+    "timestamp": 1766508988.9210665
+  },
+  {
+    "title": "Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech",
+    "link": "https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Lemon-Slice-founders.jpg?resize=1200,675",
+    "summary": "AI公司Lemon Slice推出新型扩散模型，可通过单张图像生成数字人像，旨在为AI聊天机器人添加视频交互功能。",
+    "date": "2025-12-23 16:56",
+    "timestamp": 1766508991.6027164
+  },
+  {
     "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
     "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/openai-prompt-injection-demo.png?w=1198",
@@ -774,29 +798,5 @@
     "summary": "亚马逊旗下Ring推出新功能，允许用户创建最多50人的面部识别名单，以识别常访者。该功能需用户主动启用，公司承诺相关生物特征数据不会用于训练AI模型。",
     "date": "2025-12-09 19:47",
     "timestamp": 1765309628.5238354
-  },
-  {
-    "title": "OpenAI, Anthropic and Block join new Linux Foundation effort to standardize the AI agent era",
-    "link": "https://techcrunch.com/2025/12/09/openai-anthropic-and-block-join-new-linux-foundation-effort-to-standardize-the-ai-agent-era/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
-    "summary": "Anthropic、Block与OpenAI共同支持Linux基金会新成立的Agentic AI基金会，通过捐赠MCP、Goose和AGENTS.md等标准推动AI智能体标准化，旨在提升互操作性并减少技术碎片化。",
-    "date": "2025-12-09 17:51",
-    "timestamp": 1765302663.189838
-  },
-  {
-    "title": "Amazon adds delivery tracking, last-minute adds, gift ideas to Alexa+",
-    "link": "https://techcrunch.com/2025/12/09/amazon-adds-delivery-tracking-last-minute-adds-gift-ideas-to-alexa/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
-    "summary": "亚马逊升级Alexa+，新增购物功能，将Echo屏幕打造为集下单、促销和礼品采购于一体的智能购物中心。",
-    "date": "2025-12-09 16:56",
-    "timestamp": 1765299417.5991826
-  },
-  {
-    "title": "Google’s first AI glasses expected next year",
-    "link": "https://techcrunch.com/2025/12/09/googles-first-ai-glasses-expected-next-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/glasses_2745f1.jpg?resize=1200,716",
-    "summary": "谷歌将推出AI智能眼镜产品线，与Meta展开竞争。",
-    "date": "2025-12-09 16:56",
-    "timestamp": 1765299419.0502043
   }
 ]
