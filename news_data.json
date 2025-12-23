@@ -1,5 +1,13 @@
 [
   {
+    "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green",
+    "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+    "summary": "前Sunshine创始人梅耶尔推出AI新企Dazzle，获格林投资，被视为将引领新一代消费级AI商业浪潮。",
+    "date": "2025-12-23 17:50",
+    "timestamp": 1766512233.0246205
+  },
+  {
     "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerruner’s Kirsten Green",
     "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerruners-kirsten-green/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
@@ -790,13 +798,5 @@
     "summary": "OpenAI任命Dresser负责企业及客户成功部门的营收战略。",
     "date": "2025-12-09 19:47",
     "timestamp": 1765309626.2695394
-  },
-  {
-    "title": "Amazon’s Ring rolls out controversial, AI-powered facial-recognition feature to video doorbells",
-    "link": "https://techcrunch.com/2025/12/09/amazons-ring-rolls-out-controversial-ai-powered-facial-recognition-feature-to-video-doorbells/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/ring_battery_doorbell_2024.jpg?w=1200",
-    "summary": "亚马逊旗下Ring推出新功能，允许用户创建最多50人的面部识别名单，以识别常访者。该功能需用户主动启用，公司承诺相关生物特征数据不会用于训练AI模型。",
-    "date": "2025-12-09 19:47",
-    "timestamp": 1765309628.5238354
   }
 ]
