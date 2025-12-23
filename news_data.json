@@ -1,5 +1,13 @@
 [
   {
+    "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
+    "link": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
+    "summary": "多名作者拒绝接受Anthropic的集体诉讼和解方案，批评AI公司不应以极低成本轻易抵消大量高价值版权索赔。",
+    "date": "2025-12-23 19:46",
+    "timestamp": 1766519210.564219
+  },
+  {
     "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green",
     "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
@@ -790,13 +798,5 @@
     "summary": "青少年使用AI聊天机器人可能从基础问答开始，但易发展为成瘾性依赖，需警惕其潜在风险。",
     "date": "2025-12-09 20:46",
     "timestamp": 1765313204.09955
-  },
-  {
-    "title": "Slack CEO Denise Dresser to join OpenAI as chief revenue officer",
-    "link": "https://techcrunch.com/2025/12/09/slack-ceo-denise-dresser-to-join-openai-as-chief-revenue-officer/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/54103320653_6eb7d509ce_k.jpg?resize=1200,800",
-    "summary": "OpenAI任命Dresser负责企业及客户成功部门的营收战略。",
-    "date": "2025-12-09 19:47",
-    "timestamp": 1765309626.2695394
   }
 ]
