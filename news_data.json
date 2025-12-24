@@ -1,5 +1,13 @@
 [
   {
+    "title": "How AI coding agents work—and what to remember if you use them",
+    "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2211086356-1152x648-1766182004.jpg",
+    "summary": "本文解析了AI智能体高效运行的核心机制，涵盖压缩技术与多智能体协作两大关键要素。",
+    "date": "2025-12-24 13:19",
+    "timestamp": 1766582376.757013
+  },
+  {
     "title": "John Carreyrou and other authors bring new lawsuit against six major AI companies",
     "link": "https://techcrunch.com/2025/12/23/john-carreyrou-and-other-authors-bring-new-lawsuit-against-six-major-ai-companies/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1371961757.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该电动汽车制造商或将于12月11日的人工智能与自动驾驶主题日披露更多技术细节。",
     "date": "2025-12-09 20:46",
     "timestamp": 1765313202.0878208
-  },
-  {
-    "title": "Three in 10 US teens use AI chatbots every day, but safety concerns are growing",
-    "link": "https://techcrunch.com/2025/12/09/three-in-ten-u-s-teens-use-ai-chatbots-every-day-but-safety-concerns-are-growing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2197821080.jpg?resize=1200,800",
-    "summary": "青少年使用AI聊天机器人可能从基础问答开始，但易发展为成瘾性依赖，需警惕其潜在风险。",
-    "date": "2025-12-09 20:46",
-    "timestamp": 1765313204.09955
   }
 ]
