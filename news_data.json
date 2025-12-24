@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
+    "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/1_byjKY2ta4_34GHPvmN9Suw.jpg?resize=1200,640",
+    "summary": "英伟达携手Groq，有望进一步巩固其在芯片制造领域的领先地位。",
+    "date": "2025-12-24 22:50",
+    "timestamp": 1766616626.8802345
+  },
+  {
     "title": "The year data centers went from backend to center stage",
     "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达投资的AI数据中心供应商CEO称，市场需求正经历“剧烈变化”。",
     "date": "2025-12-10 02:28",
     "timestamp": 1765333697.4665344
-  },
-  {
-    "title": "Unconventional AI confirms its massive  $475M seed round",
-    "link": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Naveen-Rao-headshot.png?resize=1200,1000",
-    "summary": "前Databricks AI负责人Naveen Rao创立的新硬件初创公司估值已达45亿美元。",
-    "date": "2025-12-10 02:28",
-    "timestamp": 1765333699.497154
   }
 ]
