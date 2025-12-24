@@ -1,5 +1,13 @@
 [
   {
+    "title": "The European startup market’s data doesn’t match its energy — yet",
+    "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1421599900.jpg?resize=1200,900",
+    "summary": "欧洲初创市场尚未形成规模，但有迹象表明相关数据即将呈现积极变化。",
+    "date": "2025-12-24 18:55",
+    "timestamp": 1766602547.3641756
+  },
+  {
     "title": "Why the operating room is ripe for AI, according to Akara",
     "link": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "Cashew Research运用AI自动化市场调研流程，同时通过真人采集现实世界数据，实现高效精准分析。",
     "date": "2025-12-09 22:48",
     "timestamp": 1765320489.7788994
-  },
-  {
-    "title": "Max Hodak is more worried about Twitter than brain-computer interface hacking",
-    "link": "https://techcrunch.com/podcast/max-hodak-is-more-worried-about-twitter-than-brain-computer-interface-hacking/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-05-at-2.45.47-AM.png?resize=1200,852",
-    "summary": "本周，Science Corp创始人马克斯·霍达克表示，脑机接口技术发展超预期。其公司近期在视觉恢复领域取得重大突破，约80%的盲人患者已能恢复阅读能力。",
-    "date": "2025-12-09 22:48",
-    "timestamp": 1765320492.593636
   }
 ]
