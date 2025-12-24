@@ -1,5 +1,13 @@
 [
   {
+    "title": "The year data centers went from backend to center stage",
+    "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "数据中心议题已超越传统技术范畴，成为备受关注的核心领域。",
+    "date": "2025-12-24 20:50",
+    "timestamp": 1766609400.3475752
+  },
+  {
     "title": "The European startup market’s data doesn’t match its energy — yet",
     "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1421599900.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "前Databricks AI负责人Naveen Rao创立的新硬件初创公司估值已达45亿美元。",
     "date": "2025-12-10 02:28",
     "timestamp": 1765333699.497154
-  },
-  {
-    "title": "Cashew Research is going after the $90B market research industry with AI",
-    "link": "https://techcrunch.com/2025/12/09/cashew-research-is-going-after-the-90b-market-research-industry-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Cashew-photo.jpg?resize=1200,800",
-    "summary": "Cashew Research运用AI自动化市场调研流程，同时通过真人采集现实世界数据，实现高效精准分析。",
-    "date": "2025-12-09 22:48",
-    "timestamp": 1765320489.7788994
   }
 ]
