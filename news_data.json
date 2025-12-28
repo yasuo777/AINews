@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI is looking for a new Head of Preparedness",
+    "link": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "summary": "OpenAI拟设新职位，专责研究AI在计算机安全及心理健康等领域的潜在风险。",
+    "date": "2025-12-28 15:48",
+    "timestamp": 1766936886.0553148
+  },
+  {
     "title": "India startup funding hits $11B in 2025 as investors grow more selective",
     "link": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1096026706.jpg?resize=1200,843",
@@ -790,13 +798,5 @@
     "summary": "AI公司Tavus推出\"AI圣诞老人\"聊天体验，该AI能通过个性化提问记忆用户兴趣，提供定制化互动。",
     "date": "2025-12-10 14:55",
     "timestamp": 1765378555.7710357
-  },
-  {
-    "title": "Figma launches new AI-powered object removal and image extension",
-    "link": "https://techcrunch.com/2025/12/10/figma-launches-new-ai-powered-object-removal-and-image-extension/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/AI-Image-toolbar.jpeg?resize=1200,675",
-    "summary": "Figma推出全新图像编辑工具栏，将各类功能集成于统一界面，旨在提升设计工具的一体化与操作效率。",
-    "date": "2025-12-10 14:55",
-    "timestamp": 1765378558.1407177
   }
 ]
