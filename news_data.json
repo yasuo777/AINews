@@ -1,5 +1,13 @@
 [
   {
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "link": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI推出新功能，允许用户在ChatGPT内直接操作Spotify、Canva等第三方应用，提升交互效率。",
+    "date": "2025-12-29 16:54",
+    "timestamp": 1767027291.567072
+  },
+  {
     "title": "VCs predict strong enterprise AI adoption next year — again",
     "link": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/12/crystal-ball.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "ChatGPT今年首次登顶美国App Store下载榜榜首。",
     "date": "2025-12-10 15:51",
     "timestamp": 1765381909.7486534
-  },
-  {
-    "title": "Google launches managed MCP servers that let AI agents simply plug into its tools",
-    "link": "https://techcrunch.com/2025/12/10/google-is-going-all-in-on-mcp-servers-agent-ready-by-design/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2148009757.jpg?resize=1200,800",
-    "summary": "谷歌推出托管MCP服务器，率先在Maps和BigQuery服务中实现“设计即适配AI智能体”，旨在简化复杂集成流程，助力AI智能体高效调用实际工具。",
-    "date": "2025-12-10 15:51",
-    "timestamp": 1765381912.270766
   }
 ]
