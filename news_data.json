@@ -1,5 +1,13 @@
 [
   {
+    "title": "The best AI-powered dictation apps of 2025",
+    "link": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "AI语音听写应用支持通过语音回复邮件、记录笔记甚至编程，显著提升工作效率。",
+    "date": "2025-12-30 16:56",
+    "timestamp": 1767113792.7128928
+  },
+  {
     "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
     "link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1314946854.jpg?resize=1200,840",
@@ -790,13 +798,5 @@
     "summary": "英伟达推出新软件功能，可追踪其部分AI芯片的近似位置。",
     "date": "2025-12-10 22:50",
     "timestamp": 1765407035.6480188
-  },
-  {
-    "title": "Spotify tests more personalized, AI-powered ‘Prompted Playlists’",
-    "link": "https://techcrunch.com/2025/12/10/spotify-tests-more-personalized-ai-powered-prompted-playlists/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Prompted-Playlist-Static-Image-1-Correct-1234832-scaled-1.jpg?resize=1200,675",
-    "summary": "该播放列表可结合全球音乐数据、用户完整收听历史，并支持每日或每周动态更新。",
-    "date": "2025-12-10 20:53",
-    "timestamp": 1765400026.3700144
   }
 ]
