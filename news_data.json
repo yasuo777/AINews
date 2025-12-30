@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta just bought Manus, an AI startup everyone has been talking about",
+    "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "summary": "Meta宣布将保持Manus独立运营，同时将其智能体技术整合至Facebook、Instagram和WhatsApp平台，与现有Meta AI聊天机器人协同服务用户。",
+    "date": "2025-12-30 05:51",
+    "timestamp": 1767073884.9757032
+  },
+  {
     "title": "2025 was the year AI got a vibe check",
     "link": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/daniil-komov-bglsBQQwMWA-unsplash.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "开源模型Devstral 2在行业基准测试中取得72%的分数，性能已接近闭源竞品。",
     "date": "2025-12-10 20:53",
     "timestamp": 1765400029.1151223
-  },
-  {
-    "title": "Google is testing AI-powered article overviews on select publications’ Google News pages",
-    "link": "https://techcrunch.com/2025/12/10/google-is-testing-ai-powered-article-overviews-on-select-publications-google-news-pages/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-    "summary": "谷歌周三宣布，正在部分合作新闻出版商的谷歌新闻页面测试AI生成的文章概述功能。参与测试的媒体包括《卫报》《华盛顿邮报》《印度时报》等多家国际知名机构。",
-    "date": "2025-12-10 17:51",
-    "timestamp": 1765389115.441519
   }
 ]
