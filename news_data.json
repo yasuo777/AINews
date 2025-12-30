@@ -1,5 +1,13 @@
 [
   {
+    "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
+    "link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1314946854.jpg?resize=1200,840",
+    "summary": "企业AI工具应用已探索数年，投资者预计将于2026年进入优胜者筛选阶段。",
+    "date": "2025-12-30 15:51",
+    "timestamp": 1767109901.3204892
+  },
+  {
     "title": "Meta just bought Manus, an AI startup everyone has been talking about",
     "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "该播放列表可结合全球音乐数据、用户完整收听历史，并支持每日或每周动态更新。",
     "date": "2025-12-10 20:53",
     "timestamp": 1765400026.3700144
-  },
-  {
-    "title": "A new open AI coding model is closing in on proprietary options",
-    "link": "https://arstechnica.com/ai/2025/12/mistral-bets-big-on-vibe-coding-with-new-autonomous-software-engineering-agent/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
-    "summary": "开源模型Devstral 2在行业基准测试中取得72%的分数，性能已接近闭源竞品。",
-    "date": "2025-12-10 20:53",
-    "timestamp": 1765400029.1151223
   }
 ]
