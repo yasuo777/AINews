@@ -1,5 +1,13 @@
 [
   {
+    "title": "The phone is dead. Long live . . . what exactly?",
+    "link": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
+    "summary": "科技分析师预测，iPhone或在五年内被淘汰，十年后或将彻底退出市场。",
+    "date": "2025-12-31 05:53",
+    "timestamp": 1767160389.6734424
+  },
+  {
     "title": "The best AI-powered dictation apps of 2025",
     "link": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该信件要求企业建立新的防护措施，以保护用户免受有害心理影响。",
     "date": "2025-12-11 02:30",
     "timestamp": 1765420215.186082
-  },
-  {
-    "title": "Nvidia is reportedly testing tracking software as chip-smuggling rumors swirl",
-    "link": "https://techcrunch.com/2025/12/10/nvidia-is-reportedly-testing-tracking-software-as-chip-smuggling-rumors-swirl/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-    "summary": "英伟达推出新软件功能，可追踪其部分AI芯片的近似位置。",
-    "date": "2025-12-10 22:50",
-    "timestamp": 1765407035.6480188
   }
 ]
