@@ -1,5 +1,13 @@
 [
   {
+    "title": "Investors predict AI is coming for labor in 2026",
+    "link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1483458716.jpg?resize=1200,680",
+    "summary": "人工智能对企业劳动力市场的具体影响尚不明确，但投资者预计相关趋势将于2026年开始显现。",
+    "date": "2025-12-31 16:54",
+    "timestamp": 1767200074.9199548
+  },
+  {
     "title": "From prophet to product: How AI came back down to earth in 2025",
     "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-down-to-earth-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "Goldman Sachs has led Harness's Series E round, with participation from IVP, Menlo Ventures, and Unu...",
     "date": "2025-12-11 10:54",
     "timestamp": 1765450447.1219318
-  },
-  {
-    "title": "Google’s answer to the AI arms race — promote the guy behind its data center tech",
-    "link": "https://techcrunch.com/2025/12/10/googles-answer-to-the-ai-arms-race-promote-the-guy-behind-its-data-center-tech/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-10-at-4.33.43-PM.png?resize=1200,699",
-    "summary": "谷歌任命Amin Vahdat为新任首席技术官，负责AI基础设施，直接向CEO皮查伊汇报。",
-    "date": "2025-12-11 02:30",
-    "timestamp": 1765420213.3141177
   }
 ]
