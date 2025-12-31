@@ -1,5 +1,13 @@
 [
   {
+    "title": "From prophet to product: How AI came back down to earth in 2025",
+    "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-down-to-earth-1152x648.jpg",
+    "summary": "本年度，高调承诺与不利研究相冲突，预测者逐渐被软件工具取代。",
+    "date": "2025-12-31 13:20",
+    "timestamp": 1767187211.8742933
+  },
+  {
     "title": "The phone is dead. Long live . . . what exactly?",
     "link": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "谷歌任命Amin Vahdat为新任首席技术官，负责AI基础设施，直接向CEO皮查伊汇报。",
     "date": "2025-12-11 02:30",
     "timestamp": 1765420213.3141177
-  },
-  {
-    "title": "State attorneys general warn Microsoft, OpenAI, Google, and other AI giants to fix ‘delusional’ outputs",
-    "link": "https://techcrunch.com/2025/12/10/state-attorneys-general-warn-microsoft-openai-google-and-other-ai-giants-to-fix-delusional-outputs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "该信件要求企业建立新的防护措施，以保护用户免受有害心理影响。",
-    "date": "2025-12-11 02:30",
-    "timestamp": 1765420215.186082
   }
 ]
