@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘College dropout’ has become the most coveted startup founder credential",
+    "link": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579179.jpg?resize=1200,800",
+    "summary": "AI创业者正将辍学经历作为亮点，在YC路演中以此彰显颠覆传统、专注创新的形象。",
+    "date": "2026-01-01 02:57",
+    "timestamp": 1767236259.6416981
+  },
+  {
     "title": "Investors predict AI is coming for labor in 2026",
     "link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1483458716.jpg?resize=1200,680",
@@ -790,13 +798,5 @@
     "summary": "Port推出专有平台，可替代Spotify的Backstage开发工具目录，并新增AI智能体管理功能。",
     "date": "2025-12-11 11:48",
     "timestamp": 1765453697.2783747
-  },
-  {
-    "title": "Harness hits $5.5B valuation with $240M raise to automate AI’s ‘after-code’ gap",
-    "link": "https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/jyoti-bansal-harness-founder.jpg?resize=1200,800",
-    "summary": "Goldman Sachs has led Harness's Series E round, with participation from IVP, Menlo Ventures, and Unu...",
-    "date": "2025-12-11 10:54",
-    "timestamp": 1765450447.1219318
   }
 ]
