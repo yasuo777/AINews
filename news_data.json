@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
+    "link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197091379.jpg?w=1024",
+    "summary": "未来音频将成为核心交互界面，从家居、汽车到可穿戴设备，各类空间正全面转向语音交互。",
+    "date": "2026-01-01 18:56",
+    "timestamp": 1767293818.484547
+  },
+  {
     "title": "‘College dropout’ has become the most coveted startup founder credential",
     "link": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579179.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Spoor公司推出计算机视觉软件，可协助风电场等行业追踪鸟类种群与迁徙模式。",
     "date": "2025-12-11 13:25",
     "timestamp": 1765459505.2095432
-  },
-  {
-    "title": "Port raises $100M at $800M valuation to take on Spotify’s Backstage",
-    "link": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Port-founders-e1764962616421.jpg?resize=1200,579",
-    "summary": "Port推出专有平台，可替代Spotify的Backstage开发工具目录，并新增AI智能体管理功能。",
-    "date": "2025-12-11 11:48",
-    "timestamp": 1765453697.2783747
   }
 ]
