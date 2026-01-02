@@ -1,5 +1,13 @@
 [
   {
+    "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
+    "link": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
+    "summary": "初创公司Mercor在AI数据热潮中成长为估值百亿美元的中间平台，连接OpenAI等AI实验室与高盛、麦肯锡等机构前雇员，以时薪200美元聘请后者提供行业专业知识训练AI模型，其成果或将颠覆原雇主行业。",
+    "date": "2026-01-02 17:48",
+    "timestamp": 1767376095.84104
+  },
+  {
     "title": "Nvidia’s AI empire: A look at its top startup investments",
     "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "迪士尼与AI公司达成三年协议，授权用户使用米老鼠、达斯·维达等经典角色生成AI视频。",
     "date": "2025-12-11 17:00",
     "timestamp": 1765472453.097285
-  },
-  {
-    "title": "Disney signs deal with OpenAI to allow Sora to generate AI videos featuring its characters",
-    "link": "https://techcrunch.com/2025/12/11/disney-signs-deal-with-openai-to-allow-sora-to-generate-ai-videos-featuring-its-characters/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-    "summary": "迪士尼宣布与OpenAI达成协议，将成为其重要客户，通过调用API为Disney+等平台开发新产品、工具及体验。",
-    "date": "2025-12-11 15:54",
-    "timestamp": 1765468450.0185578
   }
 ]
