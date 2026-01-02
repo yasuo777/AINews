@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia’s AI empire: A look at its top startup investments",
+    "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
+    "summary": "过去两年，英伟达利用其快速增长的资金，投资了超100家人工智能初创企业，成为该领域最活跃的产业投资者之一。",
+    "date": "2026-01-02 16:55",
+    "timestamp": 1767372902.163848
+  },
+  {
     "title": "In 2026, AI will move from hype to pragmatism",
     "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/boliviainteligente-kECRXz0m42A-unsplash.jpg?resize=1200,750",
@@ -790,13 +798,5 @@
     "summary": "迪士尼宣布与OpenAI达成协议，将成为其重要客户，通过调用API为Disney+等平台开发新产品、工具及体验。",
     "date": "2025-12-11 15:54",
     "timestamp": 1765468450.0185578
-  },
-  {
-    "title": "TIME names ‘Architects of AI’ its Person of the Year",
-    "link": "https://techcrunch.com/2025/12/11/time-names-architects-of-ai-its-person-of-the-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TIME-person-of-the-year.png?resize=1200,769",
-    "summary": "《时代》杂志将“AI建筑师”评选为年度人物，获奖者包括黄仁勋、马斯克、阿尔特曼、扎克伯格、苏姿丰、阿莫代、哈萨比斯和李飞飞。",
-    "date": "2025-12-11 14:52",
-    "timestamp": 1765464766.0781596
   }
 ]
