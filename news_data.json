@@ -1,5 +1,13 @@
 [
   {
+    "title": "No, Grok can’t really “apologize” for posting non-consensual sexual images",
+    "link": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2151878827-1152x648-1767393779.jpg",
+    "summary": "马斯克公司xAI将Grok设为发言人，以规避自身责任。",
+    "date": "2026-01-02 23:47",
+    "timestamp": 1767397651.40754
+  },
+  {
     "title": "India orders Musk’s X to fix Grok over “obscene” AI content",
     "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI发布GPT-5.2前沿模型，面向开发者和专业人员，在推理与编程能力上对标谷歌Gemini 3，同时面临算力成本与无生成器限制的挑战。",
     "date": "2025-12-11 18:59",
     "timestamp": 1765479569.24717
-  },
-  {
-    "title": "Runway releases its first world model, adds native audio to latest video model",
-    "link": "https://techcrunch.com/2025/12/11/runway-releases-its-first-world-model-adds-native-audio-to-latest-video-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Robotics.png?resize=1200,675",
-    "summary": "Runway发布物理感知世界模型，能模拟现实训练智能体，赋能视频、机器人及虚拟形象应用。",
-    "date": "2025-12-11 17:57",
-    "timestamp": 1765475842.758189
   }
 ]
