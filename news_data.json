@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tech billionaires cashed out $16 billion in 2025 as stocks soared",
+    "link": "https://techcrunch.com/2026/01/03/tech-billionaires-cashed-out-16-billion-in-2025-as-stocks-soared/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Jeff-Bezos-IAC-2019.jpg?resize=1200,800",
+    "summary": "亚马逊创始人贝索斯于六月至七月间出售2500万股公司股票，套现57亿美元，交易时间点恰逢其与劳伦·桑切斯在威尼斯举行婚礼。",
+    "date": "2026-01-03 23:47",
+    "timestamp": 1767484076.09239
+  },
+  {
     "title": "No, Grok can’t really “apologize” for posting non-consensual sexual images",
     "link": "https://arstechnica.com/ai/2026/01/no-grok-cant-really-apologize-for-posting-non-consensual-sexual-images/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2151878827-1152x648-1767393779.jpg",
@@ -790,13 +798,5 @@
     "summary": "Nano Banana推出虚拟试衣新技术，用户仅需上传自拍照即可生成全身数字形象，无需再提供全身照。",
     "date": "2025-12-11 18:59",
     "timestamp": 1765479566.9010534
-  },
-  {
-    "title": "OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo",
-    "link": "https://techcrunch.com/2025/12/11/openai-fires-back-at-google-with-gpt-5-2-after-code-red-memo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "summary": "OpenAI发布GPT-5.2前沿模型，面向开发者和专业人员，在推理与编程能力上对标谷歌Gemini 3，同时面临算力成本与无生成器限制的挑战。",
-    "date": "2025-12-11 18:59",
-    "timestamp": 1765479569.24717
   }
 ]
