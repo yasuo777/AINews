@@ -1,5 +1,13 @@
 [
   {
+    "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
+    "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/11/doordash-header.jpeg?resize=1200,800",
+    "summary": "DoorDash证实有骑手使用AI生成照片谎报完成配送，事件源于网络热传。",
+    "date": "2026-01-04 21:47",
+    "timestamp": 1767563238.7447915
+  },
+  {
     "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
     "link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
@@ -790,13 +798,5 @@
     "summary": "AI初创公司Runway宣布进军视频生成模型领域，将与谷歌、英伟达等科技巨头展开竞争。",
     "date": "2025-12-12 02:30",
     "timestamp": 1765506615.204732
-  },
-  {
-    "title": "1X struck a deal to send its ‘home’ humanoids to factories and warehouses",
-    "link": "https://techcrunch.com/2025/12/11/1x-struck-a-deal-to-send-its-home-humanoids-to-factories-and-warehouses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/1X_NEO-Home-Duster.jpg?resize=1200,675",
-    "summary": "人形机器人公司1X调整产品方向，其家用机器人NEO将转向工业应用场景。",
-    "date": "2025-12-11 22:50",
-    "timestamp": 1765493428.4140058
   }
 ]
