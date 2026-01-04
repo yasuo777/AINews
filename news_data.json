@@ -1,5 +1,21 @@
 [
   {
+    "title": "French and Malaysian authorities are investigating Grok for generating sexualized deepfakes",
+    "link": "https://techcrunch.com/2026/01/04/french-and-malaysian-authorities-are-investigating-grok-for-generating-sexualized-deepfakes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
+    "summary": "法国、马来西亚与印度共同谴责Grok生成针对女性及未成年人的色情深度伪造内容。",
+    "date": "2026-01-04 16:52",
+    "timestamp": 1767545578.2288845
+  },
+  {
+    "title": "Plaud launches a new AI pin and a desktop meeting notetaker",
+    "link": "https://techcrunch.com/2026/01/04/plaud-launches-a-new-ai-pin-and-a-desktop-meeting-notetaker/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Plaud-NotePin-S-feat.jpg?resize=1200,675",
+    "summary": "AI初创公司Plaud推出桌面应用，旨在挑战Granola等竞品，专注在线会议录制功能。",
+    "date": "2026-01-04 16:53",
+    "timestamp": 1767545580.3001795
+  },
+  {
     "title": "Subtle releases ear buds with its noise cancelation models",
     "link": "https://techcrunch.com/2026/01/04/subtle-releases-ear-buds-with-its-noise-cancelation-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Subtlevoicebudsbox.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "人形机器人公司1X调整产品方向，其家用机器人NEO将转向工业应用场景。",
     "date": "2025-12-11 22:50",
     "timestamp": 1765493428.4140058
-  },
-  {
-    "title": "OpenAI releases GPT-5.2 after “code red” Google threat alert",
-    "link": "https://arstechnica.com/information-technology/2025/12/openai-releases-gpt-5-2-after-code-red-google-threat-alert/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/09/openai_tectonic_shift_3-1152x648.jpg",
-    "summary": "某公司宣称其新型AI模型性能超越Gemini，在70%的工作任务中达到人类水平。",
-    "date": "2025-12-11 21:47",
-    "timestamp": 1765489646.8330917
-  },
-  {
-    "title": "Disney hits Google with cease-and-desist claiming ‘massive’ copyright infringement",
-    "link": "https://techcrunch.com/2025/12/11/disney-hits-google-with-cease-and-desist-claiming-massive-copyright-infringement/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1337403704.jpg?resize=1200,800",
-    "summary": "迪士尼指控谷歌旗下Gemini AI未经授权使用其版权角色，涉嫌侵权。",
-    "date": "2025-12-11 18:59",
-    "timestamp": 1765479564.8325624
   }
 ]
