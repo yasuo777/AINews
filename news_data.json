@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google previews new Gemini features for TV at CES 2026",
+    "link": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-tv.webp?resize=1200,675",
+    "summary": "谷歌电视将集成Gemini AI助手，支持用户通过语音指令搜索编辑照片、调整电视设置等操作。",
+    "date": "2026-01-05 14:56",
+    "timestamp": 1767624988.0795379
+  },
+  {
     "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
     "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/11/doordash-header.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌首次开放基于Gemini 3 Pro的深度研究工具，允许开发者将其嵌入自有应用程序。",
     "date": "2025-12-12 02:30",
     "timestamp": 1765506612.0511608
-  },
-  {
-    "title": "Runway claims its GWM-1 “world models” can stay coherent for minutes at a time",
-    "link": "https://arstechnica.com/ai/2025/12/with-gwm-1-family-of-world-models-runway-shows-ambitions-beyond-hollywood/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/Runway-GWM-Worlds-1152x648.jpg",
-    "summary": "AI初创公司Runway宣布进军视频生成模型领域，将与谷歌、英伟达等科技巨头展开竞争。",
-    "date": "2025-12-12 02:30",
-    "timestamp": 1765506615.204732
   }
 ]
