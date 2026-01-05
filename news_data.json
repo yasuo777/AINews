@@ -1,5 +1,13 @@
 [
   {
+    "title": "CES 2026: Follow live as NVIDIA, Lego, AMD, Amazon, and more make their big reveals",
+    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254142389-1.jpg?w=1024",
+    "summary": "CES 2026于1月6日在拉斯维加斯开幕，亚马逊、英伟达等企业提前发布新品。本届展会以人工智能为核心焦点，重点呈现AI与实体世界的融合趋势，涵盖机器人、自动驾驶及智能制造等领域。TechCrunch团队将持续带来现场报道。",
+    "date": "2026-01-05 16:57",
+    "timestamp": 1767632265.1456873
+  },
+  {
     "title": "Amazon’s AI assistant comes to the web with Alexa.com",
     "link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Alexa.com_.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "特朗普签署行政令，旨在统一美国人工智能监管规则，取代各州法规。批评者指出此举可能引发法律争端，增加初创企业不确定性，而国会仍在讨论联邦立法。",
     "date": "2025-12-12 17:49",
     "timestamp": 1765561780.956855
-  },
-  {
-    "title": "Google Translate now lets you hear real-time translations in your headphones",
-    "link": "https://techcrunch.com/2025/12/12/google-translate-now-lets-you-hear-real-time-translations-in-your-headphones/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-    "summary": "实时耳机翻译技术能完整保留说话者的语气、重音和节奏，使对话更易跟进并清晰分辨发言者。",
-    "date": "2025-12-12 17:49",
-    "timestamp": 1765561782.9232903
   }
 ]
