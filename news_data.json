@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
+    "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
+    "summary": "微软CEO纳德拉提出将AI视为人类助手而非工作威胁。2026年新数据表明，这一观点可能正确。",
+    "date": "2026-01-05 23:48",
+    "timestamp": 1767656898.4988756
+  },
+  {
+    "title": "Nvidia wants to be the Android of generalist robotics",
+    "link": "https://techcrunch.com/2026/01/05/nvidia-wants-to-be-the-android-of-generalist-robotics/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-05-at-5.03.42-PM.png?resize=1200,669",
+    "summary": "英伟达在CES 2026上发布了涵盖基础模型、仿真工具与硬件的全栈机器人生态系统，旨在成为机器人领域的默认平台。",
+    "date": "2026-01-05 23:48",
+    "timestamp": 1767656900.5347438
+  },
+  {
     "title": "Nvidia launches powerful new Rubin chip architecture",
     "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
@@ -782,21 +798,5 @@
     "summary": "马斯克旗下xAI开发的聊天机器人Grok在X平台传播关于悉尼邦迪海滩枪击案的不实信息。",
     "date": "2025-12-14 23:46",
     "timestamp": 1765756008.043001
-  },
-  {
-    "title": "AI data center boom could be bad news for other infrastructure projects",
-    "link": "https://techcrunch.com/2025/12/13/ai-data-center-boom-could-be-bad-news-for-other-infrastructure-projects/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-2152222109.jpg?resize=1200,800",
-    "summary": "数据中心建设加速或挤占道路桥梁等基础设施改善资源。",
-    "date": "2025-12-13 19:46",
-    "timestamp": 1765655205.5783982
-  },
-  {
-    "title": "OpenAI built an AI coding agent and uses it to improve the agent itself",
-    "link": "https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
-    "summary": "OpenAI表示其新款AI编程代理Codex主要由自身生成，强调其高度自主的开发能力。",
-    "date": "2025-12-12 22:49",
-    "timestamp": 1765579756.387725
   }
 ]
