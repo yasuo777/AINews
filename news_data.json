@@ -1,5 +1,21 @@
 [
   {
+    "title": "Stewart Cheifet, PBS host who chronicled the PC revolution, dies at 87",
+    "link": "https://arstechnica.com/gadgets/2026/01/stewart-cheifet-pbs-host-who-chronicled-the-pc-revolution-dies-at-87/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/cheifet_obit-1152x648.jpg",
+    "summary": "科技记者Cheifet制作超400集电视节目，系统记录个人计算机发展历程。",
+    "date": "2026-01-05 20:52",
+    "timestamp": 1767646379.3410313
+  },
+  {
+    "title": "Amazon Alexa+ released to the general public via an early access website",
+    "link": "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2201505743-1024x648.jpg",
+    "summary": "亚马逊将恢复网页版Alexa服务，但未来计划增设付费墙，部分功能需订阅使用。",
+    "date": "2026-01-05 20:53",
+    "timestamp": 1767646381.2849524
+  },
+  {
     "title": "CES 2026: Follow live as NVIDIA, Lego, AMD, Amazon, and more make their big reveals",
     "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254142389-1.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "借助传感器实现对手指独立操控，可有效缓解人机交互中的控制难题。",
     "date": "2025-12-12 19:46",
     "timestamp": 1765568807.1544435
-  },
-  {
-    "title": "Trump tries to block state AI laws himself after Congress decided not to",
-    "link": "https://arstechnica.com/tech-policy/2025/12/trump-tries-to-block-state-ai-laws-himself-after-congress-decided-not-to/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/trump-august-2025-1152x648-1756146125.jpg",
-    "summary": "特朗普称美国州立法强制AI模型植入“意识形态偏见”。",
-    "date": "2025-12-12 18:57",
-    "timestamp": 1765565837.961446
-  },
-  {
-    "title": "Trump’s AI executive order promises ‘one rulebook’ — startups may get legal limbo instead",
-    "link": "https://techcrunch.com/2025/12/12/trumps-ai-executive-order-promises-one-rulebook-startups-may-get-legal-limbo-instead/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225853634.jpg?w=1024",
-    "summary": "特朗普签署行政令，旨在统一美国人工智能监管规则，取代各州法规。批评者指出此举可能引发法律争端，增加初创企业不确定性，而国会仍在讨论联邦立法。",
-    "date": "2025-12-12 17:49",
-    "timestamp": 1765561780.956855
   }
 ]
