@@ -1,5 +1,29 @@
 [
   {
+    "title": "California lawmaker proposes a four-year ban on AI chatbots in kid’s toys",
+    "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2226429342.jpg?w=1024",
+    "summary": "美国参议员帕迪利亚提出新法案，要求制定安全规范前禁止玩具内置AI聊天功能，称\"儿童不应成为科技公司的实验品\"。",
+    "date": "2026-01-06 20:50",
+    "timestamp": 1767732643.406879
+  },
+  {
+    "title": "The most bizarre tech announced so far at CES 2026",
+    "link": "https://techcrunch.com/2026/01/06/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/C36A3152.jpg?resize=1200,800",
+    "summary": "CES 2026展会上，AI熊猫宠物、桌面动漫少女全息投影等前沿产品亮相，展现了消费电子领域融合人工智能与沉浸式体验的创新趋势。",
+    "date": "2026-01-06 20:50",
+    "timestamp": 1767732645.44064
+  },
+  {
+    "title": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
+    "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/XPS-16-1152x648-1767726799.jpeg",
+    "summary": "戴尔调整战略重心，从主推“AI PC”概念回归到笔记本电脑的核心性能与用户体验。",
+    "date": "2026-01-06 20:50",
+    "timestamp": 1767732648.0377438
+  },
+  {
     "title": "Intel is building a handheld gaming platform including a dedicated chip",
     "link": "https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "2024年词典收录“AI垃圾”一词，用以定义低质量人工智能生成内容，标志该现象已获正式语言认可。",
     "date": "2025-12-15 22:50",
     "timestamp": 1765839030.948655
-  },
-  {
-    "title": "Creative Commons announces tentative support for AI ‘pay-to-crawl’ systems",
-    "link": "https://techcrunch.com/2025/12/15/creative-commons-announces-tentative-support-for-ai-pay-to-crawl-systems/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
-    "summary": "该组织支持建立人工智能市场的构想，并提出了若干指导原则。",
-    "date": "2025-12-15 21:49",
-    "timestamp": 1765835350.3061523
-  },
-  {
-    "title": "Lightspeed raises record $9B in fresh capital",
-    "link": "https://techcrunch.com/2025/12/15/lightspeed-raises-record-9b-in-fresh-capital/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1135021039.jpg?resize=1200,675",
-    "summary": "硅谷公司巨额融资将用于持续投资高投入的AI初创企业。",
-    "date": "2025-12-15 20:52",
-    "timestamp": 1765831973.2347376
-  },
-  {
-    "title": "Merriam-Webster names ‘slop’ the word of the year",
-    "link": "https://techcrunch.com/2025/12/15/merriam-webster-names-slop-the-word-of-the-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-119707787-e1729681720847.jpg?resize=1200,801",
-    "summary": "过去一年AI生成内容席卷网络，美国词典将\"hallucinate\"（AI幻觉）列为年度词汇，凸显人工智能在信息生成中的影响与问题。",
-    "date": "2025-12-15 20:52",
-    "timestamp": 1765831975.5811005
   }
 ]
