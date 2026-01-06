@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia to accelerate Siemens chip-design tools using its GPUs",
+    "link": "https://techcrunch.com/2026/01/06/nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+    "summary": "英伟达在CES 2026宣布，将助力西门子电子设计自动化软件在其GPU上运行，以加速芯片设计流程。此举旨在应对芯片制程微缩与晶体管数量激增带来的计算挑战。",
+    "date": "2026-01-06 18:57",
+    "timestamp": 1767725826.5330663
+  },
+  {
     "title": "Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia",
     "link": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/cfs-sparc-first-magnet-installation.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI初创公司First Voyage完成250万美元种子轮融资，投资方包括a16z speed run、SignalFire、True Global等机构。",
     "date": "2025-12-15 14:58",
     "timestamp": 1765810686.8749855
-  },
-  {
-    "title": "Nvidia reportedly weighs ramping up H200 production to meet surging demand in China",
-    "link": "https://techcrunch.com/2025/12/15/nvidia-is-reportedly-weighs-ramping-up-h200-production-to-meet-surging-demand-in-china/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205210966.jpg?resize=1200,800",
-    "summary": "英伟达在成功游说美国政府批准对华销售H200芯片后，正考虑增加产能以扩大该芯片生产。",
-    "date": "2025-12-15 14:58",
-    "timestamp": 1765810688.862364
   }
 ]
