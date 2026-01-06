@@ -1,5 +1,13 @@
 [
   {
+    "title": "Intel is building a handheld gaming platform including a dedicated chip",
+    "link": "https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024",
+    "summary": "英特尔宣布进军手持游戏设备芯片市场，将多年PC端的技术积累扩展至便携设备领域。",
+    "date": "2026-01-06 19:48",
+    "timestamp": 1767728922.6228714
+  },
+  {
     "title": "Nvidia to accelerate Siemens chip-design tools using its GPUs",
     "link": "https://techcrunch.com/2026/01/06/nvidia-to-accelerate-siemens-chip-design-tools-using-its-gpus/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "过去一年AI生成内容席卷网络，美国词典将\"hallucinate\"（AI幻觉）列为年度词汇，凸显人工智能在信息生成中的影响与问题。",
     "date": "2025-12-15 20:52",
     "timestamp": 1765831975.5811005
-  },
-  {
-    "title": "First Voyage raises $2.5M for its AI companion helps you build habits",
-    "link": "https://techcrunch.com/2025/12/15/first-voyage-raises-2-5m-for-its-ai-companion-helps-you-build-habits/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Copa.png?resize=1200,675",
-    "summary": "AI初创公司First Voyage完成250万美元种子轮融资，投资方包括a16z speed run、SignalFire、True Global等机构。",
-    "date": "2025-12-15 14:58",
-    "timestamp": 1765810686.8749855
   }
 ]
