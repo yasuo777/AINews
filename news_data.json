@@ -1,5 +1,13 @@
 [
   {
+    "title": "xAI says it raised $20B in Series E funding",
+    "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
+    "summary": "xAI获英伟达等多家投资，但未披露具体投资形式为股权或债权。",
+    "date": "2026-01-06 21:50",
+    "timestamp": 1767736207.6135666
+  },
+  {
     "title": "California lawmaker proposes a four-year ban on AI chatbots in kid’s toys",
     "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2226429342.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英伟达收购Slurm主要开发商SchedMD，并推出开源AI模型系列Nemotron 3。",
     "date": "2025-12-15 22:50",
     "timestamp": 1765839028.3243434
-  },
-  {
-    "title": "Merriam-Webster crowns “slop” word of the year as AI content floods Internet",
-    "link": "https://arstechnica.com/ai/2025/12/merriam-webster-crowns-slop-word-of-the-year-as-ai-content-floods-internet/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2241620003-1152x648-1765829622.jpg",
-    "summary": "2024年词典收录“AI垃圾”一词，用以定义低质量人工智能生成内容，标志该现象已获正式语言认可。",
-    "date": "2025-12-15 22:50",
-    "timestamp": 1765839030.948655
   }
 ]
