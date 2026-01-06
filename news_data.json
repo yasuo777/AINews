@@ -1,5 +1,21 @@
 [
   {
+    "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+    "link": "https://techcrunch.com/2026/01/06/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
+    "summary": "CES 2026于拉斯维加斯举行，展会已向公众开放。英伟达、索尼、AMD等企业相继发布新品，人工智能技术继续成为本届展会核心焦点。",
+    "date": "2026-01-06 22:52",
+    "timestamp": 1767739955.8903449
+  },
+  {
+    "title": "A viral Reddit post alleging fraud from a food delivery app turned out to be AI-generated",
+    "link": "https://techcrunch.com/2026/01/06/a-viral-reddit-post-alleging-fraud-from-a-food-delivery-app-turned-out-to-be-ai-generated/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/reddit-ipo-v2.jpg?resize=1200,675",
+    "summary": "虚假内容一旦广泛传播，即使事后被澄清，其造成的损害也已难以挽回。",
+    "date": "2026-01-06 22:52",
+    "timestamp": 1767739957.7690217
+  },
+  {
     "title": "xAI says it raised $20B in Series E funding",
     "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Chai公司正开发药物研发基础模型，专注于预测分子间相互作用，以通过分子重编程技术开发新疗法。",
     "date": "2025-12-15 23:48",
     "timestamp": 1765842498.630915
-  },
-  {
-    "title": "Disney’s OpenAI deal is exclusive for just one year  — then it’s open season",
-    "link": "https://techcrunch.com/2025/12/15/disneys-openai-deal-is-exclusive-for-just-one-year-then-its-open-season/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-    "summary": "迪士尼一年期满后可自由与其他AI公司签署类似协议。",
-    "date": "2025-12-15 22:50",
-    "timestamp": 1765839026.3637056
-  },
-  {
-    "title": "Nvidia bulks up open source offerings with an acquisition and new open AI models",
-    "link": "https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-    "summary": "英伟达收购Slurm主要开发商SchedMD，并推出开源AI模型系列Nemotron 3。",
-    "date": "2025-12-15 22:50",
-    "timestamp": 1765839028.3243434
   }
 ]
