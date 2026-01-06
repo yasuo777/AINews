@@ -1,5 +1,13 @@
 [
   {
+    "title": "Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia",
+    "link": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/cfs-sparc-first-magnet-installation.jpeg?resize=1200,800",
+    "summary": "核聚变领先企业宣布其Sparc反应堆建设按计划推进，并正构建数字孪生系统以优化运行参数。",
+    "date": "2026-01-06 16:59",
+    "timestamp": 1767718776.3960273
+  },
+  {
     "title": "AMD unveils new AI PC processors for general use and gaming at CES",
     "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Ryzen-AI-Blog-1200x675-1.jpg?w=960",
@@ -790,13 +798,5 @@
     "summary": "英伟达在成功游说美国政府批准对华销售H200芯片后，正考虑增加产能以扩大该芯片生产。",
     "date": "2025-12-15 14:58",
     "timestamp": 1765810688.862364
-  },
-  {
-    "title": "Mirelo raises $41M from Index and a16z to solve AI video’s silent problem",
-    "link": "https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Mirelo-cofounders.jpg?resize=1200,800",
-    "summary": "德国初创公司Mirelo完成4100万美元种子轮融资，由Index Ventures和Andreessen Horowitz领投。该公司专注于开发为视频自动添加同步音效的AI技术。",
-    "date": "2025-12-15 13:26",
-    "timestamp": 1765805194.085657
   }
 ]
