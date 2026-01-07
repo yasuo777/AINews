@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
+    "link": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chatgpt-health1.webp?resize=1200,857",
+    "summary": "OpenAI将推出健康咨询专用聊天功能，为用户提供与ChatGPT进行健康对话的专属空间，预计数周内上线。",
+    "date": "2026-01-07 21:49",
+    "timestamp": 1767822593.2917442
+  },
+  {
     "title": "Where VCs think AI startups can win, even with OpenAI in the game",
     "link": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/meta-oakley.jpg?resize=1200,890",
@@ -790,13 +798,5 @@
     "summary": "MoEngage获投后估值超9亿美元。",
     "date": "2025-12-17 05:51",
     "timestamp": 1765950669.0149033
-  },
-  {
-    "title": "DoorDash rolls out Zesty, an AI social app for discovering new restaurants",
-    "link": "https://techcrunch.com/2025/12/16/doordash-rolls-out-zesty-an-ai-social-app-for-discovering-new-restaurants/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/imgi_5_generic-shareable-thumbnail.png?w=1183",
-    "summary": "该应用是一款餐饮社交平台，用户可分享餐厅实拍与点评，浏览他人内容并关注好友，功能类似主流社交网络。",
-    "date": "2025-12-16 18:58",
-    "timestamp": 1765911537.349427
   }
 ]
