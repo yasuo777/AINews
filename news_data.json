@@ -1,5 +1,29 @@
 [
   {
+    "title": "Where VCs think AI startups can win, even with OpenAI in the game",
+    "link": "https://techcrunch.com/video/where-vcs-think-ai-startups-can-win-even-with-openai-in-the-game/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/meta-oakley.jpg?resize=1200,890",
+    "summary": "风投机构Premise合伙人Vanessa Larco预测，2026年将成为消费级AI元年。她认为，AI驱动的“礼宾式”服务将重塑用户在线行为模式，并对现有消费级产品构成挑战。",
+    "date": "2026-01-07 18:59",
+    "timestamp": 1767812392.5300734
+  },
+  {
+    "title": "Anthropic reportedly raising $10B at $350B valuation",
+    "link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "据报道，人工智能公司Anthropic正洽谈以3500亿美元估值融资100亿美元，这将是该公司一年内的第三轮大规模融资。",
+    "date": "2026-01-07 18:59",
+    "timestamp": 1767812394.8904536
+  },
+  {
+    "title": "VC predicts the consumer AI products OpenAI ‘won’t want to kill’",
+    "link": "https://techcrunch.com/podcast/investing-in-the-consumer-ai-products-openai-wont-want-to-kill/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/230829_NEA_MenloPark_VanessaLarco_0087-e1718215170281.jpg?resize=926,1200",
+    "summary": "风投机构Premise合伙人Vanessa Larco预测，2026年将成为消费级AI元年。她认为AI将催生“管家式”服务，改变用户在线行为，并可能冲击WebMD等传统独立应用。",
+    "date": "2026-01-07 18:59",
+    "timestamp": 1767812397.3706107
+  },
+  {
     "title": "Caterpillar taps Nvidia to bring AI to its construction equipment",
     "link": "https://techcrunch.com/2026/01/07/caterpillar-taps-nvidia-to-bring-ai-to-its-construction-equipment/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/ces-caterpillar.jpg?resize=1200,900",
@@ -774,29 +798,5 @@
     "summary": "该应用是一款餐饮社交平台，用户可分享餐厅实拍与点评，浏览他人内容并关注好友，功能类似主流社交网络。",
     "date": "2025-12-16 18:58",
     "timestamp": 1765911537.349427
-  },
-  {
-    "title": "Meta’s AI glasses can now help you hear conversations better",
-    "link": "https://techcrunch.com/2025/12/16/metas-ai-glasses-can-now-help-you-hear-conversations-better/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Conversation-Focus_Social-Share.webp?resize=1200,675",
-    "summary": "Meta推出AI眼镜新功能“对话聚焦”，利用开放式耳机增强对话者语音，提升沟通清晰度。",
-    "date": "2025-12-16 18:58",
-    "timestamp": 1765911539.3899672
-  },
-  {
-    "title": "OpenAI continues on its ‘code red’ warpath with new image generation model",
-    "link": "https://techcrunch.com/2025/12/16/openai-continues-on-its-code-red-warpath-with-new-image-generation-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/skating-3.png?resize=1200,800",
-    "summary": "OpenAI推出GPT-Image-1.5模型，图像生成速度提升四倍，指令遵循与编辑精度显著增强。此举加剧了与谷歌Gemini的竞争态势。",
-    "date": "2025-12-16 18:59",
-    "timestamp": 1765911541.7658362
-  },
-  {
-    "title": "Databricks raises $4B at $134B valuation as its AI business heats up",
-    "link": "https://techcrunch.com/2025/12/16/databricks-raises-4b-at-134b-valuation-as-its-ai-business-heats-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/tc-databricks-only-1600x900-1.webp?resize=1200,675",
-    "summary": "数据智能公司近日完成L轮超40亿美元融资，估值达1340亿美元，较三个月前千亿估值增长34%。",
-    "date": "2025-12-16 14:56",
-    "timestamp": 1765896994.487277
   }
 ]
