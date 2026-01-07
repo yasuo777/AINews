@@ -1,5 +1,13 @@
 [
   {
+    "title": "Intel spinout Articul8 raises more than half of $70M round at $500M valuation",
+    "link": "https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/articul8-founder-arun-k-subramaniyan.jpg?resize=1200,800",
+    "summary": "英特尔旗下AI公司Articul8在新一轮融资中估值较A轮增长约五倍。",
+    "date": "2026-01-07 13:25",
+    "timestamp": 1767792320.942585
+  },
+  {
     "title": "McKinsey and General Catalyst execs say the era of ‘learn once, work forever’ is over",
     "link": "https://techcrunch.com/2026/01/06/mckinsey-and-general-catalyst-execs-say-the-era-of-learn-once-work-forever-is-over/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-06-at-6.30.05-PM.png?resize=1200,684",
@@ -790,13 +798,5 @@
     "summary": "Adobe更新其AI视频应用Firefly，新增支持精准提示编辑的视频编辑器，并集成FLUX.2和Topaz Astra等第三方图像视频生成模型。",
     "date": "2025-12-16 14:56",
     "timestamp": 1765896997.0521572
-  },
-  {
-    "title": "Everbloom built an AI to turn chicken feathers into cashmere",
-    "link": "https://techcrunch.com/2025/12/16/everbloom-built-an-ai-to-turn-chicken-feathers-into-cashmere/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Everbloom-fibers.jpeg?resize=1200,800",
-    "summary": "Everbloom公司研发出一种化学工艺，可将废弃纤维和羽毛转化为升级再造材料，其质感可媲美聚酯乃至羊绒等多种面料。",
-    "date": "2025-12-16 13:24",
-    "timestamp": 1765891496.221513
   }
 ]
