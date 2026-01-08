@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
+    "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1224612965.jpg?resize=1200,842",
+    "summary": "多家AI公司因涉嫌损害用户权益被诉，现已达成首批和解。",
+    "date": "2026-01-08 02:34",
+    "timestamp": 1767839651.3939052
+  },
+  {
+    "title": "Ford has an AI assistant and new hands-free BlueCruise tech on the way",
+    "link": "https://techcrunch.com/2026/01/07/ford-has-an-ai-assistant-and-new-hands-free-bluecruise-tech-on-the-way/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ford-ai-assistant.jpg?w=589",
+    "summary": "福特宣布新一代BlueCruise驾驶辅助系统的制造成本将比现有技术降低30%。",
+    "date": "2026-01-08 02:34",
+    "timestamp": 1767839653.5451608
+  },
+  {
     "title": "OpenAI unveils ChatGPT Health, says 230 million users ask about health each week",
     "link": "https://techcrunch.com/2026/01/07/openai-unveils-chatgpt-health-says-230-million-users-ask-about-health-each-week/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/chatgpt-health1.webp?resize=1200,857",
@@ -782,21 +798,5 @@
     "summary": "Skana Robotics开发决策算法，助力无人船舶根据他船数据实时响应与自适应。",
     "date": "2025-12-17 14:56",
     "timestamp": 1765983377.0584717
-  },
-  {
-    "title": "Amazon reportedly in talks to invest $10B in OpenAI as circular deals stay popular",
-    "link": "https://techcrunch.com/2025/12/17/amazon-reportedly-in-talks-to-invest-10b-in-openai-as-circular-deals-stay-popular/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "亚马逊正初步洽谈向OpenAI投资高达100亿美元，交易将推动该AI实验室使用亚马逊自研AI芯片。",
-    "date": "2025-12-17 13:22",
-    "timestamp": 1765977720.886897
-  },
-  {
-    "title": "Weeks after raising $100M, investors pump another $180M into hot Indian startup MoEngage",
-    "link": "https://techcrunch.com/2025/12/16/weeks-after-raising-100m-investors-pump-another-180m-into-hot-indian-startup-moengage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/moengage-ceo.jpg?resize=1200,800",
-    "summary": "MoEngage获投后估值超9亿美元。",
-    "date": "2025-12-17 05:51",
-    "timestamp": 1765950669.0149033
   }
 ]
