@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why this VC thinks 2026 will be ‘the year of the consumer’",
+    "link": "https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/vanessa-larco-disrupt.jpg?resize=1200,800",
+    "summary": "企业AI应用因缺乏切入点而停滞。风投人士Vanessa Larco预测，2026年将迎来消费级AI的突破之年。",
+    "date": "2026-01-08 14:57",
+    "timestamp": 1767884251.0115325
+  },
+  {
+    "title": "Gmail debuts a personalized AI Inbox, AI Overviews in search, and more",
+    "link": "https://techcrunch.com/2026/01/08/gmail-debuts-a-personalized-ai-inbox-ai-overviews-in-search-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+    "summary": "Gmail向所有用户免费开放此前仅限付费用户的AI功能。",
+    "date": "2026-01-08 14:57",
+    "timestamp": 1767884252.7802224
+  },
+  {
+    "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
+    "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/AI-chatbot-threat-1152x648.jpg",
+    "summary": "大型语言模型或难以根除网络攻击的根本原因。",
+    "date": "2026-01-08 14:57",
+    "timestamp": 1767884255.428316
+  },
+  {
     "title": "Former Bolt CEO Maju Kuruvilla’s startup triples to $100M valuation",
     "link": "https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/spangle-ceo-maju-kuruvilla.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "亚马逊前高管德桑蒂斯任职27年，其中八年担任AWS高级副总裁，该云服务支撑全球约三分之一互联网运行。",
     "date": "2025-12-17 18:59",
     "timestamp": 1765997954.0990586
-  },
-  {
-    "title": "Google launches Gemini 3 Flash, makes it the default model in the Gemini app",
-    "link": "https://techcrunch.com/2025/12/17/google-launches-gemini-3-flash-makes-it-the-default-model-in-the-gemini-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/gemini-3_flash_model_blog_header_dark_bleed_2096x1182.jpeg?resize=1200,677",
-    "summary": "谷歌宣布将Gemini 3 Flash设为Gemini应用及搜索AI服务的默认模型。",
-    "date": "2025-12-17 16:59",
-    "timestamp": 1765990763.6654446
-  },
-  {
-    "title": "Mozilla’s new CEO says AI is coming to Firefox, but will remain a choice",
-    "link": "https://techcrunch.com/2025/12/17/mozillas-new-ceo-says-ai-is-coming-to-firefox-but-will-remain-a-choice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-956152050.jpg?resize=1200,900",
-    "summary": "Mozilla任命安东尼·恩佐尔-德梅奥为新任CEO，以期带领Firefox在快速变化的浏览器市场中调整战略、寻求突破。",
-    "date": "2025-12-17 15:54",
-    "timestamp": 1765986860.4378576
-  },
-  {
-    "title": "Google’s vibe-coding tool Opal comes to Gemini",
-    "link": "https://techcrunch.com/2025/12/17/googles-vibe-coding-tool-opal-comes-to-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Google-Opal.jpg?resize=1200,675",
-    "summary": "该公司周三宣布，将把可构建AI驱动小程序的工具集成至Gemini网页应用中，使用户能够创建自定义应用。",
-    "date": "2025-12-17 15:54",
-    "timestamp": 1765986862.839915
   }
 ]
