@@ -1,5 +1,29 @@
 [
   {
+    "title": "The most bizarre tech announced so far at CES 2026",
+    "link": "https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/C36A3152.jpg?resize=1200,800",
+    "summary": "CES 2026展会上，人工智能与虚拟形象产品引人注目，如AI熊猫宠物和桌面动漫少女全息影像，展现了消费电子领域的创新趋势。",
+    "date": "2026-01-08 17:54",
+    "timestamp": 1767894894.238274
+  },
+  {
+    "title": "CES 2026: Follow live for the best, weirdest, and most interesting tech as physical AI and robots dominate the event",
+    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-physical-ai-and-robots-dominates-the-event/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254142389-1.jpg?w=1024",
+    "summary": "CES 2026消费电子展在拉斯维加斯举行，AI成为本届焦点。TechCrunch团队现场直击，涵盖英伟达、AMD新品发布及亚马逊、谷歌在实体世界的AI应用，带来最新产品与动态。",
+    "date": "2026-01-08 17:54",
+    "timestamp": 1767894898.6542473
+  },
+  {
+    "title": "Nvidia’s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
+    "link": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
+    "summary": "英伟达要求中国客户全款预付H200芯片订单，而该产品尚未获得中美两国监管批准。",
+    "date": "2026-01-08 17:55",
+    "timestamp": 1767894900.6061785
+  },
+  {
     "title": "Snowflake announces its intent to buy observability platform Observe",
     "link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2215876044.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Luma AI发布新模型，现已通过其Dream Machine平台开放使用。",
     "date": "2025-12-18 14:54",
     "timestamp": 1766069680.1248279
-  },
-  {
-    "title": "Vibe-coding startup Lovable raises $330M at a $6.6B valuation",
-    "link": "https://techcrunch.com/2025/12/18/vibe-coding-startup-lovable-raises-330m-at-a-6-6b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
-    "summary": "宠物品牌Lovable估值在五个月内增长超两倍，距其七月上一轮融资后大幅跃升。",
-    "date": "2025-12-18 14:54",
-    "timestamp": 1766069682.2862623
-  },
-  {
-    "title": "Amazon’s new Alexa+ feature adds conversational AI to Ring doorbells",
-    "link": "https://techcrunch.com/2025/12/18/amazons-new-alexa-feature-adds-conversational-ai-to-ring-doorbells/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/20250714_lifestyle_wireddoorbellprogen3_sn_frontdoor_RGB.jpeg?resize=1200,675",
-    "summary": "亚马逊宣布，其新功能通过分析智能门铃视频描述，依据人物着装、行为及手持物品等信息，自动识别来访者身份。",
-    "date": "2025-12-18 14:54",
-    "timestamp": 1766069684.880151
-  },
-  {
-    "title": "Adobe hit with proposed class-action, accused of misusing authors’ work in AI training",
-    "link": "https://techcrunch.com/2025/12/17/adobe-hit-with-proposed-class-action-accused-of-misusing-authors-work-in-ai-training/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-    "summary": "针对AI产业的最新版权诉讼，标志着该领域正面临日益密集的法律挑战。",
-    "date": "2025-12-18 02:27",
-    "timestamp": 1766024833.2115016
   }
 ]
