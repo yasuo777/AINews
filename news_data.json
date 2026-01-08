@@ -1,5 +1,13 @@
 [
   {
+    "title": "Former Bolt CEO Maju Kuruvilla’s startup triples to $100M valuation",
+    "link": "https://techcrunch.com/2026/01/08/former-bolt-ceo-maju-kuruvillas-startup-triples-to-100m-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/spangle-ceo-maju-kuruvilla.jpg?resize=1200,800",
+    "summary": "AI购物平台Spangle完成1500万美元A轮融资，将用于拓展AI生成购物体验业务。",
+    "date": "2026-01-08 14:00",
+    "timestamp": 1767880818.711734
+  },
+  {
     "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
     "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1224612965.jpg?resize=1200,842",
@@ -790,13 +798,5 @@
     "summary": "该公司周三宣布，将把可构建AI驱动小程序的工具集成至Gemini网页应用中，使用户能够创建自定义应用。",
     "date": "2025-12-17 15:54",
     "timestamp": 1765986862.839915
-  },
-  {
-    "title": "Skana Robotics helps fleets of underwater robots communicate with each other",
-    "link": "https://techcrunch.com/2025/12/17/skana-robotics-helps-fleets-of-underwater-robots-communicate-with-each-other/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Skana.jpg?resize=1200,1200",
-    "summary": "Skana Robotics开发决策算法，助力无人船舶根据他船数据实时响应与自适应。",
-    "date": "2025-12-17 14:56",
-    "timestamp": 1765983377.0584717
   }
 ]
