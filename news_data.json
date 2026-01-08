@@ -1,5 +1,21 @@
 [
   {
+    "title": "Snowflake announces its intent to buy observability platform Observe",
+    "link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2215876044.jpg?w=1024",
+    "summary": "Snowflake正升级其数据平台，以应对AI智能体产生的海量数据，优化平台的数据处理与存储能力。",
+    "date": "2026-01-08 17:01",
+    "timestamp": 1767891665.108035
+  },
+  {
+    "title": "Elon Musk’s lawsuit against OpenAI will face a jury in March",
+    "link": "https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
+    "summary": "美国法官指出，有证据显示OpenAI领导层曾承诺保持非营利架构，相关诉讼将于三月开庭审理。",
+    "date": "2026-01-08 17:01",
+    "timestamp": 1767891667.3939793
+  },
+  {
     "title": "Why this VC thinks 2026 will be ‘the year of the consumer’",
     "link": "https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/vanessa-larco-disrupt.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "针对AI产业的最新版权诉讼，标志着该领域正面临日益密集的法律挑战。",
     "date": "2025-12-18 02:27",
     "timestamp": 1766024833.2115016
-  },
-  {
-    "title": "OpenAI’s new ChatGPT image generator makes faking photos easy",
-    "link": "https://arstechnica.com/ai/2025/12/openais-new-chatgpt-image-generator-makes-faking-photos-easy/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/barbarian_crt_1-1152x648.jpg",
-    "summary": "OpenAI发布GPT Image 1.5，其增强的对话式图像编辑功能可实现更精细的图像修改，同时引发对技术滥用的担忧。",
-    "date": "2025-12-17 22:50",
-    "timestamp": 1766011854.5282826
-  },
-  {
-    "title": "Amazon appoints longtime AWS exec Peter DeSantis to lead new AI org",
-    "link": "https://techcrunch.com/2025/12/17/amazon-appoints-longtime-aws-exec-peter-desantis-to-lead-new-ai-org/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/amazon-data-center.png?resize=1200,675",
-    "summary": "亚马逊前高管德桑蒂斯任职27年，其中八年担任AWS高级副总裁，该云服务支撑全球约三分之一互联网运行。",
-    "date": "2025-12-17 18:59",
-    "timestamp": 1765997954.0990586
   }
 ]
