@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
+    "link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+    "summary": "OpenAI以全股票交易方式收购AI高管培训工具Convogo团队，延续其近期并购扩张态势。",
+    "date": "2026-01-08 18:57",
+    "timestamp": 1767898674.4718099
+  },
+  {
+    "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
+    "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai_doctor-1152x648.jpg",
+    "summary": "谷歌拟推出新功能，允许用户将个人健康数据与AI聊天机器人关联，以获取个性化健康建议。",
+    "date": "2026-01-08 18:57",
+    "timestamp": 1767898677.4977672
+  },
+  {
     "title": "The most bizarre tech announced so far at CES 2026",
     "link": "https://techcrunch.com/2026/01/08/the-most-bizarre-tech-announced-so-far-at-ces-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/C36A3152.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "英国前财政大臣乔治·奥斯本加入OpenAI，担任董事总经理兼全球事务主管，并将同时负责Coinbase内部咨询委员会。",
     "date": "2025-12-18 20:50",
     "timestamp": 1766091014.8363671
-  },
-  {
-    "title": "Peripheral Labs taps into self-driving car sensors to bring sports fans right into the game",
-    "link": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_7393_w_logo.jpeg?resize=1200,799",
-    "summary": "初创公司获科斯拉领投360万美元种子轮融资。",
-    "date": "2025-12-18 16:58",
-    "timestamp": 1766077134.7456646
-  },
-  {
-    "title": "Luma releases a new AI model that lets users generate a video from a start  and end frame",
-    "link": "https://techcrunch.com/2025/12/18/luma-releases-a-new-ai-model-that-lets-users-generate-a-video-from-a-start-and-end-frame/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Ray3Modify.png?resize=1200,675",
-    "summary": "Luma AI发布新模型，现已通过其Dream Machine平台开放使用。",
-    "date": "2025-12-18 14:54",
-    "timestamp": 1766069680.1248279
   }
 ]
