@@ -1,5 +1,13 @@
 [
   {
+    "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
+    "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/CMC_8086.jpg?resize=1200,800",
+    "summary": "Ozlo将推出新款睡眠耳塞，集成AI功能，计划今年实现重大市场突破。",
+    "date": "2026-01-09 19:47",
+    "timestamp": 1767988030.3332877
+  },
+  {
     "title": "CES 2026 was all about ‘physical AI’ and robots, robots, robots",
     "link": "https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/atlas-announcement.jpg?resize=1200,847",
@@ -790,13 +798,5 @@
     "summary": "本周硬件行业遭遇重挫，iRobot、Luminar与Rad Power Bikes相继申请破产。尽管各公司面临关税、供应链及市场变化等不同压力，但共同反映出在全球贸易紧张与海外低价竞争下，实体产品制造正面临严峻挑战。",
     "date": "2025-12-19 18:56",
     "timestamp": 1766170608.6831224
-  },
-  {
-    "title": "OpenAI adds new teen safety rules to ChatGPT as lawmakers weigh AI standards for minors",
-    "link": "https://techcrunch.com/2025/12/19/openai-adds-new-teen-safety-rules-to-models-as-lawmakers-weigh-ai-standards-for-minors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-944229988-teens-on-phones.jpeg?resize=1200,800",
-    "summary": "OpenAI更新了针对未成年用户的AI使用指南，并发布了面向青少年及家长的AI素养资源。但政策如何有效落实仍存疑问。",
-    "date": "2025-12-19 18:56",
-    "timestamp": 1766170611.5057902
   }
 ]
