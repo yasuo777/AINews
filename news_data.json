@@ -1,5 +1,13 @@
 [
   {
+    "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
+    "link": "https://techcrunch.com/2026/01/09/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
+    "summary": "CES 2026在拉斯维加斯举行，在英伟达、索尼、AMD等厂商发布会后，展会现已向公众开放。",
+    "date": "2026-01-09 22:51",
+    "timestamp": 1767999105.191102
+  },
+  {
     "title": "How the Sleepbuds maker, Ozlo, is building a platform for sleep data",
     "link": "https://techcrunch.com/2026/01/09/how-the-sleepbuds-maker-ozlo-is-building-a-platform-for-sleep-data/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/CMC_8086.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "著名AI科学家Yann LeCun周四证实已创立新公司，但表示不会担任CEO。",
     "date": "2025-12-19 19:46",
     "timestamp": 1766173608.0482047
-  },
-  {
-    "title": "Hardware’s brutal week: iRobot, Luminar, and Rad Power go bankrupt",
-    "link": "https://techcrunch.com/podcast/hardwares-brutal-week-irobot-luminar-and-rad-power-go-bankrupt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2011/01/irobot-scooba-230.jpg?w=640",
-    "summary": "本周硬件行业遭遇重挫，iRobot、Luminar与Rad Power Bikes相继申请破产。尽管各公司面临关税、供应链及市场变化等不同压力，但共同反映出在全球贸易紧张与海外低价竞争下，实体产品制造正面临严峻挑战。",
-    "date": "2025-12-19 18:56",
-    "timestamp": 1766170608.6831224
   }
 ]
