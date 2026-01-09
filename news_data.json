@@ -1,5 +1,13 @@
 [
   {
+    "title": "X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire",
+    "link": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
+    "summary": "马斯克旗下AI公司因Grok图像生成功能可制作儿童及女性色情图像引发全球争议，现已宣布该功能仅限X平台付费用户使用。",
+    "date": "2026-01-09 14:55",
+    "timestamp": 1767970523.1509511
+  },
+  {
     "title": "Anthropic adds Allianz to growing list of enterprise wins",
     "link": "https://techcrunch.com/2026/01/09/anthropic-adds-allianz-to-growing-list-of-enterprise-wins/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?resize=1200,671",
@@ -790,13 +798,5 @@
     "summary": "OpenAI计划在2026年第一季度末完成新一轮融资，并考虑引入主权财富基金作为投资方。",
     "date": "2025-12-19 13:53",
     "timestamp": 1766152392.0758595
-  },
-  {
-    "title": "LLMs’ impact on science: Booming publications, stagnating quality",
-    "link": "https://arstechnica.com/science/2025/12/llms-impact-on-science-booming-publications-stagnating-quality/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-839904424-1152x648.jpg",
-    "summary": "研究显示，学者使用大语言模型后论文数量上升，但质量未见提升。",
-    "date": "2025-12-18 21:46",
-    "timestamp": 1766094383.778567
   }
 ]
