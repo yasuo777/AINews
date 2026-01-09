@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
+    "link": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
+    "summary": "Oklo、TerraPower及Vistra三家公司与Meta签署合作协议，将为后者提供清洁能源支持。",
+    "date": "2026-01-09 17:52",
+    "timestamp": 1767981153.977629
+  },
+  {
     "title": "X restricts Grok’s image generation to paying subscribers only after drawing the world’s ire",
     "link": "https://techcrunch.com/2026/01/09/x-restricts-groks-image-generation-to-paying-subscribers-only-after-drawing-the-worlds-ire/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该公司正研发图像视频模型及辅助编程的文本模型，以拓展AI技术应用领域。",
     "date": "2025-12-19 16:55",
     "timestamp": 1766163333.4900575
-  },
-  {
-    "title": "OpenAI is reportedly trying to raise $100B at an $830B valuation",
-    "link": "https://techcrunch.com/2025/12/19/openai-is-reportedly-trying-to-raise-100b-at-an-830b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-teal.jpg?resize=1200,675",
-    "summary": "OpenAI计划在2026年第一季度末完成新一轮融资，并考虑引入主权财富基金作为投资方。",
-    "date": "2025-12-19 13:53",
-    "timestamp": 1766152392.0758595
   }
 ]
