@@ -1,5 +1,21 @@
 [
   {
+    "title": "CES 2026 was all about ‘physical AI’ and robots, robots, robots",
+    "link": "https://techcrunch.com/podcast/ces-2026-was-all-about-physical-ai-and-robots-robots-robots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/atlas-announcement.jpg?resize=1200,847",
+    "summary": "在CES 2026展会上，人工智能正从虚拟走向实体。以波士顿动力的新版Atlas人形机器人为代表，“实体AI”与机器人技术成为展会焦点，标志着AI向物理世界应用的关键转变。",
+    "date": "2026-01-09 18:59",
+    "timestamp": 1767985150.299517
+  },
+  {
+    "title": "CES 2026: Follow live for the best, weirdest, most interesting tech as this robot and AI-heavy event wraps up",
+    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-for-the-best-weirdest-most-interesting-tech-as-this-robot-and-ai-heavy-event-wraps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254142389-1.jpg?w=1024",
+    "summary": "CES 2026消费电子展在拉斯维加斯举行，人工智能成为本届焦点，英伟达、AMD、亚马逊和谷歌等巨头纷纷发布相关技术与硬件。TechCrunch团队在现场为您带来实时报道。",
+    "date": "2026-01-09 18:59",
+    "timestamp": 1767985152.8369377
+  },
+  {
     "title": "Meta signs deals with three nuclear companies for 6-plus GW of power",
     "link": "https://techcrunch.com/2026/01/09/meta-signs-deals-with-three-nuclear-companies-for-6-plus-gw-of-power/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-129268875.jpg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "OpenAI更新了针对未成年用户的AI使用指南，并发布了面向青少年及家长的AI素养资源。但政策如何有效落实仍存疑问。",
     "date": "2025-12-19 18:56",
     "timestamp": 1766170611.5057902
-  },
-  {
-    "title": "Known uses voice AI to help you go on more in-person dates",
-    "link": "https://techcrunch.com/2025/12/19/known-uses-voice-ai-to-help-you-go-on-more-in-person-dates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Celeste-and-Asher-Headshot-feat-Known.jpg?resize=1200,675",
-    "summary": "AI营销平台Known完成970万美元融资，领投方为Forerunner与NFX，跟投方包括PearVC和Coelius Capital。",
-    "date": "2025-12-19 17:46",
-    "timestamp": 1766166384.6754286
-  },
-  {
-    "title": "Meta is developing a new image and video model for a 2026 release, report says",
-    "link": "https://techcrunch.com/2025/12/19/meta-is-developing-a-new-image-and-video-model-for-a-2026-release-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
-    "summary": "该公司正研发图像视频模型及辅助编程的文本模型，以拓展AI技术应用领域。",
-    "date": "2025-12-19 16:55",
-    "timestamp": 1766163333.4900575
   }
 ]
