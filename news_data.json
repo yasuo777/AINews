@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
+    "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "summary": "律师警告OpenAI当前策略存在重大法律风险。",
+    "date": "2026-01-10 21:47",
+    "timestamp": 1768081620.7324176
+  },
+  {
     "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
     "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI代码审查助手Graphite最新估值达2.9亿美元。",
     "date": "2025-12-19 22:49",
     "timestamp": 1766184568.1992188
-  },
-  {
-    "title": "LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems",
-    "link": "https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-1603701301-1152x648.jpg",
-    "summary": "LG将允许用户删除Copilot图标，但电视聊天机器人功能仍将保留。",
-    "date": "2025-12-19 21:47",
-    "timestamp": 1766180841.6957707
   }
 ]
