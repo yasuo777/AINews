@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google removes AI Overviews for certain medical queries",
+    "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698",
+    "summary": "《卫报》调查发现，谷歌AI概览功能在部分健康咨询中提供误导性信息，引发对其可靠性的质疑。",
+    "date": "2026-01-11 18:55",
+    "timestamp": 1768157708.059255
+  },
+  {
     "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
     "link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "ChatGPT新增自定义功能，用户可调节聊天机器人的语气热情度与表情符号使用频率。",
     "date": "2025-12-20 20:47",
     "timestamp": 1766263658.2755861
-  },
-  {
-    "title": "New York Governor Kathy Hochul signs RAISE Act to regulate AI safety",
-    "link": "https://techcrunch.com/2025/12/20/new-york-governor-kathy-hochul-signs-raise-act-to-regulate-ai-safety/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1243384061.jpg?resize=1200,800",
-    "summary": "该法案要求大型AI开发商公布安全协议信息，并在72小时内向政府报告安全事故。",
-    "date": "2025-12-20 18:51",
-    "timestamp": 1766256700.1100857
   }
 ]
