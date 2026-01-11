@@ -1,5 +1,21 @@
 [
   {
+    "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
+    "link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+    "summary": "印尼官员周六表示，将暂时屏蔽xAI公司开发的聊天机器人Grok的访问权限。",
+    "date": "2026-01-11 15:48",
+    "timestamp": 1768146487.0017226
+  },
+  {
+    "title": "Google announces a new protocol to facilitate commerce using AI agents",
+    "link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
+    "summary": "谷歌宣布商家现可在AI模式搜索结果中直接为用户提供折扣。",
+    "date": "2026-01-11 15:48",
+    "timestamp": 1768146488.769499
+  },
+  {
     "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
     "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "该法案要求大型AI开发商公布安全协议信息，并在72小时内向政府报告安全事故。",
     "date": "2025-12-20 18:51",
     "timestamp": 1766256700.1100857
-  },
-  {
-    "title": "Ex-Splunk execs’ startup Resolve AI hits $1 billion valuation with Series A",
-    "link": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai-hits-1-billion-valuation-with-series-a/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1319917047.jpg?resize=1200,764",
-    "summary": "本轮融资由光速创投领投。",
-    "date": "2025-12-20 02:22",
-    "timestamp": 1766197369.4623473
-  },
-  {
-    "title": "Cursor continues acquisition spree with Graphite deal",
-    "link": "https://techcrunch.com/2025/12/19/cursor-continues-acquisition-spree-with-graphite-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-    "summary": "AI代码审查助手Graphite最新估值达2.9亿美元。",
-    "date": "2025-12-19 22:49",
-    "timestamp": 1766184568.1992188
   }
 ]
