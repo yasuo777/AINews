@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
+    "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "summary": "Meta正加速扩充其人工智能基础设施，以提升整体AI算力与研发能力。",
+    "date": "2026-01-12 21:49",
+    "timestamp": 1768254579.066821
+  },
+  {
     "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
     "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "AI公司Lemon Slice推出新型扩散模型，可通过单张图像生成数字人像，旨在为AI聊天机器人添加视频交互功能。",
     "date": "2025-12-23 16:56",
     "timestamp": 1766508991.6027164
-  },
-  {
-    "title": "OpenAI says AI browsers may always be vulnerable to prompt injection attacks",
-    "link": "https://techcrunch.com/2025/12/22/openai-says-ai-browsers-may-always-be-vulnerable-to-prompt-injection-attacks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/openai-prompt-injection-demo.png?w=1198",
-    "summary": "OpenAI承认Atlas等AI浏览器将始终面临提示注入风险，但正通过部署“基于LLM的自动攻击系统”强化网络安全防护。",
-    "date": "2025-12-22 22:50",
-    "timestamp": 1766443849.8107076
   }
 ]
