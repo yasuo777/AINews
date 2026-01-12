@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google’s Gemini to power Apple’s AI features like Siri",
+    "link": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
+    "summary": "苹果与谷歌达成非独家多年合作，苹果将在未来基础模型中使用Gemini模型及谷歌云技术。",
+    "date": "2026-01-12 17:50",
+    "timestamp": 1768240217.014092
+  },
+  {
     "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
     "link": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "据报道，Spotify正调查Anna's Archive抓取平台音乐数据的具体规模。",
     "date": "2025-12-22 19:46",
     "timestamp": 1766432796.903724
-  },
-  {
-    "title": "Splat’s app uses AI to turn your photos into coloring pages for kids",
-    "link": "https://techcrunch.com/2025/12/22/splats-app-uses-ai-to-turn-your-photos-into-coloring-pages-for-kids/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/splat-2025-12-22-at-11.34.26-AM.jpg?resize=1200,607",
-    "summary": "一款AI应用可将用户照片自动转换为儿童填色页，提供个性化绘画体验。",
-    "date": "2025-12-22 17:48",
-    "timestamp": 1766425719.1792443
   }
 ]
