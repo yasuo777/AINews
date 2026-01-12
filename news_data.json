@@ -1,5 +1,13 @@
 [
   {
+    "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
+    "link": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Motional-hyundai-robotaxi-vegas.jpg?resize=1200,900",
+    "summary": "Motional宣布将于2026年底前在拉斯维加斯推出全无人驾驶出租车服务。",
+    "date": "2026-01-12 02:55",
+    "timestamp": 1768186543.3810184
+  },
+  {
     "title": "Google removes AI Overviews for certain medical queries",
     "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698",
@@ -790,13 +798,5 @@
     "summary": "Waymo因旧金山大规模停电导致多辆自动驾驶出租车停滞，于周六晚间暂停了当地服务。",
     "date": "2025-12-21 15:46",
     "timestamp": 1766332009.1930563
-  },
-  {
-    "title": "OpenAI allows users to directly adjust ChatGPT’s enthusiasm level",
-    "link": "https://techcrunch.com/2025/12/20/openai-allows-users-to-directly-adjust-chatgpts-warmth-and-enthusiasm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-    "summary": "ChatGPT新增自定义功能，用户可调节聊天机器人的语气热情度与表情符号使用频率。",
-    "date": "2025-12-20 20:47",
-    "timestamp": 1766263658.2755861
   }
 ]
