@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic launches Cowork, a Claude Code-like for general computing",
+    "link": "https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Claude-Cowork-1152x648.jpg",
+    "summary": "Anthropic为Claude推出文件夹上传功能，用户可直接授权Claude访问指定文件夹并执行操作指令，显著提升AI处理本地文件的交互效率。",
+    "date": "2026-01-12 23:47",
+    "timestamp": 1768261670.5969563
+  },
+  {
     "title": "Why Amazon bought Bee, an AI wearable",
     "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/HD_8500c2.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "前Sunshine创始人梅耶尔推出AI新企Dazzle，获格林投资，被视为将引领新一代消费级AI商业浪潮。",
     "date": "2025-12-23 17:50",
     "timestamp": 1766512233.0246205
-  },
-  {
-    "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerruner’s Kirsten Green",
-    "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerruners-kirsten-green/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
-    "summary": "梅耶尔关闭初创公司Sunshine后，推出新应用Dazzle，专注于照片与联系人管理。",
-    "date": "2025-12-23 16:56",
-    "timestamp": 1766508986.9053233
   }
 ]
