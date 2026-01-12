@@ -1,5 +1,13 @@
 [
   {
+    "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
+    "link": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220168874.jpg?resize=1200,800",
+    "summary": "法国防务科技公司Harmattan AI完成2亿美元B轮融资，由达索航空领投，投后估值达14亿美元。该公司专注于人工智能技术在国防领域的应用。",
+    "date": "2026-01-12 14:01",
+    "timestamp": 1768226489.483004
+  },
+  {
     "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
     "link": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Motional-hyundai-robotaxi-vegas.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "OpenAI持续更新ChatGPT产品线，年内相继发布多项功能升级与版本迭代，涵盖模型优化与新工具集成。",
     "date": "2025-12-22 15:50",
     "timestamp": 1766418657.4027934
-  },
-  {
-    "title": "Waymo suspends service in San Francisco as robotaxis stall during blackout",
-    "link": "https://techcrunch.com/2025/12/21/waymo-suspends-service-in-san-francisco-as-robotaxis-stall-during-blackout/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/waymo-blackout.jpg?resize=1200,572",
-    "summary": "Waymo因旧金山大规模停电导致多辆自动驾驶出租车停滞，于周六晚间暂停了当地服务。",
-    "date": "2025-12-21 15:46",
-    "timestamp": 1766332009.1930563
   }
 ]
