@@ -1,5 +1,13 @@
 [
   {
+    "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
+    "link": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
+    "summary": "一款名为ClothOff的应用程序两年多来持续在网络空间侵害年轻女性，其利用人工智能技术伪造并传播虚假裸照。该应用虽已被主流应用商店及多数社交平台下架，但仍可通过网页及Telegram机器人访问，治理难度极大。",
+    "date": "2026-01-12 16:59",
+    "timestamp": 1768237157.4137416
+  },
+  {
     "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
     "link": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220168874.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "一款AI应用可将用户照片自动转换为儿童填色页，提供个性化绘画体验。",
     "date": "2025-12-22 17:48",
     "timestamp": 1766425719.1792443
-  },
-  {
-    "title": "ChatGPT: Everything you need to know about the AI-powered chatbot",
-    "link": "https://techcrunch.com/2025/12/22/chatgpt-everything-to-know-about-the-ai-chatbot/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-    "summary": "OpenAI持续更新ChatGPT产品线，年内相继发布多项功能升级与版本迭代，涵盖模型优化与新工具集成。",
-    "date": "2025-12-22 15:50",
-    "timestamp": 1766418657.4027934
   }
 ]
