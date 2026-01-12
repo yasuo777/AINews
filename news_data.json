@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
+    "link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+    "summary": "Claude推出Cowork功能，用户可指定文件夹授权其读写文件，并通过聊天界面下达操作指令。",
+    "date": "2026-01-12 19:47",
+    "timestamp": 1768247239.8087797
+  },
+  {
+    "title": "Amazon says 97% of its devices can support Alexa+",
+    "link": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
+    "summary": "亚马逊正凭借Alexa的广泛用户基础，全力进军消费级AI市场，以期在竞争中抢占先机。",
+    "date": "2026-01-12 19:47",
+    "timestamp": 1768247241.9813755
+  },
+  {
     "title": "Google’s Gemini to power Apple’s AI features like Siri",
     "link": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "谷歌母公司Alphabet拟以47.5亿美元现金加债务收购数据中心与清洁能源开发商。",
     "date": "2025-12-22 21:47",
     "timestamp": 1766440023.5422819
-  },
-  {
-    "title": "ChatGPT launches a year-end review like Spotify Wrapped",
-    "link": "https://techcrunch.com/2025/12/22/chatgpt-launches-a-year-end-review-like-spotify-wrapped/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/YYWC-Hero.png?resize=960,1200",
-    "summary": "OpenAI推出年度回顾功能，通过奖项、诗歌和图片为用户总结聊天记录中的年度亮点。",
-    "date": "2025-12-22 19:46",
-    "timestamp": 1766432794.3028128
-  },
-  {
-    "title": "World’s largest shadow library brags it scraped 300TB of Spotify music, metadata",
-    "link": "https://arstechnica.com/tech-policy/2025/12/worlds-largest-shadow-library-brags-it-scraped-300tb-of-spotify-music-metadata/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/GettyImages-2248951918-1024x648.jpg",
-    "summary": "据报道，Spotify正调查Anna's Archive抓取平台音乐数据的具体规模。",
-    "date": "2025-12-22 19:46",
-    "timestamp": 1766432796.903724
   }
 ]
