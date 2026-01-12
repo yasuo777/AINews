@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
+    "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "Anthropic紧随OpenAI推出医疗AI产品Claude for Healthcare，标志着生成式AI在医疗领域的竞争加剧。",
+    "date": "2026-01-12 20:53",
+    "timestamp": 1768251189.9694593
+  },
+  {
     "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
     "link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "OpenAI承认Atlas等AI浏览器将始终面临提示注入风险，但正通过部署“基于LLM的自动攻击系统”强化网络安全防护。",
     "date": "2025-12-22 22:50",
     "timestamp": 1766443849.8107076
-  },
-  {
-    "title": "Alphabet to buy Intersect Power to bypass energy grid bottlenecks",
-    "link": "https://techcrunch.com/2025/12/22/alphabet-to-buy-intersect-power-to-bypass-energy-grid-bottlenecks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
-    "summary": "谷歌母公司Alphabet拟以47.5亿美元现金加债务收购数据中心与清洁能源开发商。",
-    "date": "2025-12-22 21:47",
-    "timestamp": 1766440023.5422819
   }
 ]
