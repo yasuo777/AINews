@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why Amazon bought Bee, an AI wearable",
+    "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/HD_8500c2.jpg?resize=1200,675",
+    "summary": "亚马逊解释其可穿戴设备Bee的定位，并澄清该产品将与Alexa生态并行发展，不会合并。",
+    "date": "2026-01-12 22:50",
+    "timestamp": 1768258235.789334
+  },
+  {
+    "title": "Google removes some AI health summaries after investigation finds “dangerous” flaws",
+    "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-1152x648.jpg",
+    "summary": "谷歌AI摘要误报肝脏检测信息，专家警示其风险。",
+    "date": "2026-01-12 22:50",
+    "timestamp": 1768258238.4580112
+  },
+  {
     "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
     "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
@@ -782,21 +798,5 @@
     "summary": "梅耶尔关闭初创公司Sunshine后，推出新应用Dazzle，专注于照片与联系人管理。",
     "date": "2025-12-23 16:56",
     "timestamp": 1766508986.9053233
-  },
-  {
-    "title": "Amazon’s AI assistant Alexa+ now works with Angi, Expedia, Square, and Yelp",
-    "link": "https://techcrunch.com/2025/12/23/amazons-ai-assistant-alexa-now-works-with-angi-expedia-square-and-yelp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
-    "summary": "该平台新增多项服务集成，现已涵盖Yelp、Uber及OpenTable等主流应用。",
-    "date": "2025-12-23 16:56",
-    "timestamp": 1766508988.9210665
-  },
-  {
-    "title": "Lemon Slice nabs $10.5M from YC and Matrix to build out its digital avatar tech",
-    "link": "https://techcrunch.com/2025/12/23/lemon-slice-nabs-10-5m-from-yc-and-matrix-to-build-out-its-digital-avatar-tech/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Lemon-Slice-founders.jpg?resize=1200,675",
-    "summary": "AI公司Lemon Slice推出新型扩散模型，可通过单张图像生成数字人像，旨在为AI聊天机器人添加视频交互功能。",
-    "date": "2025-12-23 16:56",
-    "timestamp": 1766508991.6027164
   }
 ]
