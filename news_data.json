@@ -1,5 +1,13 @@
 [
   {
+    "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
+    "link": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "AI语音识别公司Deepgram以13亿美元估值完成C轮融资。",
+    "date": "2026-01-13 14:00",
+    "timestamp": 1768312848.1291058
+  },
+  {
     "title": "Slackbot is an AI agent now",
     "link": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Slackbot.png?resize=1200,785",
@@ -790,13 +798,5 @@
     "summary": "数据中心议题已超越传统技术范畴，成为备受关注的核心领域。",
     "date": "2025-12-24 20:50",
     "timestamp": 1766609400.3475752
-  },
-  {
-    "title": "The European startup market’s data doesn’t match its energy — yet",
-    "link": "https://techcrunch.com/2025/12/24/the-european-startup-markets-data-doesnt-match-its-energy-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1421599900.jpg?resize=1200,900",
-    "summary": "欧洲初创市场尚未形成规模，但有迹象表明相关数据即将呈现积极变化。",
-    "date": "2025-12-24 18:55",
-    "timestamp": 1766602547.3641756
   }
 ]
