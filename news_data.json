@@ -1,5 +1,13 @@
 [
   {
+    "title": "ElevenLabs CEO says the voice AI startup crossed $330 million ARR last year",
+    "link": "https://techcrunch.com/2026/01/13/elevenlabs-ceo-says-the-voice-ai-startup-crossed-330-million-arr-last-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+    "summary": "该公司年度经常性收入从2亿美元增至3.3亿美元仅用时五个月。",
+    "date": "2026-01-13 17:01",
+    "timestamp": 1768323690.1284308
+  },
+  {
     "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
     "link": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?resize=1200,594",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch年度预测节目总结2025年科技趋势，涵盖超预期AI融资与实体AI崛起等关键发展。",
     "date": "2025-12-26 18:55",
     "timestamp": 1766775316.174692
-  },
-  {
-    "title": "Nvidia to license AI chip challenger Groq’s tech and hire its CEO",
-    "link": "https://techcrunch.com/2025/12/24/nvidia-acquires-ai-chip-challenger-groq-for-20b-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/1_byjKY2ta4_34GHPvmN9Suw.jpg?resize=1200,640",
-    "summary": "英伟达携手Groq，有望进一步巩固其在芯片制造领域的领先地位。",
-    "date": "2025-12-24 22:50",
-    "timestamp": 1766616626.8802345
   }
 ]
