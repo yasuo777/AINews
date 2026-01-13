@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
+    "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?resize=1200,800",
+    "summary": "科技巨头承诺在推进全美AI基建过程中，将积极履行\"好邻居\"责任。",
+    "date": "2026-01-13 20:53",
+    "timestamp": 1768337613.6445622
+  },
+  {
+    "title": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
+    "link": "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/microsoft_datacenter_2025-1152x648.jpg",
+    "summary": "公司就社区对电费及用水问题的关切作出回应，表示将核查计费系统并优化资源管理措施。",
+    "date": "2026-01-13 20:53",
+    "timestamp": 1768337616.4367511
+  },
+  {
     "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol —  Google says she’s wrong",
     "link": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?resize=1200,789",
@@ -782,21 +798,5 @@
     "summary": "2025年初AI领域投资热潮涌现，企业获巨额融资并承诺建设万亿级基础设施。但年末行业转向理性审视，其可持续性、安全性与商业模式开始受到严格评估。",
     "date": "2025-12-29 19:46",
     "timestamp": 1767037605.788741
-  },
-  {
-    "title": "Plaud Note Pro is an excellent AI-powered recorder that I carry everywhere",
-    "link": "https://techcrunch.com/2025/12/29/plaud-note-pro-is-an-excellent-ai-powered-recorder-that-i-carry-everywhere/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Plaud-Note-Pro.jpg?resize=1200,675",
-    "summary": "Plaud Note Pro是一款售价179美元的录音笔，其核心功能为高品质录音，同时兼具笔记记录能力。",
-    "date": "2025-12-29 18:56",
-    "timestamp": 1767034570.7861345
-  },
-  {
-    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-    "link": "https://techcrunch.com/2025/12/29/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI推出新功能，允许用户在ChatGPT内直接操作Spotify、Canva等第三方应用，提升交互效率。",
-    "date": "2025-12-29 16:54",
-    "timestamp": 1767027291.567072
   }
 ]
