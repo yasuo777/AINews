@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
+    "link": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?resize=1200,594",
+    "summary": "苹果推出专业软件套装，包含Mac版Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor及MainStage，并支持在iPad上使用前三种应用。",
+    "date": "2026-01-13 14:57",
+    "timestamp": 1768316258.2220001
+  },
+  {
     "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
     "link": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达携手Groq，有望进一步巩固其在芯片制造领域的领先地位。",
     "date": "2025-12-24 22:50",
     "timestamp": 1766616626.8802345
-  },
-  {
-    "title": "The year data centers went from backend to center stage",
-    "link": "https://techcrunch.com/2025/12/24/the-year-data-centers-went-from-backend-to-center-stage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "数据中心议题已超越传统技术范畴，成为备受关注的核心领域。",
-    "date": "2025-12-24 20:50",
-    "timestamp": 1766609400.3475752
   }
 ]
