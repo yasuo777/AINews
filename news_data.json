@@ -1,5 +1,29 @@
 [
   {
+    "title": "Slackbot is an AI agent now",
+    "link": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Slackbot.png?resize=1200,785",
+    "summary": "Salesforce推出AI助手Slackbot，用户可通过Slack跨多个企业应用完成工作任务。",
+    "date": "2026-01-13 13:27",
+    "timestamp": 1768310820.7970667
+  },
+  {
+    "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
+    "link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/WhatsApp-Bubble.jpg?resize=1200,675",
+    "summary": "巴西反垄断机构要求WhatsApp暂停禁止第三方AI公司使用其商业API提供聊天机器人的政策，并已就此展开反竞争调查。",
+    "date": "2026-01-13 13:27",
+    "timestamp": 1768310823.0939555
+  },
+  {
+    "title": "Signal creator Moxie Marlinspike wants to do for AI what he did for messaging",
+    "link": "https://arstechnica.com/security/2026/01/signal-creator-moxie-marlinspike-wants-to-do-for-ai-what-he-did-for-messaging/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/electronic-privacy-invasion-1152x648.jpg",
+    "summary": "Confer推出端到端AI助手，实现高效无缝操作体验。",
+    "date": "2026-01-13 13:27",
+    "timestamp": 1768310825.4829602
+  },
+  {
     "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
     "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2149039471.jpg?resize=1200,835",
@@ -774,29 +798,5 @@
     "summary": "欧洲初创市场尚未形成规模，但有迹象表明相关数据即将呈现积极变化。",
     "date": "2025-12-24 18:55",
     "timestamp": 1766602547.3641756
-  },
-  {
-    "title": "Why the operating room is ripe for AI, according to Akara",
-    "link": "https://techcrunch.com/podcast/why-the-operating-room-is-ripe-for-ai-according-to-akara/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "当前医院运营的真正成本痛点在于手术室协调效率低下。每日损失2-4小时手术时间，主因并非手术本身，而是人工排期混乱及流程衔接不畅等问题。",
-    "date": "2025-12-24 16:53",
-    "timestamp": 1766595210.9710724
-  },
-  {
-    "title": "Waymo is testing Gemini as an in-car AI assistant in its robotaxis",
-    "link": "https://techcrunch.com/2025/12/24/waymo-is-testing-gemini-as-an-in-car-ai-assistant-in-its-robotaxis/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/waymo2.jpg?resize=1200,800",
-    "summary": "Waymo正测试基于Gemini的车载AI助手，该助手可回答常识问题并控制部分车内功能。",
-    "date": "2025-12-24 16:53",
-    "timestamp": 1766595213.2973003
-  },
-  {
-    "title": "Italy tells Meta to suspend its policy that bans rival AI chatbots from WhatsApp",
-    "link": "https://techcrunch.com/2025/12/24/italy-tells-meta-to-suspend-its-policy-that-bans-rival-ai-chatbots-from-whatsapp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/whatsapp-logo.jpg?resize=1200,800",
-    "summary": "意大利监管机构要求Meta暂停禁止企业通过WhatsApp商业工具提供AI聊天机器人的政策。",
-    "date": "2025-12-24 14:50",
-    "timestamp": 1766587857.5952318
   }
 ]
