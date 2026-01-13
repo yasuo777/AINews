@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hands-on with Bee, Amazon’s latest AI wearable",
+    "link": "https://techcrunch.com/2026/01/12/hands-on-with-bee-amazons-latest-ai-wearable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/IMG_0709.jpg?resize=1200,988",
+    "summary": "亚马逊推出AI可穿戴设备Bee，目前功能尚不完善，主要面向普通用户。预计今年将增加更多新功能。",
+    "date": "2026-01-13 02:32",
+    "timestamp": 1768271563.7639215
+  },
+  {
     "title": "Anthropic launches Cowork, a Claude Code-like for general computing",
     "link": "https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Claude-Cowork-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "多名作者拒绝接受Anthropic的集体诉讼和解方案，批评AI公司不应以极低成本轻易抵消大量高价值版权索赔。",
     "date": "2025-12-23 19:46",
     "timestamp": 1766519210.564219
-  },
-  {
-    "title": "Marissa Mayer’s new startup Dazzle raises $8M led by Forerunner’s Kirsten Green",
-    "link": "https://techcrunch.com/2025/12/23/marissa-mayers-new-startup-dazzle-raises-8m-led-by-forerunners-kirsten-green/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
-    "summary": "前Sunshine创始人梅耶尔推出AI新企Dazzle，获格林投资，被视为将引领新一代消费级AI商业浪潮。",
-    "date": "2025-12-23 17:50",
-    "timestamp": 1766512233.0246205
   }
 ]
