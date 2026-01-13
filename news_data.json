@@ -1,5 +1,13 @@
 [
   {
+    "title": "Converge Bio raises $25M, backed by Bessemer and execs from Meta, OpenAI, Wiz",
+    "link": "https://techcrunch.com/2026/01/13/ai-drug-discovery-startup-converge-bio-pulls-in-25m-from-bessemer-and-execs-from-meta-openai-and-wiz/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2149039471.jpg?resize=1200,835",
+    "summary": "AI制药初创公司Converge Bio完成2500万美元A轮融资，由Bessemer Venture Partners领投，Meta、OpenAI及Wiz高管跟投。",
+    "date": "2026-01-13 11:49",
+    "timestamp": 1768304969.1539662
+  },
+  {
     "title": "Meta-backed Hupo finds growth after pivot to AI sales coaching from mental wellness",
     "link": "https://techcrunch.com/2026/01/12/meta-backed-hupo-finds-growth-after-pivot-to-ai-sales-coaching-from-mental-wellness/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1356216222.jpg?resize=1200,906",
@@ -790,13 +798,5 @@
     "summary": "意大利监管机构要求Meta暂停禁止企业通过WhatsApp商业工具提供AI聊天机器人的政策。",
     "date": "2025-12-24 14:50",
     "timestamp": 1766587857.5952318
-  },
-  {
-    "title": "How AI coding agents work—and what to remember if you use them",
-    "link": "https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/GettyImages-2211086356-1152x648-1766182004.jpg",
-    "summary": "本文解析了AI智能体高效运行的核心机制，涵盖压缩技术与多智能体协作两大关键要素。",
-    "date": "2025-12-24 13:19",
-    "timestamp": 1766582376.757013
   }
 ]
