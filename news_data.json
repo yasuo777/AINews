@@ -1,5 +1,13 @@
 [
   {
+    "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
+    "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1329130331-1152x648.jpg",
+    "summary": "近期市场对AI PC的关注度有所降温，但行业分析指出，随着技术成熟与新品发布，其长期增长潜力依然显著。",
+    "date": "2026-01-13 22:53",
+    "timestamp": 1768344815.32524
+  },
+  {
     "title": "Hegseth wants to integrate Musk’s Grok AI into military networks this month",
     "link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/grok_header_1-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "企业AI工具应用已探索数年，投资者预计将于2026年进入优胜者筛选阶段。",
     "date": "2025-12-30 15:51",
     "timestamp": 1767109901.3204892
-  },
-  {
-    "title": "Meta just bought Manus, an AI startup everyone has been talking about",
-    "link": "https://techcrunch.com/2025/12/29/meta-just-bought-manus-an-ai-startup-everyone-has-been-talking-about/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-    "summary": "Meta宣布将保持Manus独立运营，同时将其智能体技术整合至Facebook、Instagram和WhatsApp平台，与现有Meta AI聊天机器人协同服务用户。",
-    "date": "2025-12-30 05:51",
-    "timestamp": 1767073884.9757032
   }
 ]
