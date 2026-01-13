@@ -1,5 +1,21 @@
 [
   {
+    "title": "A consumer watchdog issued a warning about Google’s AI agent shopping protocol —  Google says she’s wrong",
+    "link": "https://techcrunch.com/2026/01/13/a-consumer-watchdog-issued-a-warning-about-googles-ai-agent-shopping-protocol-google-says-shes-wrong/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1354022389.jpg?resize=1200,789",
+    "summary": "消费者监督机构警告谷歌新通用商务协议易致消费者支付溢价，谷歌对此予以否认。",
+    "date": "2026-01-13 19:47",
+    "timestamp": 1768333629.9690824
+  },
+  {
+    "title": "Ring founder details the camera company’s ‘intelligent assistant’ era",
+    "link": "https://techcrunch.com/2026/01/13/ring-founder-details-the-camera-companys-intelligent-assistant-era/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/jamie-siminoff-GettyImages-2237943588.jpg?w=1024",
+    "summary": "亚马逊旗下门铃制造商Ring宣布转型为\"智能助手\"，标志着AI技术正引领其迈入新发展阶段。",
+    "date": "2026-01-13 19:47",
+    "timestamp": 1768333631.860684
+  },
+  {
     "title": "Doctors think AI has a place in healthcare – but maybe not as a chatbot",
     "link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1369564450.jpg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "OpenAI推出新功能，允许用户在ChatGPT内直接操作Spotify、Canva等第三方应用，提升交互效率。",
     "date": "2025-12-29 16:54",
     "timestamp": 1767027291.567072
-  },
-  {
-    "title": "VCs predict strong enterprise AI adoption next year — again",
-    "link": "https://techcrunch.com/2025/12/29/vcs-predict-strong-enterprise-ai-adoption-next-year-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/crystal-ball.jpg?resize=1200,675",
-    "summary": "超20位风投预测2026年AI趋势：重点关注智能体发展与企业AI预算分配，认为相关投资与应用将深化拓展。",
-    "date": "2025-12-29 14:53",
-    "timestamp": 1767019992.630979
-  },
-  {
-    "title": "OpenAI is looking for a new Head of Preparedness",
-    "link": "https://techcrunch.com/2025/12/28/openai-is-looking-for-a-new-head-of-preparedness/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "OpenAI拟设新职位，专责研究AI在计算机安全及心理健康等领域的潜在风险。",
-    "date": "2025-12-28 15:48",
-    "timestamp": 1766936886.0553148
   }
 ]
