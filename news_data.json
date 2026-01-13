@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hegseth wants to integrate Musk’s Grok AI into military networks this month",
+    "link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/grok_header_1-1152x648.jpg",
+    "summary": "美国防长宣布将继续推进军事整合计划，近期争议不影响既定进程。",
+    "date": "2026-01-13 21:51",
+    "timestamp": 1768341082.4595284
+  },
+  {
     "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
     "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta宣布将保持Manus独立运营，同时将其智能体技术整合至Facebook、Instagram和WhatsApp平台，与现有Meta AI聊天机器人协同服务用户。",
     "date": "2025-12-30 05:51",
     "timestamp": 1767073884.9757032
-  },
-  {
-    "title": "2025 was the year AI got a vibe check",
-    "link": "https://techcrunch.com/2025/12/29/2025-was-the-year-ai-got-a-vibe-check/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/daniil-komov-bglsBQQwMWA-unsplash.jpg?resize=1200,800",
-    "summary": "2025年初AI领域投资热潮涌现，企业获巨额融资并承诺建设万亿级基础设施。但年末行业转向理性审视，其可持续性、安全性与商业模式开始受到严格评估。",
-    "date": "2025-12-29 19:46",
-    "timestamp": 1767037605.788741
   }
 ]
