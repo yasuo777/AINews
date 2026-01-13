@@ -1,5 +1,13 @@
 [
   {
+    "title": "Doctors think AI has a place in healthcare – but maybe not as a chatbot",
+    "link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1369564450.jpg?resize=1200,900",
+    "summary": "过去一周，OpenAI与Anthropic相继推出医疗健康专用产品，旨在为行业提供定制化AI解决方案。",
+    "date": "2026-01-13 18:59",
+    "timestamp": 1768330746.9292805
+  },
+  {
     "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
     "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/1X_NEO-Home-Duster.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "OpenAI拟设新职位，专责研究AI在计算机安全及心理健康等领域的潜在风险。",
     "date": "2025-12-28 15:48",
     "timestamp": 1766936886.0553148
-  },
-  {
-    "title": "India startup funding hits $11B in 2025 as investors grow more selective",
-    "link": "https://techcrunch.com/2025/12/27/india-startup-funding-hits-11b-in-2025-as-investors-grow-more-selective/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1096026706.jpg?resize=1200,843",
-    "summary": "2025年印度初创企业融资额锐减，市场呈现资本向头部企业集中的趋势。",
-    "date": "2025-12-28 02:56",
-    "timestamp": 1766890614.1278405
   }
 ]
