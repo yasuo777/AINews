@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google’s Trends Explore page gets new Gemini capabilities",
+    "link": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/12/google-search-magnifying-glass.png?resize=1200,638",
+    "summary": "谷歌趋势分析页面升级，现集成Gemini AI技术，可自动识别并对比相关搜索趋势，提升用户洞察效率。",
+    "date": "2026-01-14 18:59",
+    "timestamp": 1768417185.7947562
+  },
+  {
     "title": "Bandcamp bans purely AI-generated music from its platform",
     "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/no_robot_music_2-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "此次裁员将主要影响后台运营、风险管理和合规部门。",
     "date": "2026-01-01 20:51",
     "timestamp": 1767300704.985892
-  },
-  {
-    "title": "OpenAI bets big on audio as Silicon Valley declares war on screens",
-    "link": "https://techcrunch.com/2026/01/01/openai-bets-big-on-audio-as-silicon-valley-declares-war-on-screens/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2197091379.jpg?w=1024",
-    "summary": "未来音频将成为核心交互界面，从家居、汽车到可穿戴设备，各类空间正全面转向语音交互。",
-    "date": "2026-01-01 18:56",
-    "timestamp": 1767293818.484547
   }
 ]
