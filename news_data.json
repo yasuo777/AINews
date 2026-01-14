@@ -1,5 +1,21 @@
 [
   {
+    "title": "The multi-billion AI security problem enterprises can’t ignore",
+    "link": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
+    "summary": "企业广泛部署AI助手与智能体时，面临新型安全风险：员工与AI工具交互过程中，可能意外泄露敏感数据或违反合规要求，亟需建立相应防护机制。",
+    "date": "2026-01-14 19:47",
+    "timestamp": 1768420078.2974315
+  },
+  {
+    "title": "AI models are starting to crack high-level math problems",
+    "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
+    "summary": "GPT 5.2发布后，AI工具已深度融入高等数学领域，成为不可或缺的辅助手段。",
+    "date": "2026-01-14 19:48",
+    "timestamp": 1768420080.0338857
+  },
+  {
     "title": "Google’s Trends Explore page gets new Gemini capabilities",
     "link": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/12/google-search-magnifying-glass.png?resize=1200,638",
@@ -782,21 +798,5 @@
     "summary": "过去两年，英伟达利用其快速增长的资金，投资了超100家人工智能初创企业，成为该领域最活跃的产业投资者之一。",
     "date": "2026-01-02 16:55",
     "timestamp": 1767372902.163848
-  },
-  {
-    "title": "In 2026, AI will move from hype to pragmatism",
-    "link": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/boliviainteligente-kECRXz0m42A-unsplash.jpg?resize=1200,750",
-    "summary": "2026年AI行业将聚焦新架构、轻量化模型、世界模型、可靠智能体、实体AI及实用化产品，推动技术向现实应用深化发展。",
-    "date": "2026-01-02 14:51",
-    "timestamp": 1767365515.1547742
-  },
-  {
-    "title": "European banks plan to cut 200,000 jobs as AI takes hold",
-    "link": "https://techcrunch.com/2026/01/01/european-banks-plan-to-cut-200000-jobs-as-ai-takes-hold/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1197511920-e1745428595851.jpg?resize=1200,800",
-    "summary": "此次裁员将主要影响后台运营、风险管理和合规部门。",
-    "date": "2026-01-01 20:51",
-    "timestamp": 1767300704.985892
   }
 ]
