@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI security firm, depthfirst, announces $40 million series A",
+    "link": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Teamphoto.jpg?resize=1200,802",
+    "summary": "该公司推出AI原生平台，助力企业高效应对安全威胁。",
+    "date": "2026-01-14 15:53",
+    "timestamp": 1768405983.682584
+  },
+  {
     "title": "VoiceRun nabs $5.5M to build voice agent factory",
     "link": "https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
@@ -790,13 +798,5 @@
     "summary": "科技分析师预测，iPhone或在五年内被淘汰，十年后或将彻底退出市场。",
     "date": "2025-12-31 05:53",
     "timestamp": 1767160389.6734424
-  },
-  {
-    "title": "The best AI-powered dictation apps of 2025",
-    "link": "https://techcrunch.com/2025/12/30/the-best-ai-powered-dictation-apps-of-2025/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "AI语音听写应用支持通过语音回复邮件、记录笔记甚至编程，显著提升工作效率。",
-    "date": "2025-12-30 16:56",
-    "timestamp": 1767113792.7128928
   }
 ]
