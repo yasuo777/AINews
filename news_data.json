@@ -1,5 +1,13 @@
 [
   {
+    "title": "VoiceRun nabs $5.5M to build voice agent factory",
+    "link": "https://techcrunch.com/2026/01/14/voicerun-nabs-5-5m-to-build-voice-agent-factory/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
+    "summary": "语音代理初创公司VoiceRun完成550万美元融资，本轮由FlyBridge领投。",
+    "date": "2026-01-14 14:01",
+    "timestamp": 1768399261.8798845
+  },
+  {
     "title": "The RAM shortage’s silver lining: Less talk about “AI PCs”",
     "link": "https://arstechnica.com/gadgets/2026/01/the-ram-shortages-silver-lining-less-talk-about-ai-pcs/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-1329130331-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI语音听写应用支持通过语音回复邮件、记录笔记甚至编程，显著提升工作效率。",
     "date": "2025-12-30 16:56",
     "timestamp": 1767113792.7128928
-  },
-  {
-    "title": "VCs predict enterprises will spend more on AI in 2026 — through fewer vendors",
-    "link": "https://techcrunch.com/2025/12/30/vcs-predict-enterprises-will-spend-more-on-ai-in-2026-through-fewer-vendors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1314946854.jpg?resize=1200,840",
-    "summary": "企业AI工具应用已探索数年，投资者预计将于2026年进入优胜者筛选阶段。",
-    "date": "2025-12-30 15:51",
-    "timestamp": 1767109901.3204892
   }
 ]
