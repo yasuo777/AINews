@@ -1,5 +1,29 @@
 [
   {
+    "title": "Robotics software maker Skild AI hits $14B valuation",
+    "link": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
+    "summary": "Skild AI完成14亿美元融资，由软银领投。该公司致力于开发通用机器人软件。",
+    "date": "2026-01-14 17:01",
+    "timestamp": 1768410079.5186925
+  },
+  {
+    "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
+    "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
+    "summary": "谷歌Gemini的“个人智能”功能默认关闭，用户可自主选择是否及何时将其关联至谷歌应用。",
+    "date": "2026-01-14 17:01",
+    "timestamp": 1768410081.498419
+  },
+  {
+    "title": "Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans",
+    "link": "https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2251534549-1152x648-1768405011.jpg",
+    "summary": "警方承认在案件调查中错误使用人工智能工具，导致关键证据处理失误并影响案件侦办，现已对涉事流程展开审查整改。",
+    "date": "2026-01-14 17:01",
+    "timestamp": 1768410084.6257384
+  },
+  {
     "title": "AI security firm, depthfirst, announces $40 million series A",
     "link": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Teamphoto.jpg?resize=1200,802",
@@ -774,29 +798,5 @@
     "summary": "AI创业者正将辍学经历作为亮点，在YC路演中以此彰显颠覆传统、专注创新的形象。",
     "date": "2026-01-01 02:57",
     "timestamp": 1767236259.6416981
-  },
-  {
-    "title": "Investors predict AI is coming for labor in 2026",
-    "link": "https://techcrunch.com/2025/12/31/investors-predict-ai-is-coming-for-labor-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-1483458716.jpg?resize=1200,680",
-    "summary": "人工智能对企业劳动力市场的具体影响尚不明确，但投资者预计相关趋势将于2026年开始显现。",
-    "date": "2025-12-31 16:54",
-    "timestamp": 1767200074.9199548
-  },
-  {
-    "title": "From prophet to product: How AI came back down to earth in 2025",
-    "link": "https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/ai-down-to-earth-1152x648.jpg",
-    "summary": "本年度，高调承诺与不利研究相冲突，预测者逐渐被软件工具取代。",
-    "date": "2025-12-31 13:20",
-    "timestamp": 1767187211.8742933
-  },
-  {
-    "title": "The phone is dead. Long live . . . what exactly?",
-    "link": "https://techcrunch.com/2025/12/30/the-phone-is-dead-long-live-what-exactly/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
-    "summary": "科技分析师预测，iPhone或在五年内被淘汰，十年后或将彻底退出市场。",
-    "date": "2025-12-31 05:53",
-    "timestamp": 1767160389.6734424
   }
 ]
