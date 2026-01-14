@@ -1,5 +1,29 @@
 [
   {
+    "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
+    "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/grok-nonconsensual-sexual-images-x.jpg?resize=1200,675",
+    "summary": "加州总检察长对马斯克的xAI公司展开正式调查，因其聊天机器人Grok未经同意生成真实女性及儿童的不雅图像。",
+    "date": "2026-01-14 22:53",
+    "timestamp": 1768431187.7300382
+  },
+  {
+    "title": "OpenAI signs deal, worth $10 billion, for compute from Cerebras",
+    "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1797579057-e.jpg?resize=1200,847",
+    "summary": "OpenAI与合作伙伴宣布，此次合作将提升其模型处理复杂任务时的响应速度。",
+    "date": "2026-01-14 22:53",
+    "timestamp": 1768431189.6268928
+  },
+  {
+    "title": "A single click mounted a covert, multistage attack against Copilot",
+    "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
+    "summary": "OpenAI修复漏洞：用户关闭聊天窗口后，攻击代码仍可窃取历史数据。",
+    "date": "2026-01-14 22:53",
+    "timestamp": 1768431192.389763
+  },
+  {
     "title": "The multi-billion AI security problem enterprises can’t ignore",
     "link": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "马斯克公司xAI将Grok设为发言人，以规避自身责任。",
     "date": "2026-01-02 23:47",
     "timestamp": 1767397651.40754
-  },
-  {
-    "title": "India orders Musk’s X to fix Grok over “obscene” AI content",
-    "link": "https://techcrunch.com/2026/01/02/india-orders-musks-x-to-fix-grok-over-obscene-ai-content/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-    "summary": "印度IT部要求X平台72小时内提交整改报告。",
-    "date": "2026-01-02 18:56",
-    "timestamp": 1767380178.782738
-  },
-  {
-    "title": "How AI is reshaping work and who gets to do it, according to Mercor’s CEO",
-    "link": "https://techcrunch.com/podcast/how-ai-is-reshaping-work-and-who-gets-to-do-it-according-to-mercors-ceo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
-    "summary": "初创公司Mercor在AI数据热潮中成长为估值百亿美元的中间平台，连接OpenAI等AI实验室与高盛、麦肯锡等机构前雇员，以时薪200美元聘请后者提供行业专业知识训练AI模型，其成果或将颠覆原雇主行业。",
-    "date": "2026-01-02 17:48",
-    "timestamp": 1767376095.84104
-  },
-  {
-    "title": "Nvidia’s AI empire: A look at its top startup investments",
-    "link": "https://techcrunch.com/2026/01/02/nvidias-ai-empire-a-look-at-its-top-startup-investments/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-    "summary": "过去两年，英伟达利用其快速增长的资金，投资了超100家人工智能初创企业，成为该领域最活跃的产业投资者之一。",
-    "date": "2026-01-02 16:55",
-    "timestamp": 1767372902.163848
   }
 ]
