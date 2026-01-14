@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bandcamp bans purely AI-generated music from its platform",
+    "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/no_robot_music_2-1152x648.jpg",
+    "summary": "独立音乐商店声明，为保障作品主要由人类创作，将标注音乐制作中人工智能的使用比例，以维护乐迷信任。",
+    "date": "2026-01-14 17:55",
+    "timestamp": 1768413314.8715332
+  },
+  {
     "title": "Robotics software maker Skild AI hits $14B valuation",
     "link": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "未来音频将成为核心交互界面，从家居、汽车到可穿戴设备，各类空间正全面转向语音交互。",
     "date": "2026-01-01 18:56",
     "timestamp": 1767293818.484547
-  },
-  {
-    "title": "‘College dropout’ has become the most coveted startup founder credential",
-    "link": "https://techcrunch.com/2025/12/31/college-dropout-has-become-the-most-coveted-startup-founder-credential/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579179.jpg?resize=1200,800",
-    "summary": "AI创业者正将辍学经历作为亮点，在YC路演中以此彰显颠覆传统、专注创新的形象。",
-    "date": "2026-01-01 02:57",
-    "timestamp": 1767236259.6416981
   }
 ]
