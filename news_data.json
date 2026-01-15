@@ -1,5 +1,29 @@
 [
   {
+    "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity and others",
+    "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-528784450.jpg?w=1024",
+    "summary": "多家公司与AI机构达成合作，将可规模化获取维基百科等内容资源。",
+    "date": "2026-01-15 16:00",
+    "timestamp": 1768492802.7686403
+  },
+  {
+    "title": "US senators demand answers from X, Meta, Alphabet and others on sexualized deepfakes",
+    "link": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "summary": "美国多名参议员联名致信多家科技巨头，要求其证明平台已建立强效防护政策，并说明遏制AI生成色情深度伪造内容扩散的具体计划。",
+    "date": "2026-01-15 16:00",
+    "timestamp": 1768492805.9970403
+  },
+  {
+    "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
+    "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Wikipedia-AI-1152x648.jpg",
+    "summary": "维基媒体企业宣布与微软、Meta、亚马逊、Perplexity及Mistral AI达成付费合作协议，为商业用户提供定制化数据服务。",
+    "date": "2026-01-15 16:00",
+    "timestamp": 1768492809.1423473
+  },
+  {
     "title": "Parloa triples its valuation in 8 months to $3B with $350M raise",
     "link": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/2024-MAIN-Parloa-founders-Stefan-Ostwald-Malte-Kosub_1_crop-e1713945437512.jpg?resize=1200,676",
@@ -774,29 +798,5 @@
     "summary": "CES 2026于1月6日在拉斯维加斯开幕，亚马逊、英伟达等企业提前发布新品。本届展会以人工智能为核心焦点，重点呈现AI与实体世界的融合趋势，涵盖机器人、自动驾驶及智能制造等领域。TechCrunch团队将持续带来现场报道。",
     "date": "2026-01-05 16:57",
     "timestamp": 1767632265.1456873
-  },
-  {
-    "title": "Amazon’s AI assistant comes to the web with Alexa.com",
-    "link": "https://techcrunch.com/2026/01/05/alexa-without-an-echo-amazons-ai-chatbot-comes-to-the-web-and-a-revamped-alexa-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Alexa.com_.png?resize=1200,675",
-    "summary": "亚马逊推出Alexa.com网站，将AI助手从设备端扩展至网页，定位为专注家庭场景的智能体式聊天机器人。",
-    "date": "2026-01-05 15:53",
-    "timestamp": 1767628417.8607914
-  },
-  {
-    "title": "Google previews new Gemini features for TV at CES 2026",
-    "link": "https://techcrunch.com/2026/01/05/google-previews-new-gemini-features-for-tv-at-ces-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-tv.webp?resize=1200,675",
-    "summary": "谷歌电视将集成Gemini AI助手，支持用户通过语音指令搜索编辑照片、调整电视设置等操作。",
-    "date": "2026-01-05 14:56",
-    "timestamp": 1767624988.0795379
-  },
-  {
-    "title": "DoorDash says it banned driver who seemingly faked a delivery using AI",
-    "link": "https://techcrunch.com/2026/01/04/doordash-says-it-banned-driver-who-seemingly-faked-a-delivery-using-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/doordash-header.jpeg?resize=1200,800",
-    "summary": "DoorDash证实有骑手使用AI生成照片谎报完成配送，事件源于网络热传。",
-    "date": "2026-01-04 21:47",
-    "timestamp": 1767563238.7447915
   }
 ]
