@@ -1,5 +1,13 @@
 [
   {
+    "title": "The AI lab revolving door spins ever faster",
+    "link": "https://techcrunch.com/2026/01/15/the-ai-lab-revolving-door-spins-ever-faster/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "AI实验室高管离职潮持续。昨日，米拉·穆拉蒂领导的Thinking Machines实验室三名高管突然离职，凸显行业人才流动加剧。",
+    "date": "2026-01-15 22:52",
+    "timestamp": 1768517566.662014
+  },
+  {
     "title": "Taiwan to invest $250B in US semiconductor manufacturing",
     "link": "https://techcrunch.com/2026/01/15/taiwan-to-invest-250b-in-us-semiconductor-manufacturing/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/08/taiwan-flag.jpg?resize=1200,641",
@@ -790,13 +798,5 @@
     "summary": "英伟达在CES 2026上发布了涵盖基础模型、仿真工具与硬件的全栈机器人生态系统，旨在成为机器人领域的默认平台。",
     "date": "2026-01-05 23:48",
     "timestamp": 1767656900.5347438
-  },
-  {
-    "title": "Nvidia launches powerful new Rubin chip architecture",
-    "link": "https://techcrunch.com/2026/01/05/nvidia-launches-powerful-new-rubin-chip-architecture/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "英伟达CEO黄仁勋正式发布新一代Rubin计算架构，称其为当前人工智能计算领域的最高水平。",
-    "date": "2026-01-05 22:52",
-    "timestamp": 1767653540.6077712
   }
 ]
