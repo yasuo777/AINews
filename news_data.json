@@ -1,5 +1,21 @@
 [
   {
+    "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
+    "link": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+    "summary": "美国政府正式对部分输华半导体加征25%关税，其中包括H200芯片。此举将限制相关高端芯片对华销售。",
+    "date": "2026-01-15 17:07",
+    "timestamp": 1768496820.1430907
+  },
+  {
+    "title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
+    "link": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2255262571.jpg?w=1024",
+    "summary": "OpenAI参与投资脑机接口初创公司Merge Labs，本轮种子轮融资额达2.5亿美元，公司估值达8.5亿美元。",
+    "date": "2026-01-15 17:07",
+    "timestamp": 1768496822.3463175
+  },
+  {
     "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity and others",
     "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-528784450.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "科技记者Cheifet制作超400集电视节目，系统记录个人计算机发展历程。",
     "date": "2026-01-05 20:52",
     "timestamp": 1767646379.3410313
-  },
-  {
-    "title": "Amazon Alexa+ released to the general public via an early access website",
-    "link": "https://arstechnica.com/gadgets/2026/01/amazon-alexa-released-to-the-general-public-via-an-early-access-website/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/08/GettyImages-2201505743-1024x648.jpg",
-    "summary": "亚马逊将恢复网页版Alexa服务，但未来计划增设付费墙，部分功能需订阅使用。",
-    "date": "2026-01-05 20:53",
-    "timestamp": 1767646381.2849524
-  },
-  {
-    "title": "CES 2026: Follow live as NVIDIA, Lego, AMD, Amazon, and more make their big reveals",
-    "link": "https://techcrunch.com/storyline/ces-2026-follow-live-as-nvidia-lego-amd-amazon-and-more-make-their-big-reveals/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254142389-1.jpg?w=1024",
-    "summary": "CES 2026于1月6日在拉斯维加斯开幕，亚马逊、英伟达等企业提前发布新品。本届展会以人工智能为核心焦点，重点呈现AI与实体世界的融合趋势，涵盖机器人、自动驾驶及智能制造等领域。TechCrunch团队将持续带来现场报道。",
-    "date": "2026-01-05 16:57",
-    "timestamp": 1767632265.1456873
   }
 ]
