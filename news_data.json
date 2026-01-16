@@ -1,5 +1,13 @@
 [
   {
+    "title": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
+    "link": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Donald-Iain-Smith.jpg?resize=1200,600",
+    "summary": "AI应用开发进入新纪元：创作门槛低、周期短、但生命周期亦短暂。",
+    "date": "2026-01-16 14:55",
+    "timestamp": 1768575351.8806002
+  },
+  {
     "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
     "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达在CES 2026宣布，将助力西门子电子设计自动化软件在其GPU上运行，以加速芯片设计流程。此举旨在应对芯片制程微缩与晶体管数量激增带来的计算挑战。",
     "date": "2026-01-06 18:57",
     "timestamp": 1767725826.5330663
-  },
-  {
-    "title": "Commonwealth Fusion Systems installs reactor magnet, lands deal with Nvidia",
-    "link": "https://techcrunch.com/2026/01/06/commonwealth-fusion-systems-installs-reactor-magnet-lands-deal-with-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/cfs-sparc-first-magnet-installation.jpeg?resize=1200,800",
-    "summary": "核聚变领先企业宣布其Sparc反应堆建设按计划推进，并正构建数字孪生系统以优化运行参数。",
-    "date": "2026-01-06 16:59",
-    "timestamp": 1767718776.3960273
   }
 ]
