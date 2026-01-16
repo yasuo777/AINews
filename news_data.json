@@ -1,5 +1,21 @@
 [
   {
+    "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
+    "link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/251201-ChaiDiscovery-group-5263.jpg?resize=1200,800",
+    "summary": "该初创公司与礼来制药达成合作，并获得硅谷多家顶级风投支持。",
+    "date": "2026-01-16 20:51",
+    "timestamp": 1768596678.1193733
+  },
+  {
+    "title": "ChatGPT users are about to get hit with targeted ads",
+    "link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
+    "summary": "OpenAI宣布受广告影响的用户将获得部分广告内容控制权。",
+    "date": "2026-01-16 20:51",
+    "timestamp": 1768596679.8001933
+  },
+  {
     "title": "Trump administration wants tech companies to buy $15B of power plants they may not use",
     "link": "https://techcrunch.com/2026/01/16/trump-administration-wants-tech-companies-to-buy-15b-of-power-plants-they-may-not-use/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1453486183.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "虚假内容一旦广泛传播，即使事后被澄清，其造成的损害也已难以挽回。",
     "date": "2026-01-06 22:52",
     "timestamp": 1767739957.7690217
-  },
-  {
-    "title": "xAI says it raised $20B in Series E funding",
-    "link": "https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
-    "summary": "xAI获英伟达等多家投资，但未披露具体投资形式为股权或债权。",
-    "date": "2026-01-06 21:50",
-    "timestamp": 1767736207.6135666
-  },
-  {
-    "title": "California lawmaker proposes a four-year ban on AI chatbots in kid’s toys",
-    "link": "https://techcrunch.com/2026/01/06/california-lawmaker-proposes-a-four-year-ban-on-ai-chatbots-in-kids-toys/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2226429342.jpg?w=1024",
-    "summary": "美国参议员帕迪利亚提出新法案，要求制定安全规范前禁止玩具内置AI聊天功能，称\"儿童不应成为科技公司的实验品\"。",
-    "date": "2026-01-06 20:50",
-    "timestamp": 1767732643.406879
   }
 ]
