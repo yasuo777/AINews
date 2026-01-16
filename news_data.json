@@ -1,5 +1,13 @@
 [
   {
+    "title": "Silicon Valley’s messiest breakup is definitely headed to court",
+    "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-1126475976.jpg?resize=1200,1200",
+    "summary": "联邦法官周四驳回了OpenAI与微软的动议，拒绝驳回马斯克提起的诉讼，案件将继续推进。",
+    "date": "2026-01-16 07:00",
+    "timestamp": 1768546829.1327162
+  },
+  {
     "title": "AI journalism startup Symbolic.ai signs deal with Rupert Murdoch’s News Corp",
     "link": "https://techcrunch.com/2026/01/15/ai-journalism-startup-symbolic-ai-signs-deal-with-rupert-murdochs-news-corp/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/01/rupert-murdoch-news-corp.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AMD发布新一代AI PC芯片，适用于游戏、内容创作及多任务处理。",
     "date": "2026-01-06 03:52",
     "timestamp": 1767671539.6423619
-  },
-  {
-    "title": "Microsoft’s Nadella wants us to stop thinking of AI as ‘slop’",
-    "link": "https://techcrunch.com/2026/01/05/microsofts-nadella-wants-us-to-stop-thinking-of-ai-as-slop/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
-    "summary": "微软CEO纳德拉提出将AI视为人类助手而非工作威胁。2026年新数据表明，这一观点可能正确。",
-    "date": "2026-01-05 23:48",
-    "timestamp": 1767656898.4988756
   }
 ]
