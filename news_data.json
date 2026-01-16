@@ -1,5 +1,21 @@
 [
   {
+    "title": "The AI healthcare gold rush is here",
+    "link": "https://techcrunch.com/video/the-ai-healthcare-gold-rush-is-here/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379646.jpg?resize=1200,800",
+    "summary": "近期多家AI公司密集布局医疗领域：OpenAI收购健康初创公司Torch，Anthropic推出医疗版Claude，MergeLabs获2.5亿美元融资。资本与产品涌入医疗及语音AI赛道的同时，行业亦面临AI幻觉风险及医疗信息准确性等隐忧。",
+    "date": "2026-01-16 18:59",
+    "timestamp": 1768589989.232868
+  },
+  {
+    "title": "OpenAI and Anthropic are making their play for healthcare, and we’re not surprised",
+    "link": "https://techcrunch.com/podcast/openai-and-anthropic-are-making-their-play-for-healthcare-and-were-not-surprised/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
+    "summary": "近期，多家AI公司加速布局医疗领域。OpenAI收购健康初创公司Torch，Anthropic推出医疗版Claude，Altman投资的Merge Labs亦获高额融资。资本与产品涌入医疗与语音AI的同时，相关监管与伦理隐忧也随之浮现。",
+    "date": "2026-01-16 18:59",
+    "timestamp": 1768589991.9500194
+  },
+  {
     "title": "TSMC says AI demand is “endless” after record Q4 earnings",
     "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/tsmc_factory-1152x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "CES 2026展会上，AI熊猫宠物、桌面动漫少女全息投影等前沿产品亮相，展现了消费电子领域融合人工智能与沉浸式体验的创新趋势。",
     "date": "2026-01-06 20:50",
     "timestamp": 1767732645.44064
-  },
-  {
-    "title": "Dell’s XPS revival is a welcome reprieve from the “AI PC” fad",
-    "link": "https://arstechnica.com/gadgets/2026/01/dells-xps-revival-is-a-welcome-reprieve-from-the-ai-pc-fad/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/XPS-16-1152x648-1767726799.jpeg",
-    "summary": "戴尔调整战略重心，从主推“AI PC”概念回归到笔记本电脑的核心性能与用户体验。",
-    "date": "2026-01-06 20:50",
-    "timestamp": 1767732648.0377438
-  },
-  {
-    "title": "Intel is building a handheld gaming platform including a dedicated chip",
-    "link": "https://techcrunch.com/2026/01/06/intel-is-building-a-handheld-gaming-platform-including-a-dedicated-chip/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205047441.jpg?w=1024",
-    "summary": "英特尔宣布进军手持游戏设备芯片市场，将多年PC端的技术积累扩展至便携设备领域。",
-    "date": "2026-01-06 19:48",
-    "timestamp": 1767728922.6228714
   }
 ]
