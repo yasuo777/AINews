@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
+    "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "前微软高管Irina Ghose加入AI公司Anthropic，担任印度董事总经理，其在微软任职长达24年。",
+    "date": "2026-01-16 07:51",
+    "timestamp": 1768549867.3827372
+  },
+  {
     "title": "Silicon Valley’s messiest breakup is definitely headed to court",
     "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-1126475976.jpg?resize=1200,1200",
@@ -790,13 +798,5 @@
     "summary": "核聚变领先企业宣布其Sparc反应堆建设按计划推进，并正构建数字孪生系统以优化运行参数。",
     "date": "2026-01-06 16:59",
     "timestamp": 1767718776.3960273
-  },
-  {
-    "title": "AMD unveils new AI PC processors for general use and gaming at CES",
-    "link": "https://techcrunch.com/2026/01/05/amd-unveils-new-ai-pc-processors-for-general-use-and-gaming-at-ces/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Ryzen-AI-Blog-1200x675-1.jpg?w=960",
-    "summary": "AMD发布新一代AI PC芯片，适用于游戏、内容创作及多任务处理。",
-    "date": "2026-01-06 03:52",
-    "timestamp": 1767671539.6423619
   }
 ]
