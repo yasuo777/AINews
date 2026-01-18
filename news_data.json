@@ -1,5 +1,13 @@
 [
   {
+    "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
+    "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/09/moxie-marlinspike-147a2527.jpg?resize=1200,800",
+    "summary": "Confer模仿ChatGPT界面，承诺用户对话数据不用于训练或广告，保障隐私安全。",
+    "date": "2026-01-18 15:48",
+    "timestamp": 1768751302.272507
+  },
+  {
     "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
     "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "卡特彼勒正基于英伟达物理AI平台，在一台挖掘机上试点Cat AI系统，该系统由多个AI智能体协同运作。",
     "date": "2026-01-07 17:00",
     "timestamp": 1767805247.1138744
-  },
-  {
-    "title": "Intel spinout Articul8 raises more than half of $70M round at $500M valuation",
-    "link": "https://techcrunch.com/2026/01/07/intel-spin-off-articul8-is-halfway-to-70m-ai-funding-round-at-500m-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/articul8-founder-arun-k-subramaniyan.jpg?resize=1200,800",
-    "summary": "英特尔旗下AI公司Articul8在新一轮融资中估值较A轮增长约五倍。",
-    "date": "2026-01-07 13:25",
-    "timestamp": 1767792320.942585
   }
 ]
