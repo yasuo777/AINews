@@ -1,5 +1,21 @@
 [
   {
+    "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+    "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/rick-caccia-witnessai.jpg?w=860",
+    "summary": "AI安全初创公司Witness AI致力于解决包括智能体错位在内的多层安全挑战，通过监控员工使用未授权工具、阻断攻击并确保合规性。",
+    "date": "2026-01-19 17:00",
+    "timestamp": 1768842001.7989945
+  },
+  {
+    "title": "Well, there goes the metaverse!",
+    "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/friends.webp?w=1200",
+    "summary": "元宇宙热潮因AI崛起而消退，Meta的VR战略还面临其他困境。",
+    "date": "2026-01-19 17:00",
+    "timestamp": 1768842003.4704902
+  },
+  {
     "title": "10 things I learned from burning myself out with AI coding agents",
     "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/super-programmer-hes-heating-up-1152x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "风投机构Premise合伙人Vanessa Larco预测，2026年将成为消费级AI元年。她认为，AI驱动的“礼宾式”服务将重塑用户在线行为模式，并对现有消费级产品构成挑战。",
     "date": "2026-01-07 18:59",
     "timestamp": 1767812392.5300734
-  },
-  {
-    "title": "Anthropic reportedly raising $10B at $350B valuation",
-    "link": "https://techcrunch.com/2026/01/07/anthropic-reportedly-raising-10b-at-350b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "据报道，人工智能公司Anthropic正洽谈以3500亿美元估值融资100亿美元，这将是该公司一年内的第三轮大规模融资。",
-    "date": "2026-01-07 18:59",
-    "timestamp": 1767812394.8904536
-  },
-  {
-    "title": "VC predicts the consumer AI products OpenAI ‘won’t want to kill’",
-    "link": "https://techcrunch.com/podcast/investing-in-the-consumer-ai-products-openai-wont-want-to-kill/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/230829_NEA_MenloPark_VanessaLarco_0087-e1718215170281.jpg?resize=926,1200",
-    "summary": "风投机构Premise合伙人Vanessa Larco预测，2026年将成为消费级AI元年。她认为AI将催生“管家式”服务，改变用户在线行为，并可能冲击WebMD等传统独立应用。",
-    "date": "2026-01-07 18:59",
-    "timestamp": 1767812397.3706107
   }
 ]
