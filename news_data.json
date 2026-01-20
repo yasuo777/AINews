@@ -1,5 +1,13 @@
 [
   {
+    "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
+    "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-phone-app.jpg?resize=1200,800",
+    "summary": "特斯拉计划重启此前搁置的第三代AI芯片Dojo3项目。马斯克表示，新一代芯片将不再用于训练地面自动驾驶模型，而是专注于“太空人工智能计算”。",
+    "date": "2026-01-20 22:50",
+    "timestamp": 1768949410.5642316
+  },
+  {
     "title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
     "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans.png?resize=1200,633",
@@ -790,13 +798,5 @@
     "summary": "AI购物平台Spangle完成1500万美元A轮融资，将用于拓展AI生成购物体验业务。",
     "date": "2026-01-08 14:00",
     "timestamp": 1767880818.711734
-  },
-  {
-    "title": "Google and Character.AI negotiate first major settlements in teen chatbot death cases",
-    "link": "https://techcrunch.com/2026/01/07/google-and-character-ai-negotiate-first-major-settlements-in-teen-chatbot-death-cases/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1224612965.jpg?resize=1200,842",
-    "summary": "多家AI公司因涉嫌损害用户权益被诉，现已达成首批和解。",
-    "date": "2026-01-08 02:34",
-    "timestamp": 1767839651.3939052
   }
 ]
