@@ -1,5 +1,37 @@
 [
   {
+    "title": "Zanskar thinks 1 TW of geothermal power is being overlooked",
+    "link": "https://techcrunch.com/2026/01/21/zanskar-thinks-1-tw-of-geothermal-power-is-being-overlooked/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/zanskar-new-mexico.jpeg?resize=1200,900",
+    "summary": "地热勘探公司Zanskar获1.15亿美元融资，计划在美国西部勘探约十余处地热资源，以补充区域电网供电。",
+    "date": "2026-01-21 13:30",
+    "timestamp": 1769002239.3661501
+  },
+  {
+    "title": "Language learning marketplace Preply’s unicorn status embodies Ukrainian resilience",
+    "link": "https://techcrunch.com/2026/01/21/language-learning-marketplace-preplys-unicorn-status-embodies-ukrainian-resilience/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Preply-CEO-Kirill-Bigai.jpg?resize=1200,890",
+    "summary": "在线语言学习平台Preply完成1.5亿美元融资，公司估值达12亿美元，标志着这家成立14年的企业进入新发展阶段。",
+    "date": "2026-01-21 13:30",
+    "timestamp": 1769002241.7141833
+  },
+  {
+    "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
+    "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+    "summary": "2025年移动应用消费首超游戏，人工智能应用普及成为主要增长动力。",
+    "date": "2026-01-21 13:30",
+    "timestamp": 1769002243.4799788
+  },
+  {
+    "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
+    "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-1152x648.jpg",
+    "summary": "AI检测指南反成造假手册，揭示技术滥用风险。",
+    "date": "2026-01-21 13:30",
+    "timestamp": 1769002245.8203585
+  },
+  {
     "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
     "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Founders-Together-e1768928195574.jpeg?w=940",
@@ -766,37 +798,5 @@
     "summary": "CES 2026消费电子展在拉斯维加斯举行，AI成为本届焦点。TechCrunch团队现场直击，涵盖英伟达、AMD新品发布及亚马逊、谷歌在实体世界的AI应用，带来最新产品与动态。",
     "date": "2026-01-08 17:54",
     "timestamp": 1767894898.6542473
-  },
-  {
-    "title": "Nvidia’s reportedly asking Chinese customers to pay upfront for its H200 AI chips",
-    "link": "https://techcrunch.com/2026/01/08/nvidias-reportedly-asking-chinese-customers-to-pay-upfront-its-for-h200-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
-    "summary": "英伟达要求中国客户全款预付H200芯片订单，而该产品尚未获得中美两国监管批准。",
-    "date": "2026-01-08 17:55",
-    "timestamp": 1767894900.6061785
-  },
-  {
-    "title": "Snowflake announces its intent to buy observability platform Observe",
-    "link": "https://techcrunch.com/2026/01/08/snowflake-announces-its-intent-to-buy-observability-platform-observe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2215876044.jpg?w=1024",
-    "summary": "Snowflake正升级其数据平台，以应对AI智能体产生的海量数据，优化平台的数据处理与存储能力。",
-    "date": "2026-01-08 17:01",
-    "timestamp": 1767891665.108035
-  },
-  {
-    "title": "Elon Musk’s lawsuit against OpenAI will face a jury in March",
-    "link": "https://techcrunch.com/2026/01/08/elon-musks-lawsuit-against-openai-will-face-a-jury-in-march/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
-    "summary": "美国法官指出，有证据显示OpenAI领导层曾承诺保持非营利架构，相关诉讼将于三月开庭审理。",
-    "date": "2026-01-08 17:01",
-    "timestamp": 1767891667.3939793
-  },
-  {
-    "title": "Why this VC thinks 2026 will be ‘the year of the consumer’",
-    "link": "https://techcrunch.com/2026/01/08/why-this-vc-thinks-2026-will-be-the-year-of-the-consumer/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/vanessa-larco-disrupt.jpg?resize=1200,800",
-    "summary": "企业AI应用因缺乏切入点而停滞。风投人士Vanessa Larco预测，2026年将迎来消费级AI的突破之年。",
-    "date": "2026-01-08 14:57",
-    "timestamp": 1767884251.0115325
   }
 ]
