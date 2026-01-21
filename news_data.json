@@ -1,5 +1,13 @@
 [
   {
+    "title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+    "link": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1129660767.jpg?resize=1200,800",
+    "summary": "GPTZero研究显示，顶级学术会议正面临AI生成论文泛滥的棘手难题。",
+    "date": "2026-01-21 21:00",
+    "timestamp": 1769029237.0633874
+  },
+  {
     "title": "YouTube will soon let creators make Shorts with their own AI likeness",
     "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Anthropic与安联达成2026年首个企业合作，将为后者构建AI智能体并提供Claude代码能力。",
     "date": "2026-01-09 09:55",
     "timestamp": 1767952514.1822205
-  },
-  {
-    "title": "CES 2026: Everything revealed, from Nvidia’s debuts to AMD’s new chips to Razer’s AI oddities",
-    "link": "https://techcrunch.com/2026/01/08/ces-2026-everything-revealed-from-nvidias-debuts-to-amds-new-chips-to-razers-ai-oddities/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254217759.jpg?w=1024",
-    "summary": "CES 2026于拉斯维加斯举行，英伟达、索尼、AMD等企业已相继发布新品，展会现已正式对公众开放。",
-    "date": "2026-01-09 02:34",
-    "timestamp": 1767926088.4092858
   }
 ]
