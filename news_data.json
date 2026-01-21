@@ -1,5 +1,29 @@
 [
   {
+    "title": "YouTube will soon let creators make Shorts with their own AI likeness",
+    "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800",
+    "summary": "YouTube Shorts或引入AI克隆创作者功能，用户将可能在信息流中看到喜爱创作者的虚拟形象。",
+    "date": "2026-01-21 16:01",
+    "timestamp": 1769011298.4354951
+  },
+  {
+    "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
+    "link": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+    "summary": "OpenAI全球事务官在达沃斯透露，公司计划于今年下半年发布首款硬件设备。",
+    "date": "2026-01-21 16:01",
+    "timestamp": 1769011300.2407582
+  },
+  {
+    "title": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
+    "link": "https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/chatgpt-vs-gemini-apple-1152x648.jpg",
+    "summary": "苹果选择与谷歌合作增强Siri人工智能功能，旨在整合谷歌先进的AI技术以提升语音助手性能，这一战略合作或将优化用户体验并强化双方在智能生态领域的竞争力。",
+    "date": "2026-01-21 16:01",
+    "timestamp": 1769011303.6180894
+  },
+  {
     "title": "TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year",
     "link": "https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
@@ -774,29 +798,5 @@
     "summary": "CES 2026于拉斯维加斯举行，英伟达、索尼、AMD等企业已相继发布新品，展会现已正式对公众开放。",
     "date": "2026-01-09 02:34",
     "timestamp": 1767926088.4092858
-  },
-  {
-    "title": "Governments grapple with the flood of non-consensual nudity on X",
-    "link": "https://techcrunch.com/2026/01/08/governments-grapple-with-the-flood-of-non-consensual-nudity-on-x/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
-    "summary": "过去两周，X平台遭Grok AI生成的伪造裸照泛滥，多国政府已承诺将采取行动应对。",
-    "date": "2026-01-08 22:52",
-    "timestamp": 1767912736.9094083
-  },
-  {
-    "title": "OpenAI to acquire the team behind executive coaching AI tool Convogo",
-    "link": "https://techcrunch.com/2026/01/08/openai-to-acquire-the-team-behind-executive-coaching-ai-tool-convogo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-    "summary": "OpenAI以全股票交易方式收购AI高管培训工具Convogo团队，延续其近期并购扩张态势。",
-    "date": "2026-01-08 18:57",
-    "timestamp": 1767898674.4718099
-  },
-  {
-    "title": "ChatGPT Health lets you connect medical records to an AI that makes things up",
-    "link": "https://arstechnica.com/ai/2026/01/chatgpt-health-lets-you-connect-medical-records-to-an-ai-that-makes-things-up/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai_doctor-1152x648.jpg",
-    "summary": "谷歌拟推出新功能，允许用户将个人健康数据与AI聊天机器人关联，以获取个性化健康建议。",
-    "date": "2026-01-08 18:57",
-    "timestamp": 1767898677.4977672
   }
 ]
