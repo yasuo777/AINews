@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
+    "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Founders-Together-e1768928195574.jpeg?w=940",
+    "summary": "AI初创公司Bolna透露，其75%营收来自自助服务客户，显示其产品具备较强的市场自主吸引力。",
+    "date": "2026-01-21 02:37",
+    "timestamp": 1768963031.894033
+  },
+  {
+    "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
+    "link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+    "summary": "Anthropic CEO公开批评美国政府及英伟达等芯片公司对华销售计划，尽管英伟达是其重要合作伙伴与投资者。",
+    "date": "2026-01-21 02:37",
+    "timestamp": 1768963034.1087263
+  },
+  {
     "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
     "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "企业AI应用因缺乏切入点而停滞。风投人士Vanessa Larco预测，2026年将迎来消费级AI的突破之年。",
     "date": "2026-01-08 14:57",
     "timestamp": 1767884251.0115325
-  },
-  {
-    "title": "Gmail debuts a personalized AI Inbox, AI Overviews in search, and more",
-    "link": "https://techcrunch.com/2026/01/08/gmail-debuts-a-personalized-ai-inbox-ai-overviews-in-search-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-    "summary": "Gmail向所有用户免费开放此前仅限付费用户的AI功能。",
-    "date": "2026-01-08 14:57",
-    "timestamp": 1767884252.7802224
-  },
-  {
-    "title": "ChatGPT falls to new data-pilfering attack as a vicious cycle in AI continues",
-    "link": "https://arstechnica.com/security/2026/01/chatgpt-falls-to-new-data-pilfering-attack-as-a-vicious-cycle-in-ai-continues/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/AI-chatbot-threat-1152x648.jpg",
-    "summary": "大型语言模型或难以根除网络攻击的根本原因。",
-    "date": "2026-01-08 14:57",
-    "timestamp": 1767884255.428316
   }
 ]
