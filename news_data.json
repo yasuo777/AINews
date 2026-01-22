@@ -1,5 +1,13 @@
 [
   {
+    "title": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
+    "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Prompted-Playlist-Header.jpg?resize=1200,683",
+    "summary": "Spotify在美国和加拿大推出AI歌单功能，用户可通过自然语言指令生成个性化播放列表。",
+    "date": "2026-01-22 14:05",
+    "timestamp": 1769090737.8264263
+  },
+  {
     "title": "Quadric rides the shift from cloud AI to on-device inference — and it’s paying off",
     "link": "https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/quadric-founders.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "律师警告OpenAI当前策略存在重大法律风险。",
     "date": "2026-01-10 21:47",
     "timestamp": 1768081620.7324176
-  },
-  {
-    "title": "Indonesia blocks Grok over non-consensual, sexualized deepfakes",
-    "link": "https://techcrunch.com/2026/01/10/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
-    "summary": "印尼官员周六宣布，将暂时屏蔽xAI公司开发的聊天机器人Grok的访问权限。",
-    "date": "2026-01-10 19:46",
-    "timestamp": 1768074401.281259
   }
 ]
