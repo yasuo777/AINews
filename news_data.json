@@ -1,5 +1,21 @@
 [
   {
+    "title": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
+    "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
+    "summary": "最新研究显示，主流AI模型在执行咨询、投行及法律等白领工作任务时表现不佳，多数未能通过测试。",
+    "date": "2026-01-22 21:53",
+    "timestamp": 1769118796.6731088
+  },
+  {
+    "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
+    "link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-1152x648.png",
+    "summary": "苹果、OpenAI、Meta等科技巨头正竞相布局AI硬件产品领域。",
+    "date": "2026-01-22 21:53",
+    "timestamp": 1769118798.6927817
+  },
+  {
     "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
     "link": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Anthropic紧随OpenAI推出医疗AI产品Claude for Healthcare，标志着生成式AI在医疗领域的竞争加剧。",
     "date": "2026-01-12 20:53",
     "timestamp": 1768251189.9694593
-  },
-  {
-    "title": "Anthropic’s new Cowork tool offers Claude Code without the code",
-    "link": "https://techcrunch.com/2026/01/12/anthropics-new-cowork-tool-offers-claude-code-without-the-code/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-    "summary": "Claude推出Cowork功能，用户可指定文件夹授权其读写文件，并通过聊天界面下达操作指令。",
-    "date": "2026-01-12 19:47",
-    "timestamp": 1768247239.8087797
-  },
-  {
-    "title": "Amazon says 97% of its devices can support Alexa+",
-    "link": "https://techcrunch.com/2026/01/12/amazon-says-97-of-its-devices-can-support-alexa/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
-    "summary": "亚马逊正凭借Alexa的广泛用户基础，全力进军消费级AI市场，以期在竞争中抢占先机。",
-    "date": "2026-01-12 19:47",
-    "timestamp": 1768247241.9813755
   }
 ]
