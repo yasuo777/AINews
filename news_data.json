@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google now offers free SAT practice exams, powered by Gemini",
+    "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?resize=1200,800",
+    "summary": "谷歌Gemini推出SAT备考功能，用户可通过指令获取免费模拟测试。AI将分析成绩、指出强弱项，并为错题提供详细解析。",
+    "date": "2026-01-22 19:02",
+    "timestamp": 1769108573.6575572
+  },
+  {
     "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
     "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "一款名为ClothOff的应用程序两年多来持续在网络空间侵害年轻女性，其利用人工智能技术伪造并传播虚假裸照。该应用虽已被主流应用商店及多数社交平台下架，但仍可通过网页及Telegram机器人访问，治理难度极大。",
     "date": "2026-01-12 16:59",
     "timestamp": 1768237157.4137416
-  },
-  {
-    "title": "Harmattan AI raises $200M Series B led by Dassault Aviation, becomes defense unicorn",
-    "link": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2220168874.jpg?resize=1200,800",
-    "summary": "法国防务科技公司Harmattan AI完成2亿美元B轮融资，由达索航空领投，投后估值达14亿美元。该公司专注于人工智能技术在国防领域的应用。",
-    "date": "2026-01-12 14:01",
-    "timestamp": 1768226489.483004
   }
 ]
