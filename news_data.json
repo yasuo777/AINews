@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
+    "link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
+    "summary": "自2024年起，Anthropic为防AI作弊，已多次升级其编程能力测试，以应对日益强大的AI编码工具对招聘考核的冲击。",
+    "date": "2026-01-22 15:00",
+    "timestamp": 1769094043.265187
+  },
+  {
     "title": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
     "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Prompted-Playlist-Header.jpg?resize=1200,683",
@@ -790,13 +798,5 @@
     "summary": "谷歌宣布商家现可在AI模式搜索结果中直接为用户提供折扣。",
     "date": "2026-01-11 15:48",
     "timestamp": 1768146488.769499
-  },
-  {
-    "title": "OpenAI is reportedly asking contractors to upload real work from past jobs",
-    "link": "https://techcrunch.com/2026/01/10/openai-is-reportedly-asking-contractors-to-upload-real-work-from-past-jobs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "律师警告OpenAI当前策略存在重大法律风险。",
-    "date": "2026-01-10 21:47",
-    "timestamp": 1768081620.7324176
   }
 ]
