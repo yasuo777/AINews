@@ -1,5 +1,29 @@
 [
   {
+    "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
+    "link": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "人工智能初创公司获1亿美元融资，由Index Ventures领投。",
+    "date": "2026-01-22 22:54",
+    "timestamp": 1769122446.7170603
+  },
+  {
+    "title": "Inference startup Inferact lands $150M to commercialize vLLM",
+    "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?resize=1200,675",
+    "summary": "新成立的初创公司完成种子轮融资，估值达8亿美元。",
+    "date": "2026-01-22 22:54",
+    "timestamp": 1769122448.395317
+  },
+  {
+    "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
+    "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "summary": "AI安全测试显示，大语言模型存在生成虚假漏洞与无法编译代码的问题。",
+    "date": "2026-01-22 22:54",
+    "timestamp": 1769122450.8026874
+  },
+  {
     "title": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
     "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
@@ -774,29 +798,5 @@
     "summary": "亚马逊解释其可穿戴设备Bee的定位，并澄清该产品将与Alexa生态并行发展，不会合并。",
     "date": "2026-01-12 22:50",
     "timestamp": 1768258235.789334
-  },
-  {
-    "title": "Google removes some AI health summaries after investigation finds “dangerous” flaws",
-    "link": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/05/GettyImages-1488311999-1152x648.jpg",
-    "summary": "谷歌AI摘要误报肝脏检测信息，专家警示其风险。",
-    "date": "2026-01-12 22:50",
-    "timestamp": 1768258238.4580112
-  },
-  {
-    "title": "Mark Zuckerberg says Meta is launching its own AI infrastructure initiative",
-    "link": "https://techcrunch.com/2026/01/12/mark-zuckerberg-says-meta-is-launching-its-own-ai-infrastructure-initiative/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-    "summary": "Meta正加速扩充其人工智能基础设施，以提升整体AI算力与研发能力。",
-    "date": "2026-01-12 21:49",
-    "timestamp": 1768254579.066821
-  },
-  {
-    "title": "Anthropic announces Claude for Healthcare following OpenAI’s ChatGPT Health reveal",
-    "link": "https://techcrunch.com/2026/01/12/anthropic-announces-claude-for-healthcare-following-openais-chatgpt-health-reveal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "Anthropic紧随OpenAI推出医疗AI产品Claude for Healthcare，标志着生成式AI在医疗领域的竞争加剧。",
-    "date": "2026-01-12 20:53",
-    "timestamp": 1768251189.9694593
   }
 ]
