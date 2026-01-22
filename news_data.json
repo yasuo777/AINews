@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google reportedly snags up team behind AI voice startup Hume AI",
+    "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2166080568.jpg?w=1024",
+    "summary": "谷歌收购语音AI创企Hume AI的核心团队，表明语音交互正加速取代屏幕成为主流界面。",
+    "date": "2026-01-22 15:59",
+    "timestamp": 1769097583.7745605
+  },
+  {
+    "title": "From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing",
+    "link": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "Neurophos公司推出采用复合材料的光学芯片，专用于AI推理计算，旨在解决行业能效瓶颈。",
+    "date": "2026-01-22 15:59",
+    "timestamp": 1769097585.6993074
+  },
+  {
+    "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
+    "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_shopper_1-1152x648.jpg",
+    "summary": "新规要求“代购”类AI工具及聊天机器人须经许可方可接入平台。",
+    "date": "2026-01-22 15:59",
+    "timestamp": 1769097588.0063252
+  },
+  {
     "title": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
     "link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Motional宣布将于2026年底前在拉斯维加斯推出全无人驾驶出租车服务。",
     "date": "2026-01-12 02:55",
     "timestamp": 1768186543.3810184
-  },
-  {
-    "title": "Google removes AI Overviews for certain medical queries",
-    "link": "https://techcrunch.com/2026/01/11/google-removes-ai-overviews-for-certain-medical-queries/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698",
-    "summary": "《卫报》调查发现，谷歌AI概览功能在部分健康咨询中提供误导性信息，引发对其可靠性的质疑。",
-    "date": "2026-01-11 18:55",
-    "timestamp": 1768157708.059255
-  },
-  {
-    "title": "Indonesia and Malaysia block Grok over non-consensual, sexualized deepfakes",
-    "link": "https://techcrunch.com/2026/01/11/indonesia-blocks-grok-over-non-consensual-sexualized-deepfakes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
-    "summary": "印尼官员周六表示，将暂时屏蔽xAI公司开发的聊天机器人Grok的访问权限。",
-    "date": "2026-01-11 15:48",
-    "timestamp": 1768146487.0017226
-  },
-  {
-    "title": "Google announces a new protocol to facilitate commerce using AI agents",
-    "link": "https://techcrunch.com/2026/01/11/google-announces-a-new-protocol-to-facilitate-commerce-using-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/google-ai-mode-techcrunch.jpg?resize=1200,800",
-    "summary": "谷歌宣布商家现可在AI模式搜索结果中直接为用户提供折扣。",
-    "date": "2026-01-11 15:48",
-    "timestamp": 1768146488.769499
   }
 ]
