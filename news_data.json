@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google DeepMind CEO is ‘surprised’ OpenAI is rushing forward with ads in ChatGPT",
+    "link": "https://techcrunch.com/2026/01/22/google-deepmind-ceo-is-surprised-openai-is-rushing-forward-with-ads-in-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/videoframe_271754.png?resize=1200,675",
+    "summary": "DeepMind CEO哈萨比斯称，谷歌未要求在AI聊天体验中植入广告。",
+    "date": "2026-01-22 19:51",
+    "timestamp": 1769111466.211867
+  },
+  {
+    "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+    "link": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans-Founder-Photo-1.jpeg?resize=1200,800",
+    "summary": "AI明星团队创业公司Humans&致力于开发新一代协作式基础模型，旨在超越对话功能，实现人机深度协同。",
+    "date": "2026-01-22 19:51",
+    "timestamp": 1769111468.2575562
+  },
+  {
     "title": "Google now offers free SAT practice exams, powered by Gemini",
     "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "亚马逊正凭借Alexa的广泛用户基础，全力进军消费级AI市场，以期在竞争中抢占先机。",
     "date": "2026-01-12 19:47",
     "timestamp": 1768247241.9813755
-  },
-  {
-    "title": "Google’s Gemini to power Apple’s AI features like Siri",
-    "link": "https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-    "summary": "苹果与谷歌达成非独家多年合作，苹果将在未来基础模型中使用Gemini模型及谷歌云技术。",
-    "date": "2026-01-12 17:50",
-    "timestamp": 1768240217.014092
-  },
-  {
-    "title": "A New Jersey lawsuit shows how hard it is to fight deepfake porn",
-    "link": "https://techcrunch.com/2026/01/12/a-new-jersey-lawsuit-shows-how-hard-it-is-to-fight-deepfake-porn/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
-    "summary": "一款名为ClothOff的应用程序两年多来持续在网络空间侵害年轻女性，其利用人工智能技术伪造并传播虚假裸照。该应用虽已被主流应用商店及多数社交平台下架，但仍可通过网页及Telegram机器人访问，治理难度极大。",
-    "date": "2026-01-12 16:59",
-    "timestamp": 1768237157.4137416
   }
 ]
