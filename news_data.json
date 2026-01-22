@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+    "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+    "summary": "谷歌澄清其AI模式并非直接训练于用户Gmail或相册数据，而是基于特定提示与模型反馈进行训练。",
+    "date": "2026-01-22 17:04",
+    "timestamp": 1769101445.6096523
+  },
+  {
     "title": "Google reportedly snags up team behind AI voice startup Hume AI",
     "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2166080568.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "法国防务科技公司Harmattan AI完成2亿美元B轮融资，由达索航空领投，投后估值达14亿美元。该公司专注于人工智能技术在国防领域的应用。",
     "date": "2026-01-12 14:01",
     "timestamp": 1768226489.483004
-  },
-  {
-    "title": "Motional puts AI at center of robotaxi reboot as it targets 2026 for driverless service",
-    "link": "https://techcrunch.com/2026/01/11/motional-puts-ai-at-center-of-robotaxi-reboot-as-it-targets-2026-for-driverless-service/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Motional-hyundai-robotaxi-vegas.jpg?resize=1200,900",
-    "summary": "Motional宣布将于2026年底前在拉斯维加斯推出全无人驾驶出租车服务。",
-    "date": "2026-01-12 02:55",
-    "timestamp": 1768186543.3810184
   }
 ]
