@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google Photos’ latest feature lets you meme yourself",
+    "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/08/Works-with-Google-Photos.jpg?resize=1200,500",
+    "summary": "谷歌相册推出新功能，用户可将个人形象融入网络热图模板，一键生成个性化表情包。",
+    "date": "2026-01-23 17:52",
+    "timestamp": 1769190769.4897914
+  },
+  {
     "title": "Meta pauses teen access to AI characters as it develops a specially tailored version",
     "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Salesforce推出AI助手Slackbot，用户可通过Slack跨多个企业应用完成工作任务。",
     "date": "2026-01-13 13:27",
     "timestamp": 1768310820.7970667
-  },
-  {
-    "title": "Brazil orders Meta to suspend policy banning third-party AI chatbots from WhatsApp",
-    "link": "https://techcrunch.com/2026/01/13/brazil-orders-meta-to-suspend-policy-banning-third-party-ai-chatbots-from-whatsapp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/WhatsApp-Bubble.jpg?resize=1200,675",
-    "summary": "巴西反垄断机构要求WhatsApp暂停禁止第三方AI公司使用其商业API提供聊天机器人的政策，并已就此展开反竞争调查。",
-    "date": "2026-01-13 13:27",
-    "timestamp": 1768310823.0939555
   }
 ]
