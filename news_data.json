@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta pauses teen access to AI characters ahead of new version",
+    "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
+    "summary": "Meta宣布在全球范围内暂停青少年访问其AI角色功能，但表示不会放弃相关开发，计划推出针对青少年的更新版本。",
+    "date": "2026-01-23 19:02",
+    "timestamp": 1769194922.3696501
+  },
+  {
     "title": "Google Photos’ latest feature lets you meme yourself",
     "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/08/Works-with-Google-Photos.jpg?resize=1200,500",
@@ -790,13 +798,5 @@
     "summary": "AI语音识别公司Deepgram以13亿美元估值完成C轮融资。",
     "date": "2026-01-13 14:00",
     "timestamp": 1768312848.1291058
-  },
-  {
-    "title": "Slackbot is an AI agent now",
-    "link": "https://techcrunch.com/2026/01/13/slackbot-is-an-ai-agent-now/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Slackbot.png?resize=1200,785",
-    "summary": "Salesforce推出AI助手Slackbot，用户可通过Slack跨多个企业应用完成工作任务。",
-    "date": "2026-01-13 13:27",
-    "timestamp": 1768310820.7970667
   }
 ]
