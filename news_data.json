@@ -1,5 +1,13 @@
 [
   {
+    "title": "How did Davos turn into a tech conference?",
+    "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+    "summary": "今年达沃斯世界经济论坛年会氛围显著不同，人工智能成为压倒气候、贫困等传统议题的绝对焦点。与会CEO们公开批评贸易政策，并就AI风险发出警告。",
+    "date": "2026-01-23 20:54",
+    "timestamp": 1769201666.7528753
+  },
+  {
     "title": "Meta pauses teen access to AI characters ahead of new version",
     "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "苹果推出专业软件套装，包含Mac版Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor及MainStage，并支持在iPad上使用前三种应用。",
     "date": "2026-01-13 14:57",
     "timestamp": 1768316258.2220001
-  },
-  {
-    "title": "Deepgram raises $130M at $1.3B valuation and buys a YC AI startup",
-    "link": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "AI语音识别公司Deepgram以13亿美元估值完成C轮融资。",
-    "date": "2026-01-13 14:00",
-    "timestamp": 1768312848.1291058
   }
 ]
