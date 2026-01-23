@@ -1,5 +1,21 @@
 [
   {
+    "title": "Former Sequoia partner’s new startup uses AI to negotiate your calendar for you",
+    "link": "https://techcrunch.com/2026/01/22/former-sequoia-partners-new-startup-uses-ai-to-negotiate-your-calendar-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Copy-of-SequoiaARCUS2023-FallWeek1NYC_0919-318.jpg.png?resize=1200,694",
+    "summary": "AI日程助手Blockit完成500万美元种子轮融资，由红杉资本领投。该产品可直接与其他日历系统交互。",
+    "date": "2026-01-23 02:36",
+    "timestamp": 1769135772.2991157
+  },
+  {
+    "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
+    "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+    "summary": "OpenAI任命回归仅一周的Barret Zoph负责企业业务拓展，加速布局企业级市场。",
+    "date": "2026-01-23 02:36",
+    "timestamp": 1769135774.5393155
+  },
+  {
     "title": "Voice AI engine and OpenAI partner LiveKit hits $1B valuation",
     "link": "https://techcrunch.com/2026/01/22/voice-ai-engine-and-openai-partner-livekit-hits-1b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "亚马逊推出AI可穿戴设备Bee，目前功能尚不完善，主要面向普通用户。预计今年将增加更多新功能。",
     "date": "2026-01-13 02:32",
     "timestamp": 1768271563.7639215
-  },
-  {
-    "title": "Anthropic launches Cowork, a Claude Code-like for general computing",
-    "link": "https://arstechnica.com/ai/2026/01/anthropic-launches-cowork-a-claude-code-like-for-general-computing/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Claude-Cowork-1152x648.jpg",
-    "summary": "Anthropic为Claude推出文件夹上传功能，用户可直接授权Claude访问指定文件夹并执行操作指令，显著提升AI处理本地文件的交互效率。",
-    "date": "2026-01-12 23:47",
-    "timestamp": 1768261670.5969563
-  },
-  {
-    "title": "Why Amazon bought Bee, an AI wearable",
-    "link": "https://techcrunch.com/2026/01/12/why-amazon-bought-bee-an-ai-wearable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/HD_8500c2.jpg?resize=1200,675",
-    "summary": "亚马逊解释其可穿戴设备Bee的定位，并澄清该产品将与Alexa生态并行发展，不会合并。",
-    "date": "2026-01-12 22:50",
-    "timestamp": 1768258235.789334
   }
 ]
