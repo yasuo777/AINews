@@ -1,5 +1,13 @@
 [
   {
+    "title": "A new test for AI labs: Are you even trying to make money?",
+    "link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
+    "summary": "AI实验室盈利意图日益模糊。为此，我们建立了一套评级体系，以清晰区分各机构的商业化导向。",
+    "date": "2026-01-24 17:48",
+    "timestamp": 1769276886.2814205
+  },
+  {
     "title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
     "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
@@ -790,13 +798,5 @@
     "summary": "过去一周，OpenAI与Anthropic相继推出医疗健康专用产品，旨在为行业提供定制化AI解决方案。",
     "date": "2026-01-13 18:59",
     "timestamp": 1768330746.9292805
-  },
-  {
-    "title": "Neo humanoid maker 1X releases world model to help bots learn what they see",
-    "link": "https://techcrunch.com/2026/01/13/neo-humanoid-maker-1x-releases-world-model-to-help-bots-learn-what-they-see/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/1X_NEO-Home-Duster.jpg?resize=1200,675",
-    "summary": "1X发布新型世界模型，称其为机器人自主学习新任务迈出关键一步。",
-    "date": "2026-01-13 17:55",
-    "timestamp": 1768326932.153484
   }
 ]
