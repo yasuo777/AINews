@@ -1,5 +1,13 @@
 [
   {
+    "title": "Former Googlers seek to captivate kids with an AI-powered learning app",
+    "link": "https://techcrunch.com/2026/01/24/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Sparkli-founders-L-to-R-Mynseok-Kang-Lax-Poojary-and-Lucie-Marchand.jpeg?resize=1200,780",
+    "summary": "Sparkli指出教育体系常滞后于现代理念，计划通过AI驱动的学习\"探险\"项目，向儿童教授技能设计、财务素养及创业知识。",
+    "date": "2026-01-24 18:56",
+    "timestamp": 1769280986.5005894
+  },
+  {
     "title": "A new test for AI labs: Are you even trying to make money?",
     "link": "https://techcrunch.com/2026/01/24/a-new-test-for-ai-labs-are-you-even-trying-to-make-money/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "亚马逊旗下门铃制造商Ring宣布转型为\"智能助手\"，标志着AI技术正引领其迈入新发展阶段。",
     "date": "2026-01-13 19:47",
     "timestamp": 1768333631.860684
-  },
-  {
-    "title": "Doctors think AI has a place in healthcare – but maybe not as a chatbot",
-    "link": "https://techcrunch.com/2026/01/13/doctors-think-ai-has-a-place-in-healthcare-but-maybe-not-as-a-chatbot/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1369564450.jpg?resize=1200,900",
-    "summary": "过去一周，OpenAI与Anthropic相继推出医疗健康专用产品，旨在为行业提供定制化AI解决方案。",
-    "date": "2026-01-13 18:59",
-    "timestamp": 1768330746.9292805
   }
 ]
