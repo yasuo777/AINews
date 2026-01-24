@@ -1,5 +1,13 @@
 [
   {
+    "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+    "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2198379447.jpg?resize=1200,800",
+    "summary": "AI科学家Yann LeCun离开Meta后创立的AMI实验室引发业界高度关注。",
+    "date": "2026-01-24 02:31",
+    "timestamp": 1769221911.6583998
+  },
+  {
     "title": "How did Davos turn into a tech conference?",
     "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该公司年度经常性收入从2亿美元增至3.3亿美元仅用时五个月。",
     "date": "2026-01-13 17:01",
     "timestamp": 1768323690.1284308
-  },
-  {
-    "title": "Apple launches ‘Creator Studio’ bundle of apps for $12.99 per month",
-    "link": "https://techcrunch.com/2026/01/13/apple-launches-creator-studio-bundle-of-apps-for-12-99-per-month/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?resize=1200,594",
-    "summary": "苹果推出专业软件套装，包含Mac版Final Cut Pro、Logic Pro、Pixelmator Pro、Motion、Compressor及MainStage，并支持在iPad上使用前三种应用。",
-    "date": "2026-01-13 14:57",
-    "timestamp": 1768316258.2220001
   }
 ]
