@@ -1,5 +1,29 @@
 [
   {
+    "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
+    "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
+    "summary": "马斯克旗下xAI开发的保守派倾向AI百科内容开始出现在ChatGPT的回复中。",
+    "date": "2026-01-25 22:51",
+    "timestamp": 1769381491.8958948
+  },
+  {
+    "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
+    "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans-Founder-Photo-1.jpeg?resize=1200,800",
+    "summary": "AI创企Humans&由多家顶尖公司前员工创立，致力于开发以协作为核心的新一代基础模型，而非聊天工具。",
+    "date": "2026-01-25 22:51",
+    "timestamp": 1769381494.0705183
+  },
+  {
+    "title": "Science fiction writers, Comic-Con say goodbye to AI",
+    "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/techcrunch-cyber-books-illo-3.jpg?w=1148",
+    "summary": "科幻与流行文化界多位领军人物近日明确表态，反对生成式人工智能的滥用。",
+    "date": "2026-01-25 22:51",
+    "timestamp": 1769381496.0907297
+  },
+  {
     "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
     "link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "近期市场对AI PC的关注度有所降温，但行业分析指出，随着技术成熟与新品发布，其长期增长潜力依然显著。",
     "date": "2026-01-13 22:53",
     "timestamp": 1768344815.32524
-  },
-  {
-    "title": "Hegseth wants to integrate Musk’s Grok AI into military networks this month",
-    "link": "https://arstechnica.com/ai/2026/01/hegseth-wants-to-integrate-musks-grok-ai-into-military-networks-this-month/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/grok_header_1-1152x648.jpg",
-    "summary": "美国防长宣布将继续推进军事整合计划，近期争议不影响既定进程。",
-    "date": "2026-01-13 21:51",
-    "timestamp": 1768341082.4595284
-  },
-  {
-    "title": "Microsoft announces glut of new data centers but says it won’t let your electricity bill go up",
-    "link": "https://techcrunch.com/2026/01/13/microsoft-announces-glut-of-new-data-centers-but-says-it-wont-let-your-electricity-bill-go-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?resize=1200,800",
-    "summary": "科技巨头承诺在推进全美AI基建过程中，将积极履行\"好邻居\"责任。",
-    "date": "2026-01-13 20:53",
-    "timestamp": 1768337613.6445622
-  },
-  {
-    "title": "Microsoft vows to cover full power costs for energy-hungry AI data centers",
-    "link": "https://arstechnica.com/ai/2026/01/microsoft-vows-to-cover-full-power-costs-for-energy-hungry-ai-data-centers/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/microsoft_datacenter_2025-1152x648.jpg",
-    "summary": "公司就社区对电费及用水问题的关切作出回应，表示将核查计费系统并优化资源管理措施。",
-    "date": "2026-01-13 20:53",
-    "timestamp": 1768337616.4367511
   }
 ]
