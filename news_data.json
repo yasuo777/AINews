@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
+    "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
+    "summary": "CoreWeave将全面整合英伟达产品，包括新一代Rubin芯片架构。",
+    "date": "2026-01-26 15:58",
+    "timestamp": 1769443092.5487278
+  },
+  {
+    "title": "Only 5 days left: Over half of the first 500 TechCrunch Disrupt 2026 +1 passes at 50% off are already gone",
+    "link": "https://techcrunch.com/2026/01/26/only-5-days-left-over-half-of-the-first-500-techcrunch-disrupt-2026-1-passes-at-50-off-are-already-gone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026大会门票限时优惠，最高可减免680美元，同行票享半价。优惠截止日期为1月30日（周五）。",
+    "date": "2026-01-26 15:58",
+    "timestamp": 1769443094.9556735
+  },
+  {
     "title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
     "link": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-969384810.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Skild AI完成14亿美元融资，由软银领投。该公司致力于开发通用机器人软件。",
     "date": "2026-01-14 17:01",
     "timestamp": 1768410079.5186925
-  },
-  {
-    "title": "Gemini’s new beta feature provides proactive responses based on your photos, emails, and more",
-    "link": "https://techcrunch.com/2026/01/14/geminis-new-beta-feature-provides-proactive-responses-based-on-your-photos-emails-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233653192.jpg?resize=1200,786",
-    "summary": "谷歌Gemini的“个人智能”功能默认关闭，用户可自主选择是否及何时将其关联至谷歌应用。",
-    "date": "2026-01-14 17:01",
-    "timestamp": 1768410081.498419
-  },
-  {
-    "title": "Deny, deny, admit: UK police used Copilot AI “hallucination” when banning football fans",
-    "link": "https://arstechnica.com/ai/2026/01/deny-deny-admit-uk-police-used-copilot-ai-hallucination-when-banning-football-fans/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-2251534549-1152x648-1768405011.jpg",
-    "summary": "警方承认在案件调查中错误使用人工智能工具，导致关键证据处理失误并影响案件侦办，现已对涉事流程展开审查整改。",
-    "date": "2026-01-14 17:01",
-    "timestamp": 1768410084.6257384
   }
 ]
