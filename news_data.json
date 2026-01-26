@@ -1,5 +1,21 @@
 [
   {
+    "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
+    "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Obvious-Five-high-rez39.png?resize=1200,684",
+    "summary": "成立12年的公司为其第五只基金募资3.6亿美元，该数字设计具有特殊意义。",
+    "date": "2026-01-26 19:03",
+    "timestamp": 1769454203.627919
+  },
+  {
+    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
+    "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/mcp-asana-crop.jpg?resize=1200,987",
+    "summary": "Claude将支持在聊天界面内调用交互式应用，Cowork集成功能即将上线。",
+    "date": "2026-01-26 19:03",
+    "timestamp": 1769454205.4908493
+  },
+  {
     "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
     "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2257473113.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "企业广泛部署AI助手与智能体时，面临新型安全风险：员工与AI工具交互过程中，可能意外泄露敏感数据或违反合规要求，亟需建立相应防护机制。",
     "date": "2026-01-14 19:47",
     "timestamp": 1768420078.2974315
-  },
-  {
-    "title": "AI models are starting to crack high-level math problems",
-    "link": "https://techcrunch.com/2026/01/14/ai-models-are-starting-to-crack-high-level-math-problems/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-    "summary": "GPT 5.2发布后，AI工具已深度融入高等数学领域，成为不可或缺的辅助手段。",
-    "date": "2026-01-14 19:48",
-    "timestamp": 1768420080.0338857
-  },
-  {
-    "title": "Google’s Trends Explore page gets new Gemini capabilities",
-    "link": "https://techcrunch.com/2026/01/14/googles-trends-explore-page-gets-new-gemini-capabilities/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/12/google-search-magnifying-glass.png?resize=1200,638",
-    "summary": "谷歌趋势分析页面升级，现集成Gemini AI技术，可自动识别并对比相关搜索趋势，提升用户洞察效率。",
-    "date": "2026-01-14 18:59",
-    "timestamp": 1768417185.7947562
   }
 ]
