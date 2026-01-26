@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI spills technical details about how its AI coding agent works",
+    "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
+    "summary": "OpenAI详解Codex代理循环机制，披露其处理代码生成与执行反馈的内部工作流程。",
+    "date": "2026-01-26 23:52",
+    "timestamp": 1769471536.8687432
+  },
+  {
     "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
     "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/evan-spiegel.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "加州总检察长对马斯克的xAI公司展开正式调查，因其聊天机器人Grok未经同意生成真实女性及儿童的不雅图像。",
     "date": "2026-01-14 22:53",
     "timestamp": 1768431187.7300382
-  },
-  {
-    "title": "OpenAI signs deal, worth $10 billion, for compute from Cerebras",
-    "link": "https://techcrunch.com/2026/01/14/openai-signs-deal-reportedly-worth-10-billion-for-compute-from-cerebras/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1797579057-e.jpg?resize=1200,847",
-    "summary": "OpenAI与合作伙伴宣布，此次合作将提升其模型处理复杂任务时的响应速度。",
-    "date": "2026-01-14 22:53",
-    "timestamp": 1768431189.6268928
   }
 ]
