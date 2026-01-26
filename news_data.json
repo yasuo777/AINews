@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+    "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/factory-GettyImages.jpg?resize=1200,1173",
+    "summary": "工业AI初创公司CVector为大型工业构建了“大脑与神经系统”。目前，其创始人面临的核心挑战是向客户与投资者证明，该AI软件层如何在工业规模上实现切实的成本节约。这家纽约公司在种子轮融资后已取得初步进展。",
+    "date": "2026-01-26 19:51",
+    "timestamp": 1769457078.9784007
+  },
+  {
     "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
     "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Obvious-Five-high-rez39.png?resize=1200,684",
@@ -790,13 +798,5 @@
     "summary": "OpenAI修复漏洞：用户关闭聊天窗口后，攻击代码仍可窃取历史数据。",
     "date": "2026-01-14 22:53",
     "timestamp": 1768431192.389763
-  },
-  {
-    "title": "The multi-billion AI security problem enterprises can’t ignore",
-    "link": "https://techcrunch.com/podcast/the-multi-billion-ai-security-problem-enterprises-cant-ignore/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800",
-    "summary": "企业广泛部署AI助手与智能体时，面临新型安全风险：员工与AI工具交互过程中，可能意外泄露敏感数据或违反合规要求，亟需建立相应防护机制。",
-    "date": "2026-01-14 19:47",
-    "timestamp": 1768420078.2974315
   }
 ]
