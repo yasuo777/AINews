@@ -1,5 +1,21 @@
 [
   {
+    "title": "Tech workers call for CEOs to speak up against ICE after the killing of Alex Pretti",
+    "link": "https://techcrunch.com/2026/01/26/tech-workers-call-for-ceos-to-speak-up-against-ice-after-the-killing-of-alex-pretti/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2257473113.jpg?w=1024",
+    "summary": "超过450名来自谷歌、Meta等科技公司的员工联名致信CEO，要求敦促白宫停止移民执法机构在城市的执法行动。",
+    "date": "2026-01-26 17:04",
+    "timestamp": 1769447058.1503427
+  },
+  {
+    "title": "Microsoft announces powerful new chip for AI inference",
+    "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Maia200-Hero-Image.png?resize=1200,674",
+    "summary": "微软推出Maia AI芯片，集成超1000亿晶体管，提供超10PFlops（4位精度）及约5PFlops（8位精度）算力，性能较前代大幅提升。",
+    "date": "2026-01-26 17:04",
+    "timestamp": 1769447060.765644
+  },
+  {
     "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
     "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
@@ -782,21 +798,5 @@
     "summary": "谷歌趋势分析页面升级，现集成Gemini AI技术，可自动识别并对比相关搜索趋势，提升用户洞察效率。",
     "date": "2026-01-14 18:59",
     "timestamp": 1768417185.7947562
-  },
-  {
-    "title": "Bandcamp bans purely AI-generated music from its platform",
-    "link": "https://arstechnica.com/ai/2026/01/bandcamp-bans-purely-ai-generated-music-from-its-platform/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/no_robot_music_2-1152x648.jpg",
-    "summary": "独立音乐商店声明，为保障作品主要由人类创作，将标注音乐制作中人工智能的使用比例，以维护乐迷信任。",
-    "date": "2026-01-14 17:55",
-    "timestamp": 1768413314.8715332
-  },
-  {
-    "title": "Robotics software maker Skild AI hits $14B valuation",
-    "link": "https://techcrunch.com/2026/01/14/robotic-software-maker-skild-ai-hits-14b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2147670244.jpg?resize=1200,800",
-    "summary": "Skild AI完成14亿美元融资，由软银领投。该公司致力于开发通用机器人软件。",
-    "date": "2026-01-14 17:01",
-    "timestamp": 1768410079.5186925
   }
 ]
