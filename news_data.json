@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia’s new AI weather models probably saw this storm coming weeks ago",
+    "link": "https://techcrunch.com/2026/01/26/nvidias-new-ai-weather-models-probably-saw-this-storm-coming-weeks-ago/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-969384810.jpg?resize=1200,800",
+    "summary": "英伟达今日发布三款全新AI气象工具，旨在提升天气预报精准度并降低使用门槛，推动气象预测技术普及。",
+    "date": "2026-01-26 14:03",
+    "timestamp": 1769436187.8026977
+  },
+  {
     "title": "Synthesia hits $4B valuation, lets employees cash out",
     "link": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Synthesia-cofounders-Steffen-Tjerrild-and-Victor-Riparbelli.jpg?resize=1200,833",
@@ -790,13 +798,5 @@
     "summary": "警方承认在案件调查中错误使用人工智能工具，导致关键证据处理失误并影响案件侦办，现已对涉事流程展开审查整改。",
     "date": "2026-01-14 17:01",
     "timestamp": 1768410084.6257384
-  },
-  {
-    "title": "AI security firm, depthfirst, announces $40 million series A",
-    "link": "https://techcrunch.com/2026/01/14/ai-security-firm-depthfirst-announces-40-million-series-a/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Teamphoto.jpg?resize=1200,802",
-    "summary": "该公司推出AI原生平台，助力企业高效应对安全威胁。",
-    "date": "2026-01-14 15:53",
-    "timestamp": 1768405983.682584
   }
 ]
