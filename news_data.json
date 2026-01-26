@@ -1,5 +1,13 @@
 [
   {
+    "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
+    "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/evan-spiegel.jpg?resize=1200,800",
+    "summary": "YouTube博主指控Snap公司违规使用仅供学术研究的人工智能数据集训练其商业模型。",
+    "date": "2026-01-26 21:53",
+    "timestamp": 1769464390.5773585
+  },
+  {
     "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
     "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/factory-GettyImages.jpg?resize=1200,1173",
@@ -790,13 +798,5 @@
     "summary": "OpenAI与合作伙伴宣布，此次合作将提升其模型处理复杂任务时的响应速度。",
     "date": "2026-01-14 22:53",
     "timestamp": 1768431189.6268928
-  },
-  {
-    "title": "A single click mounted a covert, multistage attack against Copilot",
-    "link": "https://arstechnica.com/security/2026/01/a-single-click-mounted-a-covert-multistage-attack-against-copilot/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/MSFT_Holiday_copilot_Card_1-1152x648-1763493467.jpeg",
-    "summary": "OpenAI修复漏洞：用户关闭聊天窗口后，攻击代码仍可窃取历史数据。",
-    "date": "2026-01-14 22:53",
-    "timestamp": 1768431192.389763
   }
 ]
