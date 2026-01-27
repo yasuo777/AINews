@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic and OpenAI CEOs condemn ICE violence, praise Trump",
+    "link": "https://techcrunch.com/2026/01/27/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
+    "summary": "Anthropic与OpenAI高管就明尼阿波利斯冲突后ICE执法措施发声，分别通过公开声明与内部渠道表达关切。",
+    "date": "2026-01-27 19:06",
+    "timestamp": 1769540789.1739004
+  },
+  {
+    "title": "Google’s more affordable AI Plus plan rolls out to all markets, including the U.S.",
+    "link": "https://techcrunch.com/2026/01/27/googles-ai-plus-plan-rolls-out-to-all-markets-including-the-u-s/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2169339854.jpg?resize=1200,857",
+    "summary": "谷歌AI Plus订阅计划全球上线，月费7.99美元，提供Gemini 3 Pro等AI工具服务。",
+    "date": "2026-01-27 19:06",
+    "timestamp": 1769540790.9165401
+  },
+  {
+    "title": "OpenAI launches Prism, a new AI workspace for scientists",
+    "link": "https://techcrunch.com/2026/01/27/openai-launches-prism-a-new-ai-workspace-for-scientists/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Prism-Graphic-1x1-1.png?resize=1200,1200",
+    "summary": "OpenAI推出科研工作平台Prism，将AI能力融入现有科研论文撰写标准，辅助研究人员高效完成论文创作。",
+    "date": "2026-01-27 19:06",
+    "timestamp": 1769540793.0965543
+  },
+  {
     "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
     "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "AI视频初创公司Higgsfield宣布年收入达20亿美元，并重启A轮融资，额外售出8000万美元股份。",
     "date": "2026-01-15 19:52",
     "timestamp": 1768506724.0976524
-  },
-  {
-    "title": "The US imposes 25% tariff on Nvidia’s H200 AI chips headed to China",
-    "link": "https://techcrunch.com/2026/01/15/the-us-imposes-25-tariff-on-nvidias-h200-ai-chips-headed-to-china/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
-    "summary": "美国政府正式对部分输华半导体加征25%关税，其中包括H200芯片。此举将限制相关高端芯片对华销售。",
-    "date": "2026-01-15 17:07",
-    "timestamp": 1768496820.1430907
-  },
-  {
-    "title": "OpenAI invests in Sam Altman’s brain computer interface startup Merge Labs",
-    "link": "https://techcrunch.com/2026/01/15/openai-invests-in-sam-altmans-brain-computer-interface-startup-merge-labs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2255262571.jpg?w=1024",
-    "summary": "OpenAI参与投资脑机接口初创公司Merge Labs，本轮种子轮融资额达2.5亿美元，公司估值达8.5亿美元。",
-    "date": "2026-01-15 17:07",
-    "timestamp": 1768496822.3463175
-  },
-  {
-    "title": "Wikimedia Foundation announces new AI partnerships with Amazon, Meta, Microsoft, Perplexity and others",
-    "link": "https://techcrunch.com/2026/01/15/wikimedia-foundation-announces-new-ai-partnerships-with-amazon-meta-microsoft-perplexity-and-others/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-528784450.jpg?w=1024",
-    "summary": "多家公司与AI机构达成合作，将可规模化获取维基百科等内容资源。",
-    "date": "2026-01-15 16:00",
-    "timestamp": 1768492802.7686403
   }
 ]
