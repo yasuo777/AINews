@@ -1,5 +1,13 @@
 [
   {
+    "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
+    "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Risotto-Founders.jpg?resize=1200,800",
+    "summary": "AI客服平台Risotto获1000万美元种子轮融资，由Bonfire Ventures领投。该平台专为自主解决服务台问题而设计。",
+    "date": "2026-01-27 15:56",
+    "timestamp": 1769529381.7036588
+  },
+  {
     "title": "Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’",
     "link": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/cropped-phia.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "美国多名参议员联名致信多家科技巨头，要求其证明平台已建立强效防护政策，并说明遏制AI生成色情深度伪造内容扩散的具体计划。",
     "date": "2026-01-15 16:00",
     "timestamp": 1768492805.9970403
-  },
-  {
-    "title": "Wikipedia signs AI training deals with Microsoft, Meta, and Amazon",
-    "link": "https://arstechnica.com/ai/2026/01/wikipedia-will-share-content-with-ai-firms-in-new-licensing-deals/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/06/Wikipedia-AI-1152x648.jpg",
-    "summary": "维基媒体企业宣布与微软、Meta、亚马逊、Perplexity及Mistral AI达成付费合作协议，为商业用户提供定制化数据服务。",
-    "date": "2026-01-15 16:00",
-    "timestamp": 1768492809.1423473
   }
 ]
