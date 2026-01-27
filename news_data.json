@@ -1,5 +1,13 @@
 [
   {
+    "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
+    "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/spotdraft-co-founders.jpg?resize=1200,800",
+    "summary": "AI合同平台SpotDraft年处理合同量超百万份，同比增长173%。",
+    "date": "2026-01-27 02:55",
+    "timestamp": 1769482542.612135
+  },
+  {
     "title": "OpenAI spills technical details about how its AI coding agent works",
     "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI weapons systems may annihilate their creators.",
     "date": "2026-01-14 23:47",
     "timestamp": 1768434475.7972612
-  },
-  {
-    "title": "Musk denies awareness of Grok sexual underage images as California AG launches probe",
-    "link": "https://techcrunch.com/2026/01/14/musk-denies-awareness-of-grok-sexual-underage-images-as-california-ag-launches-probe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/grok-nonconsensual-sexual-images-x.jpg?resize=1200,675",
-    "summary": "加州总检察长对马斯克的xAI公司展开正式调查，因其聊天机器人Grok未经同意生成真实女性及儿童的不雅图像。",
-    "date": "2026-01-14 22:53",
-    "timestamp": 1768431187.7300382
   }
 ]
