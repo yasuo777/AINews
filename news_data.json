@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
+    "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258343615.jpg?w=1024",
+    "summary": "美国常识媒体组织批评马斯克旗下AI聊天机器人Grok存在严重风险，称其在测评中表现最差。",
+    "date": "2026-01-27 10:59",
+    "timestamp": 1769511577.3380136
+  },
+  {
     "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
     "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/spotdraft-co-founders.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "教育科技公司Emversity获3000万美元融资，将用于拓展印度市场，加强职业技能培训业务。",
     "date": "2026-01-15 02:34",
     "timestamp": 1768444461.9559362
-  },
-  {
-    "title": "Pentagon’s “Arsenal of Freedom” tour borrows name from Star Trek episode—about killer AI",
-    "link": "https://arstechnica.com/culture/2026/01/pentagons-arsenal-of-freedom-tour-borrows-name-from-star-trek-episode-about-killer-ai/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/vulcan-salute-1152x648-1768432794.jpg",
-    "summary": "AI weapons systems may annihilate their creators.",
-    "date": "2026-01-14 23:47",
-    "timestamp": 1768434475.7972612
   }
 ]
