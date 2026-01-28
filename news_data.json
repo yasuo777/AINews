@@ -1,5 +1,21 @@
 [
   {
+    "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
+    "link": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+    "summary": "扎克伯格对元宇宙的预测应审慎看待，其此前关于元宇宙普及的预期并未如期实现。",
+    "date": "2026-01-28 22:58",
+    "timestamp": 1769641130.9158165
+  },
+  {
+    "title": "Tesla invested $2B in Elon Musk’s xAI",
+    "link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
+    "summary": "马斯克的xAI公司本月披露已成功融资200亿美元，估值达180亿美元，旨在加速人工智能技术研发。",
+    "date": "2026-01-28 22:58",
+    "timestamp": 1769641132.6607409
+  },
+  {
     "title": "Elon Musk teases a new image-labeling system for X…we think?",
     "link": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "2024年全球AI发展迅猛，2025年行业预计将持续突破，聚焦技术深化与应用拓展。",
     "date": "2026-01-19 18:59",
     "timestamp": 1768849161.3917577
-  },
-  {
-    "title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
-    "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/rick-caccia-witnessai.jpg?w=860",
-    "summary": "AI安全初创公司Witness AI致力于解决包括智能体错位在内的多层安全挑战，通过监控员工使用未授权工具、阻断攻击并确保合规性。",
-    "date": "2026-01-19 17:00",
-    "timestamp": 1768842001.7989945
-  },
-  {
-    "title": "Well, there goes the metaverse!",
-    "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/friends.webp?w=1200",
-    "summary": "元宇宙热潮因AI崛起而消退，Meta的VR战略还面临其他困境。",
-    "date": "2026-01-19 17:00",
-    "timestamp": 1768842003.4704902
   }
 ]
