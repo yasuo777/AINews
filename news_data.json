@@ -1,5 +1,29 @@
 [
   {
+    "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+    "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802",
+    "summary": "美国初创公司Arcee AI发布4000亿参数开源模型Trinity，称其是目前美国企业推出的最大规模开源基础模型之一。",
+    "date": "2026-01-28 18:00",
+    "timestamp": 1769623201.5123205
+  },
+  {
+    "title": "Modelence raises $3 million to smooth out the vibe-coding stack",
+    "link": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1388336038.jpg?resize=1200,675",
+    "summary": "AI工具开发公司Modelence提出创新方案，致力于构建AI软件栈专用工具链，以优化开发流程。",
+    "date": "2026-01-28 18:00",
+    "timestamp": 1769623203.341148
+  },
+  {
+    "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
+    "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2131985696-1536x864-1-1152x648.jpg",
+    "summary": "英伟达将向科技巨头供应超40万块H200芯片，中国在满足高端算力需求与推动技术自主间寻求平衡。",
+    "date": "2026-01-28 18:00",
+    "timestamp": 1769623205.7773325
+  },
+  {
     "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
     "link": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?resize=1200,594",
@@ -774,29 +798,5 @@
     "summary": "美国官员对AI生成色情图像的泛滥表示担忧。",
     "date": "2026-01-16 23:48",
     "timestamp": 1768607328.1317413
-  },
-  {
-    "title": "OpenAI to test ads in ChatGPT as it burns through billions",
-    "link": "https://arstechnica.com/information-technology/2026/01/openai-to-test-ads-in-chatgpt-as-it-burns-through-billions/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/02/openai_glowing_green-1152x648.jpg",
-    "summary": "OpenAI在美国推出免费版广告及8美元月费ChatGPT Go订阅计划。",
-    "date": "2026-01-16 21:49",
-    "timestamp": 1768600172.2640502
-  },
-  {
-    "title": "From OpenAI’s offices to a deal with Eli Lilly — how Chai Discovery became one of the flashiest names in AI drug development",
-    "link": "https://techcrunch.com/2026/01/16/from-openais-offices-to-a-deal-with-eli-lilly-how-chai-discovery-became-one-of-the-flashiest-names-in-ai-drug-development/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/251201-ChaiDiscovery-group-5263.jpg?resize=1200,800",
-    "summary": "该初创公司与礼来制药达成合作，并获得硅谷多家顶级风投支持。",
-    "date": "2026-01-16 20:51",
-    "timestamp": 1768596678.1193733
-  },
-  {
-    "title": "ChatGPT users are about to get hit with targeted ads",
-    "link": "https://techcrunch.com/2026/01/16/chatgpt-users-are-about-to-get-hit-with-targeted-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2207801992.jpg?resize=1200,801",
-    "summary": "OpenAI宣布受广告影响的用户将获得部分广告内容控制权。",
-    "date": "2026-01-16 20:51",
-    "timestamp": 1768596679.8001933
   }
 ]
