@@ -1,5 +1,13 @@
 [
   {
+    "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
+    "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-1152x648.jpg",
+    "summary": "开源AI助手Jarvis登陆WhatsApp，需获取用户文件与账户权限引发关注。",
+    "date": "2026-01-28 13:33",
+    "timestamp": 1769607208.446698
+  },
+  {
     "title": "Waabi raises $1B and expands into robotaxis with Uber",
     "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waabi_Road4.png?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI应用开发进入新纪元：创作门槛低、周期短、但生命周期亦短暂。",
     "date": "2026-01-16 14:55",
     "timestamp": 1768575351.8806002
-  },
-  {
-    "title": "Anthropic taps former Microsoft India MD to lead Bengaluru expansion",
-    "link": "https://techcrunch.com/2026/01/15/anthropic-taps-former-microsoft-india-md-to-lead-bengaluru-expansion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "前微软高管Irina Ghose加入AI公司Anthropic，担任印度董事总经理，其在微软任职长达24年。",
-    "date": "2026-01-16 07:51",
-    "timestamp": 1768549867.3827372
   }
 ]
