@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
+    "link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Cleanlab.jpg?resize=1200,800",
+    "summary": "Cleanlab九名核心研究人员通过收购式雇佣加入新公司。",
+    "date": "2026-01-28 19:03",
+    "timestamp": 1769627016.3826911
+  },
+  {
+    "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+    "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?resize=1200,675",
+    "summary": "谷歌Chrome浏览器将集成Gemini侧边栏功能，并向AI Pro及Ultra用户推出智能代理特性。",
+    "date": "2026-01-28 19:03",
+    "timestamp": 1769627018.2530215
+  },
+  {
     "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
     "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802",
@@ -782,21 +798,5 @@
     "summary": "马斯克律师团队主张，其作为早期投资者应获巨额回报，远超初始投资。",
     "date": "2026-01-17 08:53",
     "timestamp": 1768640039.0936997
-  },
-  {
-    "title": "AI cloud startup Runpod hits $120M in ARR — and it started with a Reddit post",
-    "link": "https://techcrunch.com/2026/01/16/ai-cloud-startup-runpod-hits-120m-in-arr-and-it-started-with-a-reddit-post/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Runpod-founders-Zhen-Lu-Pardeep-Singh.png?w=981",
-    "summary": "初创企业凭借优质产品与绝佳市场时机，成功验证了“酒香不怕巷子深”的商业逻辑。",
-    "date": "2026-01-17 02:28",
-    "timestamp": 1768616909.173697
-  },
-  {
-    "title": "California AG sends Musk’s xAI a cease-and-desist order over sexual deepfakes",
-    "link": "https://techcrunch.com/2026/01/16/california-ag-sends-musks-xai-a-cease-and-desist-order-over-sexual-deepfakes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
-    "summary": "美国官员对AI生成色情图像的泛滥表示担忧。",
-    "date": "2026-01-16 23:48",
-    "timestamp": 1768607328.1317413
   }
 ]
