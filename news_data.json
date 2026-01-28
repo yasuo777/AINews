@@ -1,5 +1,13 @@
 [
   {
+    "title": "WhatsApp will now charge AI chatbots to operate in Italy",
+    "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+    "summary": "WhatsApp将对AI聊天机器人开发者按消息量收费，以构建商业盈利模式。",
+    "date": "2026-01-28 19:55",
+    "timestamp": 1769630128.7616558
+  },
+  {
     "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
     "link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Cleanlab.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Confer模仿ChatGPT界面，承诺用户对话数据不用于训练或广告，保障隐私安全。",
     "date": "2026-01-18 15:48",
     "timestamp": 1768751302.272507
-  },
-  {
-    "title": "Musk wants up to $134B in OpenAI lawsuit, despite $700B fortune",
-    "link": "https://techcrunch.com/2026/01/17/musk-wants-up-to-134b-in-openai-lawsuit-despite-700b-fortune/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
-    "summary": "马斯克律师团队主张，其作为早期投资者应获巨额回报，远超初始投资。",
-    "date": "2026-01-17 08:53",
-    "timestamp": 1768640039.0936997
   }
 ]
