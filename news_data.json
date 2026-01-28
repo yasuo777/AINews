@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elon Musk teases a new image-labeling system for X…we think?",
+    "link": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+    "summary": "马斯克宣布X平台将开始标记\"被操纵媒体\"，但未透露具体实施方案。",
+    "date": "2026-01-28 21:57",
+    "timestamp": 1769637435.2978072
+  },
+  {
+    "title": "ServiceNow inks another AI partnership, this time with Anthropic",
+    "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1782807384.jpg?w=1024",
+    "summary": "ServiceNow一周内相继与OpenAI及Anthropic达成合作，正式采用多模型AI战略布局。",
+    "date": "2026-01-28 21:57",
+    "timestamp": 1769637437.0241785
+  },
+  {
     "title": "WhatsApp will now charge AI chatbots to operate in Italy",
     "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "元宇宙热潮因AI崛起而消退，Meta的VR战略还面临其他困境。",
     "date": "2026-01-19 17:00",
     "timestamp": 1768842003.4704902
-  },
-  {
-    "title": "10 things I learned from burning myself out with AI coding agents",
-    "link": "https://arstechnica.com/information-technology/2026/01/10-things-i-learned-from-burning-myself-out-with-ai-coding-agents/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/super-programmer-hes-heating-up-1152x648.jpg",
-    "summary": "观点认为，AI智能体作为软件生产力工具，或将导致人类工作节奏进一步加快，使人们比以往更加繁忙。",
-    "date": "2026-01-19 13:31",
-    "timestamp": 1768829475.1115463
-  },
-  {
-    "title": "Moxie Marlinspike has a privacy-conscious alternative to ChatGPT",
-    "link": "https://techcrunch.com/2026/01/18/moxie-marlinspike-has-a-privacy-conscious-alternative-to-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/09/moxie-marlinspike-147a2527.jpg?resize=1200,800",
-    "summary": "Confer模仿ChatGPT界面，承诺用户对话数据不用于训练或广告，保障隐私安全。",
-    "date": "2026-01-18 15:48",
-    "timestamp": 1768751302.272507
   }
 ]
