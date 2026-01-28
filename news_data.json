@@ -1,5 +1,21 @@
 [
   {
+    "title": "The conference where founders scale: TechCrunch Founder Summit 2026 tickets are now live at the lowest prices",
+    "link": "https://techcrunch.com/2026/01/28/the-conference-where-founders-scale-founder-summit-2026-tickets-are-now-live-at-the-lowest-prices/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/04/jp-morgan-early-stage.jpg?w=799",
+    "summary": "TechCrunch创始人峰会2026将于6月23日在波士顿举行，汇聚1100名创始人与投资者，聚焦企业实战增长与高效人脉拓展。门票优惠300美元。",
+    "date": "2026-01-28 15:01",
+    "timestamp": 1769612513.0552154
+  },
+  {
+    "title": "Anthropic, Apple, OpenAI CEOs condemn ICE violence, praise Trump",
+    "link": "https://techcrunch.com/2026/01/28/anthropic-and-openai-ceos-condemn-ice-violence-praise-trump/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
+    "summary": "Anthropic与OpenAI高管就明尼阿波利斯冲突后的ICE执法手段发声，分别通过公开声明及内部渠道表达关切。",
+    "date": "2026-01-28 15:01",
+    "timestamp": 1769612515.2020135
+  },
+  {
     "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
     "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-1152x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "近期，多家AI公司加速布局医疗领域。OpenAI收购健康初创公司Torch，Anthropic推出医疗版Claude，Altman投资的Merge Labs亦获高额融资。资本与产品涌入医疗与语音AI的同时，相关监管与伦理隐忧也随之浮现。",
     "date": "2026-01-16 18:59",
     "timestamp": 1768589991.9500194
-  },
-  {
-    "title": "TSMC says AI demand is “endless” after record Q4 earnings",
-    "link": "https://arstechnica.com/ai/2026/01/tsmc-says-ai-demand-is-endless-after-record-q4-earnings/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/tsmc_factory-1152x648.jpg",
-    "summary": "台积电表示，尽管市场担忧芯片泡沫，但客户需求持续强劲，订单不减。",
-    "date": "2026-01-16 16:59",
-    "timestamp": 1768582744.067672
-  },
-  {
-    "title": "The rise of ‘micro’ apps: non-developers are writing apps instead of buying them",
-    "link": "https://techcrunch.com/2026/01/16/the-rise-of-micro-apps-non-developers-are-writing-apps-instead-of-buying-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Donald-Iain-Smith.jpg?resize=1200,600",
-    "summary": "AI应用开发进入新纪元：创作门槛低、周期短、但生命周期亦短暂。",
-    "date": "2026-01-16 14:55",
-    "timestamp": 1768575351.8806002
   }
 ]
