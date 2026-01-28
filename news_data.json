@@ -1,5 +1,13 @@
 [
   {
+    "title": "Waabi raises $1B and expands into robotaxis with Uber",
+    "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waabi_Road4.png?resize=1200,800",
+    "summary": "自动驾驶公司Waabi获7.5亿美元C轮融资加速卡车业务，并获Uber约2.5亿美元投资，将独家部署2.5万辆自动驾驶出租车。",
+    "date": "2026-01-28 11:52",
+    "timestamp": 1769601151.7928402
+  },
+  {
     "title": "Google pitches Gemini to students studying for India’s most competitive college entrance exam",
     "link": "https://techcrunch.com/2026/01/28/google-turns-gemini-toward-indias-most-competitive-entrance-exam/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "前微软高管Irina Ghose加入AI公司Anthropic，担任印度董事总经理，其在微软任职长达24年。",
     "date": "2026-01-16 07:51",
     "timestamp": 1768549867.3827372
-  },
-  {
-    "title": "Silicon Valley’s messiest breakup is definitely headed to court",
-    "link": "https://techcrunch.com/2026/01/15/silicon-valleys-messiest-breakout-is-definitely-headed-to-court/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/02/GettyImages-1126475976.jpg?resize=1200,1200",
-    "summary": "联邦法官周四驳回了OpenAI与微软的动议，拒绝驳回马斯克提起的诉讼，案件将继续推进。",
-    "date": "2026-01-16 07:00",
-    "timestamp": 1768546829.1327162
   }
 ]
