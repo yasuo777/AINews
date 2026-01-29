@@ -1,5 +1,29 @@
 [
   {
+    "title": "India is teaching Google how AI in education can scale",
+    "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch_09ed85.jpg?resize=1200,800",
+    "summary": "印度成全球使用Gemini学习最多的国家，正成为谷歌塑造教育AI战略的关键市场。",
+    "date": "2026-01-29 16:06",
+    "timestamp": 1769702791.648355
+  },
+  {
+    "title": "Flapping Airplanes and the promise of research-driven AI",
+    "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-29-at-10.15.31-AM.jpg?w=1102",
+    "summary": "昨日成立的AI实验室Flapping Airplanes获红杉合伙人关注，其独特技术路径被视为核心竞争力。",
+    "date": "2026-01-29 16:06",
+    "timestamp": 1769702793.5903711
+  },
+  {
+    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
+    "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/the-AI-ghost-in-the-machine-1152x648.jpg",
+    "summary": "AI公司Anthropic在模型训练中采取预防措施，假设AI可能存在“痛苦”风险，尽管尚无科学证据支持该观点。",
+    "date": "2026-01-29 16:06",
+    "timestamp": 1769702796.4792671
+  },
+  {
     "title": "Google Maps now lets you access Gemini while walking and cycling",
     "link": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/06/google-maps-ios-icon.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Anthropic CEO公开批评美国政府及英伟达等芯片公司对华销售计划，尽管英伟达是其重要合作伙伴与投资者。",
     "date": "2026-01-21 02:37",
     "timestamp": 1768963034.1087263
-  },
-  {
-    "title": "In an effort to protect young users, ChatGPT will now predict how old you are",
-    "link": "https://techcrunch.com/2026/01/20/in-an-effort-to-protect-young-users-chatgpt-will-now-predict-how-old-you-are/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
-    "summary": "该功能旨在拦截不当内容，防止其向18岁以下用户推送。",
-    "date": "2026-01-20 23:52",
-    "timestamp": 1768953121.8375373
-  },
-  {
-    "title": "Elon Musk says Tesla’s restarted Dojo3 will be for ‘space-based AI compute’",
-    "link": "https://techcrunch.com/2026/01/20/elon-musk-says-teslas-restarted-dojo3-will-be-for-space-based-ai-compute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/tesla-phone-app.jpg?resize=1200,800",
-    "summary": "特斯拉计划重启此前搁置的第三代AI芯片Dojo3项目。马斯克表示，新一代芯片将不再用于训练地面自动驾驶模型，而是专注于“太空人工智能计算”。",
-    "date": "2026-01-20 22:50",
-    "timestamp": 1768949410.5642316
-  },
-  {
-    "title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
-    "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans.png?resize=1200,633",
-    "summary": "AI初创公司Humans&以44.8亿美元估值完成4.8亿美元种子轮融资，其核心理念为AI应赋能人类而非取代人类。",
-    "date": "2026-01-20 17:03",
-    "timestamp": 1768928618.5444715
   }
 ]
