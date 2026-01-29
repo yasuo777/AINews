@@ -1,5 +1,13 @@
 [
   {
+    "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+    "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800",
+    "summary": "微软CEO纳德拉回应AI使用质疑，公布实际使用数据以证实力。公司已投入数十亿美元建设数据中心。",
+    "date": "2026-01-29 20:58",
+    "timestamp": 1769720284.0134318
+  },
+  {
     "title": "Elon Musk’s SpaceX and xAI in talks to merge, report says",
     "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/musk-cpac-sunglasses-doge.jpg?resize=1200,977",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch Disrupt 2026大会门票开售，前500名注册者可享半价携伴票，最高节省680美元。大会将于10月13日至15日在旧金山举行，汇聚万名科技领袖，限时优惠即将截止。",
     "date": "2026-01-21 15:01",
     "timestamp": 1769007690.25909
-  },
-  {
-    "title": "Adobe Acrobat now lets you edit files using prompts, generate podcast summaries",
-    "link": "https://techcrunch.com/2026/01/21/adobe-acrobat-now-lets-you-edit-files-using-prompts-generate-podcast-summaries/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/FY26Q1-Acrobat-L1Release-PRStatic4-Web-1920x1080-EN.jpeg?resize=1200,675",
-    "summary": "Adobe为Acrobat新增多项AI功能，包括生成文件播客摘要、创建演示文稿，以及支持用户通过提示词编辑文件。",
-    "date": "2026-01-21 15:01",
-    "timestamp": 1769007692.3612359
   }
 ]
