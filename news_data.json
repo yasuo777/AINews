@@ -1,5 +1,13 @@
 [
   {
+    "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
+    "link": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-coook-apple-tv-GettyImages-2235568147-1.jpg?w=1024",
+    "summary": "摩根士丹利分析师就苹果AI投资盈利模式提问，公司回应称将延续现有商业模式，通过软硬件整合实现盈利。",
+    "date": "2026-01-29 23:55",
+    "timestamp": 1769730940.5508435
+  },
+  {
     "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
     "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/musk-cpac-sunglasses-doge.jpg?resize=1200,977",
@@ -790,13 +798,5 @@
     "summary": "GPTZero研究显示，顶级学术会议正面临AI生成论文泛滥的棘手难题。",
     "date": "2026-01-21 21:00",
     "timestamp": 1769029237.0633874
-  },
-  {
-    "title": "YouTube will soon let creators make Shorts with their own AI likeness",
-    "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800",
-    "summary": "YouTube Shorts或引入AI克隆创作者功能，用户将可能在信息流中看到喜爱创作者的虚拟形象。",
-    "date": "2026-01-21 16:01",
-    "timestamp": 1769011298.4354951
   }
 ]
