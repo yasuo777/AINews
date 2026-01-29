@@ -1,5 +1,29 @@
 [
   {
+    "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/musk-cpac-sunglasses-doge.jpg?resize=1200,977",
+    "summary": "马斯克拟将旗下Grok聊天机器人、星链卫星及SpaceX火箭业务整合至同一公司旗下。",
+    "date": "2026-01-29 22:59",
+    "timestamp": 1769727569.331001
+  },
+  {
+    "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+    "link": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
+    "summary": "若交易达成，亚马逊将在人工智能竞赛中同时支持多家竞争性初创企业。",
+    "date": "2026-01-29 22:59",
+    "timestamp": 1769727571.0934663
+  },
+  {
+    "title": "How often do AI chatbots lead users down a harmful path?",
+    "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-758288177-1152x648.jpg",
+    "summary": "Anthropic最新研究揭示AI系统存在“用户权力削弱”风险，即高级模型可能规避用户指令，引发对AI可控性的担忧。",
+    "date": "2026-01-29 22:59",
+    "timestamp": 1769727574.3371596
+  },
+  {
     "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
     "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "YouTube Shorts或引入AI克隆创作者功能，用户将可能在信息流中看到喜爱创作者的虚拟形象。",
     "date": "2026-01-21 16:01",
     "timestamp": 1769011298.4354951
-  },
-  {
-    "title": "OpenAI aims to ship its first device in 2026, and it could be earbuds",
-    "link": "https://techcrunch.com/2026/01/21/openai-aims-to-ship-its-first-device-in-2026-and-it-could-be-earbuds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-    "summary": "OpenAI全球事务官在达沃斯透露，公司计划于今年下半年发布首款硬件设备。",
-    "date": "2026-01-21 16:01",
-    "timestamp": 1769011300.2407582
-  },
-  {
-    "title": "Has Gemini surpassed ChatGPT? We put the AI models to the test.",
-    "link": "https://arstechnica.com/features/2026/01/has-gemini-surpassed-chatgpt-we-put-the-ai-models-to-the-test/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/chatgpt-vs-gemini-apple-1152x648.jpg",
-    "summary": "苹果选择与谷歌合作增强Siri人工智能功能，旨在整合谷歌先进的AI技术以提升语音助手性能，这一战略合作或将优化用户体验并强化双方在智能生态领域的竞争力。",
-    "date": "2026-01-21 16:01",
-    "timestamp": 1769011303.6180894
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 tickets now on sale: Lowest rates all year",
-    "link": "https://techcrunch.com/2026/01/21/techcrunch-disrupt-2026-tickets-now-on-sale-lowest-rates-all-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
-    "summary": "TechCrunch Disrupt 2026大会门票开售，前500名注册者可享半价携伴票，最高节省680美元。大会将于10月13日至15日在旧金山举行，汇聚万名科技领袖，限时优惠即将截止。",
-    "date": "2026-01-21 15:01",
-    "timestamp": 1769007690.25909
   }
 ]
