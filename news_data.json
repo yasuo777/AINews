@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI’s Sora app is struggling after its stellar launch",
+    "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+    "summary": "Sora移动应用1月下载量下滑45%，用户消费支出亦同步下降。",
+    "date": "2026-01-29 17:20",
+    "timestamp": 1769707251.1275601
+  },
+  {
+    "title": "Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works",
+    "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "多家音乐出版商起诉Anthropic公司，指控其未经授权使用了约500部受版权保护的音乐作品。",
+    "date": "2026-01-29 17:20",
+    "timestamp": 1769707253.2621229
+  },
+  {
     "title": "India is teaching Google how AI in education can scale",
     "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch_09ed85.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI检测指南反成造假手册，揭示技术滥用风险。",
     "date": "2026-01-21 13:30",
     "timestamp": 1769002245.8203585
-  },
-  {
-    "title": "Bolna nabs $6.3M from General Catalyst for its India-focused voice orchestration platform",
-    "link": "https://techcrunch.com/2026/01/20/bolna-nabs-6-3-million-from-general-catalyst-for-its-india-focused-voice-orchestration-platform/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Founders-Together-e1768928195574.jpeg?w=940",
-    "summary": "AI初创公司Bolna透露，其75%营收来自自助服务客户，显示其产品具备较强的市场自主吸引力。",
-    "date": "2026-01-21 02:37",
-    "timestamp": 1768963031.894033
-  },
-  {
-    "title": "Anthropic’s CEO stuns Davos with Nvidia criticism",
-    "link": "https://techcrunch.com/2026/01/20/anthropics-ceo-stuns-davos-with-nvidia-criticism/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-    "summary": "Anthropic CEO公开批评美国政府及英伟达等芯片公司对华销售计划，尽管英伟达是其重要合作伙伴与投资者。",
-    "date": "2026-01-21 02:37",
-    "timestamp": 1768963034.1087263
   }
 ]
