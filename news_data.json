@@ -1,5 +1,21 @@
 [
   {
+    "title": "I built marshmallow castles in Google’s new AI world generator",
+    "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Project-Genie.png?resize=1200,665",
+    "summary": "谷歌AI Ultra订阅用户自周四起可在美体验Project Genie，该平台整合了最新世界模型Genie 3、图像生成模型Nano Banana Pro及Gemini技术。",
+    "date": "2026-01-29 18:05",
+    "timestamp": 1769709917.7224345
+  },
+  {
+    "title": "New OpenAI tool renews fears that “AI slop” will overwhelm scientific research",
+    "link": "https://arstechnica.com/ai/2026/01/new-openai-tool-renews-fears-that-ai-slop-will-overwhelm-scientific-research/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/robot_science_header-1152x648.jpg",
+    "summary": "新AI工具\"Prism\"发布之际，研究显示AI辅助论文正涌入学术期刊，整体质量呈现下降趋势。",
+    "date": "2026-01-29 18:05",
+    "timestamp": 1769709920.1642199
+  },
+  {
     "title": "OpenAI’s Sora app is struggling after its stellar launch",
     "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "在线语言学习平台Preply完成1.5亿美元融资，公司估值达12亿美元，标志着这家成立14年的企业进入新发展阶段。",
     "date": "2026-01-21 13:30",
     "timestamp": 1769002241.7141833
-  },
-  {
-    "title": "Consumers spent more on mobile apps than games in 2025, driven by AI app adoption",
-    "link": "https://techcrunch.com/2026/01/21/consumers-spent-more-on-mobile-apps-than-games-in-2025-driven-by-ai-app-adoption/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-    "summary": "2025年移动应用消费首超游戏，人工智能应用普及成为主要增长动力。",
-    "date": "2026-01-21 13:30",
-    "timestamp": 1769002243.4799788
-  },
-  {
-    "title": "Wikipedia volunteers spent years cataloging AI tells. Now there's a plugin to avoid them.",
-    "link": "https://arstechnica.com/ai/2026/01/new-ai-plugin-uses-wikipedias-ai-writing-detection-rules-to-help-it-sound-human/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/ai_typewriter_getty-1152x648.jpg",
-    "summary": "AI检测指南反成造假手册，揭示技术滥用风险。",
-    "date": "2026-01-21 13:30",
-    "timestamp": 1769002245.8203585
   }
 ]
