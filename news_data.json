@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic brings agentic plugins to Cowork",
+    "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+    "summary": "Anthropic将其插件系统扩展至新发布的智能体平台Cowork，以增强其功能集成与自动化能力。",
+    "date": "2026-01-30 18:03",
+    "timestamp": 1769796237.8337595
+  },
+  {
     "title": "Last 24 hours to grab your +1 pass at 50% off to TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/54887091800_7d7665cecb_4k.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌AI助手新增语音创建待办事项功能，用户可通过自然对话快速生成任务清单。",
     "date": "2026-01-21 22:57",
     "timestamp": 1769036275.8733778
-  },
-  {
-    "title": "Apple plans to make Siri an AI chatbot, report says",
-    "link": "https://techcrunch.com/2026/01/21/apple-plans-to-make-siri-an-ai-chatbot-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-    "summary": "苹果计划将Siri升级为类ChatGPT的集成AI助手，全面融入旗下产品生态。",
-    "date": "2026-01-21 22:57",
-    "timestamp": 1769036277.7486603
   }
 ]
