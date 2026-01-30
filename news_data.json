@@ -1,5 +1,13 @@
 [
   {
+    "title": "Developers say AI coding tools work—and that's precisely what worries them",
+    "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/dual-sides-ai-programming-1152x648.jpg",
+    "summary": "软件开发人员对AI态度矛盾，既抱热情又存隐忧。",
+    "date": "2026-01-30 19:18",
+    "timestamp": 1769800735.0618184
+  },
+  {
     "title": "Anthropic brings agentic plugins to Cowork",
     "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "去年，半导体行业经历高层变动与芯片出口政策波动，市场格局持续演变。",
     "date": "2026-01-21 22:57",
     "timestamp": 1769036274.0631244
-  },
-  {
-    "title": "Todoist’s app now lets you add tasks to your to-do list by speaking to its AI",
-    "link": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Ramble-1.png?resize=1200,878",
-    "summary": "谷歌AI助手新增语音创建待办事项功能，用户可通过自然对话快速生成任务清单。",
-    "date": "2026-01-21 22:57",
-    "timestamp": 1769036275.8733778
   }
 ]
