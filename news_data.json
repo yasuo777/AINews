@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
+    "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/moltbook-blue-v-red-1152x648.jpg",
+    "summary": "AI平台Moltbook上线3.2万个智能体，可自主交流人类相关话题，包括笑话分享、生活建议及社会现象评论。",
+    "date": "2026-01-30 22:58",
+    "timestamp": 1769813935.4495065
+  },
+  {
     "title": "Developers say AI coding tools work—and that's precisely what worries them",
     "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/dual-sides-ai-programming-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "SGLang是加州大学伯克利分校的开源研究项目，已获得Accel资本投资。",
     "date": "2026-01-21 23:53",
     "timestamp": 1769039639.809903
-  },
-  {
-    "title": "A timeline of the US semiconductor market in 2025",
-    "link": "https://techcrunch.com/2026/01/21/a-timeline-of-the-u-s-semiconductor-market-in-2025/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-1366897838.jpg?resize=1200,800",
-    "summary": "去年，半导体行业经历高层变动与芯片出口政策波动，市场格局持续演变。",
-    "date": "2026-01-21 22:57",
-    "timestamp": 1769036274.0631244
   }
 ]
