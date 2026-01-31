@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+    "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+    "summary": "英伟达CEO黄仁勋称，有关公司与OpenAI存在摩擦的报道纯属无稽之谈。",
+    "date": "2026-01-31 17:55",
+    "timestamp": 1769882103.6350188
+  },
+  {
     "title": "Physical Intelligence, Stripe veteran Lachy Groom’s latest bet, is building Silicon Valley’s buzziest robot brains",
     "link": "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/IMG_4026.jpeg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "Quadric致力于为企业和政府开发可编程的本地AI芯片，以支持在设备端高效运行快速迭代的模型。",
     "date": "2026-01-22 13:31",
     "timestamp": 1769088705.8389478
-  },
-  {
-    "title": "Former Google trio is building an interactive AI-powered learning app for kids",
-    "link": "https://techcrunch.com/2026/01/22/former-google-trio-is-building-an-interactive-ai-powered-learning-app-for-kids/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Sparkli-founders-L-to-R-Mynseok-Kang-Lax-Poojary-and-Lucie-Marchand.jpeg?resize=1200,780",
-    "summary": "谷歌前员工团队推出AI互动应用Sparkli，旨在突破当前儿童科技产品多限于文本语音的局限，通过生成式AI打造更具吸引力的软硬件体验。",
-    "date": "2026-01-22 11:52",
-    "timestamp": 1769082735.1534402
   }
 ]
