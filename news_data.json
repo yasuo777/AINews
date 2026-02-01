@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI layoffs or ‘AI-washing’?",
+    "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
+    "summary": "近期多家企业裁员时归因于AI转型，但实际动机存疑，可能借技术升级之名缩减成本。",
+    "date": "2026-02-01 22:57",
+    "timestamp": 1769986636.8063831
+  },
+  {
     "title": "Why Tether’s CEO is everywhere right now",
     "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258508694.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "谷歌收购语音AI创企Hume AI的核心团队，表明语音交互正加速取代屏幕成为主流界面。",
     "date": "2026-01-22 15:59",
     "timestamp": 1769097583.7745605
-  },
-  {
-    "title": "From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing",
-    "link": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "Neurophos公司推出采用复合材料的光学芯片，专用于AI推理计算，旨在解决行业能效瓶颈。",
-    "date": "2026-01-22 15:59",
-    "timestamp": 1769097585.6993074
   }
 ]
