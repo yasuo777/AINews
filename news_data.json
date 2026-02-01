@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why Tether’s CEO is everywhere right now",
+    "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258508694.jpg?w=1024",
+    "summary": "泰达币CEO长期避居海外规避美国监管调查，现已结束这一局面。",
+    "date": "2026-02-01 20:55",
+    "timestamp": 1769979345.997732
+  },
+  {
     "title": "Indonesia ‘conditionally’ lifts ban on Grok",
     "link": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Neurophos公司推出采用复合材料的光学芯片，专用于AI推理计算，旨在解决行业能效瓶颈。",
     "date": "2026-01-22 15:59",
     "timestamp": 1769097585.6993074
-  },
-  {
-    "title": "eBay bans illicit automated shopping amid rapid rise of AI agents",
-    "link": "https://arstechnica.com/information-technology/2026/01/ebay-bans-illicit-automated-shopping-amid-rapid-rise-of-ai-agents/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/robot_shopper_1-1152x648.jpg",
-    "summary": "新规要求“代购”类AI工具及聊天机器人须经许可方可接入平台。",
-    "date": "2026-01-22 15:59",
-    "timestamp": 1769097588.0063252
   }
 ]
