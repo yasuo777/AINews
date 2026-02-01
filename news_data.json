@@ -1,5 +1,13 @@
 [
   {
+    "title": "Indonesia ‘conditionally’ lifts ban on Grok",
+    "link": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "summary": "印尼跟进马来西亚与菲律宾，解除对xAI聊天机器人Grok的禁令。",
+    "date": "2026-02-01 17:55",
+    "timestamp": 1769968542.8604488
+  },
+  {
     "title": "India offers zero taxes through 2047 to lure global AI workloads",
     "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "新规要求“代购”类AI工具及聊天机器人须经许可方可接入平台。",
     "date": "2026-01-22 15:59",
     "timestamp": 1769097588.0063252
-  },
-  {
-    "title": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
-    "link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
-    "summary": "自2024年起，Anthropic为防AI作弊，已多次升级其编程能力测试，以应对日益强大的AI编码工具对招聘考核的冲击。",
-    "date": "2026-01-22 15:00",
-    "timestamp": 1769094043.265187
   }
 ]
