@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
+    "link": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789843.jpg?resize=1200,737",
+    "summary": "马斯克拟合并SpaceX、xAI与特斯拉，此举被比作通用电气全盛期或镀金时代垄断巨头，引发行业关注。",
+    "date": "2026-02-01 15:54",
+    "timestamp": 1769961246.246308
+  },
+  {
     "title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
     "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Spotify在美国和加拿大推出AI歌单功能，用户可通过自然语言指令生成个性化播放列表。",
     "date": "2026-01-22 14:05",
     "timestamp": 1769090737.8264263
-  },
-  {
-    "title": "Quadric rides the shift from cloud AI to on-device inference — and it’s paying off",
-    "link": "https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/quadric-founders.jpg?resize=1200,800",
-    "summary": "Quadric致力于为企业和政府开发可编程的本地AI芯片，以支持在设备端高效运行快速迭代的模型。",
-    "date": "2026-01-22 13:31",
-    "timestamp": 1769088705.8389478
   }
 ]
