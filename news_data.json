@@ -1,5 +1,13 @@
 [
   {
+    "title": "India offers zero taxes through 2047 to lure global AI workloads",
+    "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
+    "summary": "印度政府近期出台新规，以应对亚马逊、谷歌、微软等科技巨头在印数据中心的扩张投资。",
+    "date": "2026-02-01 16:59",
+    "timestamp": 1769965190.4373243
+  },
+  {
     "title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
     "link": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789843.jpg?resize=1200,737",
@@ -790,13 +798,5 @@
     "summary": "自2024年起，Anthropic为防AI作弊，已多次升级其编程能力测试，以应对日益强大的AI编码工具对招聘考核的冲击。",
     "date": "2026-01-22 15:00",
     "timestamp": 1769094043.265187
-  },
-  {
-    "title": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
-    "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Prompted-Playlist-Header.jpg?resize=1200,683",
-    "summary": "Spotify在美国和加拿大推出AI歌单功能，用户可通过自然语言指令生成个性化播放列表。",
-    "date": "2026-01-22 14:05",
-    "timestamp": 1769090737.8264263
   }
 ]
