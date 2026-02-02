@@ -1,5 +1,13 @@
 [
   {
+    "title": "These AI notetaking devices can help you record and transcribe your meetings",
+    "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Plaud-Note-Pro.jpg?resize=1200,675",
+    "summary": "AI笔记工具可将会议音频实时转录为文字摘要，并自动提炼行动要点，部分产品还支持多语种实时翻译。",
+    "date": "2026-02-02 08:05",
+    "timestamp": 1770019546.2776115
+  },
+  {
     "title": "AI layoffs or ‘AI-washing’?",
     "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
@@ -790,13 +798,5 @@
     "summary": "谷歌澄清其AI模式并非直接训练于用户Gmail或相册数据，而是基于特定提示与模型反馈进行训练。",
     "date": "2026-01-22 17:04",
     "timestamp": 1769101445.6096523
-  },
-  {
-    "title": "Google reportedly snags up team behind AI voice startup Hume AI",
-    "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2166080568.jpg?w=1024",
-    "summary": "谷歌收购语音AI创企Hume AI的核心团队，表明语音交互正加速取代屏幕成为主流界面。",
-    "date": "2026-01-22 15:59",
-    "timestamp": 1769097583.7745605
   }
 ]
