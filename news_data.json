@@ -1,5 +1,29 @@
 [
   {
+    "title": "Coalition demands federal Grok ban over nonconsensual sexual content",
+    "link": "https://techcrunch.com/2026/02/02/coalition-demands-federal-grok-ban-over-nonconsensual-sexual-content/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "summary": "美国非营利组织呼吁联邦机构暂停使用xAI聊天机器人Grok，因其生成大量未经同意的性图像，引发国家安全与儿童安全担忧。",
+    "date": "2026-02-02 15:23",
+    "timestamp": 1770045833.4823449
+  },
+  {
+    "title": "Carbon Robotics built an AI model that detects and identifies plants",
+    "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/LaserWeeder-G2-Daytime-Spinach-Yuma-Aerial.jpg?resize=1200,675",
+    "summary": "美国Carbon Robotics公司推出“大型植物模型”，可自动识别新型杂草并精准清除，无需重新训练，提升农业除草效率。",
+    "date": "2026-02-02 15:23",
+    "timestamp": 1770045835.5078542
+  },
+  {
+    "title": "Linq raises $20M to enable AI assistants to live within messaging apps",
+    "link": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Linq-Founders.jpg?resize=1200,800",
+    "summary": "Linq推出API服务，支持企业通过iMessage、RCS和短信渠道部署AI助手。",
+    "date": "2026-02-02 15:23",
+    "timestamp": 1770045837.1658244
+  },
+  {
     "title": "These AI notetaking devices can help you record and transcribe your meetings",
     "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Plaud-Note-Pro.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "DeepMind CEO哈萨比斯称，谷歌未要求在AI聊天体验中植入广告。",
     "date": "2026-01-22 19:51",
     "timestamp": 1769111466.211867
-  },
-  {
-    "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-    "link": "https://techcrunch.com/2026/01/22/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans-Founder-Photo-1.jpeg?resize=1200,800",
-    "summary": "AI明星团队创业公司Humans&致力于开发新一代协作式基础模型，旨在超越对话功能，实现人机深度协同。",
-    "date": "2026-01-22 19:51",
-    "timestamp": 1769111468.2575562
-  },
-  {
-    "title": "Google now offers free SAT practice exams, powered by Gemini",
-    "link": "https://techcrunch.com/2026/01/22/google-now-offers-free-sat-practice-exams-powered-by-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1250037548.jpeg?resize=1200,800",
-    "summary": "谷歌Gemini推出SAT备考功能，用户可通过指令获取免费模拟测试。AI将分析成绩、指出强弱项，并为错题提供详细解析。",
-    "date": "2026-01-22 19:02",
-    "timestamp": 1769108573.6575572
-  },
-  {
-    "title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
-    "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-    "summary": "谷歌澄清其AI模式并非直接训练于用户Gmail或相册数据，而是基于特定提示与模型反馈进行训练。",
-    "date": "2026-01-22 17:04",
-    "timestamp": 1769101445.6096523
   }
 ]
