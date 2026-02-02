@@ -1,5 +1,29 @@
 [
   {
+    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/OLM_Full_Pressure_Water_Deluge_Test_202307280728232180_1_8ac578ec57.jpeg?resize=1200,675",
+    "summary": "埃隆·马斯克旗下公司合并成为全球最具价值私营企业，旨在推动天基数据中心的应用验证。",
+    "date": "2026-02-02 23:06",
+    "timestamp": 1770073575.721933
+  },
+  {
+    "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+    "link": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2215876044.jpg?w=1024",
+    "summary": "数据云公司Snowflake近日与多家AI企业签署了多年合作协议，预示企业级AI合作或将成为行业新趋势。",
+    "date": "2026-02-02 23:06",
+    "timestamp": 1770073577.9314754
+  },
+  {
+    "title": "Firefox will soon let you block all of its generative AI features",
+    "link": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/firefox.jpeg?w=1200",
+    "summary": "Firefox 148将新增桌面浏览器AI控制面板，供用户集中管理相关功能。",
+    "date": "2026-02-02 23:06",
+    "timestamp": 1770073580.0035977
+  },
+  {
     "title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
     "link": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/ring-search-party-hero-lt-0129hero-1.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "新成立的初创公司完成种子轮融资，估值达8亿美元。",
     "date": "2026-01-22 22:54",
     "timestamp": 1769122448.395317
-  },
-  {
-    "title": "Overrun with AI slop, cURL scraps bug bounties to ensure \"intact mental health\"",
-    "link": "https://arstechnica.com/security/2026/01/overrun-with-ai-slop-curl-scraps-bug-bounties-to-ensure-intact-mental-health/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-    "summary": "AI安全测试显示，大语言模型存在生成虚假漏洞与无法编译代码的问题。",
-    "date": "2026-01-22 22:54",
-    "timestamp": 1769122450.8026874
-  },
-  {
-    "title": "Are AI agents ready for the workplace? A new benchmark raises doubts.",
-    "link": "https://techcrunch.com/2026/01/22/are-ai-agents-ready-for-the-workplace-a-new-benchmark-raises-doubts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
-    "summary": "最新研究显示，主流AI模型在执行咨询、投行及法律等白领工作任务时表现不佳，多数未能通过测试。",
-    "date": "2026-01-22 21:53",
-    "timestamp": 1769118796.6731088
-  },
-  {
-    "title": "Report: Apple plans to launch AI-powered wearable pin device as soon as 2027",
-    "link": "https://arstechnica.com/apple/2026/01/report-apple-plans-to-launch-ai-powered-wearable-pin-device-as-soon-as-2027/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/AirTag-1-1152x648.png",
-    "summary": "苹果、OpenAI、Meta等科技巨头正竞相布局AI硬件产品领域。",
-    "date": "2026-01-22 21:53",
-    "timestamp": 1769118798.6927817
   }
 ]
