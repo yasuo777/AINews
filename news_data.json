@@ -1,5 +1,13 @@
 [
   {
+    "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+    "link": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800",
+    "summary": "苹果Xcode 26.3集成Claude与Codex智能体，提供AI辅助编程功能。",
+    "date": "2026-02-03 18:33",
+    "timestamp": 1770143590.1210065
+  },
+  {
     "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
     "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/investor_CRV_01.jpg?resize=1200,1069",
@@ -790,13 +798,5 @@
     "summary": "OpenAI首席执行官山姆·奥特曼将时隔近一年首次访问印度，此行备受业界关注。",
     "date": "2026-01-23 15:55",
     "timestamp": 1769183748.3288941
-  },
-  {
-    "title": "Only 1 week left (or until the first 500 passes are gone): The first TechCrunch Disrupt 2026 ticket discount is ending",
-    "link": "https://techcrunch.com/2026/01/23/only-1-week-left-or-until-the-first-500-passes-are-gone-the-first-disrupt-2026-ticket-discount-is-ending/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54887091800_7d7665cecb_4k.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026门票限时优惠，最高可减免680美元，并享第二张票半价。优惠将于1月30日或前500张票售罄时截止。",
-    "date": "2026-01-23 15:55",
-    "timestamp": 1769183750.8069484
   }
 ]
