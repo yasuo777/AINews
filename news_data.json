@@ -1,5 +1,13 @@
 [
   {
+    "title": "Intel will start making GPUs, a market dominated by Nvidia",
+    "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?resize=1200,800",
+    "summary": "英特尔正组建专项团队，以客户需求为核心制定GPU发展战略。",
+    "date": "2026-02-03 21:06",
+    "timestamp": 1770152794.2614272
+  },
+  {
     "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
     "link": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "今年达沃斯世界经济论坛年会焦点显著转向人工智能，其讨论热度甚至超越气候变化等传统议题。企业高管公开批评贸易政策，并就AI风险发出警告，整体氛围更趋直率务实。",
     "date": "2026-01-23 17:01",
     "timestamp": 1769187685.7680793
-  },
-  {
-    "title": "OpenAI chief Sam Altman plans India visit as AI leaders converge in New Delhi: sources",
-    "link": "https://techcrunch.com/2026/01/23/openai-chief-sam-altman-plans-india-visit-as-ai-leaders-converge-in-new-delhi-sources/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800",
-    "summary": "OpenAI首席执行官山姆·奥特曼将时隔近一年首次访问印度，此行备受业界关注。",
-    "date": "2026-01-23 15:55",
-    "timestamp": 1769183748.3288941
   }
 ]
