@@ -1,5 +1,13 @@
 [
   {
+    "title": "Fitbit founders launch AI platform to help families monitor their health",
+    "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Luffu_Family_Morning_Land.jpg?resize=1200,675",
+    "summary": "Luffu运用AI后台收集整理家庭信息，学习日常规律并标记异常变化，帮助家庭保持同步、及时应对潜在健康问题。",
+    "date": "2026-02-03 16:31",
+    "timestamp": 1770136285.7927377
+  },
+  {
     "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
     "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/peak-xv-partners-ashish-agrawal-tejeshwi-sharma-ishaan-mittal.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI日程助手Blockit完成500万美元种子轮融资，由红杉资本领投。该产品可直接与其他日历系统交互。",
     "date": "2026-01-23 02:36",
     "timestamp": 1769135772.2991157
-  },
-  {
-    "title": "OpenAI is coming for those sweet enterprise dollars in 2026",
-    "link": "https://techcrunch.com/2026/01/22/openai-is-coming-for-those-sweet-enterprise-dollars-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "summary": "OpenAI任命回归仅一周的Barret Zoph负责企业业务拓展，加速布局企业级市场。",
-    "date": "2026-01-23 02:36",
-    "timestamp": 1769135774.5393155
   }
 ]
