@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
+    "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg",
+    "summary": "两大AI巨头投资落空，引发市场信心震荡。",
+    "date": "2026-02-03 23:01",
+    "timestamp": 1770159682.3202565
+  },
+  {
     "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
     "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌相册推出新功能，用户可将个人形象融入网络热图模板，一键生成个性化表情包。",
     "date": "2026-01-23 17:52",
     "timestamp": 1769190769.4897914
-  },
-  {
-    "title": "Meta pauses teen access to AI characters as it develops a specially tailored version",
-    "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-as-it-develops-a-specially-tailored-version/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
-    "summary": "Meta将开发新版AI角色，能根据用户年龄提供适宜回应。",
-    "date": "2026-01-23 17:01",
-    "timestamp": 1769187683.171214
   }
 ]
