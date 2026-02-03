@@ -1,5 +1,13 @@
 [
   {
+    "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
+    "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-1152x648.jpg",
+    "summary": "研究表明，无需自我复制的AI模型，仅凭自我复制的提示词即可引发潜在风险，凸显了AI安全领域的新挑战。",
+    "date": "2026-02-03 13:48",
+    "timestamp": 1770126481.7970092
+  },
+  {
     "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
     "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/OLM_Full_Pressure_Water_Deluge_Test_202307280728232180_1_8ac578ec57.jpeg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "人工智能初创公司获1亿美元融资，由Index Ventures领投。",
     "date": "2026-01-22 22:54",
     "timestamp": 1769122446.7170603
-  },
-  {
-    "title": "Inference startup Inferact lands $150M to commercialize vLLM",
-    "link": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2016/10/ai-tool.png?resize=1200,675",
-    "summary": "新成立的初创公司完成种子轮融资，估值达8亿美元。",
-    "date": "2026-01-22 22:54",
-    "timestamp": 1769122448.395317
   }
 ]
