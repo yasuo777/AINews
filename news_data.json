@@ -1,5 +1,21 @@
 [
   {
+    "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+    "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "知名风投机构Andreessen Horowitz新募资150亿美元，其中17亿美元将投入其基础设施团队。该团队已投资OpenAI、ElevenLabs等头部AI项目，未来将继续聚焦AI基础设施领域布局。",
+    "date": "2026-02-04 21:03",
+    "timestamp": 1770239030.7065425
+  },
+  {
+    "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
+    "link": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+    "summary": "知名风投Andreessen Horowitz新募资150亿美元，其中17亿美元将投入其基础设施投资团队，该团队已投资OpenAI、ElevenLabs等多家头部AI公司。",
+    "date": "2026-02-04 21:03",
+    "timestamp": 1770239032.7041328
+  },
+  {
     "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
     "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/tinder-featured.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "科幻与流行文化界多位领军人物近日明确表态，反对生成式人工智能的滥用。",
     "date": "2026-01-25 22:51",
     "timestamp": 1769381496.0907297
-  },
-  {
-    "title": "Apple will reportedly unveil its Gemini-powered Siri assistant in February",
-    "link": "https://techcrunch.com/2026/01/25/apple-will-reportedly-unveil-its-gemini-powered-siri-assistant-in-february/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/apple-intelligence-iphone-mac.jpg?resize=1200,800",
-    "summary": "苹果与谷歌AI合作的首批成果即将揭晓，引发业界高度关注。",
-    "date": "2026-01-25 17:49",
-    "timestamp": 1769363358.4977865
-  },
-  {
-    "title": "Tech CEOs boast and bicker about AI at Davos",
-    "link": "https://techcrunch.com/2026/01/24/tech-ceos-boast-and-bicker-about-ai-at-davos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-    "summary": "世界经济论坛达沃斯年会本周多次呈现高端科技会议氛围，凸显全球对技术创新的高度聚焦。",
-    "date": "2026-01-24 20:50",
-    "timestamp": 1769287802.3506837
   }
 ]
