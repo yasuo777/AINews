@@ -1,5 +1,21 @@
 [
   {
+    "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
+    "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/fibr-ai-founders-pritam-roy-ankur-goyal.jpg?resize=1200,800",
+    "summary": "Fibr AI推出企业级自主系统，替代传统营销机构和依赖人工工程的网站个性化方案，实现规模化自动运营。",
+    "date": "2026-02-04 13:47",
+    "timestamp": 1770212874.3907366
+  },
+  {
+    "title": "So yeah, I vibe-coded a log colorizer—and I feel good about it",
+    "link": "https://arstechnica.com/features/2026/02/so-yeah-i-vibe-coded-a-log-colorizer-and-i-feel-good-about-it/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/lee-romance-violence-anything-1152x648.jpg",
+    "summary": "作者探讨大语言模型在其生活中的定位，并分享将持续使用的心得与展望。",
+    "date": "2026-02-04 13:47",
+    "timestamp": 1770212876.681646
+  },
+  {
     "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
     "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
@@ -782,21 +798,5 @@
     "summary": "AI科学家Yann LeCun离开Meta后创立的AMI实验室引发业界高度关注。",
     "date": "2026-01-24 02:31",
     "timestamp": 1769221911.6583998
-  },
-  {
-    "title": "How did Davos turn into a tech conference?",
-    "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-    "summary": "今年达沃斯世界经济论坛年会氛围显著不同，人工智能成为压倒气候、贫困等传统议题的绝对焦点。与会CEO们公开批评贸易政策，并就AI风险发出警告。",
-    "date": "2026-01-23 20:54",
-    "timestamp": 1769201666.7528753
-  },
-  {
-    "title": "Meta pauses teen access to AI characters ahead of new version",
-    "link": "https://techcrunch.com/2026/01/23/meta-pauses-teen-access-to-ai-characters-ahead-of-new-version/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
-    "summary": "Meta宣布在全球范围内暂停青少年访问其AI角色功能，但表示不会放弃相关开发，计划推出针对青少年的更新版本。",
-    "date": "2026-01-23 19:02",
-    "timestamp": 1769194922.3696501
   }
 ]
