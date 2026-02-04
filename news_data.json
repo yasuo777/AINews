@@ -1,5 +1,13 @@
 [
   {
+    "title": "Exclusive: Positron raises $230M Series B to take on Nvidia’s AI chips",
+    "link": "https://techcrunch.com/2026/02/04/exclusive-positron-raises-230m-series-b-to-take-on-nvidias-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/positron.jpg?w=1200",
+    "summary": "卡塔尔投资局等机构注资，旨在满足市场对非英伟达芯片的激增需求，并推动卡塔尔本土人工智能基础设施建设。",
+    "date": "2026-02-04 09:25",
+    "timestamp": 1770197109.7193682
+  },
+  {
     "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
     "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "Meta宣布在全球范围内暂停青少年访问其AI角色功能，但表示不会放弃相关开发，计划推出针对青少年的更新版本。",
     "date": "2026-01-23 19:02",
     "timestamp": 1769194922.3696501
-  },
-  {
-    "title": "Google Photos’ latest feature lets you meme yourself",
-    "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/08/Works-with-Google-Photos.jpg?resize=1200,500",
-    "summary": "谷歌相册推出新功能，用户可将个人形象融入网络热图模板，一键生成个性化表情包。",
-    "date": "2026-01-23 17:52",
-    "timestamp": 1769190769.4897914
   }
 ]
