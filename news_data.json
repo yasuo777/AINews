@@ -1,5 +1,13 @@
 [
   {
+    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
+    "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675",
+    "summary": "亚马逊在美国全面开放Alexa+人工智能功能，Prime会员可在所有设备免费使用，普通用户也可在移动端和网页端免费体验。",
+    "date": "2026-02-04 15:25",
+    "timestamp": 1770218758.7968256
+  },
+  {
     "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
     "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/fibr-ai-founders-pritam-roy-ankur-goyal.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Hexus创始人兼CEO透露，其旧金山团队已加入Harvey，印度团队将在Harvey设立班加罗尔办公室后加入。",
     "date": "2026-01-24 05:51",
     "timestamp": 1769233862.5711088
-  },
-  {
-    "title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
-    "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2198379447.jpg?resize=1200,800",
-    "summary": "AI科学家Yann LeCun离开Meta后创立的AMI实验室引发业界高度关注。",
-    "date": "2026-01-24 02:31",
-    "timestamp": 1769221911.6583998
   }
 ]
