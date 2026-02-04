@@ -1,5 +1,37 @@
 [
   {
+    "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps",
+    "link": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?resize=1200,764",
+    "summary": "Gizmo推出新型社交应用，以短视频形式分享趣味小程序，用户体验轻松有趣。",
+    "date": "2026-02-04 21:56",
+    "timestamp": 1770242202.177036
+  },
+  {
+    "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
+    "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1319917047.jpg?resize=1200,764",
+    "summary": "AI初创公司完成1亿美元A轮融资，由光速资本领投，公司估值已达10亿美元。",
+    "date": "2026-02-04 21:56",
+    "timestamp": 1770242203.7006118
+  },
+  {
+    "title": "Amazon to begin testing AI tools for film and TV production next month",
+    "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Amazon-HouseofDavid.jpg?w=1080",
+    "summary": "亚马逊米高梅工作室将于三月启动封闭测试，利用AI工具辅助影视制作流程。",
+    "date": "2026-02-04 21:56",
+    "timestamp": 1770242205.0670197
+  },
+  {
+    "title": "Should AI chatbots have ads? Anthropic says no.",
+    "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png",
+    "summary": "ChatGPT竞争对手在超级碗广告中讽刺AI产品宣传，以犀利营销策略引发关注。",
+    "date": "2026-02-04 21:56",
+    "timestamp": 1770242207.2764602
+  },
+  {
     "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
     "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
@@ -766,37 +798,5 @@
     "summary": "英国AI初创公司Synthesia完成2亿美元E轮融资，估值达40亿美元。该公司专注于AI生成互动培训视频，其估值在一年内从21亿美元实现近倍增长。",
     "date": "2026-01-26 09:59",
     "timestamp": 1769421557.6828887
-  },
-  {
-    "title": "This founder cracked firefighting — now he’s creating an AI gold mine",
-    "link": "https://techcrunch.com/2026/01/25/this-founder-cracked-firefighting-now-hes-creating-an-ai-gold-mine/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/HEN_Nozzles_March2025_1488.jpg?resize=1200,800",
-    "summary": "公司创始人Sun尼·塞西称喷嘴为\"地面肌肉\"，这仅是技术布局的起点。",
-    "date": "2026-01-25 23:49",
-    "timestamp": 1769384978.3169982
-  },
-  {
-    "title": "ChatGPT is pulling answers from Elon Musk’s Grokipedia",
-    "link": "https://techcrunch.com/2026/01/25/chatgpt-is-pulling-answers-from-elon-musks-grokipedia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
-    "summary": "马斯克旗下xAI开发的保守派倾向AI百科内容开始出现在ChatGPT的回复中。",
-    "date": "2026-01-25 22:51",
-    "timestamp": 1769381491.8958948
-  },
-  {
-    "title": "Humans& thinks coordination is the next frontier for AI, and they’re building a model to prove it",
-    "link": "https://techcrunch.com/2026/01/25/humans-thinks-coordination-is-the-next-frontier-for-ai-and-theyre-building-a-model-to-prove-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans-Founder-Photo-1.jpeg?resize=1200,800",
-    "summary": "AI创企Humans&由多家顶尖公司前员工创立，致力于开发以协作为核心的新一代基础模型，而非聊天工具。",
-    "date": "2026-01-25 22:51",
-    "timestamp": 1769381494.0705183
-  },
-  {
-    "title": "Science fiction writers, Comic-Con say goodbye to AI",
-    "link": "https://techcrunch.com/2026/01/25/science-fiction-writers-comic-con-say-goodbye-to-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/techcrunch-cyber-books-illo-3.jpg?w=1148",
-    "summary": "科幻与流行文化界多位领军人物近日明确表态，反对生成式人工智能的滥用。",
-    "date": "2026-01-25 22:51",
-    "timestamp": 1769381496.0907297
   }
 ]
