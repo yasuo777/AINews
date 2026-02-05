@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
+    "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+    "summary": "OpenAI本周发布的新模型旨在提升其编程工具Codex的性能，以加速其代理式编码能力。",
+    "date": "2026-02-05 20:02",
+    "timestamp": 1770321729.7806733
+  },
+  {
     "title": "Elon Musk is getting serious about orbital data centers",
     "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
@@ -790,13 +798,5 @@
     "summary": "AI合同平台SpotDraft年处理合同量超百万份，同比增长173%。",
     "date": "2026-01-27 02:55",
     "timestamp": 1769482542.612135
-  },
-  {
-    "title": "OpenAI spills technical details about how its AI coding agent works",
-    "link": "https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
-    "summary": "OpenAI详解Codex代理循环机制，披露其处理代码生成与执行反馈的内部工作流程。",
-    "date": "2026-01-26 23:52",
-    "timestamp": 1769471536.8687432
   }
 ]
