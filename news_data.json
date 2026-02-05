@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI launches a way for enterprises to build and manage AI agents",
+    "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+    "summary": "OpenAI推出企业平台Frontier，支持企业构建并部署AI智能体，可将其视为员工进行管理。",
+    "date": "2026-02-05 18:29",
+    "timestamp": 1770316198.476793
+  },
+  {
+    "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
+    "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
+    "summary": "Anthropic发布新版模型，旨在通过性能优化吸引更广泛用户群体。",
+    "date": "2026-02-05 18:30",
+    "timestamp": 1770316200.0377493
+  },
+  {
+    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
+    "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/anthropic_ad_2-1152x648.jpg",
+    "summary": "奥特曼在X平台发文，指责某AI竞争对手“不诚实”且“专制”。",
+    "date": "2026-02-05 18:30",
+    "timestamp": 1770316201.9583735
+  },
+  {
     "title": "Meta tests a standalone app for its AI-generated ‘Vibes’ videos",
     "link": "https://techcrunch.com/2026/02/05/meta-tests-a-standalone-app-for-its-ai-generated-vibes-videos/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "YouTube博主指控Snap公司违规使用仅供学术研究的人工智能数据集训练其商业模型。",
     "date": "2026-01-26 21:53",
     "timestamp": 1769464390.5773585
-  },
-  {
-    "title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
-    "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/factory-GettyImages.jpg?resize=1200,1173",
-    "summary": "工业AI初创公司CVector为大型工业构建了“大脑与神经系统”。目前，其创始人面临的核心挑战是向客户与投资者证明，该AI软件层如何在工业规模上实现切实的成本节约。这家纽约公司在种子轮融资后已取得初步进展。",
-    "date": "2026-01-26 19:51",
-    "timestamp": 1769457078.9784007
-  },
-  {
-    "title": "Obvious Ventures lands fund five with a 360-degree view of planetary, human, economic health",
-    "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Obvious-Five-high-rez39.png?resize=1200,684",
-    "summary": "成立12年的公司为其第五只基金募资3.6亿美元，该数字设计具有特殊意义。",
-    "date": "2026-01-26 19:03",
-    "timestamp": 1769454203.627919
-  },
-  {
-    "title": "Anthropic launches interactive Claude apps, including Slack and other workplace tools",
-    "link": "https://techcrunch.com/2026/01/26/anthropic-launches-interactive-claude-apps-including-slack-and-other-workplace-tools/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/mcp-asana-crop.jpg?resize=1200,987",
-    "summary": "Claude将支持在聊天界面内调用交互式应用，Cowork集成功能即将上线。",
-    "date": "2026-01-26 19:03",
-    "timestamp": 1769454205.4908493
   }
 ]
