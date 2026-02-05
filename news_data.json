@@ -1,5 +1,13 @@
 [
   {
+    "title": "Elon Musk is getting serious about orbital data centers",
+    "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
+    "summary": "马斯克旗下公司正将轨道AI数据集群构想转化为具体计划，拟在太空部署人工智能数据处理中心。",
+    "date": "2026-02-05 19:25",
+    "timestamp": 1770319536.2296128
+  },
+  {
     "title": "OpenAI launches a way for enterprises to build and manage AI agents",
     "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI详解Codex代理循环机制，披露其处理代码生成与执行反馈的内部工作流程。",
     "date": "2026-01-26 23:52",
     "timestamp": 1769471536.8687432
-  },
-  {
-    "title": "YouTubers sue Snap for alleged copyright infringement in training its AI models",
-    "link": "https://techcrunch.com/2026/01/26/youtubers-sue-snap-for-alleged-copyright-infringement-in-training-its-ai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/evan-spiegel.jpg?resize=1200,800",
-    "summary": "YouTube博主指控Snap公司违规使用仅供学术研究的人工智能数据集训练其商业模型。",
-    "date": "2026-01-26 21:53",
-    "timestamp": 1769464390.5773585
   }
 ]
