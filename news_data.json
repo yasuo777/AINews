@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
+    "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+    "summary": "2026年，亚马逊计划投入2000亿美元资本支出，谷歌紧随其后，预计达1750至1850亿美元。两大科技巨头资本开支规模巨大。",
+    "date": "2026-02-05 23:00",
+    "timestamp": 1770332405.1389847
+  },
+  {
+    "title": "AI companies want you to stop chatting with bots and start managing them",
+    "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-1152x648.jpg",
+    "summary": "Claude Opus 4.6与OpenAI Frontier模型展示了AI智能体监督的未来方向，推动自主智能系统向更高层级发展。",
+    "date": "2026-02-05 23:00",
+    "timestamp": 1770332408.0735989
+  },
+  {
     "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
     "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
@@ -782,21 +798,5 @@
     "summary": "Flora节点设计工具获Pentagram、Lionsgate等公司采用。",
     "date": "2026-01-27 14:05",
     "timestamp": 1769522732.1345108
-  },
-  {
-    "title": "‘Among the worst we’ve seen’: report slams xAI’s Grok over child safety failures",
-    "link": "https://techcrunch.com/2026/01/27/among-the-worst-weve-seen-report-slams-xais-grok-over-child-safety-failures/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2258343615.jpg?w=1024",
-    "summary": "美国常识媒体组织批评马斯克旗下AI聊天机器人Grok存在严重风险，称其在测评中表现最差。",
-    "date": "2026-01-27 10:59",
-    "timestamp": 1769511577.3380136
-  },
-  {
-    "title": "Qualcomm backs SpotDraft to scale on-device contract AI with valuation doubling toward $400M",
-    "link": "https://techcrunch.com/2026/01/26/qualcomm-backs-spotdraft-to-scale-on-device-contract-ai-with-valuation-doubling-toward-400m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/spotdraft-co-founders.jpg?resize=1200,800",
-    "summary": "AI合同平台SpotDraft年处理合同量超百万份，同比增长173%。",
-    "date": "2026-01-27 02:55",
-    "timestamp": 1769482542.612135
   }
 ]
