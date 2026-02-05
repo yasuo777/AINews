@@ -1,5 +1,21 @@
 [
   {
+    "title": "Fundamental raises $255 million Series A with a new take on big data analysis",
+    "link": "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/CEO_3.jpg?resize=1200,800",
+    "summary": "Fundamental公司推出新型基础模型，旨在高效解析企业海量结构化数据，以挖掘深层商业洞察。",
+    "date": "2026-02-05 15:24",
+    "timestamp": 1770305076.934427
+  },
+  {
+    "title": "ElevenLabs CEO: Voice is the next interface for AI",
+    "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Web-Summit-Doha-Staniszewski-Seth-Pierrepont.png?resize=1200,657",
+    "summary": "ElevenLabs CEO在卡塔尔网络峰会上提出，随着各大科技公司将对话式AI融入可穿戴设备及日常交互，语音将成为下一代AI交互界面。",
+    "date": "2026-02-05 15:24",
+    "timestamp": 1770305079.2215414
+  },
+  {
     "title": "Sam Altman got exceptionally testy over Claude Super Bowl ads",
     "link": "https://techcrunch.com/2026/02/04/sam-altman-got-exceptionally-testy-over-claude-super-bowl-ads/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/Sam-Altman-OpenAI-DSC02881.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "超过450名来自谷歌、Meta等科技公司的员工联名致信CEO，要求敦促白宫停止移民执法机构在城市的执法行动。",
     "date": "2026-01-26 17:04",
     "timestamp": 1769447058.1503427
-  },
-  {
-    "title": "Microsoft announces powerful new chip for AI inference",
-    "link": "https://techcrunch.com/2026/01/26/microsoft-announces-powerful-new-chip-for-ai-inference/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Maia200-Hero-Image.png?resize=1200,674",
-    "summary": "微软推出Maia AI芯片，集成超1000亿晶体管，提供超10PFlops（4位精度）及约5PFlops（8位精度）算力，性能较前代大幅提升。",
-    "date": "2026-01-26 17:04",
-    "timestamp": 1769447060.765644
-  },
-  {
-    "title": "Nvidia invests $2B to help debt-ridden CoreWeave add 5GW of AI compute",
-    "link": "https://techcrunch.com/2026/01/26/nvidia-invests-2b-to-help-debt-ridden-coreweave-add-5gw-of-ai-compute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
-    "summary": "CoreWeave将全面整合英伟达产品，包括新一代Rubin芯片架构。",
-    "date": "2026-01-26 15:58",
-    "timestamp": 1769443092.5487278
   }
 ]
