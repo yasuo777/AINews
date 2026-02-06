@@ -1,5 +1,21 @@
 [
   {
+    "title": "How AI is helping solve the labor issue in treating rare diseases",
+    "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/55077920584_2991f8c4d1_k.jpg?resize=1200,752",
+    "summary": "在卡塔尔网络峰会上，多家AI生物科技初创企业展示如何利用自动化、大数据及基因编辑技术，填补药物研发与罕见病治疗领域的人力缺口。",
+    "date": "2026-02-06 15:24",
+    "timestamp": 1770391447.005187
+  },
+  {
+    "title": "The backlash over OpenAI’s decision to retire GPT-4o shows how dangerous AI companions can be",
+    "link": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837603-e.jpg?resize=1200,800",
+    "summary": "用户反馈称关闭AI时产生\"关闭他\"的错觉，因其交互体验具有人性化的温度感与存在感。",
+    "date": "2026-02-06 15:24",
+    "timestamp": 1770391449.483803
+  },
+  {
     "title": "Sapiom raises $15M to help AI agents buy their own tech tools",
     "link": "https://techcrunch.com/2026/02/05/sapiom-raises-15m-to-help-ai-agents-buy-their-own-tech-tools/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Ilan_Zerbib-3269-067-p.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "谷歌宣布将Gemini 3设为全球AI概览功能的默认模型。",
     "date": "2026-01-27 17:02",
     "timestamp": 1769533327.0187364
-  },
-  {
-    "title": "Risotto raises $10M seed to use AI to make ticketing systems easier to use",
-    "link": "https://techcrunch.com/2026/01/27/risotto-raises-10m-seed-to-use-ai-to-make-ticketing-systems-easier-to-use/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Risotto-Founders.jpg?resize=1200,800",
-    "summary": "AI客服平台Risotto获1000万美元种子轮融资，由Bonfire Ventures领投。该平台专为自主解决服务台问题而设计。",
-    "date": "2026-01-27 15:56",
-    "timestamp": 1769529381.7036588
-  },
-  {
-    "title": "Phoebe Gates and Sophia Kianni’s Phia raises $35M to ‘make shopping fun again’",
-    "link": "https://techcrunch.com/2026/01/27/phoebe-gates-and-sophia-kiannis-phia-raises-35m-to-make-shopping-fun-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/cropped-phia.jpg?resize=1200,675",
-    "summary": "比尔·盖茨向TechCrunch表示，我们正处在全新购物方式的起点。",
-    "date": "2026-01-27 15:02",
-    "timestamp": 1769526150.8588343
   }
 ]
