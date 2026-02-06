@@ -1,5 +1,21 @@
 [
   {
+    "title": "It just got easier for Claude to check in on your WordPress site",
+    "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-7.png?w=1200",
+    "summary": "WordPress用户现可利用Claude分析网站流量及内部指标数据，优化运营决策。",
+    "date": "2026-02-06 22:56",
+    "timestamp": 1770418565.497751
+  },
+  {
+    "title": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
+    "link": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252952774-1152x648.jpg",
+    "summary": "美国一AI公司提交法律文件，因过度使用华丽辞藻引发关注，被批内容浮夸不专业。",
+    "date": "2026-02-06 22:56",
+    "timestamp": 1770418568.0446424
+  },
+  {
     "title": "Maybe AI agents can be lawyers after all",
     "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "个人AI助手Moltbot（原名Clawdbot）数周内迅速走红。专家提醒，用户需审慎评估其数据安全与隐私政策，勿盲目跟风。",
     "date": "2026-01-28 02:52",
     "timestamp": 1769568747.059658
-  },
-  {
-    "title": "Anduril has invented a wild new drone flying contest where jobs are the prize",
-    "link": "https://techcrunch.com/2026/01/27/anduril-has-invented-a-wild-new-drone-flying-contest-where-jobs-are-the-prize/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1728513468-e.jpg?resize=1200,799",
-    "summary": "科技媒体TechCrunch报道，创始人帕尔默·拉奇推出专为软件程序员打造的竞赛系列。",
-    "date": "2026-01-27 22:53",
-    "timestamp": 1769554403.261125
-  },
-  {
-    "title": "Anthropic reportedly upped its latest raise to $20B",
-    "link": "https://techcrunch.com/2026/01/27/anthropic-reportedly-upped-its-latest-raise-to-20b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
-    "summary": "据报道，人工智能公司Anthropic正寻求以超过3000亿美元的估值筹集200亿美元资金。",
-    "date": "2026-01-27 21:50",
-    "timestamp": 1769550630.255225
   }
 ]
