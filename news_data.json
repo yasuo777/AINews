@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
+    "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/download-2.jpeg?resize=1200,675",
+    "summary": "亚马逊发布彩色电纸书Kindle Scribe Colors，虽售价较高，但设备性能出色。",
+    "date": "2026-02-06 17:25",
+    "timestamp": 1770398747.7023125
+  },
+  {
     "title": "How AI is helping solve the labor issue in treating rare diseases",
     "link": "https://techcrunch.com/2026/02/06/how-ai-is-helping-with-the-labor-issue-in-treating-rare-diseases/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/55077920584_2991f8c4d1_k.jpg?resize=1200,752",
@@ -790,13 +798,5 @@
     "summary": "OpenAI推出科研工作平台Prism，将AI能力融入现有科研论文撰写标准，辅助研究人员高效完成论文创作。",
     "date": "2026-01-27 19:06",
     "timestamp": 1769540793.0965543
-  },
-  {
-    "title": "Google now lets users jump from AI Overviews into AI Mode conversations",
-    "link": "https://techcrunch.com/2026/01/27/google-now-lets-users-jump-from-ai-overviews-into-ai-mode-conversations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
-    "summary": "谷歌宣布将Gemini 3设为全球AI概览功能的默认模型。",
-    "date": "2026-01-27 17:02",
-    "timestamp": 1769533327.0187364
   }
 ]
