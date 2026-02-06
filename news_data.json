@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sixteen Claude AI agents working together created a new C compiler",
+    "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
+    "summary": "一项耗资2万美元的实验虽成功编译Linux内核，但全程需深度人工干预，凸显自动化技术仍存局限。",
+    "date": "2026-02-06 23:56",
+    "timestamp": 1770422162.6122847
+  },
+  {
     "title": "It just got easier for Claude to check in on your WordPress site",
     "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-7.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "谷歌继在Gemini平台推出SAT全真模拟测试后，近日又针对印度工程入学考试JEE发布了在线练习题。",
     "date": "2026-01-28 10:59",
     "timestamp": 1769597980.4321816
-  },
-  {
-    "title": "Everything you need to know about viral personal AI assistant Clawdbot (now Moltbot)",
-    "link": "https://techcrunch.com/2026/01/27/everything-you-need-to-know-about-viral-personal-ai-assistant-clawdbot-now-moltbot/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1436392734.jpg?resize=1200,817",
-    "summary": "个人AI助手Moltbot（原名Clawdbot）数周内迅速走红。专家提醒，用户需审慎评估其数据安全与隐私政策，勿盲目跟风。",
-    "date": "2026-01-28 02:52",
-    "timestamp": 1769568747.059658
   }
 ]
