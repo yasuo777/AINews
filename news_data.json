@@ -1,5 +1,13 @@
 [
   {
+    "title": "New York lawmakers propose a three-year pause on new data centers",
+    "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "纽约州考虑暂停新建数据中心，成为美国第六个审议此类法案的州，但法案前景尚不明朗。",
+    "date": "2026-02-07 19:03",
+    "timestamp": 1770491022.4459128
+  },
+  {
     "title": "Benchmark raises $225M in special funds to double down on Cerebras",
     "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Anthropic与OpenAI高管就明尼阿波利斯冲突后的ICE执法手段发声，分别通过公开声明及内部渠道表达关切。",
     "date": "2026-01-28 15:01",
     "timestamp": 1769612515.2020135
-  },
-  {
-    "title": "Users flock to open source Moltbot for always-on AI, despite major risks",
-    "link": "https://arstechnica.com/ai/2026/01/viral-ai-assistant-moltbot-rapidly-gains-popularity-but-poses-security-risks/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/clawdbot_1-1152x648.jpg",
-    "summary": "开源AI助手Jarvis登陆WhatsApp，需获取用户文件与账户权限引发关注。",
-    "date": "2026-01-28 13:33",
-    "timestamp": 1769607208.446698
   }
 ]
