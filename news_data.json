@@ -1,5 +1,13 @@
 [
   {
+    "title": "Benchmark raises $225M in special funds to double down on Cerebras",
+    "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+    "summary": "Benchmark Capital自2016年起持续投资英伟达竞争对手。",
+    "date": "2026-02-07 06:07",
+    "timestamp": 1770444423.1811905
+  },
+  {
     "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
     "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "开源AI助手Jarvis登陆WhatsApp，需获取用户文件与账户权限引发关注。",
     "date": "2026-01-28 13:33",
     "timestamp": 1769607208.446698
-  },
-  {
-    "title": "Waabi raises $1B and expands into robotaxis with Uber",
-    "link": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Waabi_Road4.png?resize=1200,800",
-    "summary": "自动驾驶公司Waabi获7.5亿美元C轮融资加速卡车业务，并获Uber约2.5亿美元投资，将独家部署2.5万辆自动驾驶出租车。",
-    "date": "2026-01-28 11:52",
-    "timestamp": 1769601151.7928402
   }
 ]
