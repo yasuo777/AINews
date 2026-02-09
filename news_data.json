@@ -1,5 +1,21 @@
 [
   {
+    "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
+    "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/workday-larger-959933114.jpg?w=1024",
+    "summary": "Workday联合创始人宣布公司将进入以人工智能为核心的新发展阶段。",
+    "date": "2026-02-09 18:34",
+    "timestamp": 1770662041.2949038
+  },
+  {
+    "title": "Anthropic closes in on $20B round",
+    "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "该公司五个月前刚完成130亿美元股权融资，但因前沿实验室竞争激烈及算力成本持续高企，现正急于启动新一轮融资。",
+    "date": "2026-02-09 18:34",
+    "timestamp": 1770662043.1458914
+  },
+  {
     "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
     "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/office-3.jpg?w=870",
@@ -782,21 +798,5 @@
     "summary": "美国初创公司Arcee AI发布4000亿参数开源模型Trinity，称其是目前美国企业推出的最大规模开源基础模型之一。",
     "date": "2026-01-28 18:00",
     "timestamp": 1769623201.5123205
-  },
-  {
-    "title": "Modelence raises $3 million to smooth out the vibe-coding stack",
-    "link": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1388336038.jpg?resize=1200,675",
-    "summary": "AI工具开发公司Modelence提出创新方案，致力于构建AI软件栈专用工具链，以优化开发流程。",
-    "date": "2026-01-28 18:00",
-    "timestamp": 1769623203.341148
-  },
-  {
-    "title": "Report: China approves import of high-end Nvidia AI chips after weeks of uncertainty",
-    "link": "https://arstechnica.com/ai/2026/01/report-china-approves-import-of-high-end-nvidia-ai-chips-after-weeks-of-uncertainty/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/07/GettyImages-2131985696-1536x864-1-1152x648.jpg",
-    "summary": "英伟达将向科技巨头供应超40万块H200芯片，中国在满足高端算力需求与推动技术自主间寻求平衡。",
-    "date": "2026-01-28 18:00",
-    "timestamp": 1769623205.7773325
   }
 ]
