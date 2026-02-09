@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+    "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/office-3.jpg?w=870",
+    "summary": "前谷歌日本高管创立的InfiniMind公司，致力于开发企业级人工智能系统，将海量未利用视频资料转化为可检索、可操作的商业智能数据。",
+    "date": "2026-02-09 17:35",
+    "timestamp": 1770658549.86765
+  },
+  {
     "title": "Call for speakers: TechCrunch Founder Summit 2026",
     "link": "https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达将向科技巨头供应超40万块H200芯片，中国在满足高端算力需求与推动技术自主间寻求平衡。",
     "date": "2026-01-28 18:00",
     "timestamp": 1769623205.7773325
-  },
-  {
-    "title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
-    "link": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?resize=1200,594",
-    "summary": "苹果推出Creator Studio Pro，利用AI辅助创作者处理繁琐任务，如片段查找与幻灯片制作，旨在提升效率而非替代人工创作。",
-    "date": "2026-01-28 17:18",
-    "timestamp": 1769620682.050689
   }
 ]
