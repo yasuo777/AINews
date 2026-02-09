@@ -1,5 +1,29 @@
 [
   {
+    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+    "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?resize=1200,800",
+    "summary": "Databricks CEO Ali Ghodsi认为，AI不会取代主流SaaS应用，但可能催生新的竞争者。",
+    "date": "2026-02-09 21:22",
+    "timestamp": 1770672120.1354127
+  },
+  {
+    "title": "Anthropic’s India expansion collides with a local company that already had the name",
+    "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "印度AI公司Anthropic Software因名称争议起诉美国人工智能巨头。",
+    "date": "2026-02-09 21:22",
+    "timestamp": 1770672121.6534467
+  },
+  {
+    "title": "ChatGPT rolls out ads",
+    "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675",
+    "summary": "OpenAI去年末因测试类似广告的应用推荐引发争议。该公司仍需从其热门聊天机器人创收，以覆盖技术研发与业务扩张的高昂成本。",
+    "date": "2026-02-09 21:22",
+    "timestamp": 1770672123.7181258
+  },
+  {
     "title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
     "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/workday-larger-959933114.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "WhatsApp将对AI聊天机器人开发者按消息量收费，以构建商业盈利模式。",
     "date": "2026-01-28 19:55",
     "timestamp": 1769630128.7616558
-  },
-  {
-    "title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
-    "link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Cleanlab.jpg?resize=1200,800",
-    "summary": "Cleanlab九名核心研究人员通过收购式雇佣加入新公司。",
-    "date": "2026-01-28 19:03",
-    "timestamp": 1769627016.3826911
-  },
-  {
-    "title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
-    "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?resize=1200,675",
-    "summary": "谷歌Chrome浏览器将集成Gemini侧边栏功能，并向AI Pro及Ultra用户推出智能代理特性。",
-    "date": "2026-01-28 19:03",
-    "timestamp": 1769627018.2530215
-  },
-  {
-    "title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
-    "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802",
-    "summary": "美国初创公司Arcee AI发布4000亿参数开源模型Trinity，称其是目前美国企业推出的最大规模开源基础模型之一。",
-    "date": "2026-01-28 18:00",
-    "timestamp": 1769623201.5123205
   }
 ]
