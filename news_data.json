@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
+    "link": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Cris-Headshot.jpg?resize=1200,818",
+    "summary": "AI视频创企Runway以53亿美元估值完成3.15亿美元融资，将拓展世界模型等新领域。",
+    "date": "2026-02-10 14:05",
+    "timestamp": 1770732333.9505332
+  },
+  {
     "title": "The first signs of burnout are coming from the people who embrace AI the most",
     "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676",
@@ -790,13 +798,5 @@
     "summary": "马斯克宣布X平台将开始标记\"被操纵媒体\"，但未透露具体实施方案。",
     "date": "2026-01-28 21:57",
     "timestamp": 1769637435.2978072
-  },
-  {
-    "title": "ServiceNow inks another AI partnership, this time with Anthropic",
-    "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1782807384.jpg?w=1024",
-    "summary": "ServiceNow一周内相继与OpenAI及Anthropic达成合作，正式采用多模型AI战略布局。",
-    "date": "2026-01-28 21:57",
-    "timestamp": 1769637437.0241785
   }
 ]
