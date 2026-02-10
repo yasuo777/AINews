@@ -1,5 +1,13 @@
 [
   {
+    "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
+    "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Animate-Your-Facebook-Profile-Picture-With-Meta-AI_Header.jpg?w=1200",
+    "summary": "Facebook推出多项AI新功能，用户可为个人资料图片生成动态效果、重新设计动态与回忆的视觉风格，并为文字帖添加智能背景。",
+    "date": "2026-02-10 20:23",
+    "timestamp": 1770754996.2100098
+  },
+  {
     "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
     "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
@@ -790,13 +798,5 @@
     "summary": "AI公司Anthropic在模型训练中采取预防措施，假设AI可能存在“痛苦”风险，尽管尚无科学证据支持该观点。",
     "date": "2026-01-29 16:06",
     "timestamp": 1769702796.4792671
-  },
-  {
-    "title": "Google Maps now lets you access Gemini while walking and cycling",
-    "link": "https://techcrunch.com/2026/01/29/google-maps-now-lets-you-access-gemini-while-walking-and-cycling/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/06/google-maps-ios-icon.jpg?resize=1200,675",
-    "summary": "谷歌地图现整合Gemini AI，支持用户通过语音实时查询所在街区及附近高评分餐厅等信息。",
-    "date": "2026-01-29 15:18",
-    "timestamp": 1769699929.7584357
   }
 ]
