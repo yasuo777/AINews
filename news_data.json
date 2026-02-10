@@ -1,5 +1,29 @@
 [
   {
+    "title": "Hauler Hero collects $16M for its AI waste management software",
+    "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Hauler-Hero-_-Mark.jpg?resize=1200,800",
+    "summary": "2024年种子轮融资后，Hauler Hero客户量、营收及员工规模均实现翻倍增长。",
+    "date": "2026-02-10 15:46",
+    "timestamp": 1770738360.9920812
+  },
+  {
+    "title": "India orders social media platforms to take down deepfakes faster",
+    "link": "https://techcrunch.com/2026/02/10/india-orders-social-media-platforms-to-take-down-deepfakes-faster/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/india-parliament-getty.jpg?w=1200",
+    "summary": "印度新规2月20日生效，强化深度伪造内容监管，要求平台最短在2小时内完成违规内容下架。",
+    "date": "2026-02-10 15:46",
+    "timestamp": 1770738363.0459683
+  },
+  {
+    "title": "Former GitHub CEO raises record $60M dev tool seed round at $300M valuation",
+    "link": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Github-Thomas.jpeg?resize=1200,800",
+    "summary": "德国创业者Thomas Dohmke创立新公司，推出AI系统以协助开发者高效管理AI代理生成的代码。",
+    "date": "2026-02-10 15:46",
+    "timestamp": 1770738365.2527888
+  },
+  {
     "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
     "link": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Cris-Headshot.jpg?resize=1200,818",
@@ -774,29 +798,5 @@
     "summary": "扎克伯格称2026年将是实现个人超级智能的关键年份。",
     "date": "2026-01-28 23:54",
     "timestamp": 1769644490.8187747
-  },
-  {
-    "title": "Mark Zuckerberg says a future without smart glasses is ‘hard to imagine’",
-    "link": "https://techcrunch.com/2026/01/28/mark-zuckerberg-future-smart-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
-    "summary": "扎克伯格对元宇宙的预测应审慎看待，其此前关于元宇宙普及的预期并未如期实现。",
-    "date": "2026-01-28 22:58",
-    "timestamp": 1769641130.9158165
-  },
-  {
-    "title": "Tesla invested $2B in Elon Musk’s xAI",
-    "link": "https://techcrunch.com/2026/01/28/tesla-invested-2b-in-elon-musks-xai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/xAI-Grok-GettyImages-1765893916.jpeg?resize=1200,800",
-    "summary": "马斯克的xAI公司本月披露已成功融资200亿美元，估值达180亿美元，旨在加速人工智能技术研发。",
-    "date": "2026-01-28 22:58",
-    "timestamp": 1769641132.6607409
-  },
-  {
-    "title": "Elon Musk teases a new image-labeling system for X…we think?",
-    "link": "https://techcrunch.com/2026/01/28/elon-musk-teases-a-new-image-labeling-system-for-xwe-think/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
-    "summary": "马斯克宣布X平台将开始标记\"被操纵媒体\"，但未透露具体实施方案。",
-    "date": "2026-01-28 21:57",
-    "timestamp": 1769637435.2978072
   }
 ]
