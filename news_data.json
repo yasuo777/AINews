@@ -1,5 +1,13 @@
 [
   {
+    "title": "This Sequoia-backed lab thinks the brain is ‘the floor, not the ceiling’ for AI",
+    "link": "https://techcrunch.com/podcast/this-sequoia-backed-lab-thinks-the-brain-is-the-floor-not-the-ceiling-for-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-29-at-10.15.31-AM.jpg?w=1102",
+    "summary": "AI实验室Flapping Airplanes获1.8亿美元种子轮融资，投资方包括谷歌风投等。该团队致力于开发类人类学习模式的AI模型，而非依赖传统网络数据训练。",
+    "date": "2026-02-10 22:22",
+    "timestamp": 1770762139.1075327
+  },
+  {
     "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
     "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/06/boston-dynamics-spot-equipped-with-velodyne-lidar.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "多家音乐出版商起诉Anthropic公司，指控其未经授权使用了约500部受版权保护的音乐作品。",
     "date": "2026-01-29 17:20",
     "timestamp": 1769707253.2621229
-  },
-  {
-    "title": "India is teaching Google how AI in education can scale",
-    "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch_09ed85.jpg?resize=1200,800",
-    "summary": "印度成全球使用Gemini学习最多的国家，正成为谷歌塑造教育AI战略的关键市场。",
-    "date": "2026-01-29 16:06",
-    "timestamp": 1769702791.648355
   }
 ]
