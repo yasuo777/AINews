@@ -1,5 +1,21 @@
 [
   {
+    "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
+    "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/boston-dynamics-spot-equipped-with-velodyne-lidar.jpeg?resize=1200,800",
+    "summary": "波士顿动力CEO罗伯特·普莱特宣布离职，结束在该公司长达30年的任职生涯，其中担任首席执行官六年。",
+    "date": "2026-02-10 21:26",
+    "timestamp": 1770758785.1971812
+  },
+  {
+    "title": "Nearly half of xAI’s founding team has now left the company",
+    "link": "https://techcrunch.com/2026/02/10/nearly-half-of-xais-founding-team-has-now-left-the-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+    "summary": "特斯拉创始团队12人中，目前仅剩7人仍在职，包括马斯克本人。",
+    "date": "2026-02-10 21:26",
+    "timestamp": 1770758787.2152472
+  },
+  {
     "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
     "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Animate-Your-Facebook-Profile-Picture-With-Meta-AI_Header.jpg?w=1200",
@@ -782,21 +798,5 @@
     "summary": "印度成全球使用Gemini学习最多的国家，正成为谷歌塑造教育AI战略的关键市场。",
     "date": "2026-01-29 16:06",
     "timestamp": 1769702791.648355
-  },
-  {
-    "title": "Flapping Airplanes and the promise of research-driven AI",
-    "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screen-Shot-2026-01-29-at-10.15.31-AM.jpg?w=1102",
-    "summary": "昨日成立的AI实验室Flapping Airplanes获红杉合伙人关注，其独特技术路径被视为核心竞争力。",
-    "date": "2026-01-29 16:06",
-    "timestamp": 1769702793.5903711
-  },
-  {
-    "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-    "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/the-AI-ghost-in-the-machine-1152x648.jpg",
-    "summary": "AI公司Anthropic在模型训练中采取预防措施，假设AI可能存在“痛苦”风险，尽管尚无科学证据支持该观点。",
-    "date": "2026-01-29 16:06",
-    "timestamp": 1769702796.4792671
   }
 ]
