@@ -1,5 +1,13 @@
 [
   {
+    "title": "The first signs of burnout are coming from the people who embrace AI the most",
+    "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676",
+    "summary": "人工智能提升效率后，员工任务量不减反增，工作不断侵占午休与晚间时间，形成“效率提升-工时延长”的循环。",
+    "date": "2026-02-10 07:42",
+    "timestamp": 1770709322.615997
+  },
+  {
     "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
     "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "ServiceNow一周内相继与OpenAI及Anthropic达成合作，正式采用多模型AI战略布局。",
     "date": "2026-01-28 21:57",
     "timestamp": 1769637437.0241785
-  },
-  {
-    "title": "WhatsApp will now charge AI chatbots to operate in Italy",
-    "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
-    "summary": "WhatsApp将对AI聊天机器人开发者按消息量收费，以构建商业盈利模式。",
-    "date": "2026-01-28 19:55",
-    "timestamp": 1769630128.7616558
   }
 ]
