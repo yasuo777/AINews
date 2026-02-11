@@ -1,5 +1,21 @@
 [
   {
+    "title": "Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026大会将于10月13日至15日在旧金山举行，为初创企业提供面向万名科技领袖与投资者的展示平台，现展位已开放预订。",
+    "date": "2026-02-11 15:38",
+    "timestamp": 1770824308.06311
+  },
+  {
+    "title": "Meridian raises $17 million to remake the agentic spreadsheet",
+    "link": "https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/260122_MeridianAi_Group_0047.jpg?resize=1200,900",
+    "summary": "Meridian.AI公司正式亮相，推出基于IDE的智能体化金融建模平台，旨在革新金融分析流程。",
+    "date": "2026-02-11 15:38",
+    "timestamp": 1770824309.94105
+  },
+  {
     "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
     "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "微软CEO纳德拉回应AI使用质疑，公布实际使用数据以证实力。公司已投入数十亿美元建设数据中心。",
     "date": "2026-01-29 20:58",
     "timestamp": 1769720284.0134318
-  },
-  {
-    "title": "Elon Musk’s SpaceX and xAI in talks to merge, report says",
-    "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/musk-cpac-sunglasses-doge.jpg?resize=1200,977",
-    "summary": "马斯克拟将旗下Grok聊天机器人、星链卫星及SpaceX火箭业务整合并入同一公司。",
-    "date": "2026-01-29 19:57",
-    "timestamp": 1769716659.5240767
-  },
-  {
-    "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
-    "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-    "summary": "以色列初创公司Q.ai专注于成像与机器学习技术，主要研发设备低语识别及嘈杂环境音频增强方案。",
-    "date": "2026-01-29 19:18",
-    "timestamp": 1769714326.3654814
   }
 ]
