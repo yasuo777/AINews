@@ -1,5 +1,37 @@
 [
   {
+    "title": "Uber Eats launches AI assistant to help with grocery cart creation",
+    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/04/uber-eats-icon-ios.jpg?resize=1200,675",
+    "summary": "Uber Eats推出AI功能\"购物车助手\"，可根据用户文字或图片提示自动添加商品至购物车。",
+    "date": "2026-02-11 21:19",
+    "timestamp": 1770844770.7963512
+  },
+  {
+    "title": "Glean’s fight to own the AI layer inside every company",
+    "link": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Arvind-Jain-headshot.jpg?resize=1200,900",
+    "summary": "企业AI正从问答聊天机器人转向跨组织执行任务的系统。Glean由企业搜索工具转型为“AI工作助手”，旨在成为底层AI平台，主导这一新兴技术层的竞争。",
+    "date": "2026-02-11 21:19",
+    "timestamp": 1770844772.7947414
+  },
+  {
+    "title": "Who will own your company’s AI layer? Glean’s CEO explains",
+    "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800",
+    "summary": "企业AI正从问答聊天机器人转向跨组织执行任务的系统。Glean由企业搜索工具转型为“AI工作助手”，旨在成为支撑其他AI应用的底层平台，争夺这一核心AI层的所有权。",
+    "date": "2026-02-11 21:19",
+    "timestamp": 1770844774.9963257
+  },
+  {
+    "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
+    "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/open-ai-monkey-ad-1152x648.jpg",
+    "summary": "OpenAI首席研究员佐伊·希齐格于公司启动聊天机器人广告测试当日宣布离职。",
+    "date": "2026-02-11 21:19",
+    "timestamp": 1770844777.142077
+  },
+  {
     "title": "Why the economics of orbital AI are so brutal",
     "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/03/starlink-satellites-on-orbit.jpg?resize=1200,675",
@@ -766,37 +798,5 @@
     "summary": "个人AI助手Clawdbot再度更名。经历短暂更名为Moltbot后，现正式定名为OpenClaw。",
     "date": "2026-01-30 23:55",
     "timestamp": 1769817314.926804
-  },
-  {
-    "title": "AI agents now have their own Reddit-style social network, and it's getting weird fast",
-    "link": "https://arstechnica.com/information-technology/2026/01/ai-agents-now-have-their-own-reddit-style-social-network-and-its-getting-weird-fast/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/moltbook-blue-v-red-1152x648.jpg",
-    "summary": "AI平台Moltbook上线3.2万个智能体，可自主交流人类相关话题，包括笑话分享、生活建议及社会现象评论。",
-    "date": "2026-01-30 22:58",
-    "timestamp": 1769813935.4495065
-  },
-  {
-    "title": "Developers say AI coding tools work—and that's precisely what worries them",
-    "link": "https://arstechnica.com/ai/2026/01/developers-say-ai-coding-tools-work-and-thats-precisely-what-worries-them/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/dual-sides-ai-programming-1152x648.jpg",
-    "summary": "软件开发人员对AI态度矛盾，既抱热情又存隐忧。",
-    "date": "2026-01-30 19:18",
-    "timestamp": 1769800735.0618184
-  },
-  {
-    "title": "Anthropic brings agentic plugins to Cowork",
-    "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
-    "summary": "Anthropic将其插件系统扩展至新发布的智能体平台Cowork，以增强其功能集成与自动化能力。",
-    "date": "2026-01-30 18:03",
-    "timestamp": 1769796237.8337595
-  },
-  {
-    "title": "Last 24 hours to grab your +1 pass at 50% off to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54887091800_7d7665cecb_4k.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026大会将于10月13日至15日在旧金山举行，今日为截止日，可半价购买+1通行证。",
-    "date": "2026-01-30 16:03",
-    "timestamp": 1769789025.3206239
   }
 ]
