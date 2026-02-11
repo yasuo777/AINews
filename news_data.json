@@ -1,5 +1,13 @@
 [
   {
+    "title": "With co-founders leaving and an IPO looming, Elon Musk turns talk to the moon",
+    "link": "https://techcrunch.com/2026/02/10/with-co-founders-leaving-and-an-ipo-looming-elon-musk-turns-talk-to-the-moon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+    "summary": "据《纽约时报》报道，马斯克在内部会议中表示，其人工智能公司xAI需在月球建立制造基地，通过巨型弹射器将AI卫星送入太空。",
+    "date": "2026-02-11 06:42",
+    "timestamp": 1770792178.7301688
+  },
+  {
     "title": "OpenAI policy exec who opposed chatbot’s “adult mode” reportedly fired on discrimination claim",
     "link": "https://techcrunch.com/2026/02/10/openai-policy-exec-who-opposed-chatbots-adult-mode-reportedly-fired-on-discrimination-claim/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "以色列初创公司Q.ai专注于成像与机器学习技术，主要研发设备低语识别及嘈杂环境音频增强方案。",
     "date": "2026-01-29 19:18",
     "timestamp": 1769714326.3654814
-  },
-  {
-    "title": "I built marshmallow castles in Google’s new AI world generator",
-    "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Project-Genie.png?resize=1200,665",
-    "summary": "谷歌AI Ultra订阅用户自周四起可在美体验Project Genie，该平台整合了最新世界模型Genie 3、图像生成模型Nano Banana Pro及Gemini技术。",
-    "date": "2026-01-29 18:05",
-    "timestamp": 1769709917.7224345
   }
 ]
