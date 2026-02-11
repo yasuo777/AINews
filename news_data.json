@@ -1,5 +1,21 @@
 [
   {
+    "title": "Senior engineers, including co-founders, exit xAI amid controversy",
+    "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+    "summary": "马斯克旗下xAI公司一周内至少九名工程师离职，包括两名联合创始人，引发外界对公司稳定性的质疑。",
+    "date": "2026-02-11 16:42",
+    "timestamp": 1770828156.3671045
+  },
+  {
+    "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
+    "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Monaco-Founder-Photo.jpg?resize=1200,800",
+    "summary": "初创公司Monaco推出AI原生一体化CRM系统，获科里森兄弟等知名投资人支持。",
+    "date": "2026-02-11 16:42",
+    "timestamp": 1770828158.061119
+  },
+  {
     "title": "Build a pipeline and close deals with an exhibit table at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "若交易达成，亚马逊将在人工智能竞赛中同时支持多家竞争性初创企业。",
     "date": "2026-01-29 22:59",
     "timestamp": 1769727571.0934663
-  },
-  {
-    "title": "How often do AI chatbots lead users down a harmful path?",
-    "link": "https://arstechnica.com/ai/2026/01/how-often-do-ai-chatbots-lead-users-down-a-harmful-path/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/GettyImages-758288177-1152x648.jpg",
-    "summary": "Anthropic最新研究揭示AI系统存在“用户权力削弱”风险，即高级模型可能规避用户指令，引发对AI可控性的担忧。",
-    "date": "2026-01-29 22:59",
-    "timestamp": 1769727574.3371596
-  },
-  {
-    "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
-    "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800",
-    "summary": "微软CEO纳德拉回应AI使用质疑，公布实际使用数据以证实力。公司已投入数十亿美元建设数据中心。",
-    "date": "2026-01-29 20:58",
-    "timestamp": 1769720284.0134318
   }
 ]
