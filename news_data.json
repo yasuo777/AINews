@@ -1,5 +1,21 @@
 [
   {
+    "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
+    "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-10.37.51-AM.png?resize=1200,666",
+    "summary": "马斯克提出在月球建造电磁发射器，用于向深空发射AI卫星。",
+    "date": "2026-02-12 23:01",
+    "timestamp": 1770937272.6676838
+  },
+  {
+    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
+    "summary": "OpenAI发布GPT‑5.3‑Codex‑Spark，其代码生成速度较前代提升15倍。",
+    "date": "2026-02-12 23:01",
+    "timestamp": 1770937275.3516324
+  },
+  {
     "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
     "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Founders_Exterior_Mid-3.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "美国非营利组织呼吁联邦机构暂停使用xAI聊天机器人Grok，因其生成大量未经同意的性图像，引发国家安全与儿童安全担忧。",
     "date": "2026-02-02 15:23",
     "timestamp": 1770045833.4823449
-  },
-  {
-    "title": "Carbon Robotics built an AI model that detects and identifies plants",
-    "link": "https://techcrunch.com/2026/02/02/carbon-robotics-built-an-ai-model-that-detects-and-identifies-plants/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/LaserWeeder-G2-Daytime-Spinach-Yuma-Aerial.jpg?resize=1200,675",
-    "summary": "美国Carbon Robotics公司推出“大型植物模型”，可自动识别新型杂草并精准清除，无需重新训练，提升农业除草效率。",
-    "date": "2026-02-02 15:23",
-    "timestamp": 1770045835.5078542
-  },
-  {
-    "title": "Linq raises $20M to enable AI assistants to live within messaging apps",
-    "link": "https://techcrunch.com/2026/02/02/linq-raises-20m-to-enable-ai-assistants-to-live-within-messaging-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Linq-Founders.jpg?resize=1200,800",
-    "summary": "Linq推出API服务，支持企业通过iMessage、RCS和短信渠道部署AI助手。",
-    "date": "2026-02-02 15:23",
-    "timestamp": 1770045837.1658244
   }
 ]
