@@ -1,5 +1,13 @@
 [
   {
+    "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
+    "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
+    "summary": "谷歌发布新技术，能以极低成本通过蒸馏复制Gemini模型性能。",
+    "date": "2026-02-12 20:01",
+    "timestamp": 1770926514.9041693
+  },
+  {
     "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
     "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?resize=1200,683",
@@ -790,13 +798,5 @@
     "summary": "近期多家企业裁员时归因于AI转型，但实际动机存疑，可能借技术升级之名缩减成本。",
     "date": "2026-02-01 22:57",
     "timestamp": 1769986636.8063831
-  },
-  {
-    "title": "Why Tether’s CEO is everywhere right now",
-    "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258508694.jpg?w=1024",
-    "summary": "泰达币CEO长期避居海外规避美国监管调查，现已结束这一局面。",
-    "date": "2026-02-01 20:55",
-    "timestamp": 1769979345.997732
   }
 ]
