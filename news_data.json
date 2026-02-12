@@ -1,5 +1,21 @@
 [
   {
+    "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
+    "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Founders_Exterior_Mid-3.jpg?resize=1200,800",
+    "summary": "Didero作为企业ERP系统的智能AI代理层，能自动读取通信内容并协调执行相关更新与任务，实现业务流程自动化。",
+    "date": "2026-02-12 21:04",
+    "timestamp": 1770930261.0091136
+  },
+  {
+    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
+    "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+    "summary": "AI初创公司正与竞争对手OpenAI争夺客户及市场关注，于此时获得新一轮资金注入。",
+    "date": "2026-02-12 21:04",
+    "timestamp": 1770930262.7081926
+  },
+  {
     "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
     "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "Linq推出API服务，支持企业通过iMessage、RCS和短信渠道部署AI助手。",
     "date": "2026-02-02 15:23",
     "timestamp": 1770045837.1658244
-  },
-  {
-    "title": "These AI notetaking devices can help you record and transcribe your meetings",
-    "link": "https://techcrunch.com/2026/02/02/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Plaud-Note-Pro.jpg?resize=1200,675",
-    "summary": "AI笔记工具可将会议音频实时转录为文字摘要，并自动提炼行动要点，部分产品还支持多语种实时翻译。",
-    "date": "2026-02-02 08:05",
-    "timestamp": 1770019546.2776115
-  },
-  {
-    "title": "AI layoffs or ‘AI-washing’?",
-    "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
-    "summary": "近期多家企业裁员时归因于AI转型，但实际动机存疑，可能借技术升级之名缩减成本。",
-    "date": "2026-02-01 22:57",
-    "timestamp": 1769986636.8063831
   }
 ]
