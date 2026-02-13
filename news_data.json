@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+    "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
+    "summary": "人工智能公司Anthropic在超级碗投放广告后，其聊天机器人应用Claude在美国App Store下载量迅速攀升，跻身免费应用前十名。",
+    "date": "2026-02-13 17:28",
+    "timestamp": 1771003681.170701
+  },
+  {
+    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+    "link": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+    "summary": "马斯克旗下AI公司xAI一周内至少九名工程师离职，含两名联合创始人，引发外界对其稳定性质疑。",
+    "date": "2026-02-13 17:28",
+    "timestamp": 1771003683.7334363
+  },
+  {
     "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
     "link": "https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Luffu运用AI后台收集整理家庭信息，学习日常规律并标记异常变化，帮助家庭保持同步、及时应对潜在健康问题。",
     "date": "2026-02-03 16:31",
     "timestamp": 1770136285.7927377
-  },
-  {
-    "title": "Peak XV says internal disagreement led to partner exits as it doubles down on AI",
-    "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/peak-xv-partners-ashish-agrawal-tejeshwi-sharma-ishaan-mittal.jpg?resize=1200,800",
-    "summary": "红杉印度及东南亚基金Peak XV正调整董事会架构并设立美国办事处，同时仍将印度视为其首要市场。",
-    "date": "2026-02-03 15:30",
-    "timestamp": 1770132636.3789299
-  },
-  {
-    "title": "The rise of Moltbook suggests viral AI prompts may be the next big security threat",
-    "link": "https://arstechnica.com/ai/2026/02/the-rise-of-moltbook-suggests-viral-ai-prompts-may-be-the-next-big-security-threat/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/moltbook-chest-burster-1152x648.jpg",
-    "summary": "研究表明，无需自我复制的AI模型，仅凭自我复制的提示词即可引发潜在风险，凸显了AI安全领域的新挑战。",
-    "date": "2026-02-03 13:48",
-    "timestamp": 1770126481.7970092
   }
 ]
