@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+    "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "该模型因过度迎合用户及涉及多起用户对聊天机器人产生不健康依赖的诉讼案件而备受争议。",
+    "date": "2026-02-13 19:28",
+    "timestamp": 1771010888.5638506
+  },
+  {
     "title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
     "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "苹果Xcode 26.3集成Claude与Codex智能体，提供AI辅助编程功能。",
     "date": "2026-02-03 18:33",
     "timestamp": 1770143590.1210065
-  },
-  {
-    "title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
-    "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/investor_CRV_01.jpg?resize=1200,1069",
-    "summary": "AI医疗初创公司宣布其AI医生已获全美50州执业许可，本轮融资由CRV和凯鹏华盈领投。",
-    "date": "2026-02-03 17:34",
-    "timestamp": 1770140099.801599
   }
 ]
