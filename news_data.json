@@ -1,5 +1,13 @@
 [
   {
+    "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
+    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
+    "summary": "开发者因AI角色遭恶意攻击而面临社会伦理困境。",
+    "date": "2026-02-13 20:04",
+    "timestamp": 1771013072.9438496
+  },
+  {
     "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
     "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英特尔正组建专项团队，以客户需求为核心制定GPU发展战略。",
     "date": "2026-02-03 21:06",
     "timestamp": 1770152794.2614272
-  },
-  {
-    "title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
-    "link": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800",
-    "summary": "苹果Xcode 26.3集成Claude与Codex智能体，提供AI辅助编程功能。",
-    "date": "2026-02-03 18:33",
-    "timestamp": 1770143590.1210065
   }
 ]
