@@ -1,5 +1,13 @@
 [
   {
+    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+    "link": "https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+    "summary": "马斯克旗下xAI公司一周内至少九名工程师离职，含两名联合创始人，引发外界对其稳定性的质疑。",
+    "date": "2026-02-13 16:24",
+    "timestamp": 1770999893.2784204
+  },
+  {
     "title": "Cohere’s $240M year sets stage for IPO",
     "link": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1251294520.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "研究表明，无需自我复制的AI模型，仅凭自我复制的提示词即可引发潜在风险，凸显了AI安全领域的新挑战。",
     "date": "2026-02-03 13:48",
     "timestamp": 1770126481.7970092
-  },
-  {
-    "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
-    "link": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/OLM_Full_Pressure_Water_Deluge_Test_202307280728232180_1_8ac578ec57.jpeg?resize=1200,675",
-    "summary": "埃隆·马斯克旗下公司合并成为全球最具价值私营企业，旨在推动天基数据中心的应用验证。",
-    "date": "2026-02-02 23:06",
-    "timestamp": 1770073575.721933
   }
 ]
