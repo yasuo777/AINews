@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
+    "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
+    "summary": "近期多家AI公司出现人才流失。xAI半数创始成员离职，部分因“重组”调整；OpenAI则解散了长期安全团队，并解雇了反对新功能的政策主管。行业人才动荡引发关注。",
+    "date": "2026-02-13 18:07",
+    "timestamp": 1771006045.1219316
+  },
+  {
     "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
     "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "AI医疗初创公司宣布其AI医生已获全美50州执业许可，本轮融资由CRV和凯鹏华盈领投。",
     "date": "2026-02-03 17:34",
     "timestamp": 1770140099.801599
-  },
-  {
-    "title": "Fitbit founders launch AI platform to help families monitor their health",
-    "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Luffu_Family_Morning_Land.jpg?resize=1200,675",
-    "summary": "Luffu运用AI后台收集整理家庭信息，学习日常规律并标记异常变化，帮助家庭保持同步、及时应对潜在健康问题。",
-    "date": "2026-02-03 16:31",
-    "timestamp": 1770136285.7927377
   }
 ]
