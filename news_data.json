@@ -1,5 +1,21 @@
 [
   {
+    "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+    "summary": "Airbnb将推出智能应用，旨在通过个性化推荐协助旅客规划行程、提升房东运营效率，并优化公司规模化运营。",
+    "date": "2026-02-13 23:03",
+    "timestamp": 1771023838.9516852
+  },
+  {
+    "title": "Santa Monica deploys AI-powered parking cameras to protect bike lanes",
+    "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg",
+    "summary": "美国Hayden AI公司将在7辆市政车辆上安装智能摄像头，用于自动扫描并记录交通违规行为。",
+    "date": "2026-02-13 23:04",
+    "timestamp": 1771023840.9596012
+  },
+  {
     "title": "Why top talent is walking away from OpenAI and xAI",
     "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "卡塔尔投资局等机构注资，旨在满足市场对非英伟达芯片的激增需求，并推动卡塔尔本土人工智能基础设施建设。",
     "date": "2026-02-04 09:25",
     "timestamp": 1770197109.7193682
-  },
-  {
-    "title": "Nvidia's $100 billion OpenAI deal has seemingly vanished",
-    "link": "https://arstechnica.com/information-technology/2026/02/five-months-later-nvidias-100-billion-openai-investment-plan-has-fizzled-out/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/nvidia-1152x648.jpg",
-    "summary": "两大AI巨头投资落空，引发市场信心震荡。",
-    "date": "2026-02-03 23:01",
-    "timestamp": 1770159682.3202565
-  },
-  {
-    "title": "Xcode moves into agentic coding with deeper OpenAI and Anthropic integrations",
-    "link": "https://techcrunch.com/2026/02/03/xcode-moves-into-agentic-coding-with-deeper-openai-and-anthropic-integrations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800",
-    "summary": "苹果Xcode 26.3集成Claude与Codex智能体，提供AI辅助编程功能。",
-    "date": "2026-02-03 22:02",
-    "timestamp": 1770156153.5477898
   }
 ]
