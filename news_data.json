@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why top talent is walking away from OpenAI and xAI",
+    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "近期多家AI公司出现人才流失。xAI半数创始成员离职，部分属主动离开，部分因架构重组；OpenAI则接连经历团队解散与高管解雇风波，包括解散核心安全团队及反对新功能的高管。",
+    "date": "2026-02-13 21:07",
+    "timestamp": 1771016874.5653975
+  },
+  {
     "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
     "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "苹果Xcode 26.3集成Claude与Codex智能体，提供AI辅助编程功能。",
     "date": "2026-02-03 22:02",
     "timestamp": 1770156153.5477898
-  },
-  {
-    "title": "Intel will start making GPUs, a market dominated by Nvidia",
-    "link": "https://techcrunch.com/2026/02/03/intel-will-start-making-gpus-a-market-dominated-by-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2228936694.jpg?resize=1200,800",
-    "summary": "英特尔正组建专项团队，以客户需求为核心制定GPU发展战略。",
-    "date": "2026-02-03 21:06",
-    "timestamp": 1770152794.2614272
   }
 ]
