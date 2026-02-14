@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is safety is ‘dead’ at xAI?",
+    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "summary": "马斯克被曝正积极推动其xAI公司旗下Grok聊天机器人向“更无拘束”方向发展。",
+    "date": "2026-02-14 22:57",
+    "timestamp": 1771109831.183653
+  },
+  {
     "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
     "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "过去一年，AI语音公司ElevenLabs估值增长超三倍。",
     "date": "2026-02-04 16:26",
     "timestamp": 1770222400.3404822
-  },
-  {
-    "title": "Alexa+, Amazon’s AI assistant, is now available to everyone in the U.S.",
-    "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675",
-    "summary": "亚马逊在美国全面开放Alexa+人工智能功能，Prime会员可在所有设备免费使用，普通用户也可在移动端和网页端免费体验。",
-    "date": "2026-02-04 15:25",
-    "timestamp": 1770218758.7968256
   }
 ]
