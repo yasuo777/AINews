@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+    "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
+    "summary": "好莱坞行业组织抵制AI视频模型Seedance 2.0，指责其成为公然侵犯版权的工具。",
+    "date": "2026-02-14 19:03",
+    "timestamp": 1771095809.8802557
+  },
+  {
     "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
     "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "亚马逊在美国全面开放Alexa+人工智能功能，Prime会员可在所有设备免费使用，普通用户也可在移动端和网页端免费体验。",
     "date": "2026-02-04 15:25",
     "timestamp": 1770218758.7968256
-  },
-  {
-    "title": "Accel doubles down on Fibr AI as agents turn static websites into one-to-one experiences",
-    "link": "https://techcrunch.com/2026/02/04/accel-doubles-down-on-fibr-ai-as-agents-turn-static-websites-into-one-to-one-experiences/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/fibr-ai-founders-pritam-roy-ankur-goyal.jpg?resize=1200,800",
-    "summary": "Fibr AI推出企业级自主系统，替代传统营销机构和依赖人工工程的网站个性化方案，实现规模化自动运营。",
-    "date": "2026-02-04 13:47",
-    "timestamp": 1770212874.3907366
   }
 ]
