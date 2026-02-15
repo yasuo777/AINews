@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+    "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
+    "summary": "好莱坞行业组织抵制AI视频模型Seedance 2.0，指控其成为公然侵犯版权的工具。",
+    "date": "2026-02-15 15:54",
+    "timestamp": 1771170898.5486615
+  },
+  {
     "title": "The great computer science exodus (and where students are going instead)",
     "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-827810708.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "Tinder正测试AI功能，通过分析用户相册提供匹配建议与洞察，以优化交友推荐。",
     "date": "2026-02-04 18:27",
     "timestamp": 1770229640.0605536
-  },
-  {
-    "title": "Roblox’s 4D creation feature is now available in open beta",
-    "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Roblox4d.png?w=1200",
-    "summary": "Roblox 4D创作功能正式开启公测，用户可在虚拟世界中模拟真实物理效果。",
-    "date": "2026-02-04 17:29",
-    "timestamp": 1770226186.7330635
   }
 ]
