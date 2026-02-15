@@ -1,5 +1,13 @@
 [
   {
+    "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+    "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
+    "summary": "OpenAI CEO表示，印度已成为ChatGPT全球学生用户数量最多的国家。",
+    "date": "2026-02-15 19:05",
+    "timestamp": 1771182302.3208213
+  },
+  {
     "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
     "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183688.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "知名风投机构Andreessen Horowitz新募资150亿美元，其中17亿美元将投入其基础设施团队。该团队已投资OpenAI、ElevenLabs等头部AI项目，未来将继续聚焦AI基础设施领域布局。",
     "date": "2026-02-04 21:03",
     "timestamp": 1770239030.7065425
-  },
-  {
-    "title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
-    "link": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-    "summary": "知名风投Andreessen Horowitz新募资150亿美元，其中17亿美元将投入其基础设施投资团队，该团队已投资OpenAI、ElevenLabs等多家头部AI公司。",
-    "date": "2026-02-04 21:03",
-    "timestamp": 1770239032.7041328
   }
 ]
