@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenClaw creator Peter Steinberger joins OpenAI",
+    "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
+    "summary": "OpenAI宣布其AI项目OpenClaw将转为开源项目，持续发展。",
+    "date": "2026-02-15 22:58",
+    "timestamp": 1771196282.3013706
+  },
+  {
+    "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
+    "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-837551280.jpg?resize=1200,675",
+    "summary": "NPR《晨间新闻》前主播起诉谷歌，指控其NotebookLM工具中的男声播客音源未经授权使用其声音。",
+    "date": "2026-02-15 22:58",
+    "timestamp": 1771196283.9651875
+  },
+  {
     "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
     "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI初创公司完成1亿美元A轮融资，由光速资本领投，公司估值已达10亿美元。",
     "date": "2026-02-04 21:56",
     "timestamp": 1770242203.7006118
-  },
-  {
-    "title": "Amazon to begin testing AI tools for film and TV production next month",
-    "link": "https://techcrunch.com/2026/02/04/amazon-to-begin-testing-ai-tools-for-film-and-tv-production-next-month/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Amazon-HouseofDavid.jpg?w=1080",
-    "summary": "亚马逊米高梅工作室将于三月启动封闭测试，利用AI工具辅助影视制作流程。",
-    "date": "2026-02-04 21:56",
-    "timestamp": 1770242205.0670197
-  },
-  {
-    "title": "Should AI chatbots have ads? Anthropic says no.",
-    "link": "https://arstechnica.com/ai/2026/02/should-ai-chatbots-have-ads-anthropic-says-no/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/claude-no-ads-1152x648.png",
-    "summary": "ChatGPT竞争对手在超级碗广告中讽刺AI产品宣传，以犀利营销策略引发关注。",
-    "date": "2026-02-04 21:56",
-    "timestamp": 1770242207.2764602
   }
 ]
