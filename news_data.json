@@ -1,5 +1,13 @@
 [
   {
+    "title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+    "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183688.jpg?w=1024",
+    "summary": "企业AI平台Glean CEO表示，公司正从企业搜索工具转型为AI中间层，以支持各类企业级AI应用。",
+    "date": "2026-02-15 17:56",
+    "timestamp": 1771178177.0410733
+  },
+  {
     "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
     "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "知名风投Andreessen Horowitz新募资150亿美元，其中17亿美元将投入其基础设施投资团队，该团队已投资OpenAI、ElevenLabs等多家头部AI公司。",
     "date": "2026-02-04 21:03",
     "timestamp": 1770239032.7041328
-  },
-  {
-    "title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
-    "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/tinder-featured.png?resize=1200,675",
-    "summary": "Tinder正测试AI功能，通过分析用户相册提供匹配建议与洞察，以优化交友推荐。",
-    "date": "2026-02-04 18:27",
-    "timestamp": 1770229640.0605536
   }
 ]
