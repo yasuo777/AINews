@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+    "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
+    "summary": "摘要：近期讨论聚焦于Claude人工智能是否可能被用于大规模国内监控及自主武器系统，引发对其技术应用边界与伦理风险的关注。",
+    "date": "2026-02-15 21:54",
+    "timestamp": 1771192482.0724385
+  },
+  {
     "title": "India has 100M weekly active ChatGPT users, Sam Altman says",
     "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "ChatGPT竞争对手在超级碗广告中讽刺AI产品宣传，以犀利营销策略引发关注。",
     "date": "2026-02-04 21:56",
     "timestamp": 1770242207.2764602
-  },
-  {
-    "title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
-    "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "知名风投机构Andreessen Horowitz新募资150亿美元，其中17亿美元将投入其基础设施团队。该团队已投资OpenAI、ElevenLabs等头部AI项目，未来将继续聚焦AI基础设施领域布局。",
-    "date": "2026-02-04 21:03",
-    "timestamp": 1770239030.7065425
   }
 ]
