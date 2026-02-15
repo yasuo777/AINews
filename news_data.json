@@ -1,5 +1,13 @@
 [
   {
+    "title": "The great computer science exodus (and where students are going instead)",
+    "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-827810708.jpg?resize=1200,801",
+    "summary": "计算机科学整体热度有所下降，但学生对人工智能专业及课程的兴趣显著上升。",
+    "date": "2026-02-15 09:02",
+    "timestamp": 1771146168.6459727
+  },
+  {
     "title": "Is safety is ‘dead’ at xAI?",
     "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Roblox 4D创作功能正式开启公测，用户可在虚拟世界中模拟真实物理效果。",
     "date": "2026-02-04 17:29",
     "timestamp": 1770226186.7330635
-  },
-  {
-    "title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
-    "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-    "summary": "过去一年，AI语音公司ElevenLabs估值增长超三倍。",
-    "date": "2026-02-04 16:26",
-    "timestamp": 1770222400.3404822
   }
 ]
