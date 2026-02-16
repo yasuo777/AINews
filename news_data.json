@@ -1,5 +1,21 @@
 [
   {
+    "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
+    "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1195233690.jpg?resize=1200,775",
+    "summary": "C2i公司融资1500万美元，正测试电网直连GPU方案，以降低AI数据中心能耗损耗。",
+    "date": "2026-02-16 03:32",
+    "timestamp": 1771212729.6685336
+  },
+  {
+    "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
+    "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1156074432.jpg?resize=1200,800",
+    "summary": "AI芯片需求激增，Neysa计划未来部署超2万块GPU，以强化本地AI算力布局。",
+    "date": "2026-02-16 03:32",
+    "timestamp": 1771212731.2401266
+  },
+  {
     "title": "OpenClaw creator Peter Steinberger joins OpenAI",
     "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
@@ -782,21 +798,5 @@
     "summary": "谷歌宣布其Gemini应用月活跃用户数突破7.5亿，标志着其在与ChatGPT和Meta AI的竞争中取得重要进展。",
     "date": "2026-02-04 22:57",
     "timestamp": 1770245875.3360755
-  },
-  {
-    "title": "Meet Gizmo: a TikTok for interactive, vibe-coded mini apps",
-    "link": "https://techcrunch.com/2026/02/04/meet-gizmo-a-tiktok-for-interactive-vibe-coded-mini-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/gizmo-app.jpg?resize=1200,764",
-    "summary": "Gizmo推出新型社交应用，以短视频形式分享趣味小程序，用户体验轻松有趣。",
-    "date": "2026-02-04 21:56",
-    "timestamp": 1770242202.177036
-  },
-  {
-    "title": "AI SRE Resolve AI confirms $125M raise, unicorn valuation",
-    "link": "https://techcrunch.com/2026/02/04/ai-sre-resolve-ai-confirms-125m-raise-unicorn-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1319917047.jpg?resize=1200,764",
-    "summary": "AI初创公司完成1亿美元A轮融资，由光速资本领投，公司估值已达10亿美元。",
-    "date": "2026-02-04 21:56",
-    "timestamp": 1770242203.7006118
   }
 ]
