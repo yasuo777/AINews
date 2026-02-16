@@ -1,5 +1,13 @@
 [
   {
+    "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+    "link": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Flapping-Airplanes-founders-photo.jpg?resize=1200,821",
+    "summary": "\"We're exploring a different set of tradeoffs.\"",
+    "date": "2026-02-16 15:24",
+    "timestamp": 1771255491.78007
+  },
+  {
     "title": "After all the hype, some AI experts don’t think OpenClaw is all that exciting",
     "link": "https://techcrunch.com/2026/02/16/after-all-the-hype-some-ai-experts-dont-think-openclaw-is-all-that-exciting/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-1388444972.jpg?resize=1200,839",
@@ -790,13 +798,5 @@
     "summary": "Fundamental公司推出新型基础模型，旨在高效解析企业海量结构化数据，以挖掘深层商业洞察。",
     "date": "2026-02-05 15:24",
     "timestamp": 1770305076.934427
-  },
-  {
-    "title": "ElevenLabs CEO: Voice is the next interface for AI",
-    "link": "https://techcrunch.com/2026/02/05/elevenlabs-ceo-voice-is-the-next-interface-for-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Web-Summit-Doha-Staniszewski-Seth-Pierrepont.png?resize=1200,657",
-    "summary": "ElevenLabs CEO在卡塔尔网络峰会上提出，随着各大科技公司将对话式AI融入可穿戴设备及日常交互，语音将成为下一代AI交互界面。",
-    "date": "2026-02-05 15:24",
-    "timestamp": 1770305079.2215414
   }
 ]
