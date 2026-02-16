@@ -1,5 +1,13 @@
 [
   {
+    "title": "All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+    "summary": "印度本周举办为期四天的全球人工智能峰会，OpenAI、英伟达、微软等科技巨头高管及多国元首将出席。",
+    "date": "2026-02-16 11:25",
+    "timestamp": 1771241159.386904
+  },
+  {
     "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
     "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1195233690.jpg?resize=1200,775",
@@ -790,13 +798,5 @@
     "summary": "Alphabet财报会上，CEO回避了分析师关于苹果的提问。",
     "date": "2026-02-04 23:57",
     "timestamp": 1770249420.7134068
-  },
-  {
-    "title": "Google’s Gemini app has surpassed 750M monthly active users",
-    "link": "https://techcrunch.com/2026/02/04/googles-gemini-app-has-surpassed-750m-monthly-active-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "谷歌宣布其Gemini应用月活跃用户数突破7.5亿，标志着其在与ChatGPT和Meta AI的竞争中取得重要进展。",
-    "date": "2026-02-04 22:57",
-    "timestamp": 1770245875.3360755
   }
 ]
