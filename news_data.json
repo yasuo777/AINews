@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cohere launches a family of open multilingual models",
+    "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
+    "summary": "Cohere发布Tiny Aya模型，支持超70种语言，旨在提升多语言AI处理能力。",
+    "date": "2026-02-17 09:30",
+    "timestamp": 1771320653.445257
+  },
+  {
     "title": "Have money, will travel: a16z’s hunt for the next European unicorn",
     "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
@@ -790,13 +798,5 @@
     "summary": "Anthropic发布新版模型，旨在通过性能优化吸引更广泛用户群体。",
     "date": "2026-02-05 18:30",
     "timestamp": 1770316200.0377493
-  },
-  {
-    "title": "OpenAI is hoppin' mad about Anthropic's new Super Bowl TV ads",
-    "link": "https://arstechnica.com/information-technology/2026/02/openai-is-hoppin-mad-about-anthropics-new-super-bowl-tv-ads/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/anthropic_ad_2-1152x648.jpg",
-    "summary": "奥特曼在X平台发文，指责某AI竞争对手“不诚实”且“专制”。",
-    "date": "2026-02-05 18:30",
-    "timestamp": 1770316201.9583735
   }
 ]
