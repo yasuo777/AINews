@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple is reportedly cooking up a trio of AI wearables",
+    "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-speaking-GettyImages-2234517834.jpg?w=1024",
+    "summary": "苹果公司正积极布局AI硬件领域，已有多款智能产品在研发中。",
+    "date": "2026-02-17 21:07",
+    "timestamp": 1771362430.526561
+  },
+  {
     "title": "Anthropic releases Sonnet 4.6",
     "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "马斯克将SpaceX与xAI合并，构建新型硅谷权力架构。其个人财富已超8000亿美元，并强调“创新速度决定科技胜利”。此举标志着个人商业帝国迈入新阶段。",
     "date": "2026-02-06 19:25",
     "timestamp": 1770405923.028484
-  },
-  {
-    "title": "How far will Elon Musk take the ‘everything’ business as SpaceX and xAI merge?",
-    "link": "https://techcrunch.com/podcast/how-far-will-elon-musk-take-the-everything-business-as-spacex-and-xai-merge/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256975642.jpg?resize=1200,800",
-    "summary": "马斯克将SpaceX与xAI合并，构建新型硅谷权力架构。其个人财富已逼近8000亿美元，并强调“创新速度决定科技胜负”。此举标志其个人商业帝国迈入新阶段。",
-    "date": "2026-02-06 18:26",
-    "timestamp": 1770402381.032352
   }
 ]
