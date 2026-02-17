@@ -1,5 +1,29 @@
 [
   {
+    "title": "Here are the 17 US-based AI companies that have raised $100m or more in 2026",
+    "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
+    "summary": "2026年至今，美国三家AI企业融资超十亿美元，另有十四家获投一亿美元以上。",
+    "date": "2026-02-17 15:33",
+    "timestamp": 1771342413.529653
+  },
+  {
+    "title": "India bids to attract over $200B in AI infrastructure investment by 2028",
+    "link": "https://techcrunch.com/2026/02/17/india-bids-to-attract-over-200b-in-ai-infrastructure-investment-by-2028/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1246354184.jpg?resize=1200,800",
+    "summary": "印度正加速建设共享AI计算设施，计划新增2万块GPU，以吸引全球人工智能投资。",
+    "date": "2026-02-17 15:33",
+    "timestamp": 1771342415.801481
+  },
+  {
+    "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
+    "link": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/emergent-mobile-app.jpg?resize=1200,800",
+    "summary": "印度低代码平台Emergent上线仅八个月，因中小企业和非技术用户需求激增，已实现超1亿美元年经常性收入。",
+    "date": "2026-02-17 15:33",
+    "timestamp": 1771342417.8711765
+  },
+  {
     "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
     "link": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2165426370.jpeg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "2026年，亚马逊计划投入2000亿美元资本支出，谷歌紧随其后，预计达1750至1850亿美元。两大科技巨头资本开支规模巨大。",
     "date": "2026-02-05 23:00",
     "timestamp": 1770332405.1389847
-  },
-  {
-    "title": "AI companies want you to stop chatting with bots and start managing them",
-    "link": "https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/lazy_workers-1-1152x648.jpg",
-    "summary": "Claude Opus 4.6与OpenAI Frontier模型展示了AI智能体监督的未来方向，推动自主智能系统向更高层级发展。",
-    "date": "2026-02-05 23:00",
-    "timestamp": 1770332408.0735989
-  },
-  {
-    "title": "OpenAI launches new agentic coding model only minutes after Anthropic drops its own",
-    "link": "https://techcrunch.com/2026/02/05/openai-launches-new-agentic-coding-model-only-minutes-after-anthropic-drops-its-own/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
-    "summary": "OpenAI本周发布的新模型旨在提升其编程工具Codex的性能，以加速其代理式编码能力。",
-    "date": "2026-02-05 20:02",
-    "timestamp": 1770321729.7806733
-  },
-  {
-    "title": "Elon Musk is getting serious about orbital data centers",
-    "link": "https://techcrunch.com/2026/02/05/elon-musk-is-getting-serious-about-orbital-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
-    "summary": "马斯克旗下公司正将轨道AI数据集群构想转化为具体计划，拟在太空部署人工智能数据处理中心。",
-    "date": "2026-02-05 19:25",
-    "timestamp": 1770319536.2296128
   }
 ]
