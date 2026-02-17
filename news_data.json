@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic releases Sonnet 4.6",
+    "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+    "summary": "Anthropic发布新版中规模Sonnet模型，维持其四个月一次的产品更新节奏。",
+    "date": "2026-02-17 19:33",
+    "timestamp": 1771356808.9101534
+  },
+  {
     "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
     "link": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/10/koyeb-team01.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "马斯克将SpaceX与xAI合并，构建新型硅谷权力架构。其个人财富已逼近8000亿美元，并强调“创新速度决定科技胜负”。此举标志其个人商业帝国迈入新阶段。",
     "date": "2026-02-06 18:26",
     "timestamp": 1770402381.032352
-  },
-  {
-    "title": "The Kindle Scribe Colorsoft is a pricey but pretty e-ink color tablet with AI features",
-    "link": "https://techcrunch.com/2026/02/06/kindle-scribe-colorsoft-review-e-ink-color-tablet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/download-2.jpeg?resize=1200,675",
-    "summary": "亚马逊发布彩色电纸书Kindle Scribe Colors，虽售价较高，但设备性能出色。",
-    "date": "2026-02-06 17:25",
-    "timestamp": 1770398747.7023125
   }
 ]
