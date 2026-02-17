@@ -1,5 +1,29 @@
 [
   {
+    "title": "European Parliament blocks AI on lawmakers’ devices, citing security risks",
+    "link": "https://techcrunch.com/2026/02/17/european-parliament-blocks-ai-on-lawmakers-devices-citing-security-risks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+    "summary": "欧盟立法人员发现其公务设备无法使用内置AI工具，因担忧敏感信息可能泄露至美国AI公司服务器。",
+    "date": "2026-02-17 16:37",
+    "timestamp": 1771346247.9892478
+  },
+  {
+    "title": "WordPress.com adds an AI Assistant that can edit, adjust styles, create images, and more",
+    "link": "https://techcrunch.com/2026/02/17/wordpress-com-adds-an-ai-assistant-that-can-edit-adjust-styles-create-images-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/wordpress-ai-assistant-on-wordpress-com.webp?resize=1200,750",
+    "summary": "WordPress AI助手无需精准提示即可高效运作，简化了用户操作流程。",
+    "date": "2026-02-17 16:37",
+    "timestamp": 1771346249.7909195
+  },
+  {
+    "title": "Amazon Fire TV’s new interface is now rolling out in the US",
+    "link": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/New-Fire-TV-UI-on-Amazon-Fire-TV-Omni-QLED-Series.jpg?resize=1200,675",
+    "summary": "亚马逊Fire TV新版界面优化布局与导航，并新增Alexa+功能，操作更便捷智能。",
+    "date": "2026-02-17 16:37",
+    "timestamp": 1771346251.414255
+  },
+  {
     "title": "Here are the 17 US-based AI companies that have raised $100m or more in 2026",
     "link": "https://techcrunch.com/2026/02/17/here-are-the-17-us-based-ai-companies-that-have-raised-100m-or-more-in-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "由Accel支持的初创公司正在构建一个金融层，专门处理AI代理所需的身份验证与微支付。",
     "date": "2026-02-05 23:55",
     "timestamp": 1770335728.2678523
-  },
-  {
-    "title": "Reddit looks to AI search as its next big opportunity",
-    "link": "https://techcrunch.com/2026/02/05/reddit-looks-to-ai-search-as-its-next-big-opportunity/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
-    "summary": "Reddit表示其搜索业务（含AI问答）蕴含巨大市场机遇。",
-    "date": "2026-02-05 23:55",
-    "timestamp": 1770335729.6909225
-  },
-  {
-    "title": "AWS revenue continues to soar as cloud demand remains high",
-    "link": "https://techcrunch.com/2026/02/05/aws-revenue-continues-to-soar-as-cloud-demand-remains-high/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_4752.jpg?resize=1200,797",
-    "summary": "亚马逊云服务（AWS）2025年第四季度营收增速创13个季度新高，主要得益于人工智能技术推动的云服务需求增长。",
-    "date": "2026-02-05 23:55",
-    "timestamp": 1770335731.4535596
-  },
-  {
-    "title": "Amazon and Google are winning the AI capex race — but what’s the prize?",
-    "link": "https://techcrunch.com/2026/02/05/amazon-and-google-are-winning-the-ai-capex-race-but-whats-the-prize/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-    "summary": "2026年，亚马逊计划投入2000亿美元资本支出，谷歌紧随其后，预计达1750至1850亿美元。两大科技巨头资本开支规模巨大。",
-    "date": "2026-02-05 23:00",
-    "timestamp": 1770332405.1389847
   }
 ]
