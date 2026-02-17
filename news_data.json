@@ -1,5 +1,21 @@
 [
   {
+    "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
+    "link": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2165426370.jpeg?resize=1200,800",
+    "summary": "阿达尼集团计划建设高达5吉瓦容量的数据中心，并与谷歌、微软和Flipkart等企业合作推进项目。",
+    "date": "2026-02-17 13:51",
+    "timestamp": 1771336275.340456
+  },
+  {
+    "title": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents",
+    "link": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-668031984.jpg?w=1024",
+    "summary": "Infosys将把Anthropic的Claude模型集成至Topaz AI平台，以构建\"智能体\"系统。",
+    "date": "2026-02-17 13:51",
+    "timestamp": 1771336277.2889483
+  },
+  {
     "title": "Cohere launches a family of open multilingual models",
     "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "马斯克旗下公司正将轨道AI数据集群构想转化为具体计划，拟在太空部署人工智能数据处理中心。",
     "date": "2026-02-05 19:25",
     "timestamp": 1770319536.2296128
-  },
-  {
-    "title": "OpenAI launches a way for enterprises to build and manage AI agents",
-    "link": "https://techcrunch.com/2026/02/05/openai-launches-a-way-for-enterprises-to-build-and-manage-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "summary": "OpenAI推出企业平台Frontier，支持企业构建并部署AI智能体，可将其视为员工进行管理。",
-    "date": "2026-02-05 18:29",
-    "timestamp": 1770316198.476793
-  },
-  {
-    "title": "Anthropic releases Opus 4.6 with new ‘agent teams’",
-    "link": "https://techcrunch.com/2026/02/05/anthropic-releases-opus-4-6-with-new-agent-teams/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
-    "summary": "Anthropic发布新版模型，旨在通过性能优化吸引更广泛用户群体。",
-    "date": "2026-02-05 18:30",
-    "timestamp": 1770316200.0377493
   }
 ]
