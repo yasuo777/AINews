@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google adds music-generation capabilities to the Gemini app",
+    "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?resize=1200,675",
+    "summary": "Meta推出AI音乐生成器，支持以文本、图像及视频为参考素材创作音乐。",
+    "date": "2026-02-18 16:42",
+    "timestamp": 1771432921.2164207
+  },
+  {
     "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
     "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Copy-of-Tom-Chavez-and-Vivek-Vaidya-Group-Shot.jpg?resize=1200,901",
@@ -790,13 +798,5 @@
     "summary": "Benchmark Capital自2016年起持续投资英伟达竞争对手。",
     "date": "2026-02-07 06:07",
     "timestamp": 1770444423.1811905
-  },
-  {
-    "title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
-    "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1200",
-    "summary": "超级碗广告亮点频出：Svedka推出首支AI生成广告，Anthropic与OpenAI展开AI领域竞争，展现科技营销新趋势。",
-    "date": "2026-02-07 03:12",
-    "timestamp": 1770433949.1473036
   }
 ]
