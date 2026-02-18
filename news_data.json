@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amazon halts Blue Jay robotics project after less than six months",
+    "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?resize=1200,675",
+    "summary": "亚马逊宣布，已将仓储机器人Blue Jay的核心技术转用于其他机器人项目，原团队人员也已调任新项目。",
+    "date": "2026-02-18 18:27",
+    "timestamp": 1771439274.401694
+  },
+  {
+    "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+    "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Untitled-design.png?resize=1200,764",
+    "summary": "欧特克与World Labs达成合作，双方将探索彼此工具与模型的融合应用，初期重点关注娱乐领域。",
+    "date": "2026-02-18 18:27",
+    "timestamp": 1771439276.0446265
+  },
+  {
     "title": "Google adds music-generation capabilities to the Gemini app",
     "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "超级碗广告亮点纷呈，包括首支AI生成的Svedka广告及Anthropic与OpenAI的竞争。",
     "date": "2026-02-08 17:01",
     "timestamp": 1770570066.8694062
-  },
-  {
-    "title": "New York lawmakers propose a three-year pause on new data centers",
-    "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "纽约州考虑暂停新建数据中心，成为美国第六个审议此类法案的州，但法案前景尚不明朗。",
-    "date": "2026-02-07 19:03",
-    "timestamp": 1770491022.4459128
-  },
-  {
-    "title": "Benchmark raises $225M in special funds to double down on Cerebras",
-    "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
-    "summary": "Benchmark Capital自2016年起持续投资英伟达竞争对手。",
-    "date": "2026-02-07 06:07",
-    "timestamp": 1770444423.1811905
   }
 ]
