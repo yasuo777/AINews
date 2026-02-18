@@ -1,5 +1,21 @@
 [
   {
+    "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
+    "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-launch.jpg?resize=1200,800",
+    "summary": "该公司采用仅占数兆空间的边缘模型，可在多数手机的现有处理器上离线运行。",
+    "date": "2026-02-18 13:52",
+    "timestamp": 1771422754.880251
+  },
+  {
+    "title": "Indian AI lab Sarvam’s new models are a major bet on the viability of open-source AI",
+    "link": "https://techcrunch.com/2026/02/18/indian-ai-lab-sarvams-new-models-are-a-major-bet-on-the-viability-of-open-source-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-launch.jpg?resize=1200,800",
+    "summary": "Meta发布全新AI模型阵容，包括300亿及1050亿参数模型、文本转语音与语音转文本模型，以及可解析文档的视觉模型。",
+    "date": "2026-02-18 13:52",
+    "timestamp": 1771422756.8679428
+  },
+  {
     "title": "Apple is reportedly cooking up a trio of AI wearables",
     "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-speaking-GettyImages-2234517834.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "美国一AI公司提交法律文件，因过度使用华丽辞藻引发关注，被批内容浮夸不专业。",
     "date": "2026-02-06 22:56",
     "timestamp": 1770418568.0446424
-  },
-  {
-    "title": "Maybe AI agents can be lawyers after all",
-    "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
-    "summary": "Opus 4.6本周发布，在智能体AI性能榜单上引发显著波动，展现出强劲竞争力。",
-    "date": "2026-02-06 21:02",
-    "timestamp": 1770411749.073437
-  },
-  {
-    "title": "How Elon Musk is rewriting the rules on founder power",
-    "link": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
-    "summary": "马斯克将SpaceX与xAI合并，构建新型硅谷权力架构。其个人财富已超8000亿美元，并强调“创新速度决定科技胜利”。此举标志着个人商业帝国迈入新阶段。",
-    "date": "2026-02-06 19:25",
-    "timestamp": 1770405923.028484
   }
 ]
