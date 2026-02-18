@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kana emerges from stealth with $15M to build flexible AI agents for marketers",
+    "link": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m-to-build-flexible-ai-agents-for-marketers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Copy-of-Tom-Chavez-and-Vivek-Vaidya-Group-Shot.jpg?resize=1200,901",
+    "summary": "AI营销初创公司Kana获1500万美元融资，将开发基于智能体的可定制营销工具。该公司由Rapt和Krux的创始人联合创立。",
+    "date": "2026-02-18 15:32",
+    "timestamp": 1771428761.717748
+  },
+  {
+    "title": "Microsoft says Office bug exposed customers’ confidential emails to Copilot AI",
+    "link": "https://techcrunch.com/2026/02/18/microsoft-says-office-bug-exposed-customers-confidential-emails-to-copilot-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+    "summary": "微软承认Copilot AI聊天机器人存在漏洞，可绕过数据保护策略读取并总结付费用户的机密邮件内容。",
+    "date": "2026-02-18 15:32",
+    "timestamp": 1771428763.3426595
+  },
+  {
+    "title": "OpenAI pushes into higher education as India seeks to scale AI skills",
+    "link": "https://techcrunch.com/2026/02/18/openai-pushes-into-higher-education-as-india-seeks-to-scale-ai-skills/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
+    "summary": "OpenAI宣布与印度教育机构建立合作，计划在未来一年内覆盖超10万名学生、教职员工，旨在扩大人工智能技术在教育领域的应用。",
+    "date": "2026-02-18 15:32",
+    "timestamp": 1771428765.3462079
+  },
+  {
     "title": "India’s Sarvam wants to bring its AI models to feature phones, cars and smart glasses",
     "link": "https://techcrunch.com/2026/02/18/indias-sarvam-wants-to-bring-its-ai-models-to-feature-phones-cars-and-smart-glasses/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-launch.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "超级碗广告亮点频出：Svedka推出首支AI生成广告，Anthropic与OpenAI展开AI领域竞争，展现科技营销新趋势。",
     "date": "2026-02-07 03:12",
     "timestamp": 1770433949.1473036
-  },
-  {
-    "title": "Sixteen Claude AI agents working together created a new C compiler",
-    "link": "https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-1152x648.jpg",
-    "summary": "一项耗资2万美元的实验虽成功编译Linux内核，但全程需深度人工干预，凸显自动化技术仍存局限。",
-    "date": "2026-02-06 23:56",
-    "timestamp": 1770422162.6122847
-  },
-  {
-    "title": "It just got easier for Claude to check in on your WordPress site",
-    "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-7.png?w=1200",
-    "summary": "WordPress用户现可利用Claude分析网站流量及内部指标数据，优化运营决策。",
-    "date": "2026-02-06 22:56",
-    "timestamp": 1770418565.497751
-  },
-  {
-    "title": "Randomly quoting Ray Bradbury did not save lawyer from losing case over AI errors",
-    "link": "https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2252952774-1152x648.jpg",
-    "summary": "美国一AI公司提交法律文件，因过度使用华丽辞藻引发关注，被批内容浮夸不专业。",
-    "date": "2026-02-06 22:56",
-    "timestamp": 1770418568.0446424
   }
 ]
