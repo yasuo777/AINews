@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
+    "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/openai-india.jpg?resize=1200,800",
+    "summary": "OpenAI推出双向集成功能，在ChatGPT内直接显示流媒体服务链接。",
+    "date": "2026-02-19 15:29",
+    "timestamp": 1771514943.1287985
+  },
+  {
+    "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
+    "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/mirai-logo2.png?resize=1200,675",
+    "summary": "AI初创公司Mirai获1000万美元种子轮融资，致力于优化AI模型在手机、电脑等终端设备上的运行效率。",
+    "date": "2026-02-19 15:29",
+    "timestamp": 1771514944.9791732
+  },
+  {
+    "title": "For open-source programs, AI coding tools are a mixed blessing",
+    "link": "https://techcrunch.com/2026/02/19/for-open-source-programs-ai-coding-tools-are-a-mixed-blessing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1443890653.jpg?resize=1200,747",
+    "summary": "AI编程工具导致低质代码激增，虽加速功能开发，但项目维护难度未减，威胁软件项目稳定性。",
+    "date": "2026-02-19 15:29",
+    "timestamp": 1771514947.111103
+  },
+  {
     "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
     "link": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "人工智能提升效率后，员工任务量不减反增，工作不断侵占午休与晚间时间，形成“效率提升-工时延长”的循环。",
     "date": "2026-02-10 07:42",
     "timestamp": 1770709322.615997
-  },
-  {
-    "title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
-    "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?resize=1200,800",
-    "summary": "Databricks CEO Ali Ghodsi认为，AI不会取代主流SaaS应用，但可能催生新的竞争者。",
-    "date": "2026-02-09 21:22",
-    "timestamp": 1770672120.1354127
-  },
-  {
-    "title": "Anthropic’s India expansion collides with a local company that already had the name",
-    "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "印度AI公司Anthropic Software因名称争议起诉美国人工智能巨头。",
-    "date": "2026-02-09 21:22",
-    "timestamp": 1770672121.6534467
-  },
-  {
-    "title": "ChatGPT rolls out ads",
-    "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675",
-    "summary": "OpenAI去年末因测试类似广告的应用推荐引发争议。该公司仍需从其热门聊天机器人创收，以覆盖技术研发与业务扩张的高昂成本。",
-    "date": "2026-02-09 21:22",
-    "timestamp": 1770672123.7181258
   }
 ]
