@@ -1,5 +1,13 @@
 [
   {
+    "title": "Reload wants to give your AI agents a shared memory",
+    "link": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Reload-Co-Founders-Headshot.png?w=1056",
+    "summary": "AI创企Reload完成227.5万美元融资，由Anthemis领投，并推出首款AI员工Epic。",
+    "date": "2026-02-19 17:34",
+    "timestamp": 1771522476.473049
+  },
+  {
     "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
     "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "德国创业者Thomas Dohmke创立新公司，推出AI系统以协助开发者高效管理AI代理生成的代码。",
     "date": "2026-02-10 15:46",
     "timestamp": 1770738365.2527888
-  },
-  {
-    "title": "AI video startup Runway raises $315M at $5.3B valuation, eyes more capable world models",
-    "link": "https://techcrunch.com/2026/02/10/ai-video-startup-runway-raises-315m-at-5-3b-valuation-eyes-more-capable-world-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Cris-Headshot.jpg?resize=1200,818",
-    "summary": "AI视频创企Runway以53亿美元估值完成3.15亿美元融资，将拓展世界模型等新领域。",
-    "date": "2026-02-10 14:05",
-    "timestamp": 1770732333.9505332
   }
 ]
