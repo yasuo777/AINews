@@ -1,5 +1,13 @@
 [
   {
+    "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "link": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
+    "summary": "信实集团已在贾姆讷格尔启动千兆瓦级AI数据中心建设，首期超120兆瓦容量预计2026年投运。",
+    "date": "2026-02-19 12:04",
+    "timestamp": 1771502665.6073456
+  },
+  {
     "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
     "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该公司五个月前刚完成130亿美元股权融资，但因前沿实验室竞争激烈及算力成本持续高企，现正急于启动新一轮融资。",
     "date": "2026-02-09 18:34",
     "timestamp": 1770662043.1458914
-  },
-  {
-    "title": "Ex-Googlers are building infrastructure to help companies understand their video data",
-    "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/office-3.jpg?w=870",
-    "summary": "前谷歌日本高管创立的InfiniMind公司，致力于开发企业级人工智能系统，将海量未利用视频资料转化为可检索、可操作的商业智能数据。",
-    "date": "2026-02-09 17:35",
-    "timestamp": 1770658549.86765
   }
 ]
