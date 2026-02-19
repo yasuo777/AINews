@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI reportedly finalizing $100B deal at more than $850B valuation",
+    "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+    "summary": "OpenAI据悉接近完成千亿美元融资，估值达8500亿美元，投资方包括亚马逊、英伟达、软银和微软。",
+    "date": "2026-02-19 16:31",
+    "timestamp": 1771518712.8224099
+  },
+  {
     "title": "OpenAI, Reliance partner to add AI search to JioHotstar",
     "link": "https://techcrunch.com/2026/02/19/openai-reliance-partner-to-add-ai-search-to-jiohotstar/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/openai-india.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI视频创企Runway以53亿美元估值完成3.15亿美元融资，将拓展世界模型等新领域。",
     "date": "2026-02-10 14:05",
     "timestamp": 1770732333.9505332
-  },
-  {
-    "title": "The first signs of burnout are coming from the people who embrace AI the most",
-    "link": "https://techcrunch.com/2026/02/09/the-first-signs-of-burnout-are-coming-from-the-people-who-embrace-ai-the-most/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-1158287360-e1665956231123.jpg?resize=1200,676",
-    "summary": "人工智能提升效率后，员工任务量不减反增，工作不断侵占午休与晚间时间，形成“效率提升-工时延长”的循环。",
-    "date": "2026-02-10 07:42",
-    "timestamp": 1770709322.615997
   }
 ]
