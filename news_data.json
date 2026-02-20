@@ -1,5 +1,13 @@
 [
   {
+    "title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
+    "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
+    "summary": "《商业内幕》报道，xAI为提升Grok对游戏《博德之门》的问答精度，抽调多名高级工程师进行专项优化。",
+    "date": "2026-02-20 19:24",
+    "timestamp": 1771615484.525262
+  },
+  {
     "title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
     "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-at-10.56.47-AM.png?resize=1200,645",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch Disrupt 2026大会将于10月13日至15日在旧金山举行，为初创企业提供面向万名科技领袖与投资者的展示平台，现展位已开放预订。",
     "date": "2026-02-11 15:38",
     "timestamp": 1770824308.06311
-  },
-  {
-    "title": "Meridian raises $17 million to remake the agentic spreadsheet",
-    "link": "https://techcrunch.com/2026/02/11/meridian-ai-raises-17-million-to-remake-the-agentic-spreadsheet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/260122_MeridianAi_Group_0047.jpg?resize=1200,900",
-    "summary": "Meridian.AI公司正式亮相，推出基于IDE的智能体化金融建模平台，旨在革新金融分析流程。",
-    "date": "2026-02-11 15:38",
-    "timestamp": 1770824309.94105
   }
 ]
