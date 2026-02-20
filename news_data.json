@@ -1,5 +1,13 @@
 [
   {
+    "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
+    "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Super-computer-G42.jpg?resize=1200,676",
+    "summary": "阿布扎比科技公司G42与美国芯片制造商Cerebras合作，在印度部署新系统，提供总计8百亿亿次/秒的计算能力。",
+    "date": "2026-02-20 11:59",
+    "timestamp": 1771588745.8861947
+  },
+  {
     "title": "General Catalyst commits $5B to India over five years",
     "link": "https://techcrunch.com/2026/02/19/general-catalyst-commits-5b-to-india-over-five-years/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-605683074-e1729770670902.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI实验室Flapping Airplanes获1.8亿美元种子轮融资，投资方包括谷歌风投等。该团队致力于开发类人类学习模式的AI模型，而非依赖传统网络数据训练。",
     "date": "2026-02-10 22:22",
     "timestamp": 1770762139.1075327
-  },
-  {
-    "title": "Boston Dynamics CEO Robert Playter steps down after 30 years at the company",
-    "link": "https://techcrunch.com/2026/02/10/boston-dynamics-ceo-robert-playter-steps-down-after-30-years-at-the-company/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/boston-dynamics-spot-equipped-with-velodyne-lidar.jpeg?resize=1200,800",
-    "summary": "波士顿动力CEO罗伯特·普莱特宣布离职，结束在该公司长达30年的任职生涯，其中担任首席执行官六年。",
-    "date": "2026-02-10 21:26",
-    "timestamp": 1770758785.1971812
   }
 ]
