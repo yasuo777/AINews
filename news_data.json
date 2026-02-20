@@ -1,5 +1,13 @@
 [
   {
+    "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
+    "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+    "summary": "创作者经济正快速演变，广告收入已不足支撑。YouTuber们正通过推出产品线、收购初创公司构建商业版图，如MrBeast收购金融科技公司Step，其巧克力业务收入已超过媒体部门。这已成为行业普遍战略。",
+    "date": "2026-02-20 23:57",
+    "timestamp": 1771631832.4458811
+  },
+  {
     "title": "Why creators are ditching ad revenue for chocolate bars and fintech acquisitions",
     "link": "https://techcrunch.com/podcast/why-creators-are-ditching-ad-revenue-for-chocolate-bars-and-fintech-acquisitions/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/mrbeastburger.jpg?resize=1200,797",
@@ -790,13 +798,5 @@
     "summary": "Threads平台推出新功能，允许用户临时自定义信息流内容偏好，自主调节内容展示权重。",
     "date": "2026-02-11 18:37",
     "timestamp": 1770835035.1893706
-  },
-  {
-    "title": "How AI changes the math for startups, according to a Microsoft VP",
-    "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Amanda.jpg?resize=1200,800",
-    "summary": "微软CoreAI副总裁Amanda Silver负责开发面向企业的应用与智能体系统部署工具。",
-    "date": "2026-02-11 18:37",
-    "timestamp": 1770835037.0267615
   }
 ]
