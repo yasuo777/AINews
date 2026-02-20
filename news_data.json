@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google’s new Gemini Pro model has record benchmark scores — again",
+    "link": "https://techcrunch.com/2026/02/19/googles-new-gemini-pro-model-has-record-benchmark-scores-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "谷歌发布Gemini 3.1 Pro模型，宣称其能处理更复杂的任务，提升大型语言模型的工作能力。",
+    "date": "2026-02-20 03:20",
+    "timestamp": 1771557600.5715835
+  },
+  {
+    "title": "Nvidia deepens early-stage push into India’s AI startup ecosystem",
+    "link": "https://techcrunch.com/2026/02/19/nvidia-deepens-early-stage-push-into-indias-ai-startup-ecosystem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2216028442.jpg?w=1024",
+    "summary": "英伟达正联合投资者、非营利组织与风投机构，以深化与印度快速增长的人工智能创业生态的早期合作。",
+    "date": "2026-02-20 03:20",
+    "timestamp": 1771557602.1974032
+  },
+  {
     "title": "Why these startup CEOs don’t think AI will replace human roles",
     "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/55077852490_f1e5719382_k.jpg?resize=1200,854",
@@ -782,21 +798,5 @@
     "summary": "特斯拉创始团队12人中，目前仅剩7人仍在职，包括马斯克本人。",
     "date": "2026-02-10 21:26",
     "timestamp": 1770758787.2152472
-  },
-  {
-    "title": "Facebook adds new AI features, animated profile photos, and backgrounds for text posts",
-    "link": "https://techcrunch.com/2026/02/10/facebook-adds-new-ai-features-animated-profile-photos-and-backgrounds-for-text-posts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Animate-Your-Facebook-Profile-Picture-With-Meta-AI_Header.jpg?w=1200",
-    "summary": "Facebook推出多项AI新功能，用户可为个人资料图片生成动态效果、重新设计动态与回忆的视觉风格，并为文字帖添加智能背景。",
-    "date": "2026-02-10 20:23",
-    "timestamp": 1770754996.2100098
-  },
-  {
-    "title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
-    "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
-    "summary": "网络安全公司Vega Security完成1.2亿美元融资，由Accel领投，估值达7亿美元。该公司致力于革新企业网络安全威胁检测方式。",
-    "date": "2026-02-10 17:39",
-    "timestamp": 1770745196.8027396
   }
 ]
