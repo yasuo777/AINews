@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+    "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
+    "summary": "纽约国会候选人亚历克斯·博雷斯的《RAISE法案》要求AI开发者公开安全协议并报告系统滥用情况，引发支持与反对AI的政治行动委员会围绕其竞选展开激烈博弈。",
+    "date": "2026-02-20 20:58",
+    "timestamp": 1771621116.416019
+  },
+  {
     "title": "InScope nabs $14.5M to solve the pain of financial reporting",
     "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?resize=1200,1012",
@@ -790,13 +798,5 @@
     "summary": "马斯克旗下xAI公司一周内至少九名工程师离职，包括两名联合创始人，引发外界对公司稳定性的质疑。",
     "date": "2026-02-11 16:42",
     "timestamp": 1770828156.3671045
-  },
-  {
-    "title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
-    "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Monaco-Founder-Photo.jpg?resize=1200,800",
-    "summary": "初创公司Monaco推出AI原生一体化CRM系统，获科里森兄弟等知名投资人支持。",
-    "date": "2026-02-11 16:42",
-    "timestamp": 1770828158.061119
   }
 ]
