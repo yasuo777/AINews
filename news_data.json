@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sam Altman would like remind you that humans use a lot of energy, too",
+    "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+    "summary": "\"It also takes a lot of energy to train a human.\"",
+    "date": "2026-02-21 21:53",
+    "timestamp": 1771710818.3000696
+  },
+  {
     "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
     "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2174641784.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "苹果新版Siri将推迟部分功能上线，原定3月随iOS 26.4推出的更新将分阶段推进，部分功能或延至5月更新，甚至待9月iOS 27发布。",
     "date": "2026-02-11 22:02",
     "timestamp": 1770847339.6324196
-  },
-  {
-    "title": "Uber Eats launches AI assistant to help with grocery cart creation",
-    "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/04/uber-eats-icon-ios.jpg?resize=1200,675",
-    "summary": "Uber Eats推出AI功能\"购物车助手\"，可根据用户文字或图片提示自动添加商品至购物车。",
-    "date": "2026-02-11 21:19",
-    "timestamp": 1770844770.7963512
   }
 ]
