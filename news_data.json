@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI内容监控工具发现用户Jesse Van Rootselaar在ChatGPT中描述枪支暴力，已触发滥用预警机制。",
+    "date": "2026-02-21 15:54",
+    "timestamp": 1771689253.6317568
+  },
+  {
+    "title": "7 days until ticket prices rise for TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/02/21/7-days-until-ticket-prices-rise-for-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_7Days-16X9-Dark.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026早鸟票优惠将于2月27日截止，个人票最高减680美元，团队票享七折。提前注册可与万名创业者及投资人共聚盛会。",
+    "date": "2026-02-21 15:54",
+    "timestamp": 1771689255.6420033
+  },
+  {
     "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
     "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "企业AI正从问答聊天机器人转向跨组织执行任务的系统。Glean由企业搜索工具转型为“AI工作助手”，旨在成为支撑其他AI应用的底层平台，争夺这一核心AI层的所有权。",
     "date": "2026-02-11 21:19",
     "timestamp": 1770844774.9963257
-  },
-  {
-    "title": "OpenAI researcher quits over ChatGPT ads, warns of \"Facebook\" path",
-    "link": "https://arstechnica.com/information-technology/2026/02/openai-researcher-quits-over-fears-that-chatgpt-ads-could-manipulate-users/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/open-ai-monkey-ad-1152x648.jpg",
-    "summary": "OpenAI首席研究员佐伊·希齐格于公司启动聊天机器人广告测试当日宣布离职。",
-    "date": "2026-02-11 21:19",
-    "timestamp": 1770844777.142077
-  },
-  {
-    "title": "Why the economics of orbital AI are so brutal",
-    "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/03/starlink-satellites-on-orbit.jpg?resize=1200,675",
-    "summary": "轨道数据中心造价约424亿美元，是地面同类设施的三倍。",
-    "date": "2026-02-11 18:37",
-    "timestamp": 1770835033.508869
   }
 ]
