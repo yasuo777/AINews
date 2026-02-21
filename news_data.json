@@ -1,5 +1,13 @@
 [
   {
+    "title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+    "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2174641784.jpg?resize=1200,800",
+    "summary": "微软游戏部门正大力整合AI技术，以优化游戏开发、增强玩家体验并探索新商业模式，彰显其深化AI战略布局的决心。",
+    "date": "2026-02-21 17:55",
+    "timestamp": 1771696549.0346978
+  },
+  {
     "title": "Google VP warns that two types of AI startups may not survive",
     "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
@@ -790,13 +798,5 @@
     "summary": "Uber Eats推出AI功能\"购物车助手\"，可根据用户文字或图片提示自动添加商品至购物车。",
     "date": "2026-02-11 21:19",
     "timestamp": 1770844770.7963512
-  },
-  {
-    "title": "Glean’s fight to own the AI layer inside every company",
-    "link": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Arvind-Jain-headshot.jpg?resize=1200,900",
-    "summary": "企业AI正从问答聊天机器人转向跨组织执行任务的系统。Glean由企业搜索工具转型为“AI工作助手”，旨在成为底层AI平台，主导这一新兴技术层的竞争。",
-    "date": "2026-02-11 21:19",
-    "timestamp": 1770844772.7947414
   }
 ]
