@@ -1,5 +1,13 @@
 [
   {
+    "title": "India’s Sarvam launches Indus AI chat app as competition heats up",
+    "link": "https://techcrunch.com/2026/02/20/indias-sarvam-launches-indus-ai-chat-app-as-competition-heats-up/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam-indus-chat-app-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "印度AI公司Sarvam推出Indus聊天应用，目前处于测试阶段。",
+    "date": "2026-02-21 03:11",
+    "timestamp": 1771643468.571755
+  },
+  {
     "title": "The creator economy’s ad revenue problem and India’s AI ambitions",
     "link": "https://techcrunch.com/video/the-creator-economys-ad-revenue-problem-and-indias-ai-ambitions/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "轨道数据中心造价约424亿美元，是地面同类设施的三倍。",
     "date": "2026-02-11 18:37",
     "timestamp": 1770835033.508869
-  },
-  {
-    "title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
-    "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?resize=1200,800",
-    "summary": "Threads平台推出新功能，允许用户临时自定义信息流内容偏好，自主调节内容展示权重。",
-    "date": "2026-02-11 18:37",
-    "timestamp": 1770835035.1893706
   }
 ]
