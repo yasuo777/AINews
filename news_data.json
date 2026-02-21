@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google VP warns that two types of AI startups may not survive",
+    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
+    "summary": "谷歌高管警示，随着生成式AI发展，仅依赖大语言模型封装与聚合的服务商正面临利润萎缩、差异化不足等生存压力，长期前景堪忧。",
+    "date": "2026-02-21 16:59",
+    "timestamp": 1771693179.6613164
+  },
+  {
     "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
     "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "企业AI正从问答聊天机器人转向跨组织执行任务的系统。Glean由企业搜索工具转型为“AI工作助手”，旨在成为底层AI平台，主导这一新兴技术层的竞争。",
     "date": "2026-02-11 21:19",
     "timestamp": 1770844772.7947414
-  },
-  {
-    "title": "Who will own your company’s AI layer? Glean’s CEO explains",
-    "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800",
-    "summary": "企业AI正从问答聊天机器人转向跨组织执行任务的系统。Glean由企业搜索工具转型为“AI工作助手”，旨在成为支撑其他AI应用的底层平台，争夺这一核心AI层的所有权。",
-    "date": "2026-02-11 21:19",
-    "timestamp": 1770844774.9963257
   }
 ]
