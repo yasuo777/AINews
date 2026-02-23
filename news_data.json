@@ -1,5 +1,21 @@
 [
   {
+    "title": "How AI agents could destroy the economy",
+    "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1167037043-1.jpg?resize=1200,800",
+    "summary": "智库Citrini Research发布模拟报告，预测两年后失业率或翻倍，股市总市值可能下跌超三分之一。",
+    "date": "2026-02-23 15:29",
+    "timestamp": 1771860554.5504856
+  },
+  {
+    "title": "Defense Secretary summons Anthropic’s Amodei over military use of Claude",
+    "link": "https://techcrunch.com/2026/02/23/defense-secretary-summons-anthropics-amodei-over-military-use-of-claude/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2260256117.jpg?w=1024",
+    "summary": "美国防长传召Anthropic公司CEO，就军方使用Claude人工智能进行紧张会谈，并以将其列为\"供应链风险\"相威胁。",
+    "date": "2026-02-23 15:29",
+    "timestamp": 1771860556.6587257
+  },
+  {
     "title": "All the important news from the ongoing India AI Impact Summit",
     "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
@@ -782,21 +798,5 @@
     "summary": "OpenAI宣布与英伟达合作推出新编程工具，称其为双方合作的“首个里程碑”。",
     "date": "2026-02-12 19:37",
     "timestamp": 1770925051.0908506
-  },
-  {
-    "title": "xAI lays out interplanetary ambitions in public all-hands",
-    "link": "https://techcrunch.com/2026/02/11/xai-lays-out-interplanetary-ambitions-in-public-all-hands/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-11-at-3.22.39-PM.jpg?resize=1200,679",
-    "summary": "xAI周三罕见地将45分钟全员会议全程发布至X平台，向公众公开其内部讨论内容。",
-    "date": "2026-02-11 23:57",
-    "timestamp": 1770854242.6858306
-  },
-  {
-    "title": "AI inference startup Modal Labs in talks to raise at $2.5B valuation, sources say",
-    "link": "https://techcrunch.com/2026/02/11/ai-inference-startup-modal-labs-in-talks-to-raise-at-2-5b-valuation-sources-say/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Screenshot-2024-02-14-at-9.26.16AM.png?resize=1200,607",
-    "summary": "据消息，风投机构General Catalyst正洽谈领投这家成立四年的初创公司。",
-    "date": "2026-02-11 23:03",
-    "timestamp": 1770850991.7051272
   }
 ]
