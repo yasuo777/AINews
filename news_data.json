@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google’s Cloud AI lead on the three frontiers of model capability",
+    "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "AI模型正同步突破三大前沿：原始智能、响应速度，以及可称为“可扩展性”的第三维度。",
+    "date": "2026-02-23 19:41",
+    "timestamp": 1771875681.5103345
+  },
+  {
+    "title": "OpenAI calls in the consultants for its enterprise push",
+    "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+    "summary": "OpenAI与四大咨询巨头达成合作，以推动其前沿AI智能体平台在企业市场的应用普及。",
+    "date": "2026-02-23 19:41",
+    "timestamp": 1771875683.0616148
+  },
+  {
+    "title": "Guide Labs debuts a new kind of interpretable LLM",
+    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-9.31.05-AM.png?resize=1200,639",
+    "summary": "公司开源了拥有80亿参数的Steerling-8B大语言模型，其采用全新架构设计，旨在使模型行为更易于解释。",
+    "date": "2026-02-23 19:41",
+    "timestamp": 1771875684.7522593
+  },
+  {
     "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
     "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/share_6305813549552173171.png?resize=540,1200",
@@ -774,29 +798,5 @@
     "summary": "马斯克提出在月球建造电磁发射器，用于向深空发射AI卫星。",
     "date": "2026-02-12 23:01",
     "timestamp": 1770937272.6676838
-  },
-  {
-    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
-    "summary": "OpenAI发布GPT‑5.3‑Codex‑Spark，其代码生成速度较前代提升15倍。",
-    "date": "2026-02-12 23:01",
-    "timestamp": 1770937275.3516324
-  },
-  {
-    "title": "Didero lands $30M to put manufacturing procurement on ‘agentic’ autopilot",
-    "link": "https://techcrunch.com/2026/02/12/didero-lands-30m-to-put-manufacturing-procurement-on-agentic-autopilot/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Founders_Exterior_Mid-3.jpg?resize=1200,800",
-    "summary": "Didero作为企业ERP系统的智能AI代理层，能自动读取通信内容并协调执行相关更新与任务，实现业务流程自动化。",
-    "date": "2026-02-12 21:04",
-    "timestamp": 1770930261.0091136
-  },
-  {
-    "title": "Anthropic raises another $30B in Series G, with a new value of $380B",
-    "link": "https://techcrunch.com/2026/02/12/anthropic-raises-another-30-billion-in-series-g-with-a-new-value-of-380-billion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-    "summary": "AI初创公司正与竞争对手OpenAI争夺客户及市场关注，于此时获得新一轮资金注入。",
-    "date": "2026-02-12 21:04",
-    "timestamp": 1770930262.7081926
   }
 ]
