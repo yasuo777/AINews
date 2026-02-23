@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
+    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2262515136.jpg?w=1024",
+    "summary": "美国Anthropic公司指控深度求索、月之暗面与MiniMax三家中企通过2.4万个虚假账号窃取其Claude模型技术。此事正值美政府讨论对华AI技术出口管制，意图延缓中国人工智能发展进程。",
+    "date": "2026-02-23 21:27",
+    "timestamp": 1771882050.8271809
+  },
+  {
+    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
+    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
+    "summary": "OpenAI发布GPT-5.3-Codex-Spark，其代码生成速度较前代提升15倍。",
+    "date": "2026-02-23 21:27",
+    "timestamp": 1771882053.0214128
+  },
+  {
     "title": "Google’s Cloud AI lead on the three frontiers of model capability",
     "link": "https://techcrunch.com/2026/02/23/googles-cloud-ai-lead-on-the-three-frontiers-of-model-capability/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Pinterest财报不及预期致股价大跌，用户活跃度增长成唯一亮点。",
     "date": "2026-02-12 23:58",
     "timestamp": 1770940729.841779
-  },
-  {
-    "title": "IBM will hire your entry-level talent in the age of AI",
-    "link": "https://techcrunch.com/2026/02/12/ibm-will-hire-your-entry-level-talent-in-the-age-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1254279163.jpg?w=1024",
-    "summary": "IBM计划2026年将美国入门级招聘规模扩大两倍，但岗位职责较以往将有所调整。",
-    "date": "2026-02-12 23:58",
-    "timestamp": 1770940731.519895
-  },
-  {
-    "title": "Musk needed a new vision for SpaceX and xAI. He landed on Moonbase Alpha.",
-    "link": "https://techcrunch.com/2026/02/12/musk-needed-a-new-vision-for-spacex-and-xai-he-landed-on-moonbase-alpha/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-10.37.51-AM.png?resize=1200,666",
-    "summary": "马斯克提出在月球建造电磁发射器，用于向深空发射AI卫星。",
-    "date": "2026-02-12 23:01",
-    "timestamp": 1770937272.6676838
   }
 ]
