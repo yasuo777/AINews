@@ -1,5 +1,13 @@
 [
   {
+    "title": "All the important news from the ongoing India AI Impact Summit",
+    "link": "https://techcrunch.com/2026/02/22/all-the-important-news-from-the-ongoing-india-ai-summit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
+    "summary": "印度本周举办为期四天的全球人工智能峰会，OpenAI、英伟达、微软等科技巨头高管及多国元首将出席。",
+    "date": "2026-02-23 05:16",
+    "timestamp": 1771823817.4392896
+  },
+  {
     "title": "6 days left to lock in the lowest TechCrunch Disrupt 2026 rates",
     "link": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-day-3.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "据消息，风投机构General Catalyst正洽谈领投这家成立四年的初创公司。",
     "date": "2026-02-11 23:03",
     "timestamp": 1770850991.7051272
-  },
-  {
-    "title": "OpenAI disbands mission alignment team, which focused on ‘safe’ and ‘trustworthy’ AI development",
-    "link": "https://techcrunch.com/2026/02/11/openai-disbands-mission-alignment-team-which-focused-on-safe-and-trustworthy-ai-development/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198379368.jpg?resize=1200,800",
-    "summary": "OpenAI解散“超级智能对齐”团队，原负责人转任首席未来学家，其余成员已内部转岗。",
-    "date": "2026-02-11 22:02",
-    "timestamp": 1770847337.672204
   }
 ]
