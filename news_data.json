@@ -1,5 +1,21 @@
 [
   {
+    "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/share_6305813549552173171.png?resize=540,1200",
+    "summary": "AI新闻应用Particle新增播客关键片段提取功能，用户可在阅读相关报道时直接播放简短精选音频。",
+    "date": "2026-02-23 17:44",
+    "timestamp": 1771868673.8887918
+  },
+  {
+    "title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
+    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prompted-Playlist-Header-UK-.jpg?w=1200",
+    "summary": "Spotify正面向英国、爱尔兰、澳大利亚和瑞典的Premium用户测试AI歌单功能，该工具可根据文字描述自动生成个性化播放列表。",
+    "date": "2026-02-23 17:44",
+    "timestamp": 1771868675.9792275
+  },
+  {
     "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
     "link": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "AI初创公司正与竞争对手OpenAI争夺客户及市场关注，于此时获得新一轮资金注入。",
     "date": "2026-02-12 21:04",
     "timestamp": 1770930262.7081926
-  },
-  {
-    "title": "Attackers prompted Gemini over 100,000 times while trying to clone it, Google says",
-    "link": "https://arstechnica.com/ai/2026/02/attackers-prompted-gemini-over-100000-times-while-trying-to-clone-it-google-says/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/12/gemini_header-1152x648.jpg",
-    "summary": "谷歌发布新技术，能以极低成本通过蒸馏复制Gemini模型性能。",
-    "date": "2026-02-12 20:01",
-    "timestamp": 1770926514.9041693
-  },
-  {
-    "title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
-    "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?resize=1200,683",
-    "summary": "Spotify称其内部AI系统Honk及Claude Code显著提升了开发效率。",
-    "date": "2026-02-12 19:37",
-    "timestamp": 1770925049.3305013
   }
 ]
