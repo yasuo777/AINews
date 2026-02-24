@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nimble Way raises $47M to give AI agents access to real-time web data",
+    "link": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Nimble-Cofounders-with-Norwest-Investor.png?resize=1200,857",
+    "summary": "Nimble公司推出AI智能体，可自动搜索网络、验证信息，并将结果整理为结构化表格，实现数据库式查询。",
+    "date": "2026-02-24 13:55",
+    "timestamp": 1771941331.2984717
+  },
+  {
     "title": "Canva acquires startups working on animation and marketing",
     "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1258807457.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "马斯克旗下AI公司xAI一周内至少九名工程师离职，含两名联合创始人，引发外界对其稳定性质疑。",
     "date": "2026-02-13 17:28",
     "timestamp": 1771003683.7334363
-  },
-  {
-    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "link": "https://techcrunch.com/2026/02/13/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
-    "summary": "马斯克旗下xAI公司一周内至少九名工程师离职，含两名联合创始人，引发外界对其稳定性的质疑。",
-    "date": "2026-02-13 16:24",
-    "timestamp": 1770999893.2784204
   }
 ]
