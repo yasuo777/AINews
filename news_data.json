@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google adds a way to create automated workflows to Opal",
+    "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Agent-Banner-hero.jpeg?resize=1200,677",
+    "summary": "谷歌为Opal新增自动化工作流功能，旨在提升任务处理效率与智能化水平。",
+    "date": "2026-02-24 19:37",
+    "timestamp": 1771961820.471992
+  },
+  {
+    "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
+    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
+    "summary": "This story has been retracted",
+    "date": "2026-02-24 19:37",
+    "timestamp": 1771961821.0897162
+  },
+  {
     "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
     "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Airbnb将推出智能应用，旨在通过个性化推荐协助旅客规划行程、提升房东运营效率，并优化公司规模化运营。",
     "date": "2026-02-13 23:03",
     "timestamp": 1771023838.9516852
-  },
-  {
-    "title": "Santa Monica deploys AI-powered parking cameras to protect bike lanes",
-    "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg",
-    "summary": "美国Hayden AI公司将在7辆市政车辆上安装智能摄像头，用于自动扫描并记录交通违规行为。",
-    "date": "2026-02-13 23:04",
-    "timestamp": 1771023840.9596012
-  },
-  {
-    "title": "Why top talent is walking away from OpenAI and xAI",
-    "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "summary": "近期多家AI公司出现人才流失。xAI半数创始成员离职，部分属主动离开，部分因架构重组；OpenAI则接连经历团队解散与高管解雇风波，包括解散核心安全团队及反对新功能的高管。",
-    "date": "2026-02-13 21:07",
-    "timestamp": 1771016874.5653975
   }
 ]
