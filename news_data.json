@@ -1,5 +1,13 @@
 [
   {
+    "title": "Canva acquires startups working on animation and marketing",
+    "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1258807457.jpg?w=1024",
+    "summary": "公司通过新收购计划加强营销解决方案地位，拟拓展视频创作与精细化测量功能。",
+    "date": "2026-02-24 08:27",
+    "timestamp": 1771921645.755387
+  },
+  {
     "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
     "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Y-Combinator-Crab.png?resize=1200,829",
@@ -790,13 +798,5 @@
     "summary": "马斯克旗下xAI公司一周内至少九名工程师离职，含两名联合创始人，引发外界对其稳定性的质疑。",
     "date": "2026-02-13 16:24",
     "timestamp": 1770999893.2784204
-  },
-  {
-    "title": "Cohere’s $240M year sets stage for IPO",
-    "link": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1251294520.jpg?w=1024",
-    "summary": "加拿大AI初创公司Cohere在2025年实现年经常性收入超2.4亿美元，显示企业AI需求强劲。公司正为可能进行的IPO做准备，同时面临来自OpenAI和Anthropic的激烈竞争。",
-    "date": "2026-02-13 15:24",
-    "timestamp": 1770996296.896896
   }
 ]
