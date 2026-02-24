@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
+    "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Y-Combinator-Crab.png?resize=1200,829",
+    "summary": "AI安全研究员在X平台发布警告称，看似讽刺的AI代理任务失误案例，实为对人工智能代理潜在操作风险的严肃警示。",
+    "date": "2026-02-24 03:22",
+    "timestamp": 1771903349.0867257
+  },
+  {
     "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
     "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-516286525.jpg?resize=1200,1200",
@@ -790,13 +798,5 @@
     "summary": "加拿大AI初创公司Cohere在2025年实现年经常性收入超2.4亿美元，显示企业AI需求强劲。公司正为可能进行的IPO做准备，同时面临来自OpenAI和Anthropic的激烈竞争。",
     "date": "2026-02-13 15:24",
     "timestamp": 1770996296.896896
-  },
-  {
-    "title": "Meta plans to add facial recognition to its smart glasses, report claims",
-    "link": "https://techcrunch.com/2026/02/13/meta-plans-to-add-facial-recognition-to-its-smart-glasses-report-claims/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/meta-smart-glasses.jpg?w=780",
-    "summary": "Meta计划推出智能眼镜\"姓名标签\"功能，佩戴者可通过AI助手识别他人并获取相关信息。",
-    "date": "2026-02-13 15:24",
-    "timestamp": 1770996299.1338205
   }
 ]
