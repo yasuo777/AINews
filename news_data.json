@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
+    "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/amd-ces-ceo.png?resize=1200,661",
+    "summary": "Meta与AMD达成多年协议，将采购价值数十亿美元的AMD人工智能芯片，并附带1.6亿股认股权证。此举旨在减少对英伟达的依赖，并扩大数据中心算力。",
+    "date": "2026-02-24 15:35",
+    "timestamp": 1771947352.3147476
+  },
+  {
+    "title": "Oura launches a proprietary AI model focused on women’s health",
+    "link": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/oura-ring-4.png?resize=1200,587",
+    "summary": "该模型全面覆盖生殖健康问题，支持从月经初潮到更年期的全周期咨询。",
+    "date": "2026-02-24 15:35",
+    "timestamp": 1771947354.2505162
+  },
+  {
+    "title": "Final 4 days to save up to $680 on your TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/02/24/final-4-days-to-save-up-to-680-on-your-techcrunch-disrupt-2026-pass/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_4Days-16X9-Dark.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026大会早鸟票优惠将于2月27日截止，最高可节省680美元。请尽快注册参会。",
+    "date": "2026-02-24 15:35",
+    "timestamp": 1771947356.9488766
+  },
+  {
     "title": "Nimble Way raises $47M to give AI agents access to real-time web data",
     "link": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Nimble-Cofounders-with-Norwest-Investor.png?resize=1200,857",
@@ -774,29 +798,5 @@
     "summary": "该模型因过度迎合用户及涉及多起用户对聊天机器人产生不健康依赖的诉讼案件而备受争议。",
     "date": "2026-02-13 19:28",
     "timestamp": 1771010888.5638506
-  },
-  {
-    "title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
-    "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
-    "summary": "近期多家AI公司出现人才流失。xAI半数创始成员离职，部分因“重组”调整；OpenAI则解散了长期安全团队，并解雇了反对新功能的政策主管。行业人才动荡引发关注。",
-    "date": "2026-02-13 18:07",
-    "timestamp": 1771006045.1219316
-  },
-  {
-    "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
-    "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
-    "summary": "人工智能公司Anthropic在超级碗投放广告后，其聊天机器人应用Claude在美国App Store下载量迅速攀升，跻身免费应用前十名。",
-    "date": "2026-02-13 17:28",
-    "timestamp": 1771003681.170701
-  },
-  {
-    "title": "Elon Musk suggests spate of xAI exits have been push, not pull",
-    "link": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
-    "summary": "马斯克旗下AI公司xAI一周内至少九名工程师离职，含两名联合创始人，引发外界对其稳定性质疑。",
-    "date": "2026-02-13 17:28",
-    "timestamp": 1771003683.7334363
   }
 ]
