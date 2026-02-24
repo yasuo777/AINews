@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+    "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+    "summary": "五角大楼要求Anthropic在周五前放宽AI安全限制，否则将面临处罚。此举加剧了政府施压、供应商依赖及国防科技投资者信心等争议。",
+    "date": "2026-02-24 22:03",
+    "timestamp": 1771970583.2062418
+  },
+  {
     "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
     "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "印度设立11亿美元母基金，将通过私人风投机构投资，重点支持深度科技与制造业初创企业。",
     "date": "2026-02-14 17:00",
     "timestamp": 1771088449.2902434
-  },
-  {
-    "title": "Airbnb plans to bake in AI features for search, discovery and support",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-plans-to-bake-in-ai-features-for-search-discovery-and-support/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/brian-chesky-GettyImages-2217178973.jpg?w=1024",
-    "summary": "Airbnb首席执行官表示，公司将加大在客户发现、支持及工程领域应用大语言模型的力度。",
-    "date": "2026-02-14 03:16",
-    "timestamp": 1771038973.9644754
   }
 ]
