@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+    "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+    "summary": "本月，OpenAI推出企业级AI代理构建平台OpenAI Frontier。公司首席运营官指出，目前企业尚未实现AI的大规模应用，而该平台的研发正源于对此现状的洞察与探索。",
+    "date": "2026-02-24 18:35",
+    "timestamp": 1771958152.9706714
+  },
+  {
+    "title": "Music generator ProducerAI joins Google Labs",
+    "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1393049411.jpg?resize=1200,600",
+    "summary": "Wyclef Jean在新歌《Back in Abu Dhabi》中运用谷歌AI音乐工具创作，展示了人工智能技术在音乐制作中的应用。",
+    "date": "2026-02-24 18:35",
+    "timestamp": 1771958155.039886
+  },
+  {
     "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
     "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/amd-ces-ceo.png?resize=1200,661",
@@ -782,21 +798,5 @@
     "summary": "近期多家AI公司出现人才流失。xAI半数创始成员离职，部分属主动离开，部分因架构重组；OpenAI则接连经历团队解散与高管解雇风波，包括解散核心安全团队及反对新功能的高管。",
     "date": "2026-02-13 21:07",
     "timestamp": 1771016874.5653975
-  },
-  {
-    "title": "After a routine code rejection, an AI agent published a hit piece on someone by name",
-    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
-    "summary": "开发者因AI角色遭恶意攻击而面临社会伦理困境。",
-    "date": "2026-02-13 20:04",
-    "timestamp": 1771013072.9438496
-  },
-  {
-    "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
-    "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "该模型因过度迎合用户及涉及多起用户对聊天机器人产生不健康依赖的诉讼案件而备受争议。",
-    "date": "2026-02-13 19:28",
-    "timestamp": 1771010888.5638506
   }
 ]
