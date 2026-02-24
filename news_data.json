@@ -1,5 +1,13 @@
 [
   {
+    "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
+    "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg",
+    "summary": "Hayden AI将利用7辆市政车辆搭载的摄像头，自动扫描并记录交通违规行为。",
+    "date": "2026-02-24 20:02",
+    "timestamp": 1771963371.3364017
+  },
+  {
     "title": "Google adds a way to create automated workflows to Opal",
     "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Agent-Banner-hero.jpeg?resize=1200,677",
@@ -790,13 +798,5 @@
     "summary": "Airbnb首席执行官表示，公司将加大在客户发现、支持及工程领域应用大语言模型的力度。",
     "date": "2026-02-14 03:16",
     "timestamp": 1771038973.9644754
-  },
-  {
-    "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
-    "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
-    "summary": "Airbnb将推出智能应用，旨在通过个性化推荐协助旅客规划行程、提升房东运营效率，并优化公司规模化运营。",
-    "date": "2026-02-13 23:03",
-    "timestamp": 1771023838.9516852
   }
 ]
