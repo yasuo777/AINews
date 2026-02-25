@@ -1,5 +1,21 @@
 [
   {
+    "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+    "summary": "TechCrunch创始人峰会2026年演讲申请于4月17日截止，诚邀具备高增长创业公司建设、投资或运营经验者，为上千名创始人与投资者主持圆桌或分会场，分享经验、引领行业。",
+    "date": "2026-02-25 16:48",
+    "timestamp": 1772038105.567442
+  },
+  {
+    "title": "About 12% of U.S. teens turn to AI for emotional support or advice",
+    "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1499457607.jpg?resize=1200,675",
+    "summary": "心理健康专家指出，ChatGPT等通用AI工具并非为心理治疗设计，对其应用持谨慎态度。",
+    "date": "2026-02-25 16:48",
+    "timestamp": 1772038107.5805242
+  },
+  {
     "title": "3 days left: Save up to $680 on your TechCrunch Disrupt 2026 ticket",
     "link": "https://techcrunch.com/2026/02/25/3-days-left-save-up-to-680-on-your-techcrunch-disrupt-2026-ticket/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_3Days-16X9-Dark.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "OpenAI宣布其AI项目OpenClaw将转为开源项目，持续发展。",
     "date": "2026-02-15 22:58",
     "timestamp": 1771196282.3013706
-  },
-  {
-    "title": "Longtime NPR host David Greene sues Google over NotebookLM voice",
-    "link": "https://techcrunch.com/2026/02/15/longtime-npr-host-david-greene-sues-google-over-notebooklm-voice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/05/GettyImages-837551280.jpg?resize=1200,675",
-    "summary": "NPR《晨间新闻》前主播起诉谷歌，指控其NotebookLM工具中的男声播客音源未经授权使用其声音。",
-    "date": "2026-02-15 22:58",
-    "timestamp": 1771196283.9651875
-  },
-  {
-    "title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
-    "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
-    "summary": "摘要：近期讨论聚焦于Claude人工智能是否可能被用于大规模国内监控及自主武器系统，引发对其技术应用边界与伦理风险的关注。",
-    "date": "2026-02-15 21:54",
-    "timestamp": 1771192482.0724385
   }
 ]
