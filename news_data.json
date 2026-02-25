@@ -1,5 +1,29 @@
 [
   {
+    "title": "Gemini can now automate some multi-step tasks on Android",
+    "link": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/0.-Header-2.png?resize=1200,677",
+    "summary": "谷歌宣布Android版Gemini将支持自动化任务，包括网约车叫车、杂货及外卖配送服务。",
+    "date": "2026-02-25 18:39",
+    "timestamp": 1772044748.854166
+  },
+  {
+    "title": "OpenAI COO says ads will be ‘an iterative process’",
+    "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI首席运营官表示，若广告设计得当可提升用户体验，并呼吁给予公司数月时间观察产品推广效果。",
+    "date": "2026-02-25 18:39",
+    "timestamp": 1772044750.6177478
+  },
+  {
+    "title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+    "link": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/openclaw-creator-Peter-Steinberger.jpg?resize=1200,564",
+    "summary": "Peter Steinberger分享其开发热门AI智能体OpenClaw的经验，强调以“游戏化”的探索心态学习AI编程，能更有效地提升开发能力。",
+    "date": "2026-02-25 18:39",
+    "timestamp": 1772044752.808828
+  },
+  {
     "title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
     "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "印度本周举办为期四天的全球人工智能峰会，OpenAI、英伟达、微软等科技巨头高管及多国元首将出席。",
     "date": "2026-02-16 11:25",
     "timestamp": 1771241159.386904
-  },
-  {
-    "title": "As AI data centers hit power limits, Peak XV backs Indian startup C2i to fix the bottleneck",
-    "link": "https://techcrunch.com/2026/02/15/as-ai-data-centers-hit-power-limits-peak-xv-backs-indian-startup-c2i-to-fix-the-bottleneck/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1195233690.jpg?resize=1200,775",
-    "summary": "C2i公司融资1500万美元，正测试电网直连GPU方案，以降低AI数据中心能耗损耗。",
-    "date": "2026-02-16 03:32",
-    "timestamp": 1771212729.6685336
-  },
-  {
-    "title": "Blackstone backs Neysa in up to $1.2B financing as India pushes to build domestic AI infrastructure",
-    "link": "https://techcrunch.com/2026/02/15/blackstone-backs-neysa-in-up-to-1-2b-financing-as-india-pushes-to-build-domestic-ai-compute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1156074432.jpg?resize=1200,800",
-    "summary": "AI芯片需求激增，Neysa计划未来部署超2万块GPU，以强化本地AI算力布局。",
-    "date": "2026-02-16 03:32",
-    "timestamp": 1771212731.2401266
-  },
-  {
-    "title": "OpenClaw creator Peter Steinberger joins OpenAI",
-    "link": "https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
-    "summary": "OpenAI宣布其AI项目OpenClaw将转为开源项目，持续发展。",
-    "date": "2026-02-15 22:58",
-    "timestamp": 1771196282.3013706
   }
 ]
