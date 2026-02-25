@@ -1,5 +1,21 @@
 [
   {
+    "title": "India’s AI boom pushes firms to trade near-term revenue for users",
+    "link": "https://techcrunch.com/2026/02/24/india-ai-boom-pushes-firms-to-trade-near-term-revenue-for-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "随着免费服务缩减，ChatGPT等AI公司正测试印度海量用户能否转化为付费客户。",
+    "date": "2026-02-25 03:25",
+    "timestamp": 1771989914.010963
+  },
+  {
+    "title": "Nvidia challenger AI chip startup MatX raised $500M",
+    "link": "https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200",
+    "summary": "2023年，由前谷歌TPU工程师创立的初创公司成立，专注于AI芯片研发。",
+    "date": "2026-02-25 03:25",
+    "timestamp": 1771989916.4878597
+  },
+  {
     "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
     "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/Multiverse-Computing-Founders-Logo.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "好莱坞行业组织抵制AI视频模型Seedance 2.0，指控其成为公然侵犯版权的工具。",
     "date": "2026-02-15 15:54",
     "timestamp": 1771170898.5486615
-  },
-  {
-    "title": "The great computer science exodus (and where students are going instead)",
-    "link": "https://techcrunch.com/2026/02/15/the-great-computer-science-exodus-and-where-students-are-going-instead/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/GettyImages-827810708.jpg?resize=1200,801",
-    "summary": "计算机科学整体热度有所下降，但学生对人工智能专业及课程的兴趣显著上升。",
-    "date": "2026-02-15 09:02",
-    "timestamp": 1771146168.6459727
-  },
-  {
-    "title": "Is safety is ‘dead’ at xAI?",
-    "link": "https://techcrunch.com/2026/02/14/is-safety-is-dead-at-xai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-    "summary": "马斯克被曝正积极推动其xAI公司旗下Grok聊天机器人向“更无拘束”方向发展。",
-    "date": "2026-02-14 22:57",
-    "timestamp": 1771109831.183653
   }
 ]
