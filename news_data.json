@@ -1,5 +1,21 @@
 [
   {
+    "title": "Spanish ‘soonicorn’ Multiverse Computing releases free compressed AI model",
+    "link": "https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Multiverse-Computing-Founders-Logo.jpg?resize=1200,800",
+    "summary": "西班牙初创公司Multiverse Computing在Hugging Face平台发布新版HyperNova 60B模型，宣称其性能已超越Mistral模型。",
+    "date": "2026-02-25 00:00",
+    "timestamp": 1771977607.476725
+  },
+  {
+    "title": "Uber engineers built an AI version of their boss",
+    "link": "https://techcrunch.com/2026/02/24/uber-engineers-built-ai-version-of-boss-dara-khosrowshahi/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2211281388.jpg?resize=1200,800",
+    "summary": "优步CEO表示公司已全面投入人工智能应用，员工甚至开发了模拟其本人的聊天机器人，用于演练业务提案。",
+    "date": "2026-02-25 00:00",
+    "timestamp": 1771977609.7376692
+  },
+  {
     "title": "Anthropic won’t budge as Pentagon escalates AI dispute",
     "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "马斯克被曝正积极推动其xAI公司旗下Grok聊天机器人向“更无拘束”方向发展。",
     "date": "2026-02-14 22:57",
     "timestamp": 1771109831.183653
-  },
-  {
-    "title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
-    "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
-    "summary": "好莱坞行业组织抵制AI视频模型Seedance 2.0，指责其成为公然侵犯版权的工具。",
-    "date": "2026-02-14 19:03",
-    "timestamp": 1771095809.8802557
-  },
-  {
-    "title": "India doubles down on state-backed venture capital, approving $1.1B fund",
-    "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
-    "summary": "印度设立11亿美元母基金，将通过私人风投机构投资，重点支持深度科技与制造业初创企业。",
-    "date": "2026-02-14 17:00",
-    "timestamp": 1771088449.2902434
   }
 ]
