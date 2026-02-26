@@ -1,5 +1,21 @@
 [
   {
+    "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
+    "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Marc-Benioff.png?resize=1200,658",
+    "summary": "Salesforce财报表现稳健，积极应对AI冲击其业务的舆论，强调自身市场地位。",
+    "date": "2026-02-26 03:20",
+    "timestamp": 1772076043.305094
+  },
+  {
+    "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
+    "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/gushwork-co-founders.jpg?resize=1200,800",
+    "summary": "AI初创公司Gushwork获900万美元种子轮融资，由SIG和Lightspeed领投，其服务已获ChatGPT等AI搜索工具早期客户采用。",
+    "date": "2026-02-26 03:20",
+    "timestamp": 1772076045.7165911
+  },
+  {
     "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
     "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "阿达尼集团计划建设高达5吉瓦容量的数据中心，并与谷歌、微软和Flipkart等企业合作推进项目。",
     "date": "2026-02-17 13:51",
     "timestamp": 1771336275.340456
-  },
-  {
-    "title": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents",
-    "link": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-668031984.jpg?w=1024",
-    "summary": "Infosys将把Anthropic的Claude模型集成至Topaz AI平台，以构建\"智能体\"系统。",
-    "date": "2026-02-17 13:51",
-    "timestamp": 1771336277.2889483
-  },
-  {
-    "title": "Cohere launches a family of open multilingual models",
-    "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
-    "summary": "Cohere发布Tiny Aya模型，支持超70种语言，旨在提升多语言AI处理能力。",
-    "date": "2026-02-17 09:30",
-    "timestamp": 1771320653.445257
   }
 ]
