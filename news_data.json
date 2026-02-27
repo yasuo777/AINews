@@ -1,5 +1,21 @@
 [
   {
+    "title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
+    "link": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
+    "summary": "五角大楼与Anthropic就军用AI控制权展开博弈，同时全美多社区抵制数据中心建设。在AI争论被简化为“末日派与乐观派”之际，纽约州议员Alex Bores正推动立法探索中间道路。",
+    "date": "2026-02-27 18:05",
+    "timestamp": 1772215504.8611228
+  },
+  {
+    "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
+    "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?resize=1200,837",
+    "summary": "AI音乐平台Suno推出自然语言作曲功能，用户无需专业经验即可通过文字指令快速生成音乐作品，大幅降低了音乐创作门槛。",
+    "date": "2026-02-27 18:05",
+    "timestamp": 1772215507.961772
+  },
+  {
     "title": "Perplexity’s new Computer is another bet that users need many AI models",
     "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "亚马逊宣布，已将仓储机器人Blue Jay的核心技术转用于其他机器人项目，原团队人员也已调任新项目。",
     "date": "2026-02-18 18:27",
     "timestamp": 1771439274.401694
-  },
-  {
-    "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
-    "link": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Untitled-design.png?resize=1200,764",
-    "summary": "欧特克与World Labs达成合作，双方将探索彼此工具与模型的融合应用，初期重点关注娱乐领域。",
-    "date": "2026-02-18 18:27",
-    "timestamp": 1771439276.0446265
-  },
-  {
-    "title": "Google adds music-generation capabilities to the Gemini app",
-    "link": "https://techcrunch.com/2026/02/18/google-adds-music-generation-capabilities-to-the-gemini-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Lyria-feature.jpg?resize=1200,675",
-    "summary": "Meta推出AI音乐生成器，支持以文本、图像及视频为参考素材创作音乐。",
-    "date": "2026-02-18 16:42",
-    "timestamp": 1771432921.2164207
   }
 ]
