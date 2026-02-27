@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+    "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2218106494.jpg?resize=1200,800",
+    "summary": "五角大楼与人工智能公司Anthropic就军用AI规则产生分歧，焦点集中在自主武器与监控系统的应用边界，涉及国家安全与企业伦理的深层博弈。",
+    "date": "2026-02-27 19:20",
+    "timestamp": 1772220044.5473216
+  },
+  {
+    "title": "ChatGPT reaches 900M weekly active users",
+    "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI宣布获得1100亿美元私募融资，并同步披露了最新业务数据。",
+    "date": "2026-02-27 19:20",
+    "timestamp": 1772220046.852516
+  },
+  {
     "title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
     "link": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "初创企业正面临融资紧缩、成本上升及早期验证压力，AI工具虽降低入门门槛，但初期技术选型可能带来长期隐形成本。",
     "date": "2026-02-18 21:20",
     "timestamp": 1771449617.5648046
-  },
-  {
-    "title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
-    "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
-    "summary": "初创企业正面临融资趋紧、成本攀升及早期验证压力，同时借助AI与云资源加速发展。然而，初期技术选型可能带来长远隐忧。",
-    "date": "2026-02-18 21:20",
-    "timestamp": 1771449619.348722
-  },
-  {
-    "title": "Amazon halts Blue Jay robotics project after less than six months",
-    "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/about-amazon-hero-20230227-amazon-288.jpg?resize=1200,675",
-    "summary": "亚马逊宣布，已将仓储机器人Blue Jay的核心技术转用于其他机器人项目，原团队人员也已调任新项目。",
-    "date": "2026-02-18 18:27",
-    "timestamp": 1771439274.401694
   }
 ]
