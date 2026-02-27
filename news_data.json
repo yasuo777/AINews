@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
+    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
+    "summary": "总统公开表态拒绝合作，称“无需、无意且不再往来”，语气坚决。",
+    "date": "2026-02-27 23:54",
+    "timestamp": 1772236472.0284169
+  },
+  {
     "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
     "link": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "信实集团已在贾姆讷格尔启动千兆瓦级AI数据中心建设，首期超120兆瓦容量预计2026年投运。",
     "date": "2026-02-19 12:04",
     "timestamp": 1771502665.6073456
-  },
-  {
-    "title": "OpenAI taps Tata for 100MW AI data center capacity in India, eyes 1GW",
-    "link": "https://techcrunch.com/2026/02/18/openai-taps-tata-for-100mw-ai-data-center-capacity-in-india-eyes-1gw/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?resize=1200,800",
-    "summary": "OpenAI计划今年在印度孟买和班加罗尔设立新办公室，以拓展其市场布局。",
-    "date": "2026-02-19 06:40",
-    "timestamp": 1771483204.4332833
   }
 ]
