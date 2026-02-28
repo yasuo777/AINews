@@ -1,5 +1,13 @@
 [
   {
+    "title": "The billion-dollar infrastructure deals powering the AI boom",
+    "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+    "summary": "Meta、Oracle、微软、谷歌及OpenAI正大力投资AI基础设施，展开大规模项目建设，以强化其人工智能领域的算力与研发能力。",
+    "date": "2026-02-28 20:54",
+    "timestamp": 1772312053.7673588
+  },
+  {
     "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
     "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1904444791-2560x1440.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI编程工具导致低质代码激增，虽加速功能开发，但项目维护难度未减，威胁软件项目稳定性。",
     "date": "2026-02-19 15:29",
     "timestamp": 1771514947.111103
-  },
-  {
-    "title": "Altman and Amodei share a moment of awkwardness at India’s big AI summit",
-    "link": "https://techcrunch.com/2026/02/19/altman-and-amodei-share-a-moment-of-awkwardness-at-indias-big-ai-summit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
-    "summary": "印度总理莫迪在活动中号召与会者举手以示团结，OpenAI的阿尔特曼与Anthropic的阿莫代伊未跟随举手，保持距离。",
-    "date": "2026-02-19 13:54",
-    "timestamp": 1771509255.3474855
   }
 ]
