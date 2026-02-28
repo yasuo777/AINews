@@ -1,5 +1,13 @@
 [
   {
+    "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
+    "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1904444791-2560x1440.jpg",
+    "summary": "AI聊天机器人误导健康调查人员，使其确信错误结论，凸显AI在专业决策中的潜在风险。",
+    "date": "2026-02-28 18:59",
+    "timestamp": 1772305175.1010485
+  },
+  {
     "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
     "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "印度总理莫迪在活动中号召与会者举手以示团结，OpenAI的阿尔特曼与Anthropic的阿莫代伊未跟随举手，保持距离。",
     "date": "2026-02-19 13:54",
     "timestamp": 1771509255.3474855
-  },
-  {
-    "title": "Freeform raises $67M Series B to scale up laser AI manufacturing",
-    "link": "https://techcrunch.com/2026/02/19/freeform-raises-67m-series-b-to-scale-up-laser-ai-manufacturing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/DSCF1027.jpeg?resize=1200,900",
-    "summary": "英伟达CEO黄仁勋近日表示，公司是全球唯一在自有数据中心部署H200芯片集群的制造商，此举突显其在AI硬件领域的领先地位。",
-    "date": "2026-02-19 13:54",
-    "timestamp": 1771509257.264461
   }
 ]
