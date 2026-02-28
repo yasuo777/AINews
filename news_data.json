@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "OpenAI首席执行官表示，其新国防合同已包含保护条款，解决了此前在Anthropic引发争议的同类问题。",
+    "date": "2026-02-28 16:54",
+    "timestamp": 1772297689.177136
+  },
+  {
     "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
     "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英伟达CEO黄仁勋近日表示，公司是全球唯一在自有数据中心部署H200芯片集群的制造商，此举突显其在AI硬件领域的领先地位。",
     "date": "2026-02-19 13:54",
     "timestamp": 1771509257.264461
-  },
-  {
-    "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
-    "link": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
-    "summary": "信实集团已在贾姆讷格尔启动千兆瓦级AI数据中心建设，首期超120兆瓦容量预计2026年投运。",
-    "date": "2026-02-19 12:04",
-    "timestamp": 1771502665.6073456
   }
 ]
