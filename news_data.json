@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI shares more details about its agreement with the Pentagon",
+    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "summary": "OpenAI CEO承认与国防部合作仓促推进，公开形象欠佳。",
+    "date": "2026-03-01 16:57",
+    "timestamp": 1772384222.0346322
+  },
+  {
     "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
     "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌在美国小范围测试搜索新功能，于搜索结果中嵌入交互式产品轮播图，直接展示价格、图片及购买链接。",
     "date": "2026-02-19 18:32",
     "timestamp": 1771525929.660882
-  },
-  {
-    "title": "Reload wants to give your AI agents a shared memory",
-    "link": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Reload-Co-Founders-Headshot.png?w=1056",
-    "summary": "AI创企Reload完成227.5万美元融资，由Anthemis领投，并推出首款AI员工Epic。",
-    "date": "2026-02-19 17:34",
-    "timestamp": 1771522476.473049
   }
 ]
