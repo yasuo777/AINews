@@ -1,5 +1,13 @@
 [
   {
+    "title": "The trap Anthropic built for itself",
+    "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+    "summary": "在缺乏监管规则的情况下，Anthropic、OpenAI等AI公司此前承诺的自我治理机制面临实际约束力不足的困境。",
+    "date": "2026-03-01 03:33",
+    "timestamp": 1772336003.133137
+  },
+  {
     "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
     "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI推出双向集成功能，在ChatGPT内直接显示流媒体服务链接。",
     "date": "2026-02-19 15:29",
     "timestamp": 1771514943.1287985
-  },
-  {
-    "title": "Co-founders behind Reface and Prisma join hands to improve on-device model inference with Mirai",
-    "link": "https://techcrunch.com/2026/02/19/co-founders-behind-reface-and-prisma-join-hands-to-improve-on-device-model-inference-with-mirai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/mirai-logo2.png?resize=1200,675",
-    "summary": "AI初创公司Mirai获1000万美元种子轮融资，致力于优化AI模型在手机、电脑等终端设备上的运行效率。",
-    "date": "2026-02-19 15:29",
-    "timestamp": 1771514944.9791732
   }
 ]
