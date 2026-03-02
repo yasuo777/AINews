@@ -1,5 +1,13 @@
 [
   {
+    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
+    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/2026-02-10_14.ai_MarieSchneegans_MichaelFester-e1772444505983.png?resize=1200,676",
+    "summary": "AI公司14.ai推出消费者品牌，旨在探索人工智能处理客户支持任务的能力极限。",
+    "date": "2026-03-02 15:24",
+    "timestamp": 1772465079.14147
+  },
+  {
     "title": "Anthropic’s Claude reports widespread outage",
     "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "英伟达正联合投资者、非营利组织与风投机构，以深化与印度快速增长的人工智能创业生态的早期合作。",
     "date": "2026-02-20 03:20",
     "timestamp": 1771557602.1974032
-  },
-  {
-    "title": "Why these startup CEOs don’t think AI will replace human roles",
-    "link": "https://techcrunch.com/2026/02/19/web-summit-qatar-read-ai-lucidya-notetakers-customer-support/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/55077852490_f1e5719382_k.jpg?resize=1200,854",
-    "summary": "在卡塔尔网络峰会上，Read AI与Lucidya的CEO向TechCrunch表示，人工智能工具将替代具体任务而非取代员工。",
-    "date": "2026-02-19 23:58",
-    "timestamp": 1771545506.2438545
   }
 ]
