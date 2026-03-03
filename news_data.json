@@ -1,5 +1,13 @@
 [
   {
+    "title": "Alibaba’s Qwen tech lead steps down after major AI push",
+    "link": "https://techcrunch.com/2026/03/03/alibabas-qwen-tech-lead-steps-down-after-major-ai-push/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/alibaba-qwen-ai.jpg?resize=1200,800",
+    "summary": "阿里通义千问团队负责人林俊阳在重大模型发布后离职，引发团队内部波动。",
+    "date": "2026-03-03 23:56",
+    "timestamp": 1772582216.577324
+  },
+  {
     "title": "AI companies are spending millions to thwart this former tech exec’s congressional bid",
     "link": "https://techcrunch.com/2026/03/03/ai-companies-are-spending-millions-to-thwart-this-former-tech-execs-congressional-bid/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "纽约国会候选人亚历克斯·博雷斯的《RAISE法案》要求AI开发者公开安全协议并报告系统滥用情况，引发支持与反对AI的政治行动委员会围绕其竞选展开激烈博弈。",
     "date": "2026-02-20 20:58",
     "timestamp": 1771621116.416019
-  },
-  {
-    "title": "InScope nabs $14.5M to solve the pain of financial reporting",
-    "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?resize=1200,1012",
-    "summary": "由前Flexport等企业会计师创立的初创公司，致力于自动化处理财务报表编制中的复杂流程，提升财务工作效率。",
-    "date": "2026-02-20 19:57",
-    "timestamp": 1771617465.8917074
   }
 ]
