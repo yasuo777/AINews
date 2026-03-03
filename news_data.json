@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cursor has reportedly surpassed $2B in annualized revenue",
+    "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
+    "summary": "据彭博消息，一家成立四年的初创企业过去三个月内年化营收翻倍。",
+    "date": "2026-03-03 03:22",
+    "timestamp": 1772508121.6633794
+  },
+  {
+    "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "ChatGPT因与美防部合作致用户流失，Claude下载量则逆势增长。",
+    "date": "2026-03-03 03:22",
+    "timestamp": 1772508124.1159723
+  },
+  {
     "title": "No one has a good plan for how AI companies should work with the government",
     "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026大会年度最低票价将于2月27日（下周五）截止，购票最高可节省680美元，请及时注册以免票价上调。",
     "date": "2026-02-20 15:23",
     "timestamp": 1771601005.0625684
-  },
-  {
-    "title": "OpenAI says 18 to 24-year-olds account for nearly 50% of ChatGPT usage in India",
-    "link": "https://techcrunch.com/2026/02/20/openai-says-18-to-24-year-olds-account-for-nearly-50-of-chatgpt-usage-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/india-chatgpt.jpg?resize=1200,800",
-    "summary": "该公司周五表示，在印度用户向ChatGPT发送的所有消息中，18至24岁用户占比近50%，30岁以下用户占该国使用量的80%。",
-    "date": "2026-02-20 15:23",
-    "timestamp": 1771601007.0448146
-  },
-  {
-    "title": "UAE’s G42 teams up with Cerebras to deploy 8 exaflops of compute in India",
-    "link": "https://techcrunch.com/2026/02/20/uaes-g42-teams-up-with-cerebras-to-deploy-8-exaflops-of-compute-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Super-computer-G42.jpg?resize=1200,676",
-    "summary": "阿布扎比科技公司G42与美国芯片制造商Cerebras合作，在印度部署新系统，提供总计8百亿亿次/秒的计算能力。",
-    "date": "2026-02-20 11:59",
-    "timestamp": 1771588745.8861947
   }
 ]
