@@ -1,5 +1,21 @@
 [
   {
+    "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+    "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?resize=1200,800",
+    "summary": "该公司宣布，新款模型将显著缓解数月来困扰用户的\"尴尬\"问题。",
+    "date": "2026-03-03 21:02",
+    "timestamp": 1772571730.1913264
+  },
+  {
+    "title": "Claude Code rolls out a voice mode capability",
+    "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=1200",
+    "summary": "Anthropic为Claude Code推出语音模式，增强AI编程助手功能，提升开发者交互体验。",
+    "date": "2026-03-03 21:02",
+    "timestamp": 1772571731.9691455
+  },
+  {
     "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
     "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "《商业内幕》报道，xAI为提升Grok对游戏《博德之门》的问答精度，抽调多名高级工程师进行专项优化。",
     "date": "2026-02-20 19:24",
     "timestamp": 1771615484.525262
-  },
-  {
-    "title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
-    "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-at-10.56.47-AM.png?resize=1200,645",
-    "summary": "AI成瘾性平板电脑引发关注，同时《玩具总动员》新片将于6月19日上映，其中胡迪形象出现秃顶变化。",
-    "date": "2026-02-20 17:21",
-    "timestamp": 1771608108.4450655
-  },
-  {
-    "title": "AI’s promise to indie filmmakers: faster, cheaper, lonelier",
-    "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Murmuray_FinalCut_04.2.00_01_09_13.Still028.png?resize=1200,675",
-    "summary": "AI技术降低了电影制作门槛，但过度追求效率可能导致行业被低质量AI内容淹没，挤压创作空间。",
-    "date": "2026-02-20 16:06",
-    "timestamp": 1771603598.4313073
   }
 ]
