@@ -1,5 +1,13 @@
 [
   {
+    "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+    "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+    "summary": "平台新规：违规创作者将面临三个月停权处罚，屡犯者将被永久封禁。",
+    "date": "2026-03-03 19:26",
+    "timestamp": 1772566015.4995155
+  },
+  {
     "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
     "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI技术降低了电影制作门槛，但过度追求效率可能导致行业被低质量AI内容淹没，挤压创作空间。",
     "date": "2026-02-20 16:06",
     "timestamp": 1771603598.4313073
-  },
-  {
-    "title": "Peak XV raises $1.3B, doubles down on AI as global VC rivalry in India heats up",
-    "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1244449349.jpg?resize=1200,800",
-    "summary": "Peak XV宣布新募资金将主要投向印度市场，重点布局人工智能、金融科技及跨境领域，以应对近期合伙人变动后的战略调整。",
-    "date": "2026-02-20 15:23",
-    "timestamp": 1771601003.3405735
   }
 ]
