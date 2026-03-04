@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
+    "link": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
+    "summary": "Canvas推出AI模式，现面向美国用户提供英文服务，支持创建计划、项目及应用程序等。",
+    "date": "2026-03-04 19:25",
+    "timestamp": 1772652302.1408098
+  },
+  {
+    "title": "Decagon completes first tender offer at $4.5B valuation",
+    "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Jesse-Ashwin-together.jpeg?resize=1200,800",
+    "summary": "AI客服初创企业成新例，为员工提供流动性方案，展现高增长年轻公司新趋势。",
+    "date": "2026-03-04 19:25",
+    "timestamp": 1772652304.626917
+  },
+  {
     "title": "The US military is still using Claude — but defense-tech clients are fleeing",
     "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "微软游戏部门正大力整合AI技术，以优化游戏开发、增强玩家体验并探索新商业模式，彰显其深化AI战略布局的决心。",
     "date": "2026-02-21 17:55",
     "timestamp": 1771696549.0346978
-  },
-  {
-    "title": "Google VP warns that two types of AI startups may not survive",
-    "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
-    "summary": "谷歌高管警示，随着生成式AI发展，仅依赖大语言模型封装与聚合的服务商正面临利润萎缩、差异化不足等生存压力，长期前景堪忧。",
-    "date": "2026-02-21 16:59",
-    "timestamp": 1771693179.6613164
-  },
-  {
-    "title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
-    "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI内容监控工具发现用户Jesse Van Rootselaar在ChatGPT中描述枪支暴力，已触发滥用预警机制。",
-    "date": "2026-02-21 15:54",
-    "timestamp": 1771689253.6317568
   }
 ]
