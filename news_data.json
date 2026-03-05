@@ -1,5 +1,29 @@
 [
   {
+    "title": "Cursor is rolling out a new kind of agentic coding tool",
+    "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "summary": "新系统Automations支持用户在编程环境中自动启动AI代理，触发条件包括代码库更新、Slack消息或定时器，实现开发流程自动化。",
+    "date": "2026-03-05 17:47",
+    "timestamp": 1772732868.2744148
+  },
+  {
+    "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+    "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+    "summary": "Meta被指违背隐私承诺：其营销材料宣称用户可控制录像分享，但调查发现分包商正在审查用户眼镜拍摄的画面。",
+    "date": "2026-03-05 17:47",
+    "timestamp": 1772732870.5739558
+  },
+  {
+    "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+    "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/53202070940_ea57312b1a_k.jpg?resize=1200,800",
+    "summary": "Anthropic因拒绝向国防部提供AI无限制访问权限，导致2亿美元合同谈判破裂。",
+    "date": "2026-03-05 17:47",
+    "timestamp": 1772732872.7092004
+  },
+  {
     "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
     "link": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Build-Mode-David-Park-from-Narada1.png?w=717",
@@ -774,29 +798,5 @@
     "summary": "OpenAI与四大咨询巨头达成合作，以推动其前沿AI智能体平台在企业市场的应用普及。",
     "date": "2026-02-23 19:41",
     "timestamp": 1771875683.0616148
-  },
-  {
-    "title": "Guide Labs debuts a new kind of interpretable LLM",
-    "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-9.31.05-AM.png?resize=1200,639",
-    "summary": "公司开源了拥有80亿参数的Steerling-8B大语言模型，其采用全新架构设计，旨在使模型行为更易于解释。",
-    "date": "2026-02-23 19:41",
-    "timestamp": 1771875684.7522593
-  },
-  {
-    "title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
-    "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/share_6305813549552173171.png?resize=540,1200",
-    "summary": "AI新闻应用Particle新增播客关键片段提取功能，用户可在阅读相关报道时直接播放简短精选音频。",
-    "date": "2026-02-23 17:44",
-    "timestamp": 1771868673.8887918
-  },
-  {
-    "title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
-    "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prompted-Playlist-Header-UK-.jpg?w=1200",
-    "summary": "Spotify正面向英国、爱尔兰、澳大利亚和瑞典的Premium用户测试AI歌单功能，该工具可根据文字描述自动生成个性化播放列表。",
-    "date": "2026-02-23 17:44",
-    "timestamp": 1771868675.9792275
   }
 ]
