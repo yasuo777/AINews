@@ -1,5 +1,21 @@
 [
   {
+    "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
+    "link": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Build-Mode-David-Park-from-Narada1.png?w=717",
+    "summary": "在《Build Mode》节目中，David Park与Isabelle Johannessen探讨了其团队如何通过有意识的迭代、融资及扩展策略来推动Narada的发展。",
+    "date": "2026-03-05 13:47",
+    "timestamp": 1772718423.5344296
+  },
+  {
+    "title": "Lio raises $30M from Andreessen Horowitz and others to automate enterprise procurement",
+    "link": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/LIo-founders.jpg?resize=1200,800",
+    "summary": "AI采购初创公司Lio完成3000万美元A轮融资，由Andreessen Horowitz领投。",
+    "date": "2026-03-05 13:47",
+    "timestamp": 1772718425.9262452
+  },
+  {
     "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic, but his explanation raises more questions than it answers",
     "link": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
@@ -782,21 +798,5 @@
     "summary": "Spotify正面向英国、爱尔兰、澳大利亚和瑞典的Premium用户测试AI歌单功能，该工具可根据文字描述自动生成个性化播放列表。",
     "date": "2026-02-23 17:44",
     "timestamp": 1771868675.9792275
-  },
-  {
-    "title": "5 days left to lock in the lowest TechCrunch Disrupt 2026 ticket rates",
-    "link": "https://techcrunch.com/2026/02/23/5-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-ticket-rates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026门票优惠即将结束，最高可节省680美元。年度最低价将于太平洋时间2月27日23:59截止，请及时注册。",
-    "date": "2026-02-23 16:34",
-    "timestamp": 1771864450.687741
-  },
-  {
-    "title": "How AI agents could destroy the economy",
-    "link": "https://techcrunch.com/2026/02/23/how-ai-agents-could-destroy-the-economy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/04/GettyImages-1167037043-1.jpg?resize=1200,800",
-    "summary": "智库Citrini Research发布模拟报告，预测两年后失业率或翻倍，股市总市值可能下跌超三分之一。",
-    "date": "2026-02-23 15:29",
-    "timestamp": 1771860554.5504856
   }
 ]
