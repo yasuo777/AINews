@@ -1,5 +1,21 @@
 [
   {
+    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
+    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?resize=1200,675",
+    "summary": "一家初创公司为私募股权机构提供创新方案：采用AI语音代理访谈目标公司的客户，以替代昂贵的管理咨询顾问服务。",
+    "date": "2026-03-05 23:39",
+    "timestamp": 1772753987.0760636
+  },
+  {
+    "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
+    "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
+    "summary": "Meta被指控就智能眼镜用户隐私问题\"隐瞒事实\"。",
+    "date": "2026-03-05 23:39",
+    "timestamp": 1772753989.2476192
+  },
+  {
     "title": "AWS launches a new AI agent platform specifically for health care",
     "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1164501571.jpg?resize=1200,600",
@@ -782,21 +798,5 @@
     "summary": "Nimble公司推出AI智能体，可自动搜索网络、验证信息，并将结果整理为结构化表格，实现数据库式查询。",
     "date": "2026-02-24 13:55",
     "timestamp": 1771941331.2984717
-  },
-  {
-    "title": "Canva acquires startups working on animation and marketing",
-    "link": "https://techcrunch.com/2026/02/23/canva-acquires-startups-working-on-animation-and-marketing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1258807457.jpg?w=1024",
-    "summary": "公司通过新收购计划加强营销解决方案地位，拟拓展视频创作与精细化测量功能。",
-    "date": "2026-02-24 08:27",
-    "timestamp": 1771921645.755387
-  },
-  {
-    "title": "A Meta AI security researcher said an OpenClaw agent ran amok on her inbox",
-    "link": "https://techcrunch.com/2026/02/23/a-meta-ai-security-researcher-said-an-openclaw-agent-ran-amok-on-her-inbox/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Y-Combinator-Crab.png?resize=1200,829",
-    "summary": "AI安全研究员在X平台发布警告称，看似讽刺的AI代理任务失误案例，实为对人工智能代理潜在操作风险的严肃警示。",
-    "date": "2026-02-24 03:22",
-    "timestamp": 1771903349.0867257
   }
 ]
