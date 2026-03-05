@@ -1,5 +1,13 @@
 [
   {
+    "title": "It’s official: The Pentagon has labeled Anthropic a supply chain risk",
+    "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1461207630.jpg?resize=1200,857",
+    "summary": "美国国防部将AI公司Anthropic列为供应链风险，系首家获此标签的美国企业。但国防部在伊朗行动中仍继续使用其AI技术。",
+    "date": "2026-03-05 21:05",
+    "timestamp": 1772744708.8376455
+  },
+  {
     "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
     "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Sample-2.png?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "美国Anthropic公司指控深度求索、月之暗面与MiniMax三家中企通过2.4万个虚假账号窃取其Claude模型技术。此事正值美政府讨论对华AI技术出口管制，意图延缓中国人工智能发展进程。",
     "date": "2026-02-23 21:27",
     "timestamp": 1771882050.8271809
-  },
-  {
-    "title": "OpenAI sidesteps Nvidia with unusually fast coding model on plate-sized chips",
-    "link": "https://arstechnica.com/ai/2026/02/openai-sidesteps-nvidia-with-unusually-fast-coding-model-on-plate-sized-chips/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-2225076517_resize-1152x648.jpg",
-    "summary": "OpenAI发布GPT-5.3-Codex-Spark，其代码生成速度较前代提升15倍。",
-    "date": "2026-02-23 21:27",
-    "timestamp": 1771882053.0214128
   }
 ]
