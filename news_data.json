@@ -1,5 +1,21 @@
 [
   {
+    "title": "AWS launches a new AI agent platform specifically for health care",
+    "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1164501571.jpg?resize=1200,600",
+    "summary": "AWS推出Amazon Connect Health医疗AI平台，可辅助患者预约、病历记录及身份核验等临床流程。",
+    "date": "2026-03-05 22:00",
+    "timestamp": 1772748056.189048
+  },
+  {
+    "title": "US reportedly considering sweeping new chip export controls",
+    "link": "https://techcrunch.com/2026/03/05/us-reportedly-considering-sweeping-new-chip-export-controls/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1246479507.jpg?w=1024",
+    "summary": "美政府拟出台草案，拟全面监管所有对华芯片出口，无论芯片产地。此举旨在强化对华技术管制。",
+    "date": "2026-03-05 22:00",
+    "timestamp": 1772748058.2899144
+  },
+  {
     "title": "It’s official: The Pentagon has labeled Anthropic a supply chain risk",
     "link": "https://techcrunch.com/2026/03/05/its-official-the-pentagon-has-labeled-anthropic-a-supply-chain-risk/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1461207630.jpg?resize=1200,857",
@@ -782,21 +798,5 @@
     "summary": "AI安全研究员在X平台发布警告称，看似讽刺的AI代理任务失误案例，实为对人工智能代理潜在操作风险的严肃警示。",
     "date": "2026-02-24 03:22",
     "timestamp": 1771903349.0867257
-  },
-  {
-    "title": "With AI, investor loyalty is (almost) dead: At least a dozen OpenAI VCs now also back Anthropic",
-    "link": "https://techcrunch.com/2026/02/23/with-ai-investor-loyalty-is-almost-dead-at-least-a-dozen-openai-vcs-now-also-back-anthropic/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-516286525.jpg?resize=1200,1200",
-    "summary": "部分双重投资者行为公然违背长期利益冲突伦理准则，其严重性令人震惊。",
-    "date": "2026-02-23 23:58",
-    "timestamp": 1771891105.6623793
-  },
-  {
-    "title": "Anthropic accuses Chinese AI labs of mining Claude as US debates AI chip exports",
-    "link": "https://techcrunch.com/2026/02/23/anthropic-accuses-chinese-ai-labs-of-mining-claude-as-us-debates-ai-chip-exports/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2262515136.jpg?w=1024",
-    "summary": "美国Anthropic公司指控深度求索、月之暗面与MiniMax三家中企通过2.4万个虚假账号窃取其Claude模型技术。此事正值美政府讨论对华AI技术出口管制，意图延缓中国人工智能发展进程。",
-    "date": "2026-02-23 21:27",
-    "timestamp": 1771882050.8271809
   }
 ]
