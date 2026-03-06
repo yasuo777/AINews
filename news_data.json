@@ -1,5 +1,13 @@
 [
   {
+    "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+    "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/CIty-Detect.webp?resize=1200,812",
+    "summary": "城市监测公司City Detect已进驻达拉斯、迈阿密等至少17个城市，协助地方政府预防城市衰败。",
+    "date": "2026-03-06 17:20",
+    "timestamp": 1772817628.871817
+  },
+  {
     "title": "After Europe, WhatsApp will let rival AI companies offer chatbots in Brazil",
     "link": "https://techcrunch.com/2026/03/06/after-europe-whatsapp-will-let-rival-ai-companies-offer-chatbots-in-brazil/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/whatsapp-getty.jpg?w=1200",
@@ -790,13 +798,5 @@
     "summary": "Meta与AMD达成多年协议，将采购价值数十亿美元的AMD人工智能芯片，并附带1.6亿股认股权证。此举旨在减少对英伟达的依赖，并扩大数据中心算力。",
     "date": "2026-02-24 15:35",
     "timestamp": 1771947352.3147476
-  },
-  {
-    "title": "Oura launches a proprietary AI model focused on women’s health",
-    "link": "https://techcrunch.com/2026/02/24/oura-launches-a-proprietary-ai-model-focused-on-womens-health/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/oura-ring-4.png?resize=1200,587",
-    "summary": "该模型全面覆盖生殖健康问题，支持从月经初潮到更年期的全周期咨询。",
-    "date": "2026-02-24 15:35",
-    "timestamp": 1771947354.2505162
   }
 ]
