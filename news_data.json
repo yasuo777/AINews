@@ -1,5 +1,37 @@
 [
   {
+    "title": "Microsoft: Anthropic Claude remains available to customers except the Defense Department",
+    "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.14.37PM.png?resize=1200,626",
+    "summary": "美国国防部与Anthropic的争议不会影响其他企业通过微软产品使用Claude服务。",
+    "date": "2026-03-06 19:21",
+    "timestamp": 1772824915.0005682
+  },
+  {
+    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+    "summary": "近日，Anthropic与Mozilla安全合作中，于Firefox浏览器内发现22个安全漏洞，其中14个被列为高危级别。",
+    "date": "2026-03-06 19:21",
+    "timestamp": 1772824916.8559418
+  },
+  {
+    "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+    "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "五角大楼因无法就AI模型军事控制权达成一致，将Anthropic列为供应链风险，转而与OpenAI签约。此后ChatGPT卸载量激增295%，引发对AI军事化应用的持续争议。",
+    "date": "2026-03-06 19:21",
+    "timestamp": 1772824919.8593118
+  },
+  {
+    "title": "Musk fails to block California data disclosure law he fears will ruin xAI",
+    "link": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2206110039-1152x648-1772817519.jpg",
+    "summary": "马斯克未能说服法官相信公众不关注AI训练数据来源，法官认为数据来源的透明度至关重要。",
+    "date": "2026-03-06 19:22",
+    "timestamp": 1772824923.0320914
+  },
+  {
     "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
     "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
@@ -766,37 +798,5 @@
     "summary": "五角大楼要求Anthropic在周五前放宽AI安全限制，否则将面临处罚。此举加剧了政府施压、供应商依赖及国防科技投资者信心等争议。",
     "date": "2026-02-24 22:03",
     "timestamp": 1771970583.2062418
-  },
-  {
-    "title": "Aided by AI, California beach town broadens hunt for bike lane blockers",
-    "link": "https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/hayden-ai-1152x648.jpg",
-    "summary": "Hayden AI将利用7辆市政车辆搭载的摄像头，自动扫描并记录交通违规行为。",
-    "date": "2026-02-24 20:02",
-    "timestamp": 1771963371.3364017
-  },
-  {
-    "title": "Google adds a way to create automated workflows to Opal",
-    "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Agent-Banner-hero.jpeg?resize=1200,677",
-    "summary": "谷歌为Opal新增自动化工作流功能，旨在提升任务处理效率与智能化水平。",
-    "date": "2026-02-24 19:37",
-    "timestamp": 1771961820.471992
-  },
-  {
-    "title": "Retraction: After a routine code rejection, an AI agent published a hit piece on someone by name",
-    "link": "https://arstechnica.com/ai/2026/02/after-a-routine-code-rejection-an-ai-agent-published-a-hit-piece-on-someone-by-name/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-in-open-source-terminal-1152x648.jpg",
-    "summary": "This story has been retracted",
-    "date": "2026-02-24 19:37",
-    "timestamp": 1771961821.0897162
-  },
-  {
-    "title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
-    "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
-    "summary": "本月，OpenAI推出企业级AI代理构建平台OpenAI Frontier。公司首席运营官指出，目前企业尚未实现AI的大规模应用，而该平台的研发正源于对此现状的洞察与探索。",
-    "date": "2026-02-24 18:35",
-    "timestamp": 1771958152.9706714
   }
 ]
