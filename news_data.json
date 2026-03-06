@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+    "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "summary": "五角大楼因无法就AI军事应用权限达成一致，将Anthropic列为供应链风险，转而与OpenAI签约。后者接手后ChatGPT卸载量激增295%，引发对AI军事化管控的持续争议。",
+    "date": "2026-03-06 18:03",
+    "timestamp": 1772820233.3051016
+  },
+  {
+    "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+    "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "summary": "Claude应用日活用户持续增长，新安装量已超越ChatGPT。",
+    "date": "2026-03-06 18:03",
+    "timestamp": 1772820235.3482027
+  },
+  {
     "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
     "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/CIty-Detect.webp?resize=1200,812",
@@ -782,21 +798,5 @@
     "summary": "本月，OpenAI推出企业级AI代理构建平台OpenAI Frontier。公司首席运营官指出，目前企业尚未实现AI的大规模应用，而该平台的研发正源于对此现状的洞察与探索。",
     "date": "2026-02-24 18:35",
     "timestamp": 1771958152.9706714
-  },
-  {
-    "title": "Music generator ProducerAI joins Google Labs",
-    "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1393049411.jpg?resize=1200,600",
-    "summary": "Wyclef Jean在新歌《Back in Abu Dhabi》中运用谷歌AI音乐工具创作，展示了人工智能技术在音乐制作中的应用。",
-    "date": "2026-02-24 18:35",
-    "timestamp": 1771958155.039886
-  },
-  {
-    "title": "Meta strikes up to $100B AMD chip deal as it chases ‘personal superintelligence’",
-    "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/amd-ces-ceo.png?resize=1200,661",
-    "summary": "Meta与AMD达成多年协议，将采购价值数十亿美元的AMD人工智能芯片，并附带1.6亿股认股权证。此举旨在减少对英伟达的依赖，并扩大数据中心算力。",
-    "date": "2026-02-24 15:35",
-    "timestamp": 1771947352.3147476
   }
 ]
