@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic to challenge DOD’s supply-chain label in court",
+    "link": "https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
+    "summary": "Anthropic CEO拟挑战美国防部将其列为供应链风险的决定，称该标签对多数客户无影响。",
+    "date": "2026-03-06 03:54",
+    "timestamp": 1772769285.783118
+  },
+  {
     "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
     "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch Disrupt 2026大会早鸟票优惠将于2月27日截止，最高可节省680美元。请尽快注册参会。",
     "date": "2026-02-24 15:35",
     "timestamp": 1771947356.9488766
-  },
-  {
-    "title": "Nimble Way raises $47M to give AI agents access to real-time web data",
-    "link": "https://techcrunch.com/2026/02/24/nimble-way-raises-47m-to-give-ai-agents-better-cleaner-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Nimble-Cofounders-with-Norwest-Investor.png?resize=1200,857",
-    "summary": "Nimble公司推出AI智能体，可自动搜索网络、验证信息，并将结果整理为结构化表格，实现数据库式查询。",
-    "date": "2026-02-24 13:55",
-    "timestamp": 1771941331.2984717
   }
 ]
