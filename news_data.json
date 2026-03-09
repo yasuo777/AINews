@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI acquires Promptfoo to secure its AI agents",
+    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "前沿科技实验室正加速证明其技术能在关键业务中安全应用，此交易凸显了这一趋势。",
+    "date": "2026-03-09 18:28",
+    "timestamp": 1773080935.3364286
+  },
+  {
     "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
     "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_1097-2.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "谷歌宣布Android版Gemini将支持自动化任务，包括网约车叫车、杂货及外卖配送服务。",
     "date": "2026-02-25 18:39",
     "timestamp": 1772044748.854166
-  },
-  {
-    "title": "OpenAI COO says ads will be ‘an iterative process’",
-    "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI首席运营官表示，若广告设计得当可提升用户体验，并呼吁给予公司数月时间观察产品推广效果。",
-    "date": "2026-02-25 18:39",
-    "timestamp": 1772044750.6177478
   }
 ]
