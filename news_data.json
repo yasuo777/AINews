@@ -1,5 +1,13 @@
 [
   {
+    "title": "AgentMail raises $6M to build an email service for AI agents",
+    "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_3846.jpeg?resize=1200,713",
+    "summary": "AgentMail推出API平台，为AI智能体提供专属邮箱，支持双向对话、邮件解析、会话管理、标签分类、搜索及自动回复功能。",
+    "date": "2026-03-10 17:28",
+    "timestamp": 1773163694.6484182
+  },
+  {
     "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
     "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch创始人峰会2026将于6月9日举行，汇聚超千名创始人与投资者。活动聚焦实际交易，通过展位为初创企业直接对接客户、资本与战略伙伴，推动业务增长。",
     "date": "2026-02-26 15:32",
     "timestamp": 1772119936.144295
-  },
-  {
-    "title": "Trace raises $3M to solve the AI agent adoption problem in enterprise",
-    "link": "https://techcrunch.com/2026/02/26/trace-raises-3-million-to-solve-the-agent-adoption-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Trace_TechCrunch.jpg?resize=1200,961",
-    "summary": "AI初创公司Trace获300万美元种子轮融资，投资方包括Y Combinator、Zeno Ventures等多家机构。",
-    "date": "2026-02-26 15:32",
-    "timestamp": 1772119938.4474828
   }
 ]
