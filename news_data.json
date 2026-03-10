@@ -1,5 +1,29 @@
 [
   {
+    "title": "Adobe is debuting an AI assistant for Photoshop",
+    "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/AIAssistant-1440X810_1x.jpg?resize=1200,675",
+    "summary": "Adobe为Firefly新增AI图像编辑功能，提升专业图像处理效率。",
+    "date": "2026-03-10 13:50",
+    "timestamp": 1773150602.449151
+  },
+  {
+    "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
+    "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Realistic-and-stylized-avatars-in-Zoom-Meetings.jpeg?resize=1200,750",
+    "summary": "Zoom推出会议实时深度伪造检测技术，旨在识别并防范AI生成的虚假视频内容，提升线上会议安全性。",
+    "date": "2026-03-10 13:50",
+    "timestamp": 1773150604.4125788
+  },
+  {
+    "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
+    "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "新功能旨在使应用更具个性化与高效性，使用户能在平台内更快捷地完成任务。",
+    "date": "2026-03-10 13:50",
+    "timestamp": 1773150606.4597034
+  },
+  {
     "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
     "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "西雅图公司Vercept开发出复杂智能体工具，其计算机使用智能体可模拟人类操作方式，在各类应用程序内自主完成任务。",
     "date": "2026-02-25 23:58",
     "timestamp": 1772063905.955592
-  },
-  {
-    "title": "Nvidia has another record quarter amid record capex spends",
-    "link": "https://techcrunch.com/2026/02/25/nvidia-earnings-record-capex-spend-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "英伟达CEO黄仁勋在财报会议上表示，全球对AI芯片的需求正呈指数级增长。",
-    "date": "2026-02-25 23:58",
-    "timestamp": 1772063907.5294328
-  },
-  {
-    "title": "The White House wants AI companies to cover rate hikes. Most have already said they would.",
-    "link": "https://techcrunch.com/2026/02/25/the-white-house-wants-ai-companies-to-cover-rate-hikes-most-have-already-said-they-would/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
-    "summary": "多家超大规模云服务商已公开承诺承担电价上涨成本。",
-    "date": "2026-02-25 21:05",
-    "timestamp": 1772053548.6302302
-  },
-  {
-    "title": "Alphabet-owned robotics software company Intrinsic joins Google",
-    "link": "https://techcrunch.com/2026/02/25/alphabet-owned-robotics-software-company-intrinsic-joins-google/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/unnamed.jpeg?resize=1200,589",
-    "summary": "谷歌母公司Alphabet旗下机器人软件公司Intrinsic在独立运营近五年后，将重新并入谷歌业务体系。",
-    "date": "2026-02-25 20:04",
-    "timestamp": 1772049889.9301705
   }
 ]
