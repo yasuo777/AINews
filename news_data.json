@@ -1,5 +1,13 @@
 [
   {
+    "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
+    "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg?resize=1200,800",
+    "summary": "图灵奖得主Yann LeCun离开Meta后联合创立的新公司AMI Labs，以35亿美元投前估值完成10.3亿美元融资。",
+    "date": "2026-03-10 05:00",
+    "timestamp": 1773118830.2435122
+  },
+  {
     "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
     "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "谷歌母公司Alphabet旗下机器人软件公司Intrinsic在独立运营近五年后，将重新并入谷歌业务体系。",
     "date": "2026-02-25 20:04",
     "timestamp": 1772049889.9301705
-  },
-  {
-    "title": "Wearable startup CUDIS launches a new health ring line with an AI-fueled ‘coach’",
-    "link": "https://techcrunch.com/2026/02/25/wearable-startup-cudis-launches-a-new-health-ring-line-with-an-ai-fueled-coach/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/CUDIS-002-Sporty-05.png?resize=1200,673",
-    "summary": "该可穿戴设备通过积分奖励机制激励健康行为，用户可将积分兑换为健康产品。",
-    "date": "2026-02-25 19:39",
-    "timestamp": 1772048349.8871293
   }
 ]
