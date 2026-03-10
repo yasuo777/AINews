@@ -1,5 +1,29 @@
 [
   {
+    "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
+    "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+    "summary": "英伟达与客户达成多年期协议，将提供至少千兆瓦级算力支持，并进行战略投资。",
+    "date": "2026-03-10 15:42",
+    "timestamp": 1773157328.963345
+  },
+  {
+    "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
+    "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/google-photos-GettyImages-2165351446.jpg?w=1024",
+    "summary": "谷歌相册搜索界面新增选项，允许用户自主选择搜索体验模式。",
+    "date": "2026-03-10 15:42",
+    "timestamp": 1773157331.4845812
+  },
+  {
+    "title": "Legora reaches $5.55 billion valuation as AI legaltech boom endures",
+    "link": "https://techcrunch.com/2026/03/10/legora-reaches-5-55-billion-valuation-as-ai-legaltech-boom-endures/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/MaxJunestrand1.jpeg?resize=1200,765",
+    "summary": "法律AI平台Legora完成5.5亿美元D轮融资，由Accel领投。本轮融资将用于加速其在美国市场扩张，融资后公司估值达55.5亿美元。",
+    "date": "2026-03-10 15:42",
+    "timestamp": 1773157333.931305
+  },
+  {
     "title": "Adobe is debuting an AI assistant for Photoshop",
     "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/AIAssistant-1440X810_1x.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "AI初创公司Trace获300万美元种子轮融资，投资方包括Y Combinator、Zeno Ventures等多家机构。",
     "date": "2026-02-26 15:32",
     "timestamp": 1772119938.4474828
-  },
-  {
-    "title": "Salesforce CEO Marc Benioff: This isn’t our first SaaSpocalypse",
-    "link": "https://techcrunch.com/2026/02/25/salesforce-ceo-marc-benioff-this-isnt-our-first-saaspocalypse/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Marc-Benioff.png?resize=1200,658",
-    "summary": "Salesforce财报表现稳健，积极应对AI冲击其业务的舆论，强调自身市场地位。",
-    "date": "2026-02-26 03:20",
-    "timestamp": 1772076043.305094
-  },
-  {
-    "title": "Gushwork bets on AI search for customer leads — and early results are emerging",
-    "link": "https://techcrunch.com/2026/02/25/gushwork-bets-on-ai-search-for-customer-leads-and-early-results-are-emerging/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/gushwork-co-founders.jpg?resize=1200,800",
-    "summary": "AI初创公司Gushwork获900万美元种子轮融资，由SIG和Lightspeed领投，其服务已获ChatGPT等AI搜索工具早期客户采用。",
-    "date": "2026-02-26 03:20",
-    "timestamp": 1772076045.7165911
-  },
-  {
-    "title": "Anthropic acquires computer-use AI startup Vercept after Meta poached one of its founders",
-    "link": "https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "西雅图公司Vercept开发出复杂智能体工具，其计算机使用智能体可模拟人类操作方式，在各类应用程序内自主完成任务。",
-    "date": "2026-02-25 23:58",
-    "timestamp": 1772063905.955592
   }
 ]
