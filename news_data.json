@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
+    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
+    "summary": "AI创作歌曲呼吁同行无视质疑，坚持艺术创作。作品因主题独特，被指难以引发人类共鸣。",
+    "date": "2026-03-11 23:56",
+    "timestamp": 1773273370.4236453
+  },
+  {
+    "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
+    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ford-pro-fleet.jpg?resize=1200,675",
+    "summary": "福特Pro AI系统于印第安纳波利斯工作卡车周首发，现已面向美国所有专业车队远程信息服务订阅用户开放。",
+    "date": "2026-03-11 23:56",
+    "timestamp": 1773273372.2083373
+  },
+  {
     "title": "Zendesk acquires agentic customer service startup Forethought",
     "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/Forethought-DSC04264.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI音乐平台Suno推出自然语言作曲功能，用户无需专业经验即可通过文字指令快速生成音乐作品，大幅降低了音乐创作门槛。",
     "date": "2026-02-27 18:05",
     "timestamp": 1772215507.961772
-  },
-  {
-    "title": "Perplexity’s new Computer is another bet that users need many AI models",
-    "link": "https://techcrunch.com/2026/02/27/perplexitys-new-computer-is-another-bet-that-users-need-many-ai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024",
-    "summary": "Perplexity AI推出“Perplexity Computer”，宣称该系统整合了当前所有人工智能能力，构建为一体化平台。",
-    "date": "2026-02-27 17:08",
-    "timestamp": 1772212094.0846038
-  },
-  {
-    "title": "Employees at Google and OpenAI support Anthropic’s Pentagon stand in open letter",
-    "link": "https://techcrunch.com/2026/02/27/employees-at-google-and-openai-support-anthropics-pentagon-stand-in-open-letter/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/53202070940_ea57312b1a_k.jpg?resize=1200,800",
-    "summary": "AI公司Anthropic重申，在与五方的现有合作中，其技术不得用于大规模国内监控或全自主武器系统。",
-    "date": "2026-02-27 17:08",
-    "timestamp": 1772212096.5922077
   }
 ]
