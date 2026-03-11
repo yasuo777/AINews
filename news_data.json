@@ -1,5 +1,13 @@
 [
   {
+    "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/image1-revised.webp?resize=1200,493",
+    "summary": "WordPress推出无需托管或注册的浏览器服务，用户可创建私有站点，将其转变为集写作、研究和AI工具于一体的个人工作空间。",
+    "date": "2026-03-11 17:32",
+    "timestamp": 1773250342.7076683
+  },
+  {
     "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
     "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "Anthropic CEO拒绝向美军提供无限制AI系统访问权限，称出于良心无法满足五方大楼要求。",
     "date": "2026-02-26 23:58",
     "timestamp": 1772150290.5939271
-  },
-  {
-    "title": "Perplexity announces \"Computer,\" an AI agent that assigns work to other AI agents",
-    "link": "https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/Perplexity-Computer-1152x648.jpg",
-    "summary": "这款设计是对OpenClaw概念的更为保守与安全的演绎。",
-    "date": "2026-02-26 23:03",
-    "timestamp": 1772147004.2483122
   }
 ]
