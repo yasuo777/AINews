@@ -1,5 +1,13 @@
 [
   {
+    "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+    "summary": "由Rivian创始人RJ Scaringe创立的初创公司计划利用Rivian工厂的数据进行模型训练，并最终在该工厂部署应用。",
+    "date": "2026-03-11 16:31",
+    "timestamp": 1773246676.1460779
+  },
+  {
     "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
     "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/moltbook-GettyImages-2260137814.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "这款设计是对OpenClaw概念的更为保守与安全的演绎。",
     "date": "2026-02-26 23:03",
     "timestamp": 1772147004.2483122
-  },
-  {
-    "title": "So, we’re getting Prada Meta AI glasses, right?",
-    "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
-    "summary": "扎克伯格现身米兰普拉达时装周，引发外界对Meta将与普拉达合作推出AI智能眼镜的猜测。",
-    "date": "2026-02-26 21:06",
-    "timestamp": 1772139999.5222921
   }
 ]
