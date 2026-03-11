@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google brings Gemini in Chrome to India",
+    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Chrome_Hero.png?resize=1200,677",
+    "summary": "谷歌Gemini AI新增对印地语、孟加拉语等八种印度语言的支持，以拓展其多语言服务能力。",
+    "date": "2026-03-11 03:13",
+    "timestamp": 1773198805.946703
+  },
+  {
     "title": "Amazon launches its healthcare AI assistant on its website and app",
     "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/amazon-health-ai.jpeg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "AI助手Read推出Ada，可自动回复日程安排，并从企业知识库及网络提取信息解答问题。",
     "date": "2026-02-26 19:30",
     "timestamp": 1772134210.1787248
-  },
-  {
-    "title": "Read AI launches a email based ‘digital twin’ to help you with schedules and answers",
-    "link": "https://techcrunch.com/2026/02/26/read-ai-launches-a-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Read-AI-Digital-Twin.jpg?w=1200",
-    "summary": "AI公司Read推出Ada助手，可自动回复用户日程安排，并支持从企业知识库及网络提取信息。",
-    "date": "2026-02-26 17:43",
-    "timestamp": 1772127808.9093816
   }
 ]
