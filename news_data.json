@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1422739420.jpg?resize=1200,702",
+    "summary": "前New Relic高管于2024年创立Rox，推出AI原生平台，旨在替代传统客户关系管理工具。",
+    "date": "2026-03-12 22:58",
+    "timestamp": 1773356315.211383
+  },
+  {
     "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
     "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Facebook-Marketplace-Selling-Updates_Header.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Anthropic旗下聊天机器人Claude因公司与美国国防部的敏感谈判受到关注，间接获得市场热度提升。",
     "date": "2026-02-28 21:50",
     "timestamp": 1772315430.7479537
-  },
-  {
-    "title": "The billion-dollar infrastructure deals powering the AI boom",
-    "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
-    "summary": "Meta、Oracle、微软、谷歌及OpenAI正大力投资AI基础设施，展开大规模项目建设，以强化其人工智能领域的算力与研发能力。",
-    "date": "2026-02-28 20:54",
-    "timestamp": 1772312053.7673588
   }
 ]
