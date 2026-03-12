@@ -1,5 +1,37 @@
 [
   {
+    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Facebook-Marketplace-Selling-Updates_Header.jpg?resize=1200,675",
+    "summary": "Meta AI可自动为卖家生成商品咨询回复，内容基于商品描述、库存、取货地点及价格等信息。",
+    "date": "2026-03-12 18:30",
+    "timestamp": 1773340209.356867
+  },
+  {
+    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+    "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Tinder-revamp2026.png?w=1200",
+    "summary": "Tinder进行全面改版，通过推出线下活动、AI功能升级及虚拟快速约会等措施，旨在重振用户活跃度并吸引年轻群体。",
+    "date": "2026-03-12 18:30",
+    "timestamp": 1773340212.3688574
+  },
+  {
+    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+    "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2147914845.jpg?w=1024",
+    "summary": "Atlassian宣布裁员约1600人，占员工总数10%，旨在将更多资金转向人工智能领域投资。",
+    "date": "2026-03-12 18:30",
+    "timestamp": 1773340214.5775828
+  },
+  {
+    "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
+    "link": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/perplexitypc-1152x648.png",
+    "summary": "Perplexity称用户文件访问在\"具备明确安全措施的受保护环境\"中进行，确保数据安全。",
+    "date": "2026-03-12 18:30",
+    "timestamp": 1773340217.3544936
+  },
+  {
     "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
     "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/9F2166B5-426E-4607-AF98-65A31AD8FDB7IMG_8309.jpeg?resize=1200,802",
@@ -766,37 +798,5 @@
     "summary": "Meta、Oracle、微软、谷歌及OpenAI正大力投资AI基础设施，展开大规模项目建设，以强化其人工智能领域的算力与研发能力。",
     "date": "2026-02-28 20:54",
     "timestamp": 1772312053.7673588
-  },
-  {
-    "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
-    "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/GettyImages-1904444791-2560x1440.jpg",
-    "summary": "AI聊天机器人误导健康调查人员，使其确信错误结论，凸显AI在专业决策中的潜在风险。",
-    "date": "2026-02-28 18:59",
-    "timestamp": 1772305175.1010485
-  },
-  {
-    "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-    "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "summary": "OpenAI首席执行官表示，其新国防合同已包含保护条款，解决了此前在Anthropic引发争议的同类问题。",
-    "date": "2026-02-28 16:54",
-    "timestamp": 1772297689.177136
-  },
-  {
-    "title": "Pentagon moves to designate Anthropic as a supply-chain risk",
-    "link": "https://techcrunch.com/2026/02/27/pentagon-moves-to-designate-anthropic-as-a-supply-chain-risk/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
-    "summary": "总统公开表态拒绝合作，称“无需、无意且不再往来”，语气坚决。",
-    "date": "2026-02-27 23:54",
-    "timestamp": 1772236472.0284169
-  },
-  {
-    "title": "President Trump orders federal agencies to stop using Anthropic after Pentagon dispute",
-    "link": "https://techcrunch.com/2026/02/27/president-trump-orders-federal-agencies-to-stop-using-anthropic-after-pentagon-dispute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
-    "summary": "总统公开表态拒绝合作，称“无需、无意且不再往来”，语气坚决。",
-    "date": "2026-02-27 21:56",
-    "timestamp": 1772229378.7155857
   }
 ]
