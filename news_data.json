@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google is using old news reports and AI to predict flash floods",
+    "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-7.14.04-PM.png?resize=1200,757",
+    "summary": "研究人员利用大语言模型将定性报告转化为定量数据，有效解决了数据稀缺问题。",
+    "date": "2026-03-12 10:23",
+    "timestamp": 1773310994.5644069
+  },
+  {
     "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
     "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
@@ -790,13 +798,5 @@
     "summary": "五角大楼与Anthropic就军用AI控制权展开博弈，同时全美多社区抵制数据中心建设。在AI争论被简化为“末日派与乐观派”之际，纽约州议员Alex Bores正推动立法探索中间道路。",
     "date": "2026-02-27 18:05",
     "timestamp": 1772215504.8611228
-  },
-  {
-    "title": "AI music generator Suno hits 2M paid subscribers and $300M in annual recurring revenue",
-    "link": "https://techcrunch.com/2026/02/27/ai-music-generator-suno-hits-2-million-paid-subscribers-and-300m-in-annual-recurring-revenue/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2159558534.jpg?resize=1200,837",
-    "summary": "AI音乐平台Suno推出自然语言作曲功能，用户无需专业经验即可通过文字指令快速生成音乐作品，大幅降低了音乐创作门槛。",
-    "date": "2026-02-27 18:05",
-    "timestamp": 1772215507.961772
   }
 ]
