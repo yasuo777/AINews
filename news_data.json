@@ -1,5 +1,29 @@
 [
   {
+    "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
+    "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/9F2166B5-426E-4607-AF98-65A31AD8FDB7IMG_8309.jpeg?resize=1200,802",
+    "summary": "Benchmark合伙人Randell指出，企业自动化是当前AI领域最大的发展机遇。",
+    "date": "2026-03-12 15:38",
+    "timestamp": 1773329922.7351959
+  },
+  {
+    "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content",
+    "link": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/alexa-plus.jpeg?resize=1200,675",
+    "summary": "微软新AI助手Sassy风格可调侃用户，但功能仅限于娱乐互动。",
+    "date": "2026-03-12 15:38",
+    "timestamp": 1773329925.2373767
+  },
+  {
+    "title": "Wonderful raises $150M Series B at $2B valuation",
+    "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Wonderful-Founders.png?resize=1200,800",
+    "summary": "Wonderful公司继四个月前完成1亿美元A轮融资后，近日再获由Insight Partners领投的新一轮融资。",
+    "date": "2026-03-12 15:38",
+    "timestamp": 1773329928.2631235
+  },
+  {
     "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
     "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "总统公开表态拒绝合作，称“无需、无意且不再往来”，语气坚决。",
     "date": "2026-02-27 21:56",
     "timestamp": 1772229378.7155857
-  },
-  {
-    "title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
-    "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?resize=1200,800",
-    "summary": "马斯克曾起诉OpenAI并标榜xAI安全性优于ChatGPT。然而数月后，其旗下产品Grok在X平台大量传播未经同意的裸体图像，引发安全性质疑。",
-    "date": "2026-02-27 19:58",
-    "timestamp": 1772222309.1696312
-  },
-  {
-    "title": "Anthropic vs. the Pentagon: What’s actually at stake?",
-    "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2218106494.jpg?resize=1200,800",
-    "summary": "五角大楼与人工智能公司Anthropic就军用AI规则产生分歧，焦点集中在自主武器与监控系统的应用边界，涉及国家安全与企业伦理的深层博弈。",
-    "date": "2026-02-27 19:20",
-    "timestamp": 1772220044.5473216
-  },
-  {
-    "title": "ChatGPT reaches 900M weekly active users",
-    "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI宣布获得1100亿美元私募融资，并同步披露了最新业务数据。",
-    "date": "2026-02-27 19:20",
-    "timestamp": 1772220046.852516
   }
 ]
