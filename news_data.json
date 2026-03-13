@@ -1,5 +1,21 @@
 [
   {
+    "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+    "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024",
+    "summary": "斯皮尔伯格在SXSW表示，AI虽在多领域有应用价值，但不应取代影视创作中的编剧角色。",
+    "date": "2026-03-13 19:59",
+    "timestamp": 1773431997.9202995
+  },
+  {
+    "title": "The biggest AI stories of the year (so far)",
+    "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "summary": "AI行业动态频发，涵盖重大收购、独立开发者成果、公众争议及涉及行业存续的关键合约谈判。",
+    "date": "2026-03-13 19:59",
+    "timestamp": 1773431999.9914942
+  },
+  {
     "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
     "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
@@ -782,21 +798,5 @@
     "summary": "因ChatGPT争议频发，不少用户转向Claude。本文介绍迁移至该AI聊天机器人的具体方法。",
     "date": "2026-03-02 19:24",
     "timestamp": 1772479440.3116915
-  },
-  {
-    "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
-    "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/golden-dome-missile-GettyImages.jpg?resize=1200,822",
-    "summary": "科技从业者联名致信美国国防部，要求撤销对人工智能公司Anthropic的\"供应链风险\"公开认定，建议通过非公开方式处理此事。",
-    "date": "2026-03-02 17:27",
-    "timestamp": 1772472449.0390632
-  },
-  {
-    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-    "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/2026-02-10_14.ai_MarieSchneegans_MichaelFester-e1772444505983.png?resize=1200,676",
-    "summary": "AI公司14.ai推出消费者品牌，旨在探索人工智能处理客户支持任务的能力极限。",
-    "date": "2026-03-02 15:24",
-    "timestamp": 1772465079.14147
   }
 ]
