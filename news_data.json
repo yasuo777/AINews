@@ -1,5 +1,29 @@
 [
   {
+    "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+    "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
+    "summary": "开源开发者Gavriel Cohen的项目在数周内获得业界认可，并与Docker达成合作，堪称开源梦想的典范。",
+    "date": "2026-03-13 17:20",
+    "timestamp": 1773422432.3126738
+  },
+  {
+    "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+    "link": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+    "summary": "编辑个人音乐品味档案将影响“发现每周”、个性化推荐及年度总结等定制歌单。",
+    "date": "2026-03-13 17:20",
+    "timestamp": 1773422434.8134096
+  },
+  {
+    "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
+    "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024",
+    "summary": "网络安全初创公司Wiz凭借AI、云和安全支出三大趋势，在经历收购波折与反垄断审查后，最终被谷歌以320亿美元收购，创下风险投资支持企业收购纪录。",
+    "date": "2026-03-13 17:20",
+    "timestamp": 1773422438.7962508
+  },
+  {
     "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
     "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Peacock-newfeatures2026.png?w=1200",
@@ -774,29 +798,5 @@
     "summary": "AI公司14.ai推出消费者品牌，旨在探索人工智能处理客户支持任务的能力极限。",
     "date": "2026-03-02 15:24",
     "timestamp": 1772465079.14147
-  },
-  {
-    "title": "Anthropic’s Claude reports widespread outage",
-    "link": "https://techcrunch.com/2026/03/02/anthropics-claude-reports-widespread-outage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675",
-    "summary": "周一上午，Anthropic旗下AI助手Claude发生大规模服务中断，数千用户报告无法正常访问。",
-    "date": "2026-03-02 13:44",
-    "timestamp": 1772459075.0727878
-  },
-  {
-    "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-    "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2169510461.jpg?resize=1200,800",
-    "summary": "谷歌与印度Airtel合作，将运营商级反垃圾过滤技术整合进RCS系统，以增强垃圾信息防护能力。",
-    "date": "2026-03-01 17:53",
-    "timestamp": 1772387587.7226617
-  },
-  {
-    "title": "OpenAI shares more details about its agreement with the Pentagon",
-    "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "OpenAI CEO承认与国防部合作仓促推进，公开形象欠佳。",
-    "date": "2026-03-01 16:57",
-    "timestamp": 1772384222.0346322
   }
 ]
