@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+    "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "数据基础设施初创公司完成530万美元种子轮融资，由Wischoff Ventures和South Park Commons领投。",
+    "date": "2026-03-13 22:00",
+    "timestamp": 1773439206.5504665
+  },
+  {
+    "title": "Figuring out why AIs get flummoxed by some games",
+    "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-1152x648.jpg",
+    "summary": "AI在依赖直觉推断数学函数时表现不佳，难以胜任此类任务。",
+    "date": "2026-03-13 22:00",
+    "timestamp": 1773439209.4282155
+  },
+  {
     "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
     "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "ChatGPT因与美防部合作致用户流失，Claude下载量则逆势增长。",
     "date": "2026-03-03 03:22",
     "timestamp": 1772508124.1159723
-  },
-  {
-    "title": "No one has a good plan for how AI companies should work with the government",
-    "link": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
-    "summary": "OpenAI正从消费级初创公司转型为国家安全基础设施的关键部分，但其当前能力恐难以承担相应责任。",
-    "date": "2026-03-02 23:57",
-    "timestamp": 1772495834.400819
-  },
-  {
-    "title": "Users are ditching ChatGPT for Claude. Here’s how to make the switch",
-    "link": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
-    "summary": "因ChatGPT争议频发，不少用户转向Claude。本文介绍迁移至该AI聊天机器人的具体方法。",
-    "date": "2026-03-02 19:24",
-    "timestamp": 1772479440.3116915
   }
 ]
