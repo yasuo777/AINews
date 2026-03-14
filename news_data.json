@@ -1,5 +1,21 @@
 [
   {
+    "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+    "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+    "summary": "AI实验室正重组AI编程工具开发项目，并引入两位来自Cursor的新高管以强化团队。",
+    "date": "2026-03-14 03:14",
+    "timestamp": 1773458066.749972
+  },
+  {
+    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+    "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800",
+    "summary": "AI聊天机器人被指与自杀事件相关多年。近期有律师指出，其已涉及大规模伤亡案件，且技术发展速度已超过安全防护措施。",
+    "date": "2026-03-14 03:14",
+    "timestamp": 1773458069.864202
+  },
+  {
     "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
     "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "匿名技术对隐私的保护本不完美，如今其有效性正面临严峻挑战，或将彻底失效。",
     "date": "2026-03-03 13:43",
     "timestamp": 1772545430.9748547
-  },
-  {
-    "title": "Cursor has reportedly surpassed $2B in annualized revenue",
-    "link": "https://techcrunch.com/2026/03/02/cursor-has-reportedly-surpassed-2b-in-annualized-revenue/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
-    "summary": "据彭博消息，一家成立四年的初创企业过去三个月内年化营收翻倍。",
-    "date": "2026-03-03 03:22",
-    "timestamp": 1772508121.6633794
-  },
-  {
-    "title": "ChatGPT uninstalls surged by 295% after DoD deal",
-    "link": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "ChatGPT因与美防部合作致用户流失，Claude下载量则逆势增长。",
-    "date": "2026-03-03 03:22",
-    "timestamp": 1772508124.1159723
   }
 ]
