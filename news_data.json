@@ -1,5 +1,13 @@
 [
   {
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI宣布ChatGPT新增应用内操作功能，用户现可直接在聊天界面使用Spotify、Canva、Figma及Expedia等第三方应用服务。",
+    "date": "2026-03-14 13:31",
+    "timestamp": 1773495097.8462958
+  },
+  {
     "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
     "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "平台新规：违规创作者将面临三个月停权处罚，屡犯者将被永久封禁。",
     "date": "2026-03-03 19:26",
     "timestamp": 1772566015.4995155
-  },
-  {
-    "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
-    "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/unmask-deanymize-privacy-1152x648.jpg",
-    "summary": "匿名技术对隐私的保护本不完美，如今其有效性正面临严峻挑战，或将彻底失效。",
-    "date": "2026-03-03 13:43",
-    "timestamp": 1772545430.9748547
   }
 ]
