@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+    "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
+    "summary": "脸书母公司或通过裁员以平衡其在AI基础设施、收购及招聘方面的巨额投入。",
+    "date": "2026-03-14 17:00",
+    "timestamp": 1773507656.4962404
+  },
+  {
     "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
     "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Anthropic为Claude Code推出语音模式，增强AI编程助手功能，提升开发者交互体验。",
     "date": "2026-03-03 21:02",
     "timestamp": 1772571731.9691455
-  },
-  {
-    "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
-    "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
-    "summary": "平台新规：违规创作者将面临三个月停权处罚，屡犯者将被永久封禁。",
-    "date": "2026-03-03 19:26",
-    "timestamp": 1772566015.4995155
   }
 ]
