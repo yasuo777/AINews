@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wiz investor unpacks Google’s $32B acquisition",
+    "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024",
+    "summary": "Index Ventures合伙人解析谷歌史上最大收购案——对摩托罗拉移动的125亿美元并购。",
+    "date": "2026-03-15 15:57",
+    "timestamp": 1773590255.330968
+  },
+  {
     "title": "US Army announces contract with Anduril worth up to $20B",
     "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152503982-e.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "科技富豪资助的政治行动委员会斥资1.25亿美元，旨在削弱支持AI监管的候选人，其中包括纽约前科技高管亚历克斯·博雷斯。",
     "date": "2026-03-03 21:59",
     "timestamp": 1772575164.1210942
-  },
-  {
-    "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
-    "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?resize=1200,800",
-    "summary": "该公司宣布，新款模型将显著缓解数月来困扰用户的\"尴尬\"问题。",
-    "date": "2026-03-03 21:02",
-    "timestamp": 1772571730.1913264
   }
 ]
