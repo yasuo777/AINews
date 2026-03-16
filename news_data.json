@@ -1,5 +1,21 @@
 [
   {
+    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265791303.jpg?w=1024",
+    "summary": "美国参议员沃伦指出，xAI公司聊天机器人Grok生成有害内容，对用户构成威胁并存在国家安全风险。",
+    "date": "2026-03-16 21:21",
+    "timestamp": 1773696074.4045384
+  },
+  {
+    "title": "Memories AI is building the visual memory layer for wearables and robotics",
+    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/memroies-ai.jpg?resize=1200,800",
+    "summary": "Memories.ai正开发大型视觉记忆模型，可为实体AI索引并检索视频记忆，旨在构建可回放记忆的智能系统。",
+    "date": "2026-03-16 21:21",
+    "timestamp": 1773696076.136517
+  },
+  {
     "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
     "link": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2241764468-1152x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "流媒体平台要求唱片公司或发行商主动标注AI生成音乐，但此措施因依赖自主申报，实际效果尚不明确。",
     "date": "2026-03-04 22:00",
     "timestamp": 1772661652.745099
-  },
-  {
-    "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
-    "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
-    "summary": "Canvas推出AI模式，现面向美国用户开放。该功能支持英语操作，可用于创建计划、项目、应用程序等多种内容。",
-    "date": "2026-03-04 21:01",
-    "timestamp": 1772658108.0255954
-  },
-  {
-    "title": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
-    "link": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
-    "summary": "Canvas推出AI模式，现面向美国用户提供英文服务，支持创建计划、项目及应用程序等。",
-    "date": "2026-03-04 19:25",
-    "timestamp": 1772652302.1408098
   }
 ]
