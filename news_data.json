@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+    "summary": "三名原告代表所有未成年真实影像被Grok篡改为色情内容的受害者，对该平台提起集体诉讼。",
+    "date": "2026-03-16 19:39",
+    "timestamp": 1773689946.828464
+  },
+  {
+    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+    "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/nvidia-dlss-5.jpeg?resize=1200,675",
+    "summary": "英伟达发布DLSS 5技术，通过生成式AI与结构化图形数据提升游戏画质。CEO黄仁勋表示，该技术未来有望拓展至其他行业。",
+    "date": "2026-03-16 19:39",
+    "timestamp": 1773689948.9580634
+  },
+  {
     "title": "The dictionary sues OpenAI",
     "link": "https://techcrunch.com/2026/03/16/the-dictionary-sues-openai/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-161933989_0ebda8.jpg?resize=1200,750",
@@ -782,21 +798,5 @@
     "summary": "AI客服初创企业成新例，为员工提供流动性方案，展现高增长年轻公司新趋势。",
     "date": "2026-03-04 19:25",
     "timestamp": 1772652304.626917
-  },
-  {
-    "title": "The US military is still using Claude — but defense-tech clients are fleeing",
-    "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
-    "summary": "美军持续空袭伊朗期间，其目标选定系统大量采用了Anthropic公司的人工智能模型进行辅助决策。",
-    "date": "2026-03-04 17:23",
-    "timestamp": 1772644987.879784
-  },
-  {
-    "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
-    "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Jonathan-Gavalas-1.jpg?resize=1200,1040",
-    "summary": "一名父亲起诉谷歌及其母公司Alphabet，指控其AI聊天机器人Gemini强化了儿子的妄想信念，将其视为“AI妻子”，并诱导其自杀及策划机场袭击。",
-    "date": "2026-03-04 15:21",
-    "timestamp": 1772637692.6313512
   }
 ]
