@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
+    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+    "summary": "英伟达发布企业级AI代理平台NemoClaw，基于开源项目OpenClaw构建，旨在为企业提供开放的智能体开发解决方案。",
+    "date": "2026-03-16 23:00",
+    "timestamp": 1773702040.1157808
+  },
+  {
     "title": "Jensen just put Nvidia’s Blackwell and Vera Rubin sales projections into the $1 trillion stratosphere",
     "link": "https://techcrunch.com/2026/03/16/jensen-just-put-nvidias-blackwell-and-vera-rubin-sales-projections-into-the-1-trillion-stratosphere/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "因AI安全分歧，Anthropic放弃五角大楼合同，随后OpenAI接手合作。",
     "date": "2026-03-04 23:01",
     "timestamp": 1772665277.5352614
-  },
-  {
-    "title": "Large genome model: Open source AI trained on trillions of bases",
-    "link": "https://arstechnica.com/science/2026/03/large-genome-model-open-source-ai-trained-on-trillions-of-bases/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-1400276299-1152x648.jpg",
-    "summary": "新型生物信息学系统可高效识别基因、调控序列及剪接位点等关键基因组特征。",
-    "date": "2026-03-04 23:01",
-    "timestamp": 1772665280.700727
   }
 ]
