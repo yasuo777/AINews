@@ -1,5 +1,13 @@
 [
   {
+    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
+    "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846",
+    "summary": "英伟达年度盛会GTC开幕，CEO黄仁勋将发表主题演讲，阐述公司在计算与人工智能领域的未来布局及新品规划。",
+    "date": "2026-03-16 15:43",
+    "timestamp": 1773675788.1029363
+  },
+  {
     "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
     "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/Copy-of-Prayank-Swaroop.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "CollectivIQ平台整合ChatGPT、Gemini等十余种AI模型，同步生成回答，旨在为用户提供更精准的查询解决方案。",
     "date": "2026-03-04 15:21",
     "timestamp": 1772637696.0357192
-  },
-  {
-    "title": "Who needs data centers in space when they can float offshore?",
-    "link": "https://techcrunch.com/2026/03/04/who-needs-data-centers-in-space-when-they-can-float-offshore/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/wind-turbine-vinyard-wind-Worldview-Films.jpg?w=1067",
-    "summary": "海上风电开发商Aikido计划今年在浮动式海上风机下部署小型数据中心。",
-    "date": "2026-03-04 13:41",
-    "timestamp": 1772631689.1339
   }
 ]
