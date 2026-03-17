@@ -1,5 +1,21 @@
 [
   {
+    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SXSW-buzzfeed-3.jpg?resize=1200,969",
+    "summary": "BuzzFeed在SXSW发布多款AI社交应用，但现场反响平淡。",
+    "date": "2026-03-17 17:39",
+    "timestamp": 1773769165.10101
+  },
+  {
+    "title": "Google’s Personal Intelligence feature is expanding to all US users",
+    "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+    "summary": "谷歌AI助手推出“个人智能”功能，可接入Gmail、相册等谷歌生态数据，以提供更个性化的定制化服务。",
+    "date": "2026-03-17 17:39",
+    "timestamp": 1773769167.4849381
+  },
+  {
     "title": "OpenAI expands government footprint with AWS deal, report says",
     "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264785627.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Luma发布\"统一智能\"模型驱动的Luma Agents，可协调多AI系统，生成涵盖文本、图像、视频和音频的端到端创意内容。",
     "date": "2026-03-05 19:46",
     "timestamp": 1772739963.3318465
-  },
-  {
-    "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
-    "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/5.4-Thinking_Hero-SEO.png?resize=1200,675",
-    "summary": "OpenAI发布GPT-5.4，称其为目前最强大、最高效的专业工作前沿模型。",
-    "date": "2026-03-05 19:46",
-    "timestamp": 1772739965.5576873
-  },
-  {
-    "title": "Cursor is rolling out a new kind of agentic coding tool",
-    "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-    "summary": "新系统Automations支持用户在编程环境中自动启动AI代理，触发条件包括代码库更新、Slack消息或定时器，实现开发流程自动化。",
-    "date": "2026-03-05 17:47",
-    "timestamp": 1772732868.2744148
   }
 ]
