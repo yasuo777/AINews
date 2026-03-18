@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?resize=1200,675",
+    "summary": "Nothing CEO裴宇表示，AI智能体将取代应用，未来手机会转向理解用户意图并主动执行任务的系统。",
+    "date": "2026-03-18 21:07",
+    "timestamp": 1773868075.4502928
+  },
+  {
     "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
     "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "五角大楼因无法就AI模型军事控制权达成一致，将Anthropic列为供应链风险，转而与OpenAI签约。此后ChatGPT卸载量激增295%，引发对AI军事化应用的持续争议。",
     "date": "2026-03-06 19:21",
     "timestamp": 1772824919.8593118
-  },
-  {
-    "title": "Musk fails to block California data disclosure law he fears will ruin xAI",
-    "link": "https://arstechnica.com/tech-policy/2026/03/musk-fails-to-block-california-data-disclosure-law-he-fears-will-ruin-xai/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2206110039-1152x648-1772817519.jpg",
-    "summary": "马斯克未能说服法官相信公众不关注AI训练数据来源，法官认为数据来源的透明度至关重要。",
-    "date": "2026-03-06 19:22",
-    "timestamp": 1772824923.0320914
   }
 ]
