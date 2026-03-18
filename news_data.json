@@ -1,5 +1,13 @@
 [
   {
+    "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+    "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264385089.jpg?w=1024",
+    "summary": "美国国防部以担忧Anthropic公司可能在战时“试图瘫痪其技术”为由，认定该AI企业构成供应链风险。",
+    "date": "2026-03-18 14:04",
+    "timestamp": 1773842690.5879169
+  },
+  {
     "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
     "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta被指控就智能眼镜用户隐私问题\"隐瞒事实\"。",
     "date": "2026-03-05 23:39",
     "timestamp": 1772753989.2476192
-  },
-  {
-    "title": "AWS launches a new AI agent platform specifically for health care",
-    "link": "https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1164501571.jpg?resize=1200,600",
-    "summary": "AWS推出Amazon Connect Health医疗AI平台，可辅助患者预约、病历记录及身份核验等临床流程。",
-    "date": "2026-03-05 22:00",
-    "timestamp": 1772748056.189048
   }
 ]
