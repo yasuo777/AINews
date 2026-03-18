@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove",
+    "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?resize=1200,900",
+    "summary": "AI协作初创公司Cove因团队整体加入微软而关闭，服务将于4月1日终止，客户数据将被删除。",
+    "date": "2026-03-18 15:50",
+    "timestamp": 1773849040.2430995
+  },
+  {
+    "title": "The PhD students who became the judges of the AI industry",
+    "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "summary": "随着AI模型竞争加剧，Arena平台已成为评估前沿大模型的关键公共排行榜，七个月内从学术项目发展为影响行业融资、产品发布的重要标杆。",
+    "date": "2026-03-18 15:50",
+    "timestamp": 1773849042.696473
+  },
+  {
     "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
     "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264385089.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Anthropic CEO拟挑战美国防部将其列为供应链风险的决定，称该标签对多数客户无影响。",
     "date": "2026-03-06 03:54",
     "timestamp": 1772769285.783118
-  },
-  {
-    "title": "DiligenceSquared uses AI, voice agents to make M&A research affordable",
-    "link": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/DS2.jpg?resize=1200,675",
-    "summary": "一家初创公司为私募股权机构提供创新方案：采用AI语音代理访谈目标公司的客户，以替代昂贵的管理咨询顾问服务。",
-    "date": "2026-03-05 23:39",
-    "timestamp": 1772753987.0760636
-  },
-  {
-    "title": "Workers report watching Ray-Ban Meta-shot footage of people using the bathroom",
-    "link": "https://arstechnica.com/gadgets/2026/03/workers-report-watching-ray-ban-meta-shot-footage-of-people-using-the-bathroom/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
-    "summary": "Meta被指控就智能眼镜用户隐私问题\"隐瞒事实\"。",
-    "date": "2026-03-05 23:39",
-    "timestamp": 1772753989.2476192
   }
 ]
