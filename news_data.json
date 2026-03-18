@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta is having trouble with rogue AI agents",
+    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "Meta公司AI系统出现漏洞，意外将内部及用户数据泄露给未授权工程师。",
+    "date": "2026-03-18 23:57",
+    "timestamp": 1773878250.3165863
+  },
+  {
+    "title": "Sam Altman’s thank-you to coders draws the memes",
+    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "OpenAI首席执行官阿尔特曼发文致敬“从零写代码”的开发者，引发网友幽默调侃。",
+    "date": "2026-03-18 23:57",
+    "timestamp": 1773878252.0642045
+  },
+  {
     "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
     "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "美国国防部与Anthropic的争议不会影响其他企业通过微软产品使用Claude服务。",
     "date": "2026-03-06 19:21",
     "timestamp": 1772824915.0005682
-  },
-  {
-    "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
-    "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-    "summary": "近日，Anthropic与Mozilla安全合作中，于Firefox浏览器内发现22个安全漏洞，其中14个被列为高危级别。",
-    "date": "2026-03-06 19:21",
-    "timestamp": 1772824916.8559418
-  },
-  {
-    "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
-    "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "五角大楼因无法就AI模型军事控制权达成一致，将Anthropic列为供应链风险，转而与OpenAI签约。此后ChatGPT卸载量激增295%，引发对AI军事化应用的持续争议。",
-    "date": "2026-03-06 19:21",
-    "timestamp": 1772824919.8593118
   }
 ]
