@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amazon brings Alexa+ to the UK",
+    "link": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Alexa-UK.jpeg?resize=1200,675",
+    "summary": "亚马逊在英国推出Alexa+早期体验计划，用户可免费试用新版语音助手。",
+    "date": "2026-03-19 13:53",
+    "timestamp": 1773928428.779271
+  },
+  {
     "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
     "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2219202029.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "硬件高管凯特琳·卡利诺夫斯基今日宣布，因反对OpenAI与国防部的争议性合作，已辞去公司机器人团队负责人职务。",
     "date": "2026-03-07 20:54",
     "timestamp": 1772916878.8362794
-  },
-  {
-    "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
-    "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "推特推迟成人内容分区功能上线，该功能原定去年12月推出，将允许认证成年用户访问情色内容。",
-    "date": "2026-03-07 17:52",
-    "timestamp": 1772905970.1447518
   }
 ]
