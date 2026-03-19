@@ -1,5 +1,13 @@
 [
   {
+    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/matthew-Prince-sxsw-2026-GettyImages-2266003867.jpg?w=1024",
+    "summary": "Cloudflare CEO预测，到2027年AI在线数量或超人类，生成式AI将大幅推高网络流量与基础设施需求。",
+    "date": "2026-03-19 19:32",
+    "timestamp": 1773948733.6289399
+  },
+  {
     "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
     "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "AI数据中心开发商正借鉴石油行业野外营房模式，用于建设偏远地区数据中心员工宿舍，以提升部署效率。",
     "date": "2026-03-08 16:57",
     "timestamp": 1772989064.413368
-  },
-  {
-    "title": "A roadmap for AI, if anyone will listen",
-    "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-871198558.jpg?resize=1200,772",
-    "summary": "《亲人类宣言》于上周五角大楼与Anthropic对峙前定稿，两起事件在时间上的碰撞引发业界普遍关注。",
-    "date": "2026-03-08 06:07",
-    "timestamp": 1772950033.4539816
   }
 ]
