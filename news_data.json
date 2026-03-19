@@ -1,5 +1,13 @@
 [
   {
+    "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+    "summary": "快递员可通过拍摄日常任务或外语口语视频等行为赚取额外收入。",
+    "date": "2026-03-19 16:38",
+    "timestamp": 1773938292.6257083
+  },
+  {
     "title": "TechCrunch Startup Battlefield 200 nominations are still open",
     "link": "https://techcrunch.com/2026/03/19/techcrunch-startup-battlefield-200-nominations-are-still-open/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/54889393608_2493644601_o-2.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌母公司Alphabet宣布新股权激励计划，将员工薪酬与旗下Waymo及无人机业务Wing的业绩表现挂钩。",
     "date": "2026-03-08 03:19",
     "timestamp": 1772939950.294826
-  },
-  {
-    "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
-    "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/brain-brain.jpg?resize=1200,675",
-    "summary": "语法检查工具Grammarly新增功能，宣称通过引入世界著名作家、思想家及科技记者的写作风格，辅助用户提升文本质量。",
-    "date": "2026-03-07 23:53",
-    "timestamp": 1772927588.1538854
   }
 ]
