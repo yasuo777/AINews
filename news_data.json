@@ -1,5 +1,13 @@
 [
   {
+    "title": "The best AI investment might be in energy tech",
+    "link": "https://techcrunch.com/2026/03/20/the-best-ai-investment-might-be-in-energy-tech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1316185179.jpeg?resize=1200,800",
+    "summary": "电力供应已成为新建AI数据中心的关键瓶颈，这为投资者带来了新的机遇。",
+    "date": "2026-03-20 13:45",
+    "timestamp": 1774014323.4243755
+  },
+  {
     "title": "These AI notetaking devices can help you record and transcribe your meetings",
     "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Plaud-Note-Pro.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "英AI基础设施初创公司Nscale获英伟达支持，再融资20亿美元。",
     "date": "2026-03-09 15:37",
     "timestamp": 1773070672.9704573
-  },
-  {
-    "title": "Ring’s Jamie Siminoff has been trying to calm privacy fears since the Super Bowl, but his answers may not help",
-    "link": "https://techcrunch.com/2026/03/08/rings-jamie-siminoff-has-been-trying-to-calm-privacy-fears-since-the-super-bowl-but-his-answers-may-not-help/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1027844014.jpg?resize=1200,800",
-    "summary": "面部识别技术引发争议，其应用边界与伦理问题日益复杂化。",
-    "date": "2026-03-09 05:10",
-    "timestamp": 1773033031.3375545
   }
 ]
