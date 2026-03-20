@@ -1,5 +1,13 @@
 [
   {
+    "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
+    "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-1152x648-1774038851.jpg",
+    "summary": "One of the first controversies of its kind.",
+    "date": "2026-03-20 21:57",
+    "timestamp": 1774043856.1250737
+  },
+  {
     "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
     "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
@@ -790,13 +798,5 @@
     "summary": "图灵奖得主Yann LeCun离开Meta后联合创立的新公司AMI Labs，以35亿美元投前估值完成10.3亿美元融资。",
     "date": "2026-03-10 05:00",
     "timestamp": 1773118830.2435122
-  },
-  {
-    "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
-    "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-    "summary": "30余名OpenAI和DeepMind员工联署支持Anthropic起诉美国防部，抗议其将该公司列为供应链风险。",
-    "date": "2026-03-09 21:58",
-    "timestamp": 1773093517.0429168
   }
 ]
