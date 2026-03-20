@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
+    "summary": "微软正精简Windows系统中Copilot的入口点，首批调整涉及照片、小组件及记事本等应用。",
+    "date": "2026-03-20 21:01",
+    "timestamp": 1774040498.107203
+  },
+  {
+    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
+    "summary": "英伟达CEO黄仁勋在本周GTC大会上发表主题演讲，预测至2027年AI芯片销售额将达1万亿美元，并提出企业需制定“开放战略”，强调公司在AI领域的核心地位。",
+    "date": "2026-03-20 21:01",
+    "timestamp": 1774040501.1737118
+  },
+  {
     "title": "Nvidia has an OpenClaw strategy. Do you?",
     "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-clawbot-gtc-getty.jpg?resize=1200,790",
@@ -782,21 +798,5 @@
     "summary": "30余名OpenAI和DeepMind员工联署支持Anthropic起诉美国防部，抗议其将该公司列为供应链风险。",
     "date": "2026-03-09 21:58",
     "timestamp": 1773093517.0429168
-  },
-  {
-    "title": "Anthropic launches code review tool to check flood of AI-generated code",
-    "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Claude-Code-Code-Review.png?resize=1200,677",
-    "summary": "Anthropic推出Claude Code多智能体系统“代码审查”，可自动分析AI生成代码、标记逻辑错误，助力企业开发者高效管理海量AI代码。",
-    "date": "2026-03-09 20:01",
-    "timestamp": 1773086514.5490656
-  },
-  {
-    "title": "OpenAI acquires Promptfoo to secure its AI agents",
-    "link": "https://techcrunch.com/2026/03/09/openai-acquires-promptfoo-to-secure-its-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "前沿科技实验室正加速证明其技术能在关键业务中安全应用，此交易凸显了这一趋势。",
-    "date": "2026-03-09 18:28",
-    "timestamp": 1773080935.3364286
   }
 ]
