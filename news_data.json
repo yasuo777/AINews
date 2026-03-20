@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia has an OpenClaw strategy. Do you?",
+    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-clawbot-gtc-getty.jpg?resize=1200,790",
+    "summary": "英伟达CEO黄仁勋在GTC大会上发表主题演讲，预测至2027年AI芯片销售额将达1万亿美元，并强调各企业需制定“OpenClaw战略”。",
+    "date": "2026-03-20 20:00",
+    "timestamp": 1774036828.9830205
+  },
+  {
     "title": "WordPress.com now lets AI agents write and publish posts, and more",
     "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "前沿科技实验室正加速证明其技术能在关键业务中安全应用，此交易凸显了这一趋势。",
     "date": "2026-03-09 18:28",
     "timestamp": 1773080935.3364286
-  },
-  {
-    "title": "Qualcomm’s partnership with Neura Robotics is just the beginning",
-    "link": "https://techcrunch.com/2026/03/09/qualcomms-partnership-with-neura-robotics-is-just-the-beginning/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/IMG_1097-2.jpg?resize=1200,900",
-    "summary": "机器人制造商Neura Robotics宣布将基于高通在CES最新发布的IQ10处理器平台，开发新一代机器人产品。",
-    "date": "2026-03-09 16:39",
-    "timestamp": 1773074347.3017657
   }
 ]
