@@ -1,5 +1,13 @@
 [
   {
+    "title": "WordPress.com now lets AI agents write and publish posts, and more",
+    "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+    "summary": "WordPress.com推出AI助手，旨在降低内容发布门槛，或将推动网络机器生成内容增长。",
+    "date": "2026-03-20 17:22",
+    "timestamp": 1774027342.526784
+  },
+  {
     "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
     "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2203859648.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "机器人制造商Neura Robotics宣布将基于高通在CES最新发布的IQ10处理器平台，开发新一代机器人产品。",
     "date": "2026-03-09 16:39",
     "timestamp": 1773074347.3017657
-  },
-  {
-    "title": "Anthropic sues Defense Department over supply chain risk designation",
-    "link": "https://techcrunch.com/2026/03/09/anthropic-sues-defense-department-over-supply-chain-risk-designation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-anthropic-2.webp?w=1024",
-    "summary": "人工智能公司Anthropic起诉美国国防部，指控其将该公司列为供应链风险的决定“史无前例且不合法”。",
-    "date": "2026-03-09 16:39",
-    "timestamp": 1773074350.3276906
   }
 ]
