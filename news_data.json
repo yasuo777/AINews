@@ -1,5 +1,13 @@
 [
   {
+    "title": "Delve accused of misleading customers with ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
+    "summary": "匿名举报指控合规初创公司Delve虚假宣传，致数百客户误信其产品符合隐私安全法规。",
+    "date": "2026-03-21 17:56",
+    "timestamp": 1774115762.5928462
+  },
+  {
     "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
     "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Adobe为Firefly新增AI图像编辑功能，提升专业图像处理效率。",
     "date": "2026-03-10 13:50",
     "timestamp": 1773150602.449151
-  },
-  {
-    "title": "Zoom introduces an AI-powered office suite, says AI avatars for meetings arrive this month",
-    "link": "https://techcrunch.com/2026/03/10/zoom-launches-an-ai-powered-office-suite-says-ai-avatars-for-meetings-are-coming-soon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Realistic-and-stylized-avatars-in-Zoom-Meetings.jpeg?resize=1200,750",
-    "summary": "Zoom推出会议实时深度伪造检测技术，旨在识别并防范AI生成的虚假视频内容，提升线上会议安全性。",
-    "date": "2026-03-10 13:50",
-    "timestamp": 1773150604.4125788
   }
 ]
