@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+    "link": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-2026-getty.jpg?resize=1200,800",
+    "summary": "尽管投资者担忧AI泡沫，英伟达最新行业会议显示业内多数对此并不忧虑。",
+    "date": "2026-03-21 16:59",
+    "timestamp": 1774112354.3984537
+  },
+  {
     "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
     "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Zoom推出会议实时深度伪造检测技术，旨在识别并防范AI生成的虚假视频内容，提升线上会议安全性。",
     "date": "2026-03-10 13:50",
     "timestamp": 1773150604.4125788
-  },
-  {
-    "title": "Google rolls out new Gemini capabilities to Docs, Sheets, Slides, and Drive",
-    "link": "https://techcrunch.com/2026/03/10/google-rolls-out-new-gemini-capabilities-to-docs-sheets-slides-and-drive/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-    "summary": "新功能旨在使应用更具个性化与高效性，使用户能在平台内更快捷地完成任务。",
-    "date": "2026-03-10 13:50",
-    "timestamp": 1773150606.4597034
   }
 ]
