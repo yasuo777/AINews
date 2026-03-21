@@ -1,5 +1,13 @@
 [
   {
+    "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+    "link": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "summary": "AI公司Anthropic向加州联邦法院提交声明，反驳美国防部对其构成“国家安全不可接受风险”的指控，称政府指控基于技术误解且未在谈判中提出。",
+    "date": "2026-03-21 03:10",
+    "timestamp": 1774062608.549794
+  },
+  {
     "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
     "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-1152x648-1774038851.jpg",
@@ -790,13 +798,5 @@
     "summary": "新功能旨在使应用更具个性化与高效性，使用户能在平台内更快捷地完成任务。",
     "date": "2026-03-10 13:50",
     "timestamp": 1773150606.4597034
-  },
-  {
-    "title": "Yann LeCun’s AMI Labs raises $1.03 billion to build world models",
-    "link": "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2261869274.jpg?resize=1200,800",
-    "summary": "图灵奖得主Yann LeCun离开Meta后联合创立的新公司AMI Labs，以35亿美元投前估值完成10.3亿美元融资。",
-    "date": "2026-03-10 05:00",
-    "timestamp": 1773118830.2435122
   }
 ]
