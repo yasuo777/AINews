@@ -1,5 +1,13 @@
 [
   {
+    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+    "summary": "哈珀柯林斯出版集团因担忧《害羞女孩》文本由AI生成，决定不予出版。",
+    "date": "2026-03-21 19:52",
+    "timestamp": 1774122749.4522173
+  },
+  {
     "title": "Delve accused of misleading customers with ‘fake compliance’",
     "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
@@ -790,13 +798,5 @@
     "summary": "法律AI平台Legora完成5.5亿美元D轮融资，由Accel领投。本轮融资将用于加速其在美国市场扩张，融资后公司估值达55.5亿美元。",
     "date": "2026-03-10 15:42",
     "timestamp": 1773157333.931305
-  },
-  {
-    "title": "Adobe is debuting an AI assistant for Photoshop",
-    "link": "https://techcrunch.com/2026/03/10/adobe-is-debuting-an-ai-assistant-for-photoshop/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/AIAssistant-1440X810_1x.jpg?resize=1200,675",
-    "summary": "Adobe为Firefly新增AI图像编辑功能，提升专业图像处理效率。",
-    "date": "2026-03-10 13:50",
-    "timestamp": 1773150602.449151
   }
 ]
