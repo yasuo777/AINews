@@ -1,5 +1,13 @@
 [
   {
+    "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
+    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+    "summary": "亚马逊宣布向OpenAI投资500亿美元后，其云服务部门AWS随即邀请媒体独家探访了支撑此次合作的核心芯片实验室。",
+    "date": "2026-03-22 13:30",
+    "timestamp": 1774186224.5176342
+  },
+  {
     "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
     "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1151746484.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达与客户达成多年期协议，将提供至少千兆瓦级算力支持，并进行战略投资。",
     "date": "2026-03-10 15:42",
     "timestamp": 1773157328.963345
-  },
-  {
-    "title": "Google gives in to users’ complaints over AI-powered ‘Ask Photos’ search feature",
-    "link": "https://techcrunch.com/2026/03/10/google-gives-in-to-users-complaints-over-ai-powered-ask-photos-search-feature/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/google-photos-GettyImages-2165351446.jpg?w=1024",
-    "summary": "谷歌相册搜索界面新增选项，允许用户自主选择搜索体验模式。",
-    "date": "2026-03-10 15:42",
-    "timestamp": 1773157331.4845812
   }
 ]
