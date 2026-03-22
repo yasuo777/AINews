@@ -1,5 +1,13 @@
 [
   {
+    "title": "Do you want to build a robot snowman?",
+    "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+    "summary": "在最新一期Equity播客中，我们回顾了黄仁勋在GTC大会的主题演讲，并就其对英伟达未来发展的影响进行了深入探讨。",
+    "date": "2026-03-22 19:52",
+    "timestamp": 1774209151.6108491
+  },
+  {
     "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
     "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "RevenueCat报告指出，AI虽能提升应用早期变现能力，但长期价值维持仍是挑战。",
     "date": "2026-03-10 21:01",
     "timestamp": 1773176519.9553945
-  },
-  {
-    "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
-    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-    "summary": "AI可提升应用早期变现能力，但持续创收仍是挑战。",
-    "date": "2026-03-10 19:25",
-    "timestamp": 1773170731.4506967
   }
 ]
