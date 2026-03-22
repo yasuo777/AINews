@@ -1,5 +1,13 @@
 [
   {
+    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
+    "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+    "summary": "马斯克宣布特斯拉与SpaceX将合作开发芯片，但其过往承诺常未兑现。",
+    "date": "2026-03-22 16:59",
+    "timestamp": 1774198796.3499632
+  },
+  {
     "title": "Delve accused of misleading customers with ‘fake compliance’",
     "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
@@ -790,13 +798,5 @@
     "summary": "OpenAI发布ChatGPT动态视觉解释新功能，支持用户实时交互查看公式、变量及数学关系的动态变化，将静态图表升级为可操作的可视化界面。",
     "date": "2026-03-10 18:27",
     "timestamp": 1773167260.752011
-  },
-  {
-    "title": "AgentMail raises $6M to build an email service for AI agents",
-    "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_3846.jpeg?resize=1200,713",
-    "summary": "AgentMail推出API平台，为AI智能体提供专属邮箱，支持双向对话、邮件解析、会话管理、标签分类、搜索及自动回复功能。",
-    "date": "2026-03-10 17:28",
-    "timestamp": 1773163694.6484182
   }
 ]
