@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
+    "summary": "当前国际形势下，基于中国模型进行技术开发面临显著的地缘政治风险与合规挑战。",
+    "date": "2026-03-22 19:04",
+    "timestamp": 1774206264.392064
+  },
+  {
     "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
     "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
@@ -790,13 +798,5 @@
     "summary": "AI可提升应用早期变现能力，但持续创收仍是挑战。",
     "date": "2026-03-10 19:25",
     "timestamp": 1773170731.4506967
-  },
-  {
-    "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-    "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI发布ChatGPT动态视觉解释新功能，支持用户实时交互查看公式、变量及数学关系的动态变化，将静态图表升级为可操作的可视化界面。",
-    "date": "2026-03-10 18:27",
-    "timestamp": 1773167260.752011
   }
 ]
