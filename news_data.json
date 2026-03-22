@@ -1,5 +1,13 @@
 [
   {
+    "title": "Delve accused of misleading customers with ‘fake compliance’",
+    "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
+    "summary": "匿名文章指控合规初创公司Delve通过虚假宣传，误导数百名客户相信其已满足隐私与安全法规要求。",
+    "date": "2026-03-22 14:58",
+    "timestamp": 1774191487.798082
+  },
+  {
     "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
     "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "AgentMail推出API平台，为AI智能体提供专属邮箱，支持双向对话、邮件解析、会话管理、标签分类、搜索及自动回复功能。",
     "date": "2026-03-10 17:28",
     "timestamp": 1773163694.6484182
-  },
-  {
-    "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
-    "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
-    "summary": "英伟达与客户达成多年期协议，将提供至少千兆瓦级算力支持，并进行战略投资。",
-    "date": "2026-03-10 15:42",
-    "timestamp": 1773157328.963345
   }
 ]
