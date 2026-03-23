@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
+    "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "美国参议员沃伦致信国防部长，指责五角大楼将AI公司Anthropic列为\"供应链风险\"是报复行为，认为其本可直接终止与该公司的合同。",
+    "date": "2026-03-23 15:40",
+    "timestamp": 1774280421.136031
+  },
+  {
+    "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
+    "link": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
+    "summary": "能源公司Helion拟向OpenAI出售其12.5%的电力产能，双方正就协议进行谈判。",
+    "date": "2026-03-23 15:40",
+    "timestamp": 1774280423.8914866
+  },
+  {
     "title": "Do you want to build a robot snowman?",
     "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "谷歌Gemini AI新增对印地语、孟加拉语等八种印度语言的支持，以拓展其多语言服务能力。",
     "date": "2026-03-11 03:13",
     "timestamp": 1773198805.946703
-  },
-  {
-    "title": "Amazon launches its healthcare AI assistant on its website and app",
-    "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/amazon-health-ai.jpeg?resize=1200,675",
-    "summary": "健康AI具备答疑、解读病历、管理续方及预约等功能，可提升医疗效率与服务质量。",
-    "date": "2026-03-10 21:01",
-    "timestamp": 1773176518.431373
-  },
-  {
-    "title": "AI-powered apps struggle with long-term retention, new report shows",
-    "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-    "summary": "RevenueCat报告指出，AI虽能提升应用早期变现能力，但长期价值维持仍是挑战。",
-    "date": "2026-03-10 21:01",
-    "timestamp": 1773176519.9553945
   }
 ]
