@@ -1,5 +1,13 @@
 [
   {
+    "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
+    "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-138341302.jpg?resize=1200,771",
+    "summary": "伦敦风投机构Air Street Capital完成第三期基金募资，将专注投资欧美早期人工智能企业。",
+    "date": "2026-03-23 23:59",
+    "timestamp": 1774310356.6021917
+  },
+  {
     "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
     "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/bernie-and-claude.jpeg?w=1143",
@@ -790,13 +798,5 @@
     "summary": "AI编程平台Replit完成4亿美元新一轮融资，目标在年底前实现10亿美元年度经常性收入。",
     "date": "2026-03-11 19:29",
     "timestamp": 1773257342.3086276
-  },
-  {
-    "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
-    "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/image1-revised.webp?resize=1200,493",
-    "summary": "WordPress推出无需托管或注册的浏览器服务，用户可创建私有站点，将其转变为集写作、研究和AI工具于一体的个人工作空间。",
-    "date": "2026-03-11 17:32",
-    "timestamp": 1773250342.7076683
   }
 ]
