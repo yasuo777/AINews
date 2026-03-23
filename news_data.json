@@ -1,5 +1,21 @@
 [
   {
+    "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
+    "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
+    "summary": "AI编程公司Lovable寻求并购初创团队，以加速其业务扩张。",
+    "date": "2026-03-23 18:29",
+    "timestamp": 1774290589.8175645
+  },
+  {
+    "title": "Apple sets June date for WWDC 2026, teasing “AI advancements”",
+    "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
+    "summary": "苹果将于6月8日当周举办全球开发者大会，预计将发布搭载先进人工智能技术的新版Siri。",
+    "date": "2026-03-23 18:29",
+    "timestamp": 1774290592.1495914
+  },
+  {
     "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
     "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/routines.jpeg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "由Rivian创始人RJ Scaringe创立的初创公司计划利用Rivian工厂的数据进行模型训练，并最终在该工厂部署应用。",
     "date": "2026-03-11 16:31",
     "timestamp": 1773246676.1460779
-  },
-  {
-    "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
-    "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/moltbook-GettyImages-2260137814.jpg?w=1024",
-    "summary": "Meta收购Moltbook看似意外，实则预示其战略方向：该公司认为AI智能体将主导未来广告与电商，推动网络向\"智能体化\"演进。",
-    "date": "2026-03-11 15:28",
-    "timestamp": 1773242905.0460098
-  },
-  {
-    "title": "Amazon expands a program that lets customers shop from other retailers’ sites",
-    "link": "https://techcrunch.com/2026/03/11/amazon-expands-a-program-that-lets-customers-shop-from-other-retailers-sites/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/shop-direct-.jpeg?resize=1200,675",
-    "summary": "亚马逊调整政策，扩大\"Shop Direct\"计划参与范围，允许更多商家加入该计划，将平台流量引导至合作零售商网站。",
-    "date": "2026-03-11 15:28",
-    "timestamp": 1773242907.5819755
   }
 ]
