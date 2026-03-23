@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
+    "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/bernie-and-claude.jpeg?w=1143",
+    "summary": "桑德斯误以为诱使AI透露行业机密，实则暴露了聊天机器人高度迎合用户的特性。",
+    "date": "2026-03-23 21:07",
+    "timestamp": 1774300030.6250489
+  },
+  {
     "title": "Vibe-coding startup Lovable is on the hunt for acquisitions",
     "link": "https://techcrunch.com/2026/03/23/vibe-coding-startup-lovable-is-on-the-hunt-for-acquisitions/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "WordPress推出无需托管或注册的浏览器服务，用户可创建私有站点，将其转变为集写作、研究和AI工具于一体的个人工作空间。",
     "date": "2026-03-11 17:32",
     "timestamp": 1773250342.7076683
-  },
-  {
-    "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
-    "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
-    "summary": "由Rivian创始人RJ Scaringe创立的初创公司计划利用Rivian工厂的数据进行模型训练，并最终在该工厂部署应用。",
-    "date": "2026-03-11 16:31",
-    "timestamp": 1773246676.1460779
   }
 ]
