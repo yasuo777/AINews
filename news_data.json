@@ -1,5 +1,21 @@
 [
   {
+    "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
+    "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/routines.jpeg?resize=1200,675",
+    "summary": "AI初创公司Littlebird开发实时屏幕分析技术，可理解用户界面内容、自动答疑并执行任务，全程无需依赖截图操作。",
+    "date": "2026-03-23 16:36",
+    "timestamp": 1774283776.5553012
+  },
+  {
+    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
+    "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Gimlet_Labs_CEO_Zain_Asgar2.jpg?resize=1200,747",
+    "summary": "AI初创公司Gimlet Labs完成8000万美元A轮融资，其技术可实现AI模型在英伟达、AMD、英特尔、ARM、Cerebras及d-Matrix等多种芯片上同步运行。",
+    "date": "2026-03-23 16:36",
+    "timestamp": 1774283779.484741
+  },
+  {
     "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
     "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "亚马逊调整政策，扩大\"Shop Direct\"计划参与范围，允许更多商家加入该计划，将平台流量引导至合作零售商网站。",
     "date": "2026-03-11 15:28",
     "timestamp": 1773242907.5819755
-  },
-  {
-    "title": "Canopii looks to succeed where past indoor farms have not",
-    "link": "https://techcrunch.com/2026/03/11/canopii-looks-to-succeed-where-past-indoor-farms-have-not/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Canopii.jpg?resize=1200,900",
-    "summary": "Canopii公司推出篮球场大小的机器人农场，可年产4万磅草本与绿叶蔬菜，全程自动化种植。",
-    "date": "2026-03-11 15:28",
-    "timestamp": 1773242909.8536816
-  },
-  {
-    "title": "Google brings Gemini in Chrome to India",
-    "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Chrome_Hero.png?resize=1200,677",
-    "summary": "谷歌Gemini AI新增对印地语、孟加拉语等八种印度语言的支持，以拓展其多语言服务能力。",
-    "date": "2026-03-11 03:13",
-    "timestamp": 1773198805.946703
   }
 ]
