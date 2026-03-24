@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
+    "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-9.15.10-AM.png?resize=1200,675",
+    "summary": "OpenAI宣布将逐步取消ChatGPT内置的即时购物功能Instant Checkout，未来不再支持用户通过界面直接购买商品。",
+    "date": "2026-03-24 19:39",
+    "timestamp": 1774381158.7707398
+  },
+  {
+    "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
+    "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-tv.webp?resize=1200,675",
+    "summary": "谷歌电视将引入三项Gemini AI功能：视觉问答、深度解析和体育简报，提升智能交互体验。",
+    "date": "2026-03-24 19:39",
+    "timestamp": 1774381161.0808136
+  },
+  {
+    "title": "OpenAI adds open source tools to help developers build for teen safety",
+    "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "为提升青少年AI使用安全，开发者可借鉴现有政策强化产品设计，无需从零探索。",
+    "date": "2026-03-24 19:39",
+    "timestamp": 1774381163.2264853
+  },
+  {
     "title": "Doss raises $55M for AI inventory management that plugs into ERP",
     "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Doss-Founder-Photo.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "科技巨头宣布推出\"沉浸式导航\"，称其为地图十余年来最大规模更新。",
     "date": "2026-03-12 13:46",
     "timestamp": 1773323219.3301835
-  },
-  {
-    "title": "Google is using old news reports and AI to predict flash floods",
-    "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-7.14.04-PM.png?resize=1200,757",
-    "summary": "研究人员利用大语言模型将定性报告转化为定量数据，有效解决了数据稀缺问题。",
-    "date": "2026-03-12 10:23",
-    "timestamp": 1773310994.5644069
-  },
-  {
-    "title": "AI ‘actor’ Tilly Norwood put out the worst song I’ve ever heard",
-    "link": "https://techcrunch.com/2026/03/11/ai-actor-tilly-norwood-put-out-the-worst-song-ive-ever-heard/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-    "summary": "AI创作歌曲呼吁同行无视质疑，坚持艺术创作。作品因主题独特，被指难以引发人类共鸣。",
-    "date": "2026-03-11 23:56",
-    "timestamp": 1773273370.4236453
-  },
-  {
-    "title": "Ford’s new AI assistant will help fleet owners know if seatbelts are being used",
-    "link": "https://techcrunch.com/2026/03/11/fords-new-ai-assistant-will-help-fleet-owners-know-if-seatbelts-are-being-used/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ford-pro-fleet.jpg?resize=1200,675",
-    "summary": "福特Pro AI系统于印第安纳波利斯工作卡车周首发，现已面向美国所有专业车队远程信息服务订阅用户开放。",
-    "date": "2026-03-11 23:56",
-    "timestamp": 1773273372.2083373
   }
 ]
