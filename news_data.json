@@ -1,5 +1,13 @@
 [
   {
+    "title": "Agile Robots becomes the latest robotics company to partner with Google DeepMind",
+    "link": "https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/Google-DeepMind.jpg?w=1024",
+    "summary": "Agile Robots将集成谷歌DeepMind的机器人基础模型，并为其AI实验室收集数据。",
+    "date": "2026-03-24 12:33",
+    "timestamp": 1774355586.7405488
+  },
+  {
     "title": "Air Street becomes one of the largest solo VCs in Europe with $232M fund",
     "link": "https://techcrunch.com/2026/03/23/air-street-becomes-one-of-the-largest-solo-vcs-in-europe-with-232m-fund/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-138341302.jpg?resize=1200,771",
@@ -790,13 +798,5 @@
     "summary": "瑞典氛围编程独角兽Lovable公司年经常性收入突破4亿美元。",
     "date": "2026-03-11 21:59",
     "timestamp": 1773266353.1409972
-  },
-  {
-    "title": "Replit snags $9B valuation 6 months after hitting $3B",
-    "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?resize=1200,715",
-    "summary": "AI编程平台Replit完成4亿美元新一轮融资，目标在年底前实现10亿美元年度经常性收入。",
-    "date": "2026-03-11 19:29",
-    "timestamp": 1773257342.3086276
   }
 ]
