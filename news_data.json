@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s Sora was the creepiest app on your phone — now it’s shutting down",
+    "link": "https://techcrunch.com/2026/03/24/openais-sora-was-the-creepiest-app-on-your-phone-now-its-shutting-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages2238161095.jpg?w=1024",
+    "summary": "OpenAI发布Sora 2模型，其视频与音频生成能力令人瞩目，但纯AI内容社交平台未能维持用户长期兴趣。",
+    "date": "2026-03-24 23:59",
+    "timestamp": 1774396763.8027127
+  },
+  {
     "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
     "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达GTC大会于周一开幕，黄仁勋主题演讲支持线上线下同步观看。",
     "date": "2026-03-12 23:56",
     "timestamp": 1773359795.953137
-  },
-  {
-    "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-    "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1422739420.jpg?resize=1200,702",
-    "summary": "前New Relic高管于2024年创立Rox，推出AI原生平台，旨在替代传统客户关系管理工具。",
-    "date": "2026-03-12 22:58",
-    "timestamp": 1773356315.211383
   }
 ]
