@@ -1,5 +1,21 @@
 [
   {
+    "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+    "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Doss-Founder-Photo.jpg?resize=1200,800",
+    "summary": "Doss公司完成B轮融资，由Madrona和Premji Invest联合领投。其AI库存管理系统可与现有ERP系统集成。",
+    "date": "2026-03-24 17:35",
+    "timestamp": 1774373712.0242023
+  },
+  {
+    "title": "Meet the former Apple designer building a new AI interface at Hark",
+    "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
+    "summary": "该公司宣布将同步设计模型、硬件与交互界面，旨在打造“无缝衔接的端到端个人智能产品”。",
+    "date": "2026-03-24 17:35",
+    "timestamp": 1774373714.3901353
+  },
+  {
     "title": "Mirage raises $75M to continue building models for its AI video editing app Captions",
     "link": "https://techcrunch.com/2026/03/24/mirage-raises-75m-to-continue-building-models-for-its-ai-video-editing-app-captions/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/Mirage-background.png?w=1200",
@@ -782,21 +798,5 @@
     "summary": "福特Pro AI系统于印第安纳波利斯工作卡车周首发，现已面向美国所有专业车队远程信息服务订阅用户开放。",
     "date": "2026-03-11 23:56",
     "timestamp": 1773273372.2083373
-  },
-  {
-    "title": "Zendesk acquires agentic customer service startup Forethought",
-    "link": "https://techcrunch.com/2026/03/11/zendesk-acquires-agentic-customer-service-startup-forethought/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Forethought-DSC04264.jpg?resize=1200,800",
-    "summary": "AI创企Forethought凭借前瞻性技术，于2018年荣获TechCrunch Battlefield冠军。",
-    "date": "2026-03-11 22:56",
-    "timestamp": 1773269767.1299157
-  },
-  {
-    "title": "Netflix may have paid $600 million for Ben Affleck’s AI startup",
-    "link": "https://techcrunch.com/2026/03/11/netflix-may-have-paid-600-million-for-ben-afflecks-ai-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/cash-ransomware-ransom-payments-hackers-getty.jpg?resize=1200,675",
-    "summary": "流媒体巨头拟进行史上最大规模收购之一。",
-    "date": "2026-03-11 22:56",
-    "timestamp": 1773269768.5319593
   }
 ]
