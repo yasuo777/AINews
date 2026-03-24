@@ -1,5 +1,21 @@
 [
   {
+    "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
+    "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
+    "summary": "Spotify推出新工具，旨在让艺术家能自主管理平台上的署名作品，增强对其音乐版权的控制权。",
+    "date": "2026-03-24 22:03",
+    "timestamp": 1774389829.7138536
+  },
+  {
+    "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
+    "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
+    "summary": "该技术在实际应用前，仍需解决若干关键问题。",
+    "date": "2026-03-24 22:03",
+    "timestamp": 1774389831.627357
+  },
+  {
     "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
     "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Meta AI可自动为卖家生成商品咨询回复，内容基于商品描述、库存、取货地点及价格等信息。",
     "date": "2026-03-12 18:30",
     "timestamp": 1773340209.356867
-  },
-  {
-    "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-    "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Tinder-revamp2026.png?w=1200",
-    "summary": "Tinder进行全面改版，通过推出线下活动、AI功能升级及虚拟快速约会等措施，旨在重振用户活跃度并吸引年轻群体。",
-    "date": "2026-03-12 18:30",
-    "timestamp": 1773340212.3688574
-  },
-  {
-    "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
-    "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2147914845.jpg?w=1024",
-    "summary": "Atlassian宣布裁员约1600人，占员工总数10%，旨在将更多资金转向人工智能领域投资。",
-    "date": "2026-03-12 18:30",
-    "timestamp": 1773340214.5775828
   }
 ]
