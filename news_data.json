@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
+    "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "AI公司拟斥资2600万美元在肯塔基州农场建设数据中心。",
+    "date": "2026-03-24 23:02",
+    "timestamp": 1774393328.2418158
+  },
+  {
     "title": "Spotify tests new tool to stop AI slop from being attributed to real artists",
     "link": "https://techcrunch.com/2026/03/24/spotify-tests-new-tool-to-stop-ai-slop-from-being-attributed-to-real-artists/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "前New Relic高管于2024年创立Rox，推出AI原生平台，旨在替代传统客户关系管理工具。",
     "date": "2026-03-12 22:58",
     "timestamp": 1773356315.211383
-  },
-  {
-    "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
-    "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Facebook-Marketplace-Selling-Updates_Header.jpg?resize=1200,675",
-    "summary": "Meta AI可自动为卖家生成商品咨询回复，内容基于商品描述、库存、取货地点及价格等信息。",
-    "date": "2026-03-12 18:30",
-    "timestamp": 1773340209.356867
   }
 ]
