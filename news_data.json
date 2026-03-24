@@ -1,5 +1,37 @@
 [
   {
+    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+    "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "Anthropic推出Claude Code自动模式，允许AI执行任务时减少人工审批，体现行业向更自主工具发展的趋势，通过内置安全机制平衡效率与安全。",
+    "date": "2026-03-24 21:21",
+    "timestamp": 1774387266.8251455
+  },
+  {
+    "title": "Databricks bought two startups to underpin its new AI security product",
+    "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1177951659.jpg?resize=1200,800",
+    "summary": "Databricks凭借近期50亿美元融资，接连收购Antimatter与SiftD.ai两家初创公司，并计划进一步扩大收购规模。",
+    "date": "2026-03-24 21:21",
+    "timestamp": 1774387269.0227652
+  },
+  {
+    "title": "OpenAI plans to shut down Sora just 15 months after its launch",
+    "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cooldog-1152x648.jpg",
+    "summary": "微软宣布将关闭Copilot GPT Builder服务，以专注于商业及生产力应用场景。",
+    "date": "2026-03-24 21:21",
+    "timestamp": 1774387271.7245755
+  },
+  {
+    "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
+    "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/eff-leadership-change-1152x648.jpg",
+    "summary": "公众对政府技术滥用关注度高涨，电子前沿基金会新负责人计划借此势头深化监督与倡导工作。",
+    "date": "2026-03-24 21:21",
+    "timestamp": 1774387273.8857968
+  },
+  {
     "title": "Arm is releasing the first in-house chip in its 35-year history",
     "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-576856756.jpg?resize=1200,840",
@@ -766,37 +798,5 @@
     "summary": "Atlassian宣布裁员约1600人，占员工总数10%，旨在将更多资金转向人工智能领域投资。",
     "date": "2026-03-12 18:30",
     "timestamp": 1773340214.5775828
-  },
-  {
-    "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
-    "link": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/perplexitypc-1152x648.png",
-    "summary": "Perplexity称用户文件访问在\"具备明确安全措施的受保护环境\"中进行，确保数据安全。",
-    "date": "2026-03-12 18:30",
-    "timestamp": 1773340217.3544936
-  },
-  {
-    "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-    "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/9F2166B5-426E-4607-AF98-65A31AD8FDB7IMG_8309.jpeg?resize=1200,802",
-    "summary": "Benchmark合伙人Randell指出，企业自动化是当前AI领域最大的发展机遇。",
-    "date": "2026-03-12 15:38",
-    "timestamp": 1773329922.7351959
-  },
-  {
-    "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content",
-    "link": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/alexa-plus.jpeg?resize=1200,675",
-    "summary": "微软新AI助手Sassy风格可调侃用户，但功能仅限于娱乐互动。",
-    "date": "2026-03-12 15:38",
-    "timestamp": 1773329925.2373767
-  },
-  {
-    "title": "Wonderful raises $150M Series B at $2B valuation",
-    "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Wonderful-Founders.png?resize=1200,800",
-    "summary": "Wonderful公司继四个月前完成1亿美元A轮融资后，近日再获由Insight Partners领投的新一轮融资。",
-    "date": "2026-03-12 15:38",
-    "timestamp": 1773329928.2631235
   }
 ]
