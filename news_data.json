@@ -1,5 +1,13 @@
 [
   {
+    "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+    "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SiftExplore_Crop.jpg?resize=1200,1070",
+    "summary": "Sift公司致力于构建面向先进制造业的数据基础设施平台。",
+    "date": "2026-03-25 14:02",
+    "timestamp": 1774447341.6391299
+  },
+  {
     "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
     "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Lucid-Bots.png?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "孔雀平台将借助AI视频、竖屏短片及手游等新功能推动业务增长。",
     "date": "2026-03-13 15:26",
     "timestamp": 1773415565.8833082
-  },
-  {
-    "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-    "link": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2174694566.jpg?resize=1200,800",
-    "summary": "AI初创创始人彼得·萨林在将公司以6.65亿美元出售给AMD后，再创立量子计算基础设施公司QuTwo，致力于为企业构建未来量子计算所需的基础设施。",
-    "date": "2026-03-13 06:31",
-    "timestamp": 1773383470.8543272
   }
 ]
