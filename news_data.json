@@ -1,5 +1,29 @@
 [
   {
+    "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
+    "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Granola-home.jpeg?resize=1200,675",
+    "summary": "食品科技公司Granola完成新一轮融资，估值从2.5亿美元跃升至15亿美元。公司还针对用户反馈，加强了对AI智能体的功能支持。",
+    "date": "2026-03-25 15:47",
+    "timestamp": 1774453661.882242
+  },
+  {
+    "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
+    "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
+    "summary": "Meta CEO扎克伯格在内部备忘录中表示，中小企业始终是公司商业模式的重要组成部分。目前已有数千万企业家通过Meta平台拓展业务、连接客户，公司未来将在此领域加大投入力度。",
+    "date": "2026-03-25 15:47",
+    "timestamp": 1774453665.1669955
+  },
+  {
+    "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
+    "link": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
+    "summary": "Meta在旗下应用内购物时启用生成式AI，为用户提供更丰富的产品与品牌信息。",
+    "date": "2026-03-25 15:47",
+    "timestamp": 1774453667.6096623
+  },
+  {
     "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
     "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/SiftExplore_Crop.jpg?resize=1200,1070",
@@ -774,29 +798,5 @@
     "summary": "开源开发者Gavriel Cohen的项目在数周内获得业界认可，并与Docker达成合作，堪称开源梦想的典范。",
     "date": "2026-03-13 17:20",
     "timestamp": 1773422432.3126738
-  },
-  {
-    "title": "Spotify will let you edit your Taste Profile to control your recommendations",
-    "link": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
-    "summary": "编辑个人音乐品味档案将影响“发现每周”、个性化推荐及年度总结等定制歌单。",
-    "date": "2026-03-13 17:20",
-    "timestamp": 1773422434.8134096
-  },
-  {
-    "title": "The $32B acquisition that one VC is calling the ‘Deal of the Decade’",
-    "link": "https://techcrunch.com/video/the-32b-acquisition-that-one-vc-is-calling-the-deal-of-the-decade/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024",
-    "summary": "网络安全初创公司Wiz凭借AI、云和安全支出三大趋势，在经历收购波折与反垄断审查后，最终被谷歌以320亿美元收购，创下风险投资支持企业收购纪录。",
-    "date": "2026-03-13 17:20",
-    "timestamp": 1773422438.7962508
-  },
-  {
-    "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-    "link": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Peacock-newfeatures2026.png?w=1200",
-    "summary": "孔雀平台将借助AI视频、竖屏短片及手游等新功能推动业务增长。",
-    "date": "2026-03-13 15:26",
-    "timestamp": 1773415565.8833082
   }
 ]
