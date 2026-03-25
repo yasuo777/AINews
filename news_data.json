@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+    "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/05/section_homepage_bg_2.jpg?resize=1200,675",
+    "summary": "谷歌发布TurboQuant算法，可将AI工作内存压缩至1/6，引发网友对《硅谷》剧中技术的联想。目前该技术仍处实验室阶段。",
+    "date": "2026-03-25 21:06",
+    "timestamp": 1774472813.6430795
+  },
+  {
+    "title": "Melania Trump wants a robot to homeschool your child",
+    "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268315984.jpg?resize=1200,800",
+    "summary": "美国第一夫人表示，人工智能与机器人技术将在未来美国教育中发挥重要作用。",
+    "date": "2026-03-25 21:06",
+    "timestamp": 1774472815.077014
+  },
+  {
     "title": "Bernie Sanders and AOC propose a ban on data center construction",
     "link": "https://techcrunch.com/2026/03/25/bernie-sanders-and-aoc-propose-a-ban-on-data-center-construction/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-688308688.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI聊天机器人被指与自杀事件相关多年。近期有律师指出，其已涉及大规模伤亡案件，且技术发展速度已超过安全防护措施。",
     "date": "2026-03-14 03:14",
     "timestamp": 1773458069.864202
-  },
-  {
-    "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
-    "link": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "数据基础设施初创公司完成530万美元种子轮融资，由Wischoff Ventures和South Park Commons领投。",
-    "date": "2026-03-13 22:00",
-    "timestamp": 1773439206.5504665
-  },
-  {
-    "title": "Figuring out why AIs get flummoxed by some games",
-    "link": "https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2230224523-1152x648.jpg",
-    "summary": "AI在依赖直觉推断数学函数时表现不佳，难以胜任此类任务。",
-    "date": "2026-03-13 22:00",
-    "timestamp": 1773439209.4282155
   }
 ]
