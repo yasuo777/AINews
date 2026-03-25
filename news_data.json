@@ -1,5 +1,13 @@
 [
   {
+    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0605.jpeg?resize=1200,900",
+    "summary": "Anthropic研究显示，AI尚未大规模替代岗位，但早期数据表明熟练使用者正获得优势，可能加剧职场不平等，引发对未来劳动力分化的担忧。",
+    "date": "2026-03-25 22:06",
+    "timestamp": 1774476364.512075
+  },
+  {
     "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
     "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/05/section_homepage_bg_2.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "AI实验室正重组AI编程工具开发项目，并引入两位来自Cursor的新高管以强化团队。",
     "date": "2026-03-14 03:14",
     "timestamp": 1773458066.749972
-  },
-  {
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "link": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800",
-    "summary": "AI聊天机器人被指与自杀事件相关多年。近期有律师指出，其已涉及大规模伤亡案件，且技术发展速度已超过安全防护措施。",
-    "date": "2026-03-14 03:14",
-    "timestamp": 1773458069.864202
   }
 ]
