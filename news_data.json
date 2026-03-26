@@ -1,5 +1,13 @@
 [
   {
+    "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+    "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265459578.jpg?w=1024",
+    "summary": "担忧AI取代就业的情绪加剧，正引发对数据中心的抵制。参议员马克·华纳提议对其征税，以协助劳动者度过转型期。",
+    "date": "2026-03-26 12:38",
+    "timestamp": 1774528693.6544006
+  },
+  {
     "title": "Mistral releases a new open-source model for speech generation",
     "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Index Ventures合伙人解析谷歌史上最大收购案——对摩托罗拉移动的125亿美元并购。",
     "date": "2026-03-15 15:57",
     "timestamp": 1773590255.330968
-  },
-  {
-    "title": "US Army announces contract with Anduril worth up to $20B",
-    "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152503982-e.jpg?resize=1200,800",
-    "summary": "美国陆军将逾120项独立采购行动整合为单一企业合同，以简化采购流程。",
-    "date": "2026-03-14 20:58",
-    "timestamp": 1773521892.688537
   }
 ]
