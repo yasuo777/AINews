@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mistral releases a new open-source model for speech generation",
+    "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+    "summary": "法国AI公司Mistral发布新款语音模型，可在智能手表或智能手机等设备本地运行，无需依赖云端处理。",
+    "date": "2026-03-26 11:33",
+    "timestamp": 1774524807.2526233
+  },
+  {
     "title": "The least surprising chapter of the Manus story is what’s happening right now",
     "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2170596427.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "美国陆军将逾120项独立采购行动整合为单一企业合同，以简化采购流程。",
     "date": "2026-03-14 20:58",
     "timestamp": 1773521892.688537
-  },
-  {
-    "title": "Meta reportedly considering layoffs that could affect 20% of the company",
-    "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
-    "summary": "脸书母公司或通过裁员以平衡其在AI基础设施、收购及招聘方面的巨额投入。",
-    "date": "2026-03-14 17:00",
-    "timestamp": 1773507656.4962404
   }
 ]
