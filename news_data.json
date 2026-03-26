@@ -1,5 +1,21 @@
 [
   {
+    "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
+    "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Conntour-team.jpg?resize=1200,800",
+    "summary": "Conntour公司推出AI系统，允许安防团队通过自然语言查询监控画面，快速定位特定对象、人员或事件。",
+    "date": "2026-03-26 14:11",
+    "timestamp": 1774534295.4180987
+  },
+  {
+    "title": "Cohere launches an open-source voice model specifically for transcription",
+    "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/260325_TranscribeLaunch_Hero.jpeg?resize=1200,600",
+    "summary": "Meta推出轻量级AI模型Llama 3.1，仅20亿参数，支持消费级GPU本地部署，目前兼容14种语言。",
+    "date": "2026-03-26 14:11",
+    "timestamp": 1774534297.898134
+  },
+  {
     "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
     "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265459578.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "据报道，该公司为规避法律风险，正由工程师与法务团队协同处理，故推迟产品发布。",
     "date": "2026-03-15 21:56",
     "timestamp": 1773611765.8969202
-  },
-  {
-    "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
-    "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800",
-    "summary": "AI聊天机器人被指与自杀事件相关多年。近期有律师指出，其已出现在大规模伤亡案件中，技术发展速度已超过安全防护措施。",
-    "date": "2026-03-15 19:07",
-    "timestamp": 1773601636.266149
-  },
-  {
-    "title": "Wiz investor unpacks Google’s $32B acquisition",
-    "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024",
-    "summary": "Index Ventures合伙人解析谷歌史上最大收购案——对摩托罗拉移动的125亿美元并购。",
-    "date": "2026-03-15 15:57",
-    "timestamp": 1773590255.330968
   }
 ]
