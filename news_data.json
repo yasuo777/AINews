@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+    "summary": "过去一周内，该AI初创公司已连续终止多个副业项目。",
+    "date": "2026-03-26 18:40",
+    "timestamp": 1774550404.0435264
+  },
+  {
+    "title": "Data centers get ready — the Senate wants to see your power bills",
+    "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-950173010.jpg?resize=1200,861",
+    "summary": "美国两党参议员霍利和沃伦提议，要求能源信息署加强对数据中心用电情况及电网影响的调查。",
+    "date": "2026-03-26 18:40",
+    "timestamp": 1774550405.9417691
+  },
+  {
     "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
     "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/imgi_30_7d51e3a4c1434d7f9b2708a619f3783ftplv-2zwwjm3azk-image.webp?resize=1200,853",
@@ -782,21 +798,5 @@
     "summary": "《大英百科全书》与韦氏词典指控OpenAI未经授权使用近10万篇文章训练大模型，涉嫌侵犯版权。",
     "date": "2026-03-16 17:40",
     "timestamp": 1773682845.633535
-  },
-  {
-    "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote — and what to expect",
-    "link": "https://techcrunch.com/2026/03/16/nvidia-gtc-how-to-watch-jensen-huang-2026-keynote/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761844.jpg?resize=1200,846",
-    "summary": "英伟达年度盛会GTC开幕，CEO黄仁勋将发表主题演讲，阐述公司在计算与人工智能领域的未来布局及新品规划。",
-    "date": "2026-03-16 15:43",
-    "timestamp": 1773675788.1029363
-  },
-  {
-    "title": "Google, Accel India accelerator chooses 5 startups and none are ‘AI wrappers’",
-    "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/Copy-of-Prayank-Swaroop.jpg?resize=1200,800",
-    "summary": "谷歌与Accel在审核其Atoms加速器项目的4000多份申请时指出，约70%来自印度的人工智能初创企业方案仅为现有技术的“包装式应用”。",
-    "date": "2026-03-16 03:45",
-    "timestamp": 1773632733.4984248
   }
 ]
