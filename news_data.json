@@ -1,5 +1,21 @@
 [
   {
+    "title": "The least surprising chapter of the Manus story is what’s happening right now",
+    "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2170596427.jpg?resize=1200,799",
+    "summary": "针对此次合作引发争议，外界普遍认为其潜在风险与影响必将受到审视与清算。",
+    "date": "2026-03-26 03:39",
+    "timestamp": 1774496350.5691326
+  },
+  {
+    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
+    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/deccan-ai-founder-rukesh-reddy.jpg?resize=1200,800",
+    "summary": "Deccan AI将团队集中于印度，以在快速增长但分散的AI训练市场中把控质量。",
+    "date": "2026-03-26 03:39",
+    "timestamp": 1774496352.2993252
+  },
+  {
     "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
     "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0605.jpeg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "脸书母公司或通过裁员以平衡其在AI基础设施、收购及招聘方面的巨额投入。",
     "date": "2026-03-14 17:00",
     "timestamp": 1773507656.4962404
-  },
-  {
-    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-    "link": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI宣布ChatGPT新增应用内操作功能，用户现可直接在聊天界面使用Spotify、Canva、Figma及Expedia等第三方应用服务。",
-    "date": "2026-03-14 13:31",
-    "timestamp": 1773495097.8462958
-  },
-  {
-    "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
-    "link": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
-    "summary": "AI实验室正重组AI编程工具开发项目，并引入两位来自Cursor的新高管以强化团队。",
-    "date": "2026-03-14 03:14",
-    "timestamp": 1773458066.749972
   }
 ]
