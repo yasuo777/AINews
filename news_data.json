@@ -1,5 +1,29 @@
 [
   {
+    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
+    "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
+    "summary": "肯塔基州一82岁女性拒绝AI公司2600万美元购地建数据中心提案。尽管企业仍可尝试变更周边2000英亩土地用途，但随着AI基础设施不断扩张，现实世界的阻力正日益显现。",
+    "date": "2026-03-27 16:32",
+    "timestamp": 1774629149.4255276
+  },
+  {
+    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
+    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+    "summary": "肯塔基州一名82岁女性拒绝了AI公司2600万美元购地建数据中心的报价。随着AI基础设施不断扩张，现实世界的阻力正日益显现，凸显出技术发展与地方利益间的普遍矛盾。",
+    "date": "2026-03-27 16:32",
+    "timestamp": 1774629152.7414556
+  },
+  {
+    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
+    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2203859648.jpg?w=1024",
+    "summary": "萨克斯在特朗普第二届政府中的影响力将远不如初期，距华盛顿权力中心更远。",
+    "date": "2026-03-27 16:32",
+    "timestamp": 1774629155.2182584
+  },
+  {
     "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
     "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "英伟达CEO黄仁勋预计，公司芯片订单总额将达1万亿美元。",
     "date": "2026-03-16 22:04",
     "timestamp": 1773698682.621588
-  },
-  {
-    "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
-    "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265791303.jpg?w=1024",
-    "summary": "美国参议员沃伦指出，xAI公司聊天机器人Grok生成有害内容，对用户构成威胁并存在国家安全风险。",
-    "date": "2026-03-16 21:21",
-    "timestamp": 1773696074.4045384
-  },
-  {
-    "title": "Memories AI is building the visual memory layer for wearables and robotics",
-    "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/memroies-ai.jpg?resize=1200,800",
-    "summary": "Memories.ai正开发大型视觉记忆模型，可为实体AI索引并检索视频记忆，旨在构建可回放记忆的智能系统。",
-    "date": "2026-03-16 21:21",
-    "timestamp": 1773696076.136517
-  },
-  {
-    "title": "New \"vibe coded\" AI translation tool splits the video game preservation community",
-    "link": "https://arstechnica.com/ai/2026/03/new-vibe-coded-ai-translation-tool-splits-the-video-game-preservation-community/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2241764468-1152x648.jpg",
-    "summary": "创作者挪用Patreon众筹资金开发Gemini杂志扫描处理器后公开致歉。",
-    "date": "2026-03-16 20:19",
-    "timestamp": 1773692394.244723
   }
 ]
