@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why SoftBank’s new $40B loan points to a 2026 OpenAI IPO",
+    "link": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+    "summary": "摩根大通与高盛向日本某综合企业集团提供12个月期无抵押贷款。",
+    "date": "2026-03-27 22:00",
+    "timestamp": 1774648831.3530107
+  },
+  {
+    "title": "OpenAI brings plugins to Codex, closing some of the gap with Claude Code",
+    "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-1152x648.jpg",
+    "summary": "竞争对手已推出类似产品，市场发展迅速。",
+    "date": "2026-03-27 22:00",
+    "timestamp": 1774648833.1883852
+  },
+  {
     "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
     "link": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-1024x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "公司推出新产品Gamma Imagine，支持用户通过文本提示生成品牌专属资产，包括交互图表、营销物料、社交媒体图文及信息图等。",
     "date": "2026-03-17 14:03",
     "timestamp": 1773756235.8431454
-  },
-  {
-    "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-    "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Niv-AI-Founding-Team.jpeg?resize=1200,800",
-    "summary": "公司获1200万美元种子轮融资，用于监测与管理GPU功耗峰值。",
-    "date": "2026-03-17 14:03",
-    "timestamp": 1773756238.0351477
-  },
-  {
-    "title": "Picsart now allows creators to ‘hire’ AI assistants through agent marketplace",
-    "link": "https://techcrunch.com/2026/03/16/picsart-now-allows-creators-to-hire-ai-assistants-through-agent-marketplace/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Agents-Hero-Image.png?w=1200",
-    "summary": "Picsart将推出AI智能体市场，初期上线四款智能体，并计划每周持续增加新功能。",
-    "date": "2026-03-17 05:11",
-    "timestamp": 1773724310.657187
   }
 ]
