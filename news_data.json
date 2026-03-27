@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
+    "link": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-1024x648.jpg",
+    "summary": "美国战争部将AI公司Anthropic列入黑名单，但未能提供明确理由，仅回应“我不知道”，引发对审查透明度的质疑。",
+    "date": "2026-03-27 20:03",
+    "timestamp": 1774641821.750126
+  },
+  {
     "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
     "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
@@ -790,13 +798,5 @@
     "summary": "Picsart将推出AI智能体市场，初期上线四款智能体，并计划每周持续增加新功能。",
     "date": "2026-03-17 05:11",
     "timestamp": 1773724310.657187
-  },
-  {
-    "title": "Nvidia’s version of OpenClaw could solve its biggest problem: security",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-    "summary": "英伟达发布企业级AI代理平台NemoClaw，基于开源项目OpenClaw构建，旨在为企业提供开放的智能体开发解决方案。",
-    "date": "2026-03-16 23:00",
-    "timestamp": 1773702040.1157808
   }
 ]
