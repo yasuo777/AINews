@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
+    "link": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "summary": "美国联邦法官裁定，特朗普政府须撤销近期对某人工智能公司施加的限制措施。",
+    "date": "2026-03-27 03:40",
+    "timestamp": 1774582854.9916067
+  },
+  {
     "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
     "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "创作者挪用Patreon众筹资金开发Gemini杂志扫描处理器后公开致歉。",
     "date": "2026-03-16 20:19",
     "timestamp": 1773692394.244723
-  },
-  {
-    "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
-    "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-    "summary": "三名原告代表所有未成年真实影像被Grok篡改为色情内容的受害者，对该平台提起集体诉讼。",
-    "date": "2026-03-16 19:39",
-    "timestamp": 1773689946.828464
   }
 ]
