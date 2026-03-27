@@ -1,5 +1,13 @@
 [
   {
+    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
+    "summary": "谷歌推出\"切换工具\"，旨在简化用户从其他聊天机器人迁移至Gemini的流程。",
+    "date": "2026-03-27 00:00",
+    "timestamp": 1774569646.239185
+  },
+  {
     "title": "Wikipedia cracks down on the use of AI in article writing",
     "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "三名原告代表所有未成年真实影像被Grok篡改为色情内容的受害者，对该平台提起集体诉讼。",
     "date": "2026-03-16 19:39",
     "timestamp": 1773689946.828464
-  },
-  {
-    "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
-    "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/nvidia-dlss-5.jpeg?resize=1200,675",
-    "summary": "英伟达发布DLSS 5技术，通过生成式AI与结构化图形数据提升游戏画质。CEO黄仁勋表示，该技术未来有望拓展至其他行业。",
-    "date": "2026-03-16 19:39",
-    "timestamp": 1773689948.9580634
   }
 ]
