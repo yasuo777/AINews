@@ -1,5 +1,13 @@
 [
   {
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+    "summary": "斯坦福大学研究团队针对AI阿谀倾向的危害性展开量化评估，旨在科学衡量其潜在风险。",
+    "date": "2026-03-28 21:00",
+    "timestamp": 1774731634.3527513
+  },
+  {
     "title": "Elon Musk’s last co-founder reportedly leaves xAI",
     "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI与AWS达成合作，将向美国政府提供AI系统，用于处理涉密及非涉密任务。此举标志着其继上月与五角大楼合作后，进一步拓展政府业务。",
     "date": "2026-03-17 15:42",
     "timestamp": 1773762144.2529497
-  },
-  {
-    "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
-    "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/sxsw-2026-el-Kaliouby-.jpg?resize=1200,672",
-    "summary": "AI投资者Rana el Kaliouby警告，若女性在AI融资与领导层中被边缘化，将导致严重后果。",
-    "date": "2026-03-17 15:42",
-    "timestamp": 1773762146.5424492
   }
 ]
