@@ -1,5 +1,13 @@
 [
   {
+    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+    "summary": "马斯克的xAI公司11位联合创始人中，除两人外均已在本周前离职。",
+    "date": "2026-03-28 17:03",
+    "timestamp": 1774717390.640778
+  },
+  {
     "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
     "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "AI投资者Rana el Kaliouby警告，若女性在AI融资与领导层中被边缘化，将导致严重后果。",
     "date": "2026-03-17 15:42",
     "timestamp": 1773762146.5424492
-  },
-  {
-    "title": "World launches tool to verify humans behind AI shopping agents",
-    "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-2139240522.jpg?w=1024",
-    "summary": "奥特曼旗下初创公司拟拓展验证服务，以支持人工智能代理主导的电商交易。",
-    "date": "2026-03-17 15:42",
-    "timestamp": 1773762148.5291588
   }
 ]
