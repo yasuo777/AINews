@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+    "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800",
+    "summary": "Bluesky推出AI应用Attie，基于AT协议帮助用户创建个性化信息流。",
+    "date": "2026-03-28 23:00",
+    "timestamp": 1774738828.6801734
+  },
+  {
     "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
     "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌AI助手推出“个人智能”功能，可接入Gmail、相册等谷歌生态数据，以提供更个性化的定制化服务。",
     "date": "2026-03-17 17:39",
     "timestamp": 1773769167.4849381
-  },
-  {
-    "title": "OpenAI expands government footprint with AWS deal, report says",
-    "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264785627.jpg?w=1024",
-    "summary": "OpenAI与AWS达成合作，将向美国政府提供AI系统，用于处理涉密及非涉密任务。此举标志着其继上月与五角大楼合作后，进一步拓展政府业务。",
-    "date": "2026-03-17 15:42",
-    "timestamp": 1773762144.2529497
   }
 ]
