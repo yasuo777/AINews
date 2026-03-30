@@ -1,5 +1,13 @@
 [
   {
+    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+    "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "summary": "美国AI应用增长迅速，但奎尼皮亚克大学最新民调显示，公众信任度仍低，主要担忧透明度不足、监管缺失及技术对社会的影响。",
+    "date": "2026-03-30 20:26",
+    "timestamp": 1774902413.481985
+  },
+  {
     "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
     "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/09/brain_pills.jpg?resize=1200,899",
@@ -790,13 +798,5 @@
     "summary": "谷歌Workspace集成Gemini AI，新增邮件总结、内容草拟、数据整理及会议追踪等智能化功能，提升办公效率。",
     "date": "2026-03-18 17:42",
     "timestamp": 1773855751.9264688
-  },
-  {
-    "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
-    "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?resize=1200,771",
-    "summary": "随着AI模型竞争加剧，Arena平台已成为前沿大模型事实上的公共排行榜，七个月内从伯克利研究项目发展为影响行业融资、产品发布与公关周期的关键标尺。",
-    "date": "2026-03-18 17:42",
-    "timestamp": 1773855754.9227722
   }
 ]
