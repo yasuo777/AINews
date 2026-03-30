@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
+    "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/brain_pills.jpg?resize=1200,899",
+    "summary": "Mantis公司整合多源数据生成合成数据集，用于构建人体\"数字孪生\"，涵盖解剖结构、生理机能与行为特征。",
+    "date": "2026-03-30 15:52",
+    "timestamp": 1774885962.7174687
+  },
+  {
     "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
     "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "随着AI模型竞争加剧，Arena平台已成为前沿大模型事实上的公共排行榜，七个月内从伯克利研究项目发展为影响行业融资、产品发布与公关周期的关键标尺。",
     "date": "2026-03-18 17:42",
     "timestamp": 1773855754.9227722
-  },
-  {
-    "title": "Microsoft hires the team of Sequioa-backed AI collaboration platform, Cove",
-    "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?resize=1200,900",
-    "summary": "AI协作初创公司Cove因团队整体加入微软而关闭，服务将于4月1日终止，客户数据将被删除。",
-    "date": "2026-03-18 15:50",
-    "timestamp": 1773849040.2430995
   }
 ]
