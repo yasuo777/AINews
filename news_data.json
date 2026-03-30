@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why OpenAI really shut down Sora",
+    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+    "summary": "OpenAI上周突然关闭仅发布半年的AI视频生成工具Sora，引发外界对其收集用户面部数据的质疑。",
+    "date": "2026-03-30 03:50",
+    "timestamp": 1774842626.3456655
+  },
+  {
     "title": "Sora’s shutdown could be a reality check moment for AI video",
     "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
@@ -790,13 +798,5 @@
     "summary": "Anthropic与五角大楼关系破裂后，双方暂无恢复合作的迹象。",
     "date": "2026-03-17 18:36",
     "timestamp": 1773772600.361606
-  },
-  {
-    "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
-    "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SXSW-buzzfeed-3.jpg?resize=1200,969",
-    "summary": "BuzzFeed在SXSW发布多款AI社交应用，但现场反响平淡。",
-    "date": "2026-03-17 17:39",
-    "timestamp": 1773769165.10101
   }
 ]
