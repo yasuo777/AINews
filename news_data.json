@@ -1,5 +1,13 @@
 [
   {
+    "title": "15% of Americans say they’d be willing to work for an AI boss",
+    "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/id-work.jpg?resize=1200,828",
+    "summary": "人工智能正推动“管理扁平化”，以聊天机器人取代部分中层管理岗位，重塑企业组织结构。",
+    "date": "2026-03-30 22:07",
+    "timestamp": 1774908455.2787528
+  },
+  {
     "title": "As more Americans adopt AI tools, fewer say they can trust the results",
     "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "Rebel Audio推出全新一体化播客工具，支持创作者在单平台内完成录制、剪辑、社交内容截取及节目发布全流程。",
     "date": "2026-03-18 17:42",
     "timestamp": 1773855749.7421968
-  },
-  {
-    "title": "The Gemini-powered features in Google Workspace that are worth using",
-    "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
-    "summary": "谷歌Workspace集成Gemini AI，新增邮件总结、内容草拟、数据整理及会议追踪等智能化功能，提升办公效率。",
-    "date": "2026-03-18 17:42",
-    "timestamp": 1773855751.9264688
   }
 ]
