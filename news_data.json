@@ -1,5 +1,29 @@
 [
   {
+    "title": "ScaleOps raises $130M to improve computing efficiency amid AI demand",
+    "link": "https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1136663877.jpg?resize=1200,800",
+    "summary": "ScaleOps获1.3亿美元融资，通过实时自动化基础设施管理，应对GPU短缺与AI云成本飙升问题。",
+    "date": "2026-03-30 14:12",
+    "timestamp": 1774879970.620114
+  },
+  {
+    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "link": "https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+    "summary": "AI芯片初创公司计划年内上市，其专注于AI推理芯片设计，成为英伟达市场主导地位的新挑战者。",
+    "date": "2026-03-30 14:12",
+    "timestamp": 1774879973.0327904
+  },
+  {
+    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
+    "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+    "summary": "法国AI公司Mistral计划于2026年第二季度启动其数据中心运营。",
+    "date": "2026-03-30 14:12",
+    "timestamp": 1774879975.0106454
+  },
+  {
     "title": "Qodo raises $70M for code verification as AI coding scales",
     "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2080252145.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "AI协作初创公司Cove因团队整体加入微软而关闭，服务将于4月1日终止，客户数据将被删除。",
     "date": "2026-03-18 15:50",
     "timestamp": 1773849040.2430995
-  },
-  {
-    "title": "The PhD students who became the judges of the AI industry",
-    "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-    "summary": "随着AI模型竞争加剧，Arena平台已成为评估前沿大模型的关键公共排行榜，七个月内从学术项目发展为影响行业融资、产品发布的重要标杆。",
-    "date": "2026-03-18 15:50",
-    "timestamp": 1773849042.696473
-  },
-  {
-    "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
-    "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264385089.jpg?w=1024",
-    "summary": "美国国防部以担忧Anthropic公司可能在战时“试图瘫痪其技术”为由，认定该AI企业构成供应链风险。",
-    "date": "2026-03-18 14:04",
-    "timestamp": 1773842690.5879169
-  },
-  {
-    "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
-    "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-    "summary": "法国AI公司Mistral推出Mistral Forge平台，支持企业使用自有数据从零训练定制模型，突破了依赖微调和检索增强的主流方案，为行业提供全新私有化AI构建路径。",
-    "date": "2026-03-17 22:05",
-    "timestamp": 1773785102.5060396
   }
 ]
