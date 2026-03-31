@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+    "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/founder_photo.jpeg?resize=1200,793",
+    "summary": "该公司运用深度学习模型，将机器人拍摄的影像转化为结构化、可检索的数据集。",
+    "date": "2026-03-31 15:49",
+    "timestamp": 1774972173.5525098
+  },
+  {
     "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
     "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_5963.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "Multiverse Computing公司近日推出应用与API服务，通过压缩OpenAI、Meta等主流AI模型，降低使用门槛，提升模型部署效率。",
     "date": "2026-03-19 08:06",
     "timestamp": 1773907607.2366521
-  },
-  {
-    "title": "Meta is having trouble with rogue AI agents",
-    "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "Meta公司AI系统出现漏洞，意外将内部及用户数据泄露给未授权工程师。",
-    "date": "2026-03-18 23:57",
-    "timestamp": 1773878250.3165863
   }
 ]
