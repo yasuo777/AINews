@@ -1,5 +1,13 @@
 [
   {
+    "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+    "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/food-order-cart-echo-show-amazon-news-nb-033126.png?w=1200",
+    "summary": "亚马逊推出Alexa+语音点餐服务，用户可通过语音助手直接订购Uber Eats和Grubhub外卖，体验模拟餐厅对话或汽车餐厅点餐流程。",
+    "date": "2026-03-31 18:36",
+    "timestamp": 1774982185.3941586
+  },
+  {
     "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
     "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/founder_photo.jpeg?resize=1200,793",
@@ -790,13 +798,5 @@
     "summary": "亚马逊在英国推出Alexa+早期体验计划，用户可免费试用新版语音助手。",
     "date": "2026-03-19 13:53",
     "timestamp": 1773928428.779271
-  },
-  {
-    "title": "Multiverse Computing pushes its compressed AI models into the mainstream",
-    "link": "https://techcrunch.com/2026/03/19/multiverse-computing-pushes-its-compressed-ai-models-into-the-mainstream/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2219202029.jpg?resize=1200,800",
-    "summary": "Multiverse Computing公司近日推出应用与API服务，通过压缩OpenAI、Meta等主流AI模型，降低使用门槛，提升模型部署效率。",
-    "date": "2026-03-19 08:06",
-    "timestamp": 1773907607.2366521
   }
 ]
