@@ -1,5 +1,13 @@
 [
   {
+    "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+    "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211180761.jpg?w=1024",
+    "summary": "Slack just got a whole lot more useful.",
+    "date": "2026-03-31 23:03",
+    "timestamp": 1774998215.5674255
+  },
+  {
     "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
     "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta表示，其AI系统能更精准地识别违规行为，有效防范诈骗，快速响应现实事件，并减少过度处理。",
     "date": "2026-03-19 17:41",
     "timestamp": 1773942070.9199872
-  },
-  {
-    "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
-    "link": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-    "summary": "快递员可通过拍摄日常任务或外语口语视频等行为赚取额外收入。",
-    "date": "2026-03-19 16:38",
-    "timestamp": 1773938292.6257083
   }
 ]
