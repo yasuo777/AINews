@@ -1,5 +1,21 @@
 [
   {
+    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
+    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/id-work.jpg?resize=1200,828",
+    "summary": "一项民调显示，15%的美国成年人表示愿意接受由AI程序直接管理工作的岗位，该程序负责分配任务与制定日程。",
+    "date": "2026-03-31 00:03",
+    "timestamp": 1774915387.5123222
+  },
+  {
+    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+    "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
+    "summary": "LiteLLM在通过Delve获得两项安全合规认证后，上周遭恶意软件攻击致凭证泄露。",
+    "date": "2026-03-31 00:03",
+    "timestamp": 1774915389.1699562
+  },
+  {
     "title": "15% of Americans say they’d be willing to work for an AI boss",
     "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/id-work.jpg?resize=1200,828",
@@ -782,21 +798,5 @@
     "summary": "英伟达上季度网络业务收入达110亿美元，虽关注度不及芯片与游戏板块，但表现强劲。",
     "date": "2026-03-18 20:04",
     "timestamp": 1773864278.7195206
-  },
-  {
-    "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
-    "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jack-conte-sxsw-1.jpg?resize=1200,800",
-    "summary": "Patreon CEO呼吁AI公司为训练数据付费，认为其从大型出版商获取内容授权后，合理使用辩护不再成立。",
-    "date": "2026-03-18 19:34",
-    "timestamp": 1773862452.1006656
-  },
-  {
-    "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
-    "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1297183927.jpg?resize=1200,800",
-    "summary": "Rebel Audio推出全新一体化播客工具，支持创作者在单平台内完成录制、剪辑、社交内容截取及节目发布全流程。",
-    "date": "2026-03-18 17:42",
-    "timestamp": 1773855749.7421968
   }
 ]
