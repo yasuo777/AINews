@@ -1,5 +1,29 @@
 [
   {
+    "title": "Exclusive: Runway launches $10M fund, Builders program to support early stage AI startups",
+    "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_5963.png?w=1200",
+    "summary": "AI视频公司Runway设立1000万美元基金及创业项目，旨在投资基于其AI视频模型开发应用的企业，以推动实时交互式“视频智能”应用的发展。",
+    "date": "2026-03-31 14:14",
+    "timestamp": 1774966449.587643
+  },
+  {
+    "title": "With its new app store, Ring bets on AI to go beyond home security",
+    "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb.jpg?w=1200",
+    "summary": "Ring应用商店将拓展业务范围，从安防延伸至老年看护、商业需求等更广泛场景。",
+    "date": "2026-03-31 14:14",
+    "timestamp": 1774966452.202949
+  },
+  {
+    "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
+    "link": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2259634870-1152x648.jpg",
+    "summary": "2023年一项研究对未来\"基于大语言模型的预期软件\"进行了多项假设性分析。",
+    "date": "2026-03-31 14:14",
+    "timestamp": 1774966455.0361037
+  },
+  {
     "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
     "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/id-work.jpg?resize=1200,828",
@@ -774,29 +798,5 @@
     "summary": "Meta公司AI系统出现漏洞，意外将内部及用户数据泄露给未授权工程师。",
     "date": "2026-03-18 23:57",
     "timestamp": 1773878250.3165863
-  },
-  {
-    "title": "Sam Altman’s thank-you to coders draws the memes",
-    "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "OpenAI首席执行官阿尔特曼发文致敬“从零写代码”的开发者，引发网友幽默调侃。",
-    "date": "2026-03-18 23:57",
-    "timestamp": 1773878252.0642045
-  },
-  {
-    "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-    "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Carl-Pei-Nothing.jpg?resize=1200,675",
-    "summary": "Nothing CEO裴宇表示，AI智能体将取代应用，未来手机会转向理解用户意图并主动执行任务的系统。",
-    "date": "2026-03-18 21:07",
-    "timestamp": 1773868075.4502928
-  },
-  {
-    "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-    "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2183848584.jpg?resize=1200,800",
-    "summary": "英伟达上季度网络业务收入达110亿美元，虽关注度不及芯片与游戏板块，但表现强劲。",
-    "date": "2026-03-18 20:04",
-    "timestamp": 1773864278.7195206
   }
 ]
