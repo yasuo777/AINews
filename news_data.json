@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic is having a month",
+    "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
+    "summary": "Anthropic本周再次因人为操作失误导致服务故障，系本周第二次。",
+    "date": "2026-04-01 00:02",
+    "timestamp": 1775001766.9905093
+  },
+  {
     "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
     "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
     "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211180761.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Cloudflare CEO预测，到2027年AI在线数量或超人类，生成式AI将大幅推高网络流量与基础设施需求。",
     "date": "2026-03-19 19:32",
     "timestamp": 1773948733.6289399
-  },
-  {
-    "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
-    "link": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-    "summary": "Meta表示，其AI系统能更精准地识别违规行为，有效防范诈骗，快速响应现实事件，并减少过度处理。",
-    "date": "2026-03-19 17:41",
-    "timestamp": 1773942070.9199872
   }
 ]
