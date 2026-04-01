@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "summary": "Anthropic高管承认操作失误，并撤回了大部分删除通知。",
+    "date": "2026-04-01 23:19",
+    "timestamp": 1775085591.4411924
+  },
+  {
     "title": "Meta’s natural gas binge could power South Dakota",
     "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "WordPress.com推出AI助手，旨在降低内容发布门槛，或将推动网络机器生成内容增长。",
     "date": "2026-03-20 17:22",
     "timestamp": 1774027342.526784
-  },
-  {
-    "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
-    "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2203859648.jpg?w=1024",
-    "summary": "特朗普政府发布人工智能监管框架，主张联邦立法优先于州法规，强调鼓励创新，并将儿童网络安全责任更多转向家长，同时为科技公司制定宽松监管规则。",
-    "date": "2026-03-20 16:23",
-    "timestamp": 1774023787.3532906
   }
 ]
