@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
+    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
+    "summary": "AI招聘初创企业确认遭遇安全事件，有黑客组织声称窃取其系统数据并实施勒索。",
+    "date": "2026-04-01 03:53",
+    "timestamp": 1775015590.4552448
+  },
+  {
     "title": "Anthropic is having a month",
     "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "亚马逊巨头启动新项目，旨在收购工业企业并运用AI技术进行升级改造。",
     "date": "2026-03-19 23:00",
     "timestamp": 1773961242.2312996
-  },
-  {
-    "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
-    "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/matthew-Prince-sxsw-2026-GettyImages-2266003867.jpg?w=1024",
-    "summary": "Cloudflare CEO预测，到2027年AI在线数量或超人类，生成式AI将大幅推高网络流量与基础设施需求。",
-    "date": "2026-03-19 19:32",
-    "timestamp": 1773948733.6289399
   }
 ]
