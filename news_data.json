@@ -1,5 +1,13 @@
 [
   {
+    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963244981_66492e96cc_6k.jpg?resize=1200,800",
+    "summary": "4月30日，StrictlyVC旧金山峰会将汇聚TDK Ventures、Replit等企业领袖，席位有限，需提前注册。",
+    "date": "2026-04-01 15:56",
+    "timestamp": 1775058975.9710062
+  },
+  {
     "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
     "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI会议记录设备可将音频转录为文字，并自动生成摘要与待办事项，部分型号还支持实时翻译功能。",
     "date": "2026-03-20 11:58",
     "timestamp": 1774007891.4122806
-  },
-  {
-    "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
-    "link": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-184123956.jpg?resize=1200,800",
-    "summary": "亚马逊巨头启动新项目，旨在收购工业企业并运用AI技术进行升级改造。",
-    "date": "2026-03-19 23:00",
-    "timestamp": 1773961242.2312996
   }
 ]
