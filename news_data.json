@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200",
+    "summary": "该公司宣称其技术可将芯片开发成本降低超75%，并将研发周期缩短一半以上。",
+    "date": "2026-04-01 17:33",
+    "timestamp": 1775064803.2846134
+  },
+  {
     "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
     "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963244981_66492e96cc_6k.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "电力供应已成为新建AI数据中心的关键瓶颈，这为投资者带来了新的机遇。",
     "date": "2026-03-20 13:45",
     "timestamp": 1774014323.4243755
-  },
-  {
-    "title": "These AI notetaking devices can help you record and transcribe your meetings",
-    "link": "https://techcrunch.com/2026/03/20/ai-notetaker-hardware-devices-pins-pendants-record-transcribe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Plaud-Note-Pro.jpg?resize=1200,675",
-    "summary": "AI会议记录设备可将音频转录为文字，并自动生成摘要与待办事项，部分型号还支持实时翻译功能。",
-    "date": "2026-03-20 11:58",
-    "timestamp": 1774007891.4122806
   }
 ]
