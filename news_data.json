@@ -1,5 +1,13 @@
 [
   {
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+    "summary": "MAI团队成立半年后发布多模态模型，可实现语音转文字及音像生成功能。",
+    "date": "2026-04-02 17:32",
+    "timestamp": 1775151131.6384506
+  },
+  {
     "title": "Google now lets you direct avatars through prompts in its Vids app",
     "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达CEO黄仁勋在本周GTC大会上发表主题演讲，预测至2027年AI芯片销售额将达1万亿美元，并提出企业需制定“开放战略”，强调公司在AI领域的核心地位。",
     "date": "2026-03-20 21:01",
     "timestamp": 1774040501.1737118
-  },
-  {
-    "title": "Nvidia has an OpenClaw strategy. Do you?",
-    "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-clawbot-gtc-getty.jpg?resize=1200,790",
-    "summary": "英伟达CEO黄仁勋在GTC大会上发表主题演讲，预测至2027年AI芯片销售额将达1万亿美元，并强调各企业需制定“OpenClaw战略”。",
-    "date": "2026-03-20 20:00",
-    "timestamp": 1774036828.9830205
   }
 ]
