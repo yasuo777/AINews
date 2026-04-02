@@ -1,5 +1,13 @@
 [
   {
+    "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
+    "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-1024x648.jpg",
+    "summary": "谷歌、Meta与Perplexity被指控为提升广告收入，共享数百万用户聊天数据。",
+    "date": "2026-04-02 21:06",
+    "timestamp": 1775164019.2133546
+  },
+  {
     "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
     "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "One of the first controversies of its kind.",
     "date": "2026-03-20 21:57",
     "timestamp": 1774043856.1250737
-  },
-  {
-    "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
-    "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
-    "summary": "微软正精简Windows系统中Copilot的入口点，首批调整涉及照片、小组件及记事本等应用。",
-    "date": "2026-03-20 21:01",
-    "timestamp": 1774040498.107203
   }
 ]
