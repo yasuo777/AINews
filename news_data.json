@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "谷歌在Vids应用中新增功能，支持用户自定义并指令化虚拟形象，用于视频创作。",
+    "date": "2026-04-02 16:37",
+    "timestamp": 1775147849.6928792
+  },
+  {
     "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
     "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英伟达CEO黄仁勋在GTC大会上发表主题演讲，预测至2027年AI芯片销售额将达1万亿美元，并强调各企业需制定“OpenClaw战略”。",
     "date": "2026-03-20 20:00",
     "timestamp": 1774036828.9830205
-  },
-  {
-    "title": "WordPress.com now lets AI agents write and publish posts, and more",
-    "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-    "summary": "WordPress.com推出AI助手，旨在降低内容发布门槛，或将推动网络机器生成内容增长。",
-    "date": "2026-03-20 17:22",
-    "timestamp": 1774027342.526784
   }
 ]
