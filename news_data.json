@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
+    "summary": "硅谷知名科技播客TBPN将保持独立运营，由首席政治策略师克里斯·莱恩负责监督。",
+    "date": "2026-04-02 19:33",
+    "timestamp": 1775158434.4353688
+  },
+  {
     "title": "Microsoft takes on AI rivals with three new foundational models",
     "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "微软正精简Windows系统中Copilot的入口点，首批调整涉及照片、小组件及记事本等应用。",
     "date": "2026-03-20 21:01",
     "timestamp": 1774040498.107203
-  },
-  {
-    "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
-    "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
-    "summary": "英伟达CEO黄仁勋在本周GTC大会上发表主题演讲，预测至2027年AI芯片销售额将达1万亿美元，并提出企业需制定“开放战略”，强调公司在AI领域的核心地位。",
-    "date": "2026-03-20 21:01",
-    "timestamp": 1774040501.1737118
   }
 ]
