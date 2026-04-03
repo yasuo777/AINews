@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+    "summary": "OpenAI首席营销官凯特·劳奇因专注癌症康复将暂时离职，计划康复后回归。",
+    "date": "2026-04-03 21:06",
+    "timestamp": 1775250361.1023493
+  },
+  {
+    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+    "summary": "AI公司Anthropic以4亿美元股票收购了隐秘生物科技初创公司Coefficient Bio。",
+    "date": "2026-04-03 21:06",
+    "timestamp": 1775250362.826978
+  },
+  {
+    "title": "Anthropic ramps up its political activities with a new PAC",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
+    "summary": "美国中期选举临近，新团体将资助支持其AI政策议程的候选人。",
+    "date": "2026-04-03 21:06",
+    "timestamp": 1775250364.488029
+  },
+  {
     "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
     "link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
@@ -774,29 +798,5 @@
     "summary": "亚马逊宣布向OpenAI投资500亿美元后，其云服务部门AWS随即邀请媒体独家探访了支撑此次合作的核心芯片实验室。",
     "date": "2026-03-22 13:30",
     "timestamp": 1774186224.5176342
-  },
-  {
-    "title": "Are AI tokens the new signing bonus or just a cost of doing business?",
-    "link": "https://techcrunch.com/2026/03/21/are-ai-tokens-the-new-signing-bonus-or-just-a-cost-of-doing-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1151746484.jpg?resize=1200,800",
-    "summary": "工程师或需审慎看待代币成为薪酬第四支柱的前景，不宜过早视其为明确利好。",
-    "date": "2026-03-22 06:29",
-    "timestamp": 1774160990.728618
-  },
-  {
-    "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
-    "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-    "summary": "哈珀柯林斯出版集团因担忧《害羞女孩》文本由AI生成，决定不予出版。",
-    "date": "2026-03-21 19:52",
-    "timestamp": 1774122749.4522173
-  },
-  {
-    "title": "Delve accused of misleading customers with ‘fake compliance’",
-    "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
-    "summary": "匿名举报指控合规初创公司Delve虚假宣传，致数百客户误信其产品符合隐私安全法规。",
-    "date": "2026-03-21 17:56",
-    "timestamp": 1774115762.5928462
   }
 ]
