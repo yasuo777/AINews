@@ -1,5 +1,13 @@
 [
   {
+    "title": "The Facebook insider building content moderation for the AI era",
+    "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Brett-Levenson_Ash-Bhardwaj_Moonbounce.png?resize=1200,800",
+    "summary": "AI初创公司Moonbounce获1200万美元融资，用于开发内容审核AI控制引擎，旨在将审核政策转化为稳定、可预测的AI行为。",
+    "date": "2026-04-03 15:26",
+    "timestamp": 1775229964.074002
+  },
+  {
     "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
     "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-1024x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI公司Anthropic向加州联邦法院提交声明，反驳美国防部对其构成“国家安全不可接受风险”的指控，称政府指控基于技术误解且未在谈判中提出。",
     "date": "2026-03-21 03:10",
     "timestamp": 1774062608.549794
-  },
-  {
-    "title": "Writer denies it, but publisher pulls horror novel after multiple allegations of AI use",
-    "link": "https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2248542236-1152x648-1774038851.jpg",
-    "summary": "One of the first controversies of its kind.",
-    "date": "2026-03-20 21:57",
-    "timestamp": 1774043856.1250737
   }
 ]
