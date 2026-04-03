@@ -1,5 +1,13 @@
 [
   {
+    "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
+    "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-1152x648.jpg",
+    "summary": "实验表明，多数人会不加批判地接受人工智能提供的错误答案。",
+    "date": "2026-04-03 22:01",
+    "timestamp": 1775253711.461881
+  },
+  {
     "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
     "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "匿名文章指控合规初创公司Delve通过虚假宣传，误导数百名客户相信其已满足隐私与安全法规要求。",
     "date": "2026-03-22 14:58",
     "timestamp": 1774191487.798082
-  },
-  {
-    "title": "An exclusive tour of Amazon’s Trainium lab, the chip that’s won over Anthropic, OpenAI, even Apple",
-    "link": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
-    "summary": "亚马逊宣布向OpenAI投资500亿美元后，其云服务部门AWS随即邀请媒体独家探访了支撑此次合作的核心芯片实验室。",
-    "date": "2026-03-22 13:30",
-    "timestamp": 1774186224.5176342
   }
 ]
