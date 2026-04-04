@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
+    "summary": "Anthropic宣布Claude Code订阅服务将涨价，用户通过OpenClaw等第三方工具使用其编程助手的成本将增加。",
+    "date": "2026-04-04 17:04",
+    "timestamp": 1775322296.4538376
+  },
+  {
     "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
     "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "当前国际形势下，基于中国模型进行技术开发面临显著的地缘政治风险与合规挑战。",
     "date": "2026-03-22 19:04",
     "timestamp": 1774206264.392064
-  },
-  {
-    "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
-    "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
-    "summary": "马斯克宣布特斯拉与SpaceX将合作开发芯片，但其过往承诺常未兑现。",
-    "date": "2026-03-22 16:59",
-    "timestamp": 1774198796.3499632
   }
 ]
