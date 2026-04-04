@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
+    "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
+    "summary": "Rainmaker证券总裁指出，私募二级市场交易活跃度空前，其中Anthropic交易最热，OpenAI份额下滑，而SpaceX即将进行的IPO预计将重塑市场格局。",
+    "date": "2026-04-04 03:24",
+    "timestamp": 1775273049.847255
+  },
+  {
     "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
     "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "马斯克宣布特斯拉与SpaceX将合作开发芯片，但其过往承诺常未兑现。",
     "date": "2026-03-22 16:59",
     "timestamp": 1774198796.3499632
-  },
-  {
-    "title": "Delve accused of misleading customers with ‘fake compliance’",
-    "link": "https://techcrunch.com/2026/03/22/delve-accused-of-misleading-customers-with-fake-compliance/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
-    "summary": "匿名文章指控合规初创公司Delve通过虚假宣传，误导数百名客户相信其已满足隐私与安全法规要求。",
-    "date": "2026-03-22 14:58",
-    "timestamp": 1774191487.798082
   }
 ]
