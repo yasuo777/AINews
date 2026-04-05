@@ -1,5 +1,13 @@
 [
   {
+    "title": "In Japan, the robot isn’t coming for your job; it’s filling the one nobody wants",
+    "link": "https://techcrunch.com/2026/04/05/japan-is-proving-experimental-physical-ai-is-ready-for-the-real-world/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-965917342.jpg?resize=1200,779",
+    "summary": "日本因劳动力短缺，正加速将实体人工智能从试点项目推广至实际应用。",
+    "date": "2026-04-05 15:04",
+    "timestamp": 1775401486.1181192
+  },
+  {
     "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
     "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
@@ -790,13 +798,5 @@
     "summary": "在最新一期Equity播客中，我们回顾了黄仁勋在GTC大会的主题演讲，并就其对英伟达未来发展的影响进行了深入探讨。",
     "date": "2026-03-22 19:52",
     "timestamp": 1774209151.6108491
-  },
-  {
-    "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
-    "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
-    "summary": "当前国际形势下，基于中国模型进行技术开发面临显著的地缘政治风险与合规挑战。",
-    "date": "2026-03-22 19:04",
-    "timestamp": 1774206264.392064
   }
 ]
