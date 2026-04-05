@@ -1,5 +1,13 @@
 [
   {
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+    "summary": "AI公司在其服务条款中明确警示用户不应盲目信任模型输出，这与质疑者的警告不谋而合。",
+    "date": "2026-04-05 19:21",
+    "timestamp": 1775416913.4482248
+  },
+  {
     "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
     "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "美国参议员沃伦致信国防部长，指责五角大楼将AI公司Anthropic列为\"供应链风险\"是报复行为，认为其本可直接终止与该公司的合同。",
     "date": "2026-03-23 15:40",
     "timestamp": 1774280421.136031
-  },
-  {
-    "title": "Sam Altman-backed fusion startup Helion in talks with OpenAI",
-    "link": "https://techcrunch.com/2026/03/23/sam-altman-backed-fusion-startup-helion-in-talks-with-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Helion-Polaris-D-T.jpeg?resize=1200,800",
-    "summary": "能源公司Helion拟向OpenAI出售其12.5%的电力产能，双方正就协议进行谈判。",
-    "date": "2026-03-23 15:40",
-    "timestamp": 1774280423.8914866
   }
 ]
