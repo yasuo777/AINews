@@ -1,5 +1,29 @@
 [
   {
+    "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
+    "link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/sb200_trophy.png?w=1080",
+    "summary": "TechCrunch启动初创企业评选，入选200强将有机会获得投资对接、媒体曝光及10万美元奖金。报名截止日期为5月27日。",
+    "date": "2026-04-06 15:29",
+    "timestamp": 1775489368.614898
+  },
+  {
+    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+    "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI推出新功能，允许用户直接在ChatGPT内操作Spotify、Canva、Figma及Expedia等第三方应用，提升交互效率。",
+    "date": "2026-04-06 15:29",
+    "timestamp": 1775489371.010542
+  },
+  {
+    "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026门票优惠即将结束，现可节省近500美元，截止日期为太平洋时间4月10日23:59。",
+    "date": "2026-04-06 15:29",
+    "timestamp": 1775489373.1568148
+  },
+  {
     "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
     "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Xoople_Founders-May2024_APPROVED-FOR-PUBLISHING-1.jpeg?resize=1200,801",
@@ -774,29 +798,5 @@
     "summary": "AI编程公司Lovable寻求并购初创团队，以加速其业务扩张。",
     "date": "2026-03-23 18:29",
     "timestamp": 1774290589.8175645
-  },
-  {
-    "title": "Apple sets June date for WWDC 2026, teasing “AI advancements”",
-    "link": "https://techcrunch.com/2026/03/23/apple-wwdc-june-8-12-ai-advancements-siri-developers-conference/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
-    "summary": "苹果将于6月8日当周举办全球开发者大会，预计将发布搭载先进人工智能技术的新版Siri。",
-    "date": "2026-03-23 18:29",
-    "timestamp": 1774290592.1495914
-  },
-  {
-    "title": "Littlebird raises $11M for its AI-assisted ‘recall’ tool that reads your computer screen",
-    "link": "https://techcrunch.com/2026/03/23/littlebird-raises-11m-to-capture-context-from-your-computer-so-you-can-query-your-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/routines.jpeg?resize=1200,675",
-    "summary": "AI初创公司Littlebird开发实时屏幕分析技术，可理解用户界面内容、自动答疑并执行任务，全程无需依赖截图操作。",
-    "date": "2026-03-23 16:36",
-    "timestamp": 1774283776.5553012
-  },
-  {
-    "title": "Startup Gimlet Labs is solving the AI inference bottleneck in a surprisingly elegant way",
-    "link": "https://techcrunch.com/2026/03/23/startup-gimlet-labs-is-solving-the-ai-inference-bottleneck-in-a-surprisingly-elegant-way/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Gimlet_Labs_CEO_Zain_Asgar2.jpg?resize=1200,747",
-    "summary": "AI初创公司Gimlet Labs完成8000万美元A轮融资，其技术可实现AI模型在英伟达、AMD、英特尔、ARM、Cerebras及d-Matrix等多种芯片上同步运行。",
-    "date": "2026-03-23 16:36",
-    "timestamp": 1774283779.484741
   }
 ]
