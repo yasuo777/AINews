@@ -1,5 +1,13 @@
 [
   {
+    "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
+    "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Xoople_Founders-May2024_APPROVED-FOR-PUBLISHING-1.jpeg?resize=1200,801",
+    "summary": "Xoople公司与L3Harris达成合作，将由其负责航天器传感器制造。",
+    "date": "2026-04-06 13:55",
+    "timestamp": 1775483750.5245035
+  },
+  {
     "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
     "link": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
@@ -790,13 +798,5 @@
     "summary": "AI初创公司Gimlet Labs完成8000万美元A轮融资，其技术可实现AI模型在英伟达、AMD、英特尔、ARM、Cerebras及d-Matrix等多种芯片上同步运行。",
     "date": "2026-03-23 16:36",
     "timestamp": 1774283779.484741
-  },
-  {
-    "title": "Elizabeth Warren calls Pentagon’s decision to bar Anthropic ‘retaliation’",
-    "link": "https://techcrunch.com/2026/03/23/elizabeth-warren-anthropic-pentagon-defense-supply-chain-risk-retaliation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "美国参议员沃伦致信国防部长，指责五角大楼将AI公司Anthropic列为\"供应链风险\"是报复行为，认为其本可直接终止与该公司的合同。",
-    "date": "2026-03-23 15:40",
-    "timestamp": 1774280421.136031
   }
 ]
