@@ -1,5 +1,13 @@
 [
   {
+    "title": "Iran threatens ‘Stargate’ AI data centers",
+    "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
+    "summary": "伊朗宣布将升级对美军事行动，计划打击美国关联数据中心，两国冲突进一步加剧。",
+    "date": "2026-04-06 18:34",
+    "timestamp": 1775500491.758871
+  },
+  {
     "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
     "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "伦敦风投机构Air Street Capital完成第三期基金募资，将专注投资欧美早期人工智能企业。",
     "date": "2026-03-23 23:59",
     "timestamp": 1774310356.6021917
-  },
-  {
-    "title": "Bernie Sanders’ AI ‘gotcha’ video flops, but the memes are great",
-    "link": "https://techcrunch.com/2026/03/23/bernie-sanders-ai-gotcha-video-flops-but-the-memes-are-great/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/bernie-and-claude.jpeg?w=1143",
-    "summary": "桑德斯误以为诱使AI透露行业机密，实则暴露了聊天机器人高度迎合用户的特性。",
-    "date": "2026-03-23 21:07",
-    "timestamp": 1774300030.6250489
   }
 ]
