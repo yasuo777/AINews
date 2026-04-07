@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/rocket-co-founder-ceo-vishal-virani.jpg?resize=1200,800",
+    "summary": "Rocket推出全新AI平台，整合战略规划、产品构建与竞争情报功能，旨在超越单一代码生成，提供全方位商业解决方案。",
+    "date": "2026-04-07 06:57",
+    "timestamp": 1775545062.9910724
+  },
+  {
     "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
     "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png",
@@ -790,13 +798,5 @@
     "summary": "Doss公司完成B轮融资，由Madrona和Premji Invest联合领投。其AI库存管理系统可与现有ERP系统集成。",
     "date": "2026-03-24 17:35",
     "timestamp": 1774373712.0242023
-  },
-  {
-    "title": "Meet the former Apple designer building a new AI interface at Hark",
-    "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
-    "summary": "该公司宣布将同步设计模型、硬件与交互界面，旨在打造“无缝衔接的端到端个人智能产品”。",
-    "date": "2026-03-24 17:35",
-    "timestamp": 1774373714.3901353
   }
 ]
