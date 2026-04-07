@@ -1,5 +1,21 @@
 [
   {
+    "title": "Intel signs on to Elon Musk’s Terafab chips project",
+    "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
+    "summary": "马斯克新科技项目引入半导体合作伙伴，强化技术实力。",
+    "date": "2026-04-07 18:37",
+    "timestamp": 1775587079.579739
+  },
+  {
+    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+    "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+    "summary": "新型号将供少数知名企业用于开展防御性网络安全工作。",
+    "date": "2026-04-07 18:38",
+    "timestamp": 1775587081.045653
+  },
+  {
     "title": "Uber is the latest to be won over by Amazon’s AI chips",
     "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/AWS-Trainium2-chip-11-29-24-embargo-till-12-3-24-1.jpg?resize=1200,812",
@@ -782,21 +798,5 @@
     "summary": "Databricks凭借近期50亿美元融资，接连收购Antimatter与SiftD.ai两家初创公司，并计划进一步扩大收购规模。",
     "date": "2026-03-24 21:21",
     "timestamp": 1774387269.0227652
-  },
-  {
-    "title": "OpenAI plans to shut down Sora just 15 months after its launch",
-    "link": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/cooldog-1152x648.jpg",
-    "summary": "微软宣布将关闭Copilot GPT Builder服务，以专注于商业及生产力应用场景。",
-    "date": "2026-03-24 21:21",
-    "timestamp": 1774387271.7245755
-  },
-  {
-    "title": "Electronic Frontier Foundation to swap leaders as AI, ICE fights escalate",
-    "link": "https://arstechnica.com/tech-policy/2026/03/trump-made-opposing-government-spying-cool-again-effs-departing-chief-says/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/eff-leadership-change-1152x648.jpg",
-    "summary": "公众对政府技术滥用关注度高涨，电子前沿基金会新负责人计划借此势头深化监督与倡导工作。",
-    "date": "2026-03-24 21:21",
-    "timestamp": 1774387273.8857968
   }
 ]
