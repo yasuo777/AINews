@@ -1,5 +1,13 @@
 [
   {
+    "title": "What the heck is wrong with our AI overlords?",
+    "link": "https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2162021307-1152x648-1775587328.jpg",
+    "summary": "山姆·阿尔特曼的新形象揭示了整个AI行业的现状与挑战。",
+    "date": "2026-04-07 21:28",
+    "timestamp": 1775597304.3720462
+  },
+  {
     "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
     "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Spotify推出新工具，旨在让艺术家能自主管理平台上的署名作品，增强对其音乐版权的控制权。",
     "date": "2026-03-24 22:03",
     "timestamp": 1774389829.7138536
-  },
-  {
-    "title": "Mozilla dev's \"Stack Overflow for agents\" targets a key weakness in coding AI",
-    "link": "https://arstechnica.com/ai/2026/03/mozilla-dev-introduces-cq-a-stack-overflow-for-agents/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/AI_codehead_header-1152x648.jpg",
-    "summary": "该技术在实际应用前，仍需解决若干关键问题。",
-    "date": "2026-03-24 22:03",
-    "timestamp": 1774389831.627357
   }
 ]
