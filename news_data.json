@@ -1,5 +1,21 @@
 [
   {
+    "title": "Firmus, the ‘Southgate’ AI data center builder backed by Nvidia, hits $5.5B valuation",
+    "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?resize=1200,675",
+    "summary": "英伟达支持的亚洲AI数据中心运营商Firmus在六个月内完成13.5亿美元融资。",
+    "date": "2026-04-07 19:42",
+    "timestamp": 1775590970.7601082
+  },
+  {
+    "title": "Bluesky users are mastering the fine art of blaming everything on \"vibe coding\"",
+    "link": "https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/bluesky-vibe-coder-1152x648.jpg",
+    "summary": "AI编码工具常被错误归咎为各类技术问题的根源，成为业界推卸责任的便捷借口。",
+    "date": "2026-04-07 19:42",
+    "timestamp": 1775590973.2573843
+  },
+  {
     "title": "Intel signs on to Elon Musk’s Terafab chips project",
     "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
@@ -782,21 +798,5 @@
     "summary": "该技术在实际应用前，仍需解决若干关键问题。",
     "date": "2026-03-24 22:03",
     "timestamp": 1774389831.627357
-  },
-  {
-    "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
-    "link": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "Anthropic推出Claude Code自动模式，允许AI执行任务时减少人工审批，体现行业向更自主工具发展的趋势，通过内置安全机制平衡效率与安全。",
-    "date": "2026-03-24 21:21",
-    "timestamp": 1774387266.8251455
-  },
-  {
-    "title": "Databricks bought two startups to underpin its new AI security product",
-    "link": "https://techcrunch.com/2026/03/24/databricks-buys-two-startups-lakewatch-antimatter-siftd-ai-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1177951659.jpg?resize=1200,800",
-    "summary": "Databricks凭借近期50亿美元融资，接连收购Antimatter与SiftD.ai两家初创公司，并计划进一步扩大收购规模。",
-    "date": "2026-03-24 21:21",
-    "timestamp": 1774387269.0227652
   }
 ]
