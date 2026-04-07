@@ -1,5 +1,13 @@
 [
   {
+    "title": "Uber is the latest to be won over by Amazon’s AI chips",
+    "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/AWS-Trainium2-chip-11-29-24-embargo-till-12-3-24-1.jpg?resize=1200,812",
+    "summary": "优步扩大与亚马逊AWS合作，将更多网约车功能迁移至亚马逊自研芯片，此举被视为对甲骨文和谷歌的直接挑战。",
+    "date": "2026-04-07 17:39",
+    "timestamp": 1775583587.4060457
+  },
+  {
     "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
     "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "公众对政府技术滥用关注度高涨，电子前沿基金会新负责人计划借此势头深化监督与倡导工作。",
     "date": "2026-03-24 21:21",
     "timestamp": 1774387273.8857968
-  },
-  {
-    "title": "Arm is releasing the first in-house chip in its 35-year history",
-    "link": "https://techcrunch.com/2026/03/24/arm-is-releasing-its-first-in-house-chip-in-its-35-year-history/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/08/GettyImages-576856756.jpg?resize=1200,840",
-    "summary": "Arm与Meta合作开发首款自研CPU，Meta为首位客户，标志着Arm首次涉足自主芯片生产。",
-    "date": "2026-03-24 20:23",
-    "timestamp": 1774383814.5378575
   }
 ]
