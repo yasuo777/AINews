@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+    "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "summary": "Anthropic与谷歌和博通扩大算力合作，其年化收入已飙升至300亿美元。",
+    "date": "2026-04-07 16:37",
+    "timestamp": 1775579847.5624776
+  },
+  {
+    "title": "Google Maps can now write captions for your photos using AI",
+    "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
+    "summary": "谷歌Gemini新增图片与视频字幕自动生成功能，便于用户分享多媒体内容。",
+    "date": "2026-04-07 16:37",
+    "timestamp": 1775579849.786523
+  },
+  {
     "title": "4 days left to save close to $500 on TechCrunch Disrupt 2026 passes",
     "link": "https://techcrunch.com/2026/04/07/4-days-left-to-save-close-to-500-on-techcrunch-disrupt-2026-passes/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_4Days-16X9-Dark.png?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Arm与Meta合作开发首款自研CPU，Meta为首位客户，标志着Arm首次涉足自主芯片生产。",
     "date": "2026-03-24 20:23",
     "timestamp": 1774383814.5378575
-  },
-  {
-    "title": "OpenAI’s plans to make ChatGPT more like Amazon aren’t going so well",
-    "link": "https://techcrunch.com/2026/03/24/openais-plans-to-make-chatgpt-more-like-amazon-arent-going-so-well/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-9.15.10-AM.png?resize=1200,675",
-    "summary": "OpenAI宣布将逐步取消ChatGPT内置的即时购物功能Instant Checkout，未来不再支持用户通过界面直接购买商品。",
-    "date": "2026-03-24 19:39",
-    "timestamp": 1774381158.7707398
-  },
-  {
-    "title": "Google TV’s new Gemini features keep fans updated on sports teams and more",
-    "link": "https://techcrunch.com/2026/03/24/google-tv-new-gemini-features-keep-fans-updated-on-sports-teams-deep-dives-visual-answers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-tv.webp?resize=1200,675",
-    "summary": "谷歌电视将引入三项Gemini AI功能：视觉问答、深度解析和体育简报，提升智能交互体验。",
-    "date": "2026-03-24 19:39",
-    "timestamp": 1774381161.0808136
   }
 ]
