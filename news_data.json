@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=1200",
+    "summary": "流媒体平台Tubi率先在ChatGPT中集成应用，用户现可直接通过该AI聊天机器人访问其影视内容。",
+    "date": "2026-04-08 18:49",
+    "timestamp": 1775674195.3756268
+  },
+  {
     "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
     "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/poppy-claude-hero-scaled-1.webp?resize=1200,563",
@@ -790,13 +798,5 @@
     "summary": "食品科技公司Granola完成新一轮融资，估值从2.5亿美元跃升至15亿美元。公司还针对用户反馈，加强了对AI智能体的功能支持。",
     "date": "2026-03-25 15:47",
     "timestamp": 1774453661.882242
-  },
-  {
-    "title": "Meta launches new initiative to support entrepreneurship, drive AI adoption",
-    "link": "https://techcrunch.com/2026/03/25/meta-launches-new-initiative-to-support-entrepreneurship-drive-ai-adoption/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2233066222.jpg?resize=1200,800",
-    "summary": "Meta CEO扎克伯格在内部备忘录中表示，中小企业始终是公司商业模式的重要组成部分。目前已有数千万企业家通过Meta平台拓展业务、连接客户，公司未来将在此领域加大投入力度。",
-    "date": "2026-03-25 15:47",
-    "timestamp": 1774453665.1669955
   }
 ]
