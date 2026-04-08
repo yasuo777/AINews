@@ -1,5 +1,13 @@
 [
   {
+    "title": "Poke makes AI agents as easy as sending a text",
+    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
+    "summary": "AI初创公司Poke推出短信交互式AI代理服务，用户无需安装应用或技术背景，即可通过自然语言短信指令自动处理日常任务与流程。",
+    "date": "2026-04-08 21:27",
+    "timestamp": 1775683672.143265
+  },
+  {
     "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
     "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
@@ -790,13 +798,5 @@
     "summary": "桑德斯与奥卡西奥-科尔特斯提出法案，要求国会通过全面AI监管前暂停新建数据中心。",
     "date": "2026-03-25 17:39",
     "timestamp": 1774460361.9378767
-  },
-  {
-    "title": "Google launches Lyria 3 Pro music generation model",
-    "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Lyria-3-Pro_thumbnail.jpeg?resize=1200,675",
-    "summary": "谷歌发布升级版音乐模型Lyria 3 Pro，能生成更长、更可定制的音轨，并计划将AI音乐工具扩展至Gemini、企业产品等多类服务中。",
-    "date": "2026-03-25 17:39",
-    "timestamp": 1774460364.7180731
   }
 ]
