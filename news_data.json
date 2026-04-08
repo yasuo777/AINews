@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google quietly launched an AI dictation app that works offline",
+    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "谷歌推出离线优先听写应用，搭载Gemma AI模型，旨在挑战Wispr Flow等同类产品。",
+    "date": "2026-04-08 06:09",
+    "timestamp": 1775628564.7391798
+  },
+  {
     "title": "I can’t help rooting for tiny open source AI model maker Arcee",
     "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802",
@@ -790,13 +798,5 @@
     "summary": "OpenAI发布Sora 2模型，其视频与音频生成能力令人瞩目，但纯AI内容社交平台未能维持用户长期兴趣。",
     "date": "2026-03-24 23:59",
     "timestamp": 1774396763.8027127
-  },
-  {
-    "title": "Kentucky woman rejects $26M offer to turn her farm into a data center",
-    "link": "https://techcrunch.com/2026/03/24/kentucky-woman-rejects-26-million-offer-to-turn-her-farm-into-a-data-center/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "AI公司拟斥资2600万美元在肯塔基州农场建设数据中心。",
-    "date": "2026-03-24 23:02",
-    "timestamp": 1774393328.2418158
   }
 ]
