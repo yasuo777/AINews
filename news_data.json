@@ -1,5 +1,29 @@
 [
   {
+    "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/poppy-claude-hero-scaled-1.webp?resize=1200,563",
+    "summary": "Astropad推出Workbench工具，支持通过iPhone或iPad远程监控和操作Mac Mini上的AI代理，提供低延迟流传输与移动端便捷访问。",
+    "date": "2026-04-08 16:43",
+    "timestamp": 1775666608.746154
+  },
+  {
+    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "summary": "OpenAI发布儿童安全蓝图，旨在应对AI技术发展导致的儿童性剥削内容激增问题，强化平台安全防护措施。",
+    "date": "2026-04-08 16:43",
+    "timestamp": 1775666610.974791
+  },
+  {
+    "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+    "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Databricks_Matei_Zaharia_for-ACM.jpg?resize=1200,845",
+    "summary": "ACM最高奖得主马泰·扎哈里亚正致力于科研AI开发，并指出通用人工智能（AGI）常被误解。",
+    "date": "2026-04-08 16:43",
+    "timestamp": 1775666613.0874488
+  },
+  {
     "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
     "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_3Days-16X9-Dark.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Meta CEO扎克伯格在内部备忘录中表示，中小企业始终是公司商业模式的重要组成部分。目前已有数千万企业家通过Meta平台拓展业务、连接客户，公司未来将在此领域加大投入力度。",
     "date": "2026-03-25 15:47",
     "timestamp": 1774453665.1669955
-  },
-  {
-    "title": "Meta turns to AI to make shopping easier on Instagram and Facebook",
-    "link": "https://techcrunch.com/2026/03/25/meta-turns-to-ai-to-make-shopping-easier-on-instagram-and-facebook/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1467844599.jpg?w=1024",
-    "summary": "Meta在旗下应用内购物时启用生成式AI，为用户提供更丰富的产品与品牌信息。",
-    "date": "2026-03-25 15:47",
-    "timestamp": 1774453667.6096623
-  },
-  {
-    "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
-    "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SiftExplore_Crop.jpg?resize=1200,1070",
-    "summary": "Sift公司致力于构建面向先进制造业的数据基础设施平台。",
-    "date": "2026-03-25 14:02",
-    "timestamp": 1774447341.6391299
-  },
-  {
-    "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
-    "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Lucid-Bots.png?resize=1200,800",
-    "summary": "Lucid Bots公司窗面清洁无人机与高压清洗机器人需求近一年加速增长。",
-    "date": "2026-03-25 11:26",
-    "timestamp": 1774437985.3558323
   }
 ]
