@@ -1,5 +1,21 @@
 [
   {
+    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
+    "summary": "AWS因与合作伙伴存在竞争关系，已形成应对竞合文化的深厚机制。",
+    "date": "2026-04-08 20:22",
+    "timestamp": 1775679753.4061873
+  },
+  {
+    "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+    "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/07/meta-ai-1152x648.jpg",
+    "summary": "Meta公布AI系统性能优异，但承认在自主代理与代码生成方面仍存差距。",
+    "date": "2026-04-08 20:22",
+    "timestamp": 1775679755.107031
+  },
+  {
     "title": "Tubi is the first streamer to launch a native app within ChatGPT",
     "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=1200",
@@ -782,21 +798,5 @@
     "summary": "谷歌发布升级版音乐模型Lyria 3 Pro，能生成更长、更可定制的音轨，并计划将AI音乐工具扩展至Gemini、企业产品等多类服务中。",
     "date": "2026-03-25 17:39",
     "timestamp": 1774460364.7180731
-  },
-  {
-    "title": "Reddit takes on the bots with new ‘human verification’ requirements for fishy behavior",
-    "link": "https://techcrunch.com/2026/03/25/reddit-bots-new-human-verification-requirements/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
-    "summary": "Reddit将要求疑似自动化账户进行真人验证，以加大力度打击机器人驱动的垃圾信息与操纵行为。",
-    "date": "2026-03-25 17:39",
-    "timestamp": 1774460367.2127528
-  },
-  {
-    "title": "Granola raises $125M, hits $1.5B valuation as it expands from meeting notetaker to enterprise AI app",
-    "link": "https://techcrunch.com/2026/03/25/granola-raises-125m-hits-1-5b-valuation-as-it-expands-from-meeting-notetaker-to-enterprise-ai-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Granola-home.jpeg?resize=1200,675",
-    "summary": "食品科技公司Granola完成新一轮融资，估值从2.5亿美元跃升至15亿美元。公司还针对用户反馈，加强了对AI智能体的功能支持。",
-    "date": "2026-03-25 15:47",
-    "timestamp": 1774453661.882242
   }
 ]
