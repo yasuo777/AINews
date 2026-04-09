@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google and Intel deepen AI infrastructure partnership",
+    "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
+    "summary": "两大科技巨头拟联合开发定制芯片，以应对全球CPU短缺加剧的市场需求。",
+    "date": "2026-04-09 18:37",
+    "timestamp": 1775759832.2073855
+  },
+  {
+    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+    "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
+    "summary": "Sierra联合创始人预测，AI智能体将取代传统软件界面，用户可通过自然对话直接完成任务。",
+    "date": "2026-04-09 18:37",
+    "timestamp": 1775759833.7033672
+  },
+  {
     "title": "State police corporal created porn deepfakes from driver's license photos",
     "link": "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2233168552-1152x648-1775751732.jpg",
@@ -782,21 +798,5 @@
     "summary": "针对此次合作引发争议，外界普遍认为其潜在风险与影响必将受到审视与清算。",
     "date": "2026-03-26 03:39",
     "timestamp": 1774496350.5691326
-  },
-  {
-    "title": "Mercor competitor Deccan AI raises $25M, sources experts from India",
-    "link": "https://techcrunch.com/2026/03/25/deccan-ai-raises-25m-as-ai-training-push-relies-on-india-based-workforce/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/deccan-ai-founder-rukesh-reddy.jpg?resize=1200,800",
-    "summary": "Deccan AI将团队集中于印度，以在快速增长但分散的AI训练市场中把控质量。",
-    "date": "2026-03-26 03:39",
-    "timestamp": 1774496352.2993252
-  },
-  {
-    "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
-    "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0605.jpeg?resize=1200,900",
-    "summary": "Anthropic研究显示，AI尚未大规模替代岗位，但早期数据表明熟练使用者正获得优势，可能加剧职场不平等，引发对未来劳动力分化的担忧。",
-    "date": "2026-03-25 22:06",
-    "timestamp": 1774476364.512075
   }
 ]
