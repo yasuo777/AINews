@@ -1,5 +1,13 @@
 [
   {
+    "title": "ChatGPT finally offers $100/month Pro plan",
+    "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
+    "summary": "OpenAI周四宣布推出每月100美元订阅计划，填补了原有20美元与200美元方案间的价格空缺，回应了高级用户需求。",
+    "date": "2026-04-09 22:22",
+    "timestamp": 1775773376.557298
+  },
+  {
     "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
     "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "美国两党参议员霍利和沃伦提议，要求能源信息署加强对数据中心用电情况及电网影响的调查。",
     "date": "2026-03-26 18:40",
     "timestamp": 1774550405.9417691
-  },
-  {
-    "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
-    "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/imgi_30_7d51e3a4c1434d7f9b2708a619f3783ftplv-2zwwjm3azk-image.webp?resize=1200,853",
-    "summary": "CapCut新模型将内置防护功能，防止使用真人面孔或未授权知识产权生成视频。",
-    "date": "2026-03-26 15:53",
-    "timestamp": 1774540400.1246965
   }
 ]
