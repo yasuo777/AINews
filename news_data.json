@@ -1,5 +1,29 @@
 [
   {
+    "title": "After data breach, $10B valued startup Mercor is having a month",
+    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
+    "summary": "黑客攻击后，Mercor面临诉讼并流失重要客户。",
+    "date": "2026-04-09 19:48",
+    "timestamp": 1775764121.5354614
+  },
+  {
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
+    "summary": "Meta AI新模型发布后，其应用商店排名从第57位迅速跃升至前5名，且仍在持续上升。",
+    "date": "2026-04-09 19:48",
+    "timestamp": 1775764123.2498455
+  },
+  {
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182",
+    "summary": "Anthropic本周表示，因新模型Mythos过于擅长发现全球软件的安全漏洞，故限制其发布。外界质疑此举是否以网络安全为由掩盖前沿实验室的更深层问题。",
+    "date": "2026-04-09 19:48",
+    "timestamp": 1775764125.1911225
+  },
+  {
     "title": "Google and Intel deepen AI infrastructure partnership",
     "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Meta推出轻量级AI模型Llama 3.1，仅20亿参数，支持消费级GPU本地部署，目前兼容14种语言。",
     "date": "2026-03-26 14:11",
     "timestamp": 1774534297.898134
-  },
-  {
-    "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
-    "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265459578.jpg?w=1024",
-    "summary": "担忧AI取代就业的情绪加剧，正引发对数据中心的抵制。参议员马克·华纳提议对其征税，以协助劳动者度过转型期。",
-    "date": "2026-03-26 12:38",
-    "timestamp": 1774528693.6544006
-  },
-  {
-    "title": "Mistral releases a new open-source model for speech generation",
-    "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-    "summary": "法国AI公司Mistral发布新款语音模型，可在智能手表或智能手机等设备本地运行，无需依赖云端处理。",
-    "date": "2026-03-26 11:33",
-    "timestamp": 1774524807.2526233
-  },
-  {
-    "title": "The least surprising chapter of the Manus story is what’s happening right now",
-    "link": "https://techcrunch.com/2026/03/25/the-least-surprising-chapter-of-the-manus-story-is-whats-happening-right-now/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2170596427.jpg?resize=1200,799",
-    "summary": "针对此次合作引发争议，外界普遍认为其潜在风险与影响必将受到审视与清算。",
-    "date": "2026-03-26 03:39",
-    "timestamp": 1774496350.5691326
   }
 ]
