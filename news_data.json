@@ -1,5 +1,21 @@
 [
   {
+    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+    "summary": "去年四月佛罗里达州立大学枪击案致两死五伤，据报道凶手作案计划借助ChatGPT制定。一名遇害者家属表示，将就此起诉OpenAI公司。",
+    "date": "2026-04-09 21:28",
+    "timestamp": 1775770134.4747248
+  },
+  {
+    "title": "Why Anthropic sent its Claude AI to an actual psychiatrist",
+    "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1397973635-1152x648.jpg",
+    "summary": "OpenAI称其最新模型Mythos为迄今训练出的“心理最稳定”的AI系统。",
+    "date": "2026-04-09 21:28",
+    "timestamp": 1775770136.558398
+  },
+  {
     "title": "After data breach, $10B valued startup Mercor is having a month",
     "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "CapCut新模型将内置防护功能，防止使用真人面孔或未授权知识产权生成视频。",
     "date": "2026-03-26 15:53",
     "timestamp": 1774540400.1246965
-  },
-  {
-    "title": "Conntour raises $7M from General Catalyst, YC to build an AI search engine for security video systems",
-    "link": "https://techcrunch.com/2026/03/26/conntour-raises-7m-from-general-catalyst-yc-to-build-an-ai-search-engine-for-security-video-systems/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Conntour-team.jpg?resize=1200,800",
-    "summary": "Conntour公司推出AI系统，允许安防团队通过自然语言查询监控画面，快速定位特定对象、人员或事件。",
-    "date": "2026-03-26 14:11",
-    "timestamp": 1774534295.4180987
-  },
-  {
-    "title": "Cohere launches an open-source voice model specifically for transcription",
-    "link": "https://techcrunch.com/2026/03/26/cohere-launches-an-open-source-voice-model-specifically-for-transcription/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/260325_TranscribeLaunch_Hero.jpeg?resize=1200,600",
-    "summary": "Meta推出轻量级AI模型Llama 3.1，仅20亿参数，支持消费级GPU本地部署，目前兼容14种语言。",
-    "date": "2026-03-26 14:11",
-    "timestamp": 1774534297.898134
   }
 ]
