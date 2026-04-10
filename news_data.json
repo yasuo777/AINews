@@ -1,5 +1,29 @@
 [
   {
+    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837014-e.jpg?resize=1200,800",
+    "summary": "OpenAI遭起诉，指控其无视ChatGPT用户危险警告，包括大规模伤亡风险标记，致使用户利用该技术骚扰前女友。",
+    "date": "2026-04-10 17:31",
+    "timestamp": 1775842314.1524215
+  },
+  {
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "link": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/STTchallenge.jpeg?w=800",
+    "summary": "2026年东京创新展聚焦AI、机器人、韧性与娱乐四大领域，将展示人形机器人、自动驾驶软件革新、网络安全与气候技术，并探讨AI对全球音乐与动漫产业的重塑。",
+    "date": "2026-04-10 17:31",
+    "timestamp": 1775842316.889101
+  },
+  {
+    "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
+    "link": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/steamface.png",
+    "summary": "AI工具可辅助审核员高效筛选海量可疑内容，提升处理效率。",
+    "date": "2026-04-10 17:31",
+    "timestamp": 1775842319.2457752
+  },
+  {
     "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
     "link": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
@@ -774,29 +798,5 @@
     "summary": "美国联邦法官裁定，特朗普政府须撤销近期对某人工智能公司施加的限制措施。",
     "date": "2026-03-27 03:40",
     "timestamp": 1774582854.9916067
-  },
-  {
-    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "link": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
-    "summary": "谷歌推出\"切换工具\"，旨在简化用户从其他聊天机器人迁移至Gemini的流程。",
-    "date": "2026-03-27 00:00",
-    "timestamp": 1774569646.239185
-  },
-  {
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "link": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1200,800",
-    "summary": "该网站因AI生成内容问题面临挑战，其相关政策可能随时调整。",
-    "date": "2026-03-26 21:57",
-    "timestamp": 1774562236.0729535
-  },
-  {
-    "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
-    "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
-    "summary": "过去一周内，该AI初创公司已连续终止多个副业项目。",
-    "date": "2026-03-26 18:40",
-    "timestamp": 1774550404.0435264
   }
 ]
