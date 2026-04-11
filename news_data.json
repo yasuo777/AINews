@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "OpenAI CEO发文回应住所遇袭事件及《纽约客》对其个人信誉的质疑。",
+    "date": "2026-04-11 18:01",
+    "timestamp": 1775930474.9040313
+  },
+  {
     "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
     "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "肯塔基州一名82岁女性拒绝了AI公司2600万美元购地建数据中心的报价。随着AI基础设施不断扩张，现实世界的阻力正日益显现，凸显出技术发展与地方利益间的普遍矛盾。",
     "date": "2026-03-27 16:32",
     "timestamp": 1774629152.7414556
-  },
-  {
-    "title": "David Sacks is done as AI czar — here’s what he’s doing instead",
-    "link": "https://techcrunch.com/2026/03/26/david-sacks-is-done-as-ai-czar-heres-what-hes-doing-instead/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2203859648.jpg?w=1024",
-    "summary": "萨克斯在特朗普第二届政府中的影响力将远不如初期，距华盛顿权力中心更远。",
-    "date": "2026-03-27 16:32",
-    "timestamp": 1774629155.2182584
   }
 ]
