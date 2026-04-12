@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple reportedly testing four designs for upcoming smart glasses",
+    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+    "summary": "苹果放弃推出多款混合与增强现实设备的原计划，其新眼镜产品标志着战略收缩。",
+    "date": "2026-04-12 20:03",
+    "timestamp": 1776024192.4774683
+  },
+  {
     "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
     "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "美国战争部将AI公司Anthropic列入黑名单，但未能提供明确理由，仅回应“我不知道”，引发对审查透明度的质疑。",
     "date": "2026-03-27 20:03",
     "timestamp": 1774641821.750126
-  },
-  {
-    "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
-    "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
-    "summary": "SK海力士考虑赴美上市，预计募资100-140亿美元以扩大产能，缓解内存短缺危机，并可能引领行业效仿。",
-    "date": "2026-03-27 19:27",
-    "timestamp": 1774639633.2090914
   }
 ]
