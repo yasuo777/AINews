@@ -1,5 +1,21 @@
 [
   {
+    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
+    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+    "summary": "人工智能浪潮催生大量新兴术语。本文整理关键词汇与行话，并提供专业释义，以助读者理解这一领域的基本概念。",
+    "date": "2026-04-12 15:20",
+    "timestamp": 1776007233.262882
+  },
+  {
+    "title": "At the HumanX conference, everyone was talking about Claude",
+    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
+    "summary": "在旧金山AI大会上，Anthropic凭借其前沿技术成为全场焦点。",
+    "date": "2026-04-12 15:20",
+    "timestamp": 1776007235.3126528
+  },
+  {
     "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
     "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "SK海力士考虑赴美上市，预计募资100-140亿美元以扩大产能，缓解内存短缺危机，并可能引领行业效仿。",
     "date": "2026-03-27 19:27",
     "timestamp": 1774639633.2090914
-  },
-  {
-    "title": "VCs are betting billions on AI’s next wave, so why is OpenAI killing Sora?",
-    "link": "https://techcrunch.com/podcast/vcs-are-betting-billions-on-ais-next-wave-so-why-is-openai-killing-sora/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
-    "summary": "肯塔基州一82岁女性拒绝AI公司2600万美元购地建数据中心提案。尽管企业仍可尝试变更周边2000英亩土地用途，但随着AI基础设施不断扩张，现实世界的阻力正日益显现。",
-    "date": "2026-03-27 16:32",
-    "timestamp": 1774629149.4255276
-  },
-  {
-    "title": "OpenAI shuts down Sora while Meta gets shut out in court",
-    "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-    "summary": "肯塔基州一名82岁女性拒绝了AI公司2600万美元购地建数据中心的报价。随着AI基础设施不断扩张，现实世界的阻力正日益显现，凸显出技术发展与地方利益间的普遍矛盾。",
-    "date": "2026-03-27 16:32",
-    "timestamp": 1774629152.7414556
   }
 ]
