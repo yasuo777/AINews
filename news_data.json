@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "美国防部近期将人工智能公司Anthropic列为供应链风险，使得该公司最新报告显得尤为出人意料。",
+    "date": "2026-04-12 22:02",
+    "timestamp": 1776031365.8973637
+  },
+  {
     "title": "Apple reportedly testing four designs for upcoming smart glasses",
     "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "竞争对手已推出类似产品，市场发展迅速。",
     "date": "2026-03-27 22:00",
     "timestamp": 1774648833.1883852
-  },
-  {
-    "title": "Hegseth, Trump had no authority to order Anthropic to be blacklisted, judge says",
-    "link": "https://arstechnica.com/tech-policy/2026/03/hegseth-trump-had-no-authority-to-order-anthropic-to-be-blacklisted-judge-says/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2267370596-1024x648.jpg",
-    "summary": "美国战争部将AI公司Anthropic列入黑名单，但未能提供明确理由，仅回应“我不知道”，引发对审查透明度的质疑。",
-    "date": "2026-03-27 20:03",
-    "timestamp": 1774641821.750126
   }
 ]
