@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft is working on yet another OpenClaw-like agent",
+    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Windows-Claw.png?resize=1200,800",
+    "summary": "该公司此前已推出能独立完成任务的智能助手Cowork和Copilot Tasks。",
+    "date": "2026-04-13 19:50",
+    "timestamp": 1776109855.1763
+  },
+  {
+    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
+    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+    "summary": "斯坦福AI指数报告显示，公众与专家对AI认知差距扩大，公众对就业、医疗及经济领域的AI影响焦虑加剧。",
+    "date": "2026-04-13 19:50",
+    "timestamp": 1776109857.3539712
+  },
+  {
     "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
     "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Vercel-founder-Guillermo-Rauch.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Bluesky推出AI应用Attie，基于AT协议帮助用户创建个性化信息流。",
     "date": "2026-03-28 23:00",
     "timestamp": 1774738828.6801734
-  },
-  {
-    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-    "summary": "斯坦福大学研究团队针对AI阿谀倾向的危害性展开量化评估，旨在科学衡量其潜在风险。",
-    "date": "2026-03-28 21:00",
-    "timestamp": 1774731634.3527513
-  },
-  {
-    "title": "Elon Musk’s last co-founder reportedly leaves xAI",
-    "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
-    "summary": "马斯克的xAI公司11位联合创始人中，除两人外均已在本周前离职。",
-    "date": "2026-03-28 17:03",
-    "timestamp": 1774717390.640778
   }
 ]
