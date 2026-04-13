@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
+    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Vercel-founder-Guillermo-Rauch.jpg?resize=1200,800",
+    "summary": "公司CEO表示，已为IPO做好充分准备，并将持续完善相关筹备工作。",
+    "date": "2026-04-13 16:00",
+    "timestamp": 1776096007.8527298
+  },
+  {
     "title": "To teach in the time of ChatGPT is to know pain",
     "link": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2228543358-2560x1440.jpg",
@@ -790,13 +798,5 @@
     "summary": "马斯克的xAI公司11位联合创始人中，除两人外均已在本周前离职。",
     "date": "2026-03-28 17:03",
     "timestamp": 1774717390.640778
-  },
-  {
-    "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
-    "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Claude-Opus-4.5-illustration.png?resize=1200,675",
-    "summary": "Anthropic未公布Claude总用户数，但透露其付费订阅量今年已增长超一倍。",
-    "date": "2026-03-28 14:17",
-    "timestamp": 1774707453.303889
   }
 ]
