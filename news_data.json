@@ -1,5 +1,13 @@
 [
   {
+    "title": "The largest orbital compute cluster is open for business",
+    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/KEPLER-T1-.jpg?w=800",
+    "summary": "加拿大通信公司Kepler正于地球轨道部署40个GPU，其最新客户为索菲亚航天公司。",
+    "date": "2026-04-13 08:34",
+    "timestamp": 1776069253.3647392
+  },
+  {
     "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
     "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "摩根大通与高盛向日本某综合企业集团提供12个月期无抵押贷款。",
     "date": "2026-03-27 22:00",
     "timestamp": 1774648831.3530107
-  },
-  {
-    "title": "OpenAI brings plugins to Codex, closing some of the gap with Claude Code",
-    "link": "https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/codex-plugins-1152x648.jpg",
-    "summary": "竞争对手已推出类似产品，市场发展迅速。",
-    "date": "2026-03-27 22:00",
-    "timestamp": 1774648833.1883852
   }
 ]
