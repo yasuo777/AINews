@@ -1,5 +1,21 @@
 [
   {
+    "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+    "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/science-illo.jpg?resize=1200,675",
+    "summary": "该设备有望治疗多种神经系统疾病，其早期应用或包括对受损脑脊髓细胞进行微电刺激以促进修复。",
+    "date": "2026-04-14 17:47",
+    "timestamp": 1776188839.2584307
+  },
+  {
+    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+    "summary": "谷歌Chrome将新增“技能”功能，支持用户保存并跨网站复用AI提示。该功能基于Gemini浏览器集成开发，旨在提升AI交互效率。",
+    "date": "2026-04-14 17:47",
+    "timestamp": 1776188841.7619462
+  },
+  {
     "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
     "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963244981_66492e96cc_6k.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AI芯片初创公司计划年内上市，其专注于AI推理芯片设计，成为英伟达市场主导地位的新挑战者。",
     "date": "2026-03-30 14:12",
     "timestamp": 1774879973.0327904
-  },
-  {
-    "title": "Mistral AI raises $830M in debt to set up a data center near Paris",
-    "link": "https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
-    "summary": "法国AI公司Mistral计划于2026年第二季度启动其数据中心运营。",
-    "date": "2026-03-30 14:12",
-    "timestamp": 1774879975.0106454
-  },
-  {
-    "title": "Qodo raises $70M for code verification as AI coding scales",
-    "link": "https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2080252145.jpg?resize=1200,800",
-    "summary": "AI代码激增，Qodo认为确保其可靠运行才是真正挑战。",
-    "date": "2026-03-30 12:40",
-    "timestamp": 1774874420.1022496
   }
 ]
