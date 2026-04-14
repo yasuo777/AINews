@@ -1,5 +1,29 @@
 [
   {
+    "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
+    "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963244981_66492e96cc_6k.jpg?resize=1200,800",
+    "summary": "首届年度StrictlyVC大会即将在旧金山举行。活动将于4月30日举办，目前尚有余票，欢迎注册参会。",
+    "date": "2026-04-14 15:53",
+    "timestamp": 1776182032.5903804
+  },
+  {
+    "title": "Google brings its Gemini Personal Intelligence feature to India",
+    "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "谷歌推出新功能，允许用户关联Gmail及相册等账户，以获取个性化内容服务。",
+    "date": "2026-04-14 15:53",
+    "timestamp": 1776182034.6693492
+  },
+  {
+    "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
+    "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/dhruv_marcus.png?resize=1200,800",
+    "summary": "AI公司Anything拟推出桌面伴侣应用，以辅助其移动应用在App商店下架后的开发工作。",
+    "date": "2026-04-14 15:53",
+    "timestamp": 1776182036.7918859
+  },
+  {
     "title": "OpenAI has bought AI personal finance startup Hiro",
     "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "AI代码激增，Qodo认为确保其可靠运行才是真正挑战。",
     "date": "2026-03-30 12:40",
     "timestamp": 1774874420.1022496
-  },
-  {
-    "title": "Starcloud raises $170 million Series Ato build data centers in space",
-    "link": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Starcloud-1-deployment-virtical-e1774655359557.png?w=549",
-    "summary": "星云公司成为Y Combinator史上最快独角兽企业，从演示日到估值突破十亿美元仅用17个月。",
-    "date": "2026-03-30 11:38",
-    "timestamp": 1774870737.5656924
-  },
-  {
-    "title": "Why OpenAI really shut down Sora",
-    "link": "https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
-    "summary": "OpenAI上周突然关闭仅发布半年的AI视频生成工具Sora，引发外界对其收集用户面部数据的质疑。",
-    "date": "2026-03-30 03:50",
-    "timestamp": 1774842626.3456655
-  },
-  {
-    "title": "Sora’s shutdown could be a reality check moment for AI video",
-    "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
-    "summary": "Sora引发行业对AI生成视频商业化前景的审慎评估，企业战略调整或预示该领域将进入理性发展阶段。",
-    "date": "2026-03-29 17:04",
-    "timestamp": 1774803851.2852616
   }
 ]
