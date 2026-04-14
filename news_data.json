@@ -1,5 +1,13 @@
 [
   {
+    "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
+    "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2245570667-1152x648.jpg",
+    "summary": "患者对医疗AI聊天机器人的信任度受使用场景影响，尤其在患者门户中提供健康建议时需谨慎评估其可靠性。",
+    "date": "2026-04-14 21:31",
+    "timestamp": 1776202279.6258986
+  },
+  {
     "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
     "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/jack-clark-GettyImages-2271201349.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "美国AI应用增长迅速，但奎尼皮亚克大学最新民调显示，公众信任度仍低，主要担忧透明度不足、监管缺失及技术对社会的影响。",
     "date": "2026-03-30 20:26",
     "timestamp": 1774902413.481985
-  },
-  {
-    "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
-    "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/09/brain_pills.jpg?resize=1200,899",
-    "summary": "Mantis公司整合多源数据生成合成数据集，用于构建人体\"数字孪生\"，涵盖解剖结构、生理机能与行为特征。",
-    "date": "2026-03-30 15:52",
-    "timestamp": 1774885962.7174687
   }
 ]
