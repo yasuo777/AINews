@@ -1,5 +1,13 @@
 [
   {
+    "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+    "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/emergent-wingman.jpg?resize=1200,800",
+    "summary": "AI助手Wingman支持通过WhatsApp等聊天平台实现任务管理与自动化。",
+    "date": "2026-04-15 17:47",
+    "timestamp": 1776275243.3532386
+  },
+  {
     "title": "Allbirds abandons clothes, pivots to \"AI compute infrastructure\"",
     "link": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1253152849-1152x648-1776265730.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI视频公司Runway设立1000万美元基金及创业项目，旨在投资基于其AI视频模型开发应用的企业，以推动实时交互式“视频智能”应用的发展。",
     "date": "2026-03-31 14:14",
     "timestamp": 1774966449.587643
-  },
-  {
-    "title": "With its new app store, Ring bets on AI to go beyond home security",
-    "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/20250611-lifestyle-outdoorcampro-plugin-home-exterior-wall-wht-rgb.jpg?w=1200",
-    "summary": "Ring应用商店将拓展业务范围，从安防延伸至老年看护、商业需求等更广泛场景。",
-    "date": "2026-03-31 14:14",
-    "timestamp": 1774966452.202949
   }
 ]
