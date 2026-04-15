@@ -1,5 +1,29 @@
 [
   {
+    "title": "After sale of its shoe business, Allbirds pivots to AI",
+    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/allbirds-pacer-front-three-quarters.jpg?resize=1200,675",
+    "summary": "Allbirds转型为NewBird AI，获5000万美元融资，将业务重心从羊毛鞋转向AI服务器。",
+    "date": "2026-04-15 14:54",
+    "timestamp": 1776264893.8385744
+  },
+  {
+    "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
+    "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-3.17.58-PM.jpg?resize=1200,653",
+    "summary": "里德·霍夫曼指出，追踪AI使用量可衡量技术普及程度，但需结合具体应用场景分析，不宜直接等同于生产力指标。",
+    "date": "2026-04-15 14:54",
+    "timestamp": 1776264896.98788
+  },
+  {
+    "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
+    "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Adobe-Firefly-Innovations-Visual-Asset.jpeg?resize=1200,675",
+    "summary": "Adobe推出跨应用AI助手，可在Firefly、Photoshop等全线创意软件中自动执行任务。",
+    "date": "2026-04-15 14:54",
+    "timestamp": 1776264899.1048045
+  },
+  {
     "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
     "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
@@ -774,29 +798,5 @@
     "summary": "2023年一项研究对未来\"基于大语言模型的预期软件\"进行了多项假设性分析。",
     "date": "2026-03-31 14:14",
     "timestamp": 1774966455.0361037
-  },
-  {
-    "title": "15% of Americans say they’d be willing to work for an AI boss, according to new poll",
-    "link": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/id-work.jpg?resize=1200,828",
-    "summary": "一项民调显示，15%的美国成年人表示愿意接受由AI程序直接管理工作的岗位，该程序负责分配任务与制定日程。",
-    "date": "2026-03-31 00:03",
-    "timestamp": 1774915387.5123222
-  },
-  {
-    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "link": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
-    "summary": "LiteLLM在通过Delve获得两项安全合规认证后，上周遭恶意软件攻击致凭证泄露。",
-    "date": "2026-03-31 00:03",
-    "timestamp": 1774915389.1699562
-  },
-  {
-    "title": "15% of Americans say they’d be willing to work for an AI boss",
-    "link": "https://techcrunch.com/2026/03/30/ai-boss-supervisor-us-quinnipiac-poll/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/id-work.jpg?resize=1200,828",
-    "summary": "人工智能正推动“管理扁平化”，以聊天机器人取代部分中层管理岗位，重塑企业组织结构。",
-    "date": "2026-03-30 22:07",
-    "timestamp": 1774908455.2787528
   }
 ]
