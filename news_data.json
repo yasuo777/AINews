@@ -1,5 +1,13 @@
 [
   {
+    "title": "Allbirds abandons clothes, pivots to \"AI compute infrastructure\"",
+    "link": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1253152849-1152x648-1776265730.jpg",
+    "summary": "公司更名提振股价之举，令人联想起2017年\"长岛区块链\"炒作热潮，凸显市场投机风险。",
+    "date": "2026-04-15 16:40",
+    "timestamp": 1776271211.9238245
+  },
+  {
     "title": "After sale of its shoe business, Allbirds pivots to AI",
     "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/allbirds-pacer-front-three-quarters.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Ring应用商店将拓展业务范围，从安防延伸至老年看护、商业需求等更广泛场景。",
     "date": "2026-03-31 14:14",
     "timestamp": 1774966452.202949
-  },
-  {
-    "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
-    "link": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/GettyImages-2259634870-1152x648.jpg",
-    "summary": "2023年一项研究对未来\"基于大语言模型的预期软件\"进行了多项假设性分析。",
-    "date": "2026-03-31 14:14",
-    "timestamp": 1774966455.0361037
   }
 ]
