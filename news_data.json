@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google now lets you explore the web side-by-side with AI Mode",
+    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+    "summary": "谷歌Chrome桌面版AI模式升级，点击链接可开启网页与AI侧边栏并排显示，提升多任务处理效率。",
+    "date": "2026-04-16 17:55",
+    "timestamp": 1776362120.9804826
+  },
+  {
+    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
+    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1306628638.jpg?resize=1200,800",
+    "summary": "行业当前核心挑战在于，随着AI融入技术体系，关键问题已从单纯监控模型错误转向诊断整个技术栈的协同运行状态。",
+    "date": "2026-04-16 17:55",
+    "timestamp": 1776362123.363845
+  },
+  {
+    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
+    "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1390536487.jpg?resize=1200,800",
+    "summary": "Adobe报告显示，3月美国零售网站AI流量激增269%，AI访客转化率与消费贡献均优于普通用户。",
+    "date": "2026-04-16 17:55",
+    "timestamp": 1776362125.7940948
+  },
+  {
     "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
     "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/roblox-header.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "谷歌在Vids应用中新增功能，支持用户自定义并指令化虚拟形象，用于视频创作。",
     "date": "2026-04-02 16:37",
     "timestamp": 1775147849.6928792
-  },
-  {
-    "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
-    "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-    "summary": "Anthropic高管承认操作失误，并撤回了大部分删除通知。",
-    "date": "2026-04-01 23:19",
-    "timestamp": 1775085591.4411924
-  },
-  {
-    "title": "Meta’s natural gas binge could power South Dakota",
-    "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
-    "summary": "Meta将新建10座天然气发电厂，为其Hyperion人工智能数据中心供电。",
-    "date": "2026-04-01 19:42",
-    "timestamp": 1775072562.1121616
-  },
-  {
-    "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
-    "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200",
-    "summary": "该公司宣称其技术可将芯片开发成本降低超75%，并将研发周期缩短一半以上。",
-    "date": "2026-04-01 17:33",
-    "timestamp": 1775064803.2846134
   }
 ]
