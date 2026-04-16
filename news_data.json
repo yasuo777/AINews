@@ -1,5 +1,21 @@
 [
   {
+    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
+    "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/roblox-header.jpg?resize=1200,800",
+    "summary": "新工具旨在为创作者提供全流程开发支持。",
+    "date": "2026-04-16 16:09",
+    "timestamp": 1776355788.5825644
+  },
+  {
+    "title": "Google is now targeting bad ads over bad actors",
+    "link": "https://techcrunch.com/2026/04/16/google-blocked-more-ads-but-banned-fewer-advertisers-as-ai-reshapes-enforcement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "谷歌2025年屏蔽83亿违规广告，同时降低广告商封禁数量，显示其强化自动化审核与精准治理的策略。",
+    "date": "2026-04-16 16:09",
+    "timestamp": 1776355790.8130543
+  },
+  {
     "title": "Runway CEO says AI could help Hollywood make 50 films instead of one $100M blockbuster",
     "link": "https://techcrunch.com/2026/04/16/runway-ceo-says-ai-could-help-hollywood-make-50-films-instead-of-one-100m-blockbuster/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Cristobal-Valenzuela-GettyImages-2271505604.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "该公司宣称其技术可将芯片开发成本降低超75%，并将研发周期缩短一半以上。",
     "date": "2026-04-01 17:33",
     "timestamp": 1775064803.2846134
-  },
-  {
-    "title": "Less than a month: StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
-    "link": "https://techcrunch.com/2026/04/01/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/54963244981_66492e96cc_6k.jpg?resize=1200,800",
-    "summary": "4月30日，StrictlyVC旧金山峰会将汇聚TDK Ventures、Replit等企业领袖，席位有限，需提前注册。",
-    "date": "2026-04-01 15:56",
-    "timestamp": 1775058975.9710062
-  },
-  {
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
-    "summary": "AI招聘初创企业确认遭遇安全事件，有黑客组织声称窃取其系统数据并实施勒索。",
-    "date": "2026-04-01 03:53",
-    "timestamp": 1775015590.4552448
   }
 ]
