@@ -1,5 +1,21 @@
 [
   {
+    "title": "Upscale AI in talks to raise at $2B valuation, says report",
+    "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-182414392.jpg?resize=1200,800",
+    "summary": "AI基础设施公司Upscale AI成立仅七个月，据悉正洽谈第三轮融资。",
+    "date": "2026-04-16 21:27",
+    "timestamp": 1776374821.0066688
+  },
+  {
+    "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+    "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+    "summary": "新型号π0.7是该公司在开发通用机器人智能系统进程中的早期关键突破，标志着向通用机器人“大脑”目标迈出了重要一步。",
+    "date": "2026-04-16 21:27",
+    "timestamp": 1776374823.275923
+  },
+  {
     "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
     "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-8.39.23-AM.png?resize=1200,670",
@@ -782,21 +798,5 @@
     "summary": "AI初创公司Moonbounce获1200万美元融资，用于开发内容审核AI控制引擎，旨在将审核政策转化为稳定、可预测的AI行为。",
     "date": "2026-04-03 15:26",
     "timestamp": 1775229964.074002
-  },
-  {
-    "title": "Perplexity's \"Incognito Mode\" is a \"sham,\" lawsuit says",
-    "link": "https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2253795243-1024x648.jpg",
-    "summary": "谷歌、Meta与Perplexity被指控为提升广告收入，共享数百万用户聊天数据。",
-    "date": "2026-04-02 21:06",
-    "timestamp": 1775164019.2133546
-  },
-  {
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
-    "summary": "硅谷知名科技播客TBPN将保持独立运营，由首席政治策略师克里斯·莱恩负责监督。",
-    "date": "2026-04-02 19:33",
-    "timestamp": 1775158434.4353688
   }
 ]
