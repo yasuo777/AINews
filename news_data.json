@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-8.39.23-AM.png?resize=1200,670",
+    "summary": "OpenAI对其智能编程工具进行重大升级，新增多项功能与能力，显著提升代理式编码效率。",
+    "date": "2026-04-16 19:47",
+    "timestamp": 1776368866.1193106
+  },
+  {
+    "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+    "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/1704678804.jpg?resize=1200,799",
+    "summary": "克里格离职及后续设计工具动向，将加剧投资者对“SaaS末日”的担忧——即大型AI实验室可能主导软件行业，这一预期今年已多次冲击公开市场。",
+    "date": "2026-04-16 19:47",
+    "timestamp": 1776368868.948817
+  },
+  {
     "title": "Google now lets you explore the web side-by-side with AI Mode",
     "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "硅谷知名科技播客TBPN将保持独立运营，由首席政治策略师克里斯·莱恩负责监督。",
     "date": "2026-04-02 19:33",
     "timestamp": 1775158434.4353688
-  },
-  {
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
-    "summary": "MAI团队成立半年后发布多模态模型，可实现语音转文字及音像生成功能。",
-    "date": "2026-04-02 17:32",
-    "timestamp": 1775151131.6384506
-  },
-  {
-    "title": "Google now lets you direct avatars through prompts in its Vids app",
-    "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-    "summary": "谷歌在Vids应用中新增功能，支持用户自定义并指令化虚拟形象，用于视频创作。",
-    "date": "2026-04-02 16:37",
-    "timestamp": 1775147849.6928792
   }
 ]
