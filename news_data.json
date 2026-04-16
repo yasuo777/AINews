@@ -1,5 +1,13 @@
 [
   {
+    "title": "DeepL, known for text translation, now wants to translate your voice",
+    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/DeepL_Voice2Voice_Conversations_2.png?resize=1200,804",
+    "summary": "DeepL表示其技术可用于Zoom和Teams等会议工具，实现实时翻译功能。",
+    "date": "2026-04-16 08:16",
+    "timestamp": 1776327368.7012963
+  },
+  {
     "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
     "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "OpenAI获亚马逊、英伟达及软银新一轮融资，估值达8520亿美元，已接近上市。",
     "date": "2026-03-31 22:07",
     "timestamp": 1774994826.8509908
-  },
-  {
-    "title": "Yupp.ai shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1303642234.jpg?w=1024",
-    "summary": "硅谷知名风投支持的AI模型反馈众包平台Yupp.ai在运营不足一年后，于本周二宣布停止运营。",
-    "date": "2026-03-31 20:25",
-    "timestamp": 1774988721.6528518
   }
 ]
