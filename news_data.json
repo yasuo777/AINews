@@ -1,5 +1,29 @@
 [
   {
+    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "AI领域内外差距日益显著。OpenAI持续收购扩张，Anthropic发布因能力过强暂不公开的模型，企业纷纷向AI转型，行业呈现高投入与高壁垒态势。",
+    "date": "2026-04-17 16:32",
+    "timestamp": 1776443549.4847434
+  },
+  {
+    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+    "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Claude-Design-2-Press-Logo-Claude-1920x1080-1.png?resize=1200,675",
+    "summary": "公司推出Claude Design，旨在帮助无设计背景的创始人和产品经理更便捷地表达创意构想。",
+    "date": "2026-04-17 16:32",
+    "timestamp": 1776443551.5913062
+  },
+  {
+    "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
+    "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hotdogman-1152x648.png",
+    "summary": "因大规模数据中心投资，关键部件价格大幅上涨。",
+    "date": "2026-04-17 16:32",
+    "timestamp": 1776443554.317413
+  },
+  {
     "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
     "link": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1356382582.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "OpenAI首席营销官凯特·劳奇因专注癌症康复将暂时离职，计划康复后回归。",
     "date": "2026-04-03 21:06",
     "timestamp": 1775250361.1023493
-  },
-  {
-    "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
-    "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-    "summary": "AI公司Anthropic以4亿美元股票收购了隐秘生物科技初创公司Coefficient Bio。",
-    "date": "2026-04-03 21:06",
-    "timestamp": 1775250362.826978
-  },
-  {
-    "title": "Anthropic ramps up its political activities with a new PAC",
-    "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
-    "summary": "美国中期选举临近，新团体将资助支持其AI政策议程的候选人。",
-    "date": "2026-04-03 21:06",
-    "timestamp": 1775250364.488029
-  },
-  {
-    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-    "link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
-    "summary": "Meta、微软和谷歌正大力投资新建天然气发电厂以支持AI数据中心运营。此举虽解能源短缺之急，却与碳中和目标相悖，长期或面临气候风险与转型压力。",
-    "date": "2026-04-03 20:03",
-    "timestamp": 1775246596.4558609
   }
 ]
