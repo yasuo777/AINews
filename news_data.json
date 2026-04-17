@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+    "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "summary": "风投机构a16z与Thrive预计将领投本轮融资。",
+    "date": "2026-04-17 19:43",
+    "timestamp": 1776454981.579737
+  },
+  {
+    "title": "“Tokenmaxxing” is making developers less productive than they think",
+    "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+    "summary": "新代码量激增，但开发成本与重构工作量也大幅上升。",
+    "date": "2026-04-17 19:43",
+    "timestamp": 1776454983.3866313
+  },
+  {
     "title": "Are we tokenmaxxing our way to nowhere?",
     "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Anthropic宣布Claude Code订阅服务将涨价，用户通过OpenClaw等第三方工具使用其编程助手的成本将增加。",
     "date": "2026-04-04 17:04",
     "timestamp": 1775322296.4538376
-  },
-  {
-    "title": "Anthropic is having a moment in the private markets; SpaceX could spoil the party",
-    "link": "https://techcrunch.com/2026/04/03/anthropic-is-having-a-moment-in-the-private-markets-spacex-could-spoil-the-party/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2148589533.jpg?resize=1200,800",
-    "summary": "Rainmaker证券总裁指出，私募二级市场交易活跃度空前，其中Anthropic交易最热，OpenAI份额下滑，而SpaceX即将进行的IPO预计将重塑市场格局。",
-    "date": "2026-04-04 03:24",
-    "timestamp": 1775273049.847255
-  },
-  {
-    "title": "\"Cognitive surrender\" leads AI users to abandon logical thinking, research finds",
-    "link": "https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-520147094-1152x648.jpg",
-    "summary": "实验表明，多数人会不加批判地接受人工智能提供的错误答案。",
-    "date": "2026-04-03 22:01",
-    "timestamp": 1775253711.461881
   }
 ]
