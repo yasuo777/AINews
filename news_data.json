@@ -1,5 +1,13 @@
 [
   {
+    "title": "Are we tokenmaxxing our way to nowhere?",
+    "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+    "summary": "AI领域内外认知差距正加剧。OpenAI持续扩张业务版图，Anthropic发布因能力过强暂不公开的模型，传统企业亦纷纷转型AI基础设施。投入、疑虑与专业术语正筑起行业壁垒。",
+    "date": "2026-04-17 17:30",
+    "timestamp": 1776447056.7895875
+  },
+  {
     "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
     "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "实验表明，多数人会不加批判地接受人工智能提供的错误答案。",
     "date": "2026-04-03 22:01",
     "timestamp": 1775253711.461881
-  },
-  {
-    "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
-    "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
-    "summary": "OpenAI首席营销官凯特·劳奇因专注癌症康复将暂时离职，计划康复后回归。",
-    "date": "2026-04-03 21:06",
-    "timestamp": 1775250361.1023493
   }
 ]
