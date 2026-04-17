@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+    "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+    "summary": "OpenAI关闭Sora项目并解散科学团队，核心成员Kevin Weil与Bill Peebles离职。此举标志着公司战略重心从消费级前沿探索转向企业级AI市场。",
+    "date": "2026-04-17 21:24",
+    "timestamp": 1776461083.894012
+  },
+  {
     "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
     "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
@@ -790,13 +798,5 @@
     "summary": "日本因劳动力短缺，正加速将实体人工智能从试点项目推广至实际应用。",
     "date": "2026-04-05 15:04",
     "timestamp": 1775401486.1181192
-  },
-  {
-    "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
-    "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
-    "summary": "Anthropic宣布Claude Code订阅服务将涨价，用户通过OpenClaw等第三方工具使用其编程助手的成本将增加。",
-    "date": "2026-04-04 17:04",
-    "timestamp": 1775322296.4538376
   }
 ]
