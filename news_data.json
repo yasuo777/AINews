@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tesla brings its robotaxi service to Dallas and Houston",
+    "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
+    "summary": "特斯拉宣布在达拉斯和休斯顿推出无人驾驶出租车服务。公司发布的视频显示，车辆在前排无安全员的情况下自主行驶，标志着其自动驾驶商业化进程的进一步拓展。",
+    "date": "2026-04-18 22:03",
+    "timestamp": 1776549807.02804
+  },
+  {
     "title": "AI chip startup Cerebras files for IPO",
     "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "OpenAI推出新功能，允许用户直接在ChatGPT内操作Spotify、Canva、Figma及Expedia等第三方应用，提升交互效率。",
     "date": "2026-04-06 15:29",
     "timestamp": 1775489371.010542
-  },
-  {
-    "title": "Ticket savings of up to $500 this week for TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/04/06/massive-ticket-savings-of-up-to-500-this-week-for-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_5Days-16X9-Dark.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026门票优惠即将结束，现可节省近500美元，截止日期为太平洋时间4月10日23:59。",
-    "date": "2026-04-06 15:29",
-    "timestamp": 1775489373.1568148
   }
 ]
