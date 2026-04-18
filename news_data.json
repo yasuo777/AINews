@@ -1,5 +1,13 @@
 [
   {
+    "title": "The App Store is booming again, and AI may be why",
+    "link": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/app-store-with-badge-GettyImages-2193151739.jpg?w=1024",
+    "summary": "数据显示，2026年移动应用新上架数量激增，表明人工智能工具可能正推动新一轮移动应用热潮。",
+    "date": "2026-04-18 13:46",
+    "timestamp": 1776520010.9758623
+  },
+  {
     "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
     "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
@@ -790,13 +798,5 @@
     "summary": "AI公司在其服务条款中明确警示用户不应盲目信任模型输出，这与质疑者的警告不谋而合。",
     "date": "2026-04-05 19:21",
     "timestamp": 1775416913.4482248
-  },
-  {
-    "title": "Can orbital data centers help justify a massive valuation for SpaceX?",
-    "link": "https://techcrunch.com/2026/04/05/can-orbital-data-centers-help-justify-a-massive-valuation-for-spacex/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
-    "summary": "在TechCrunch的Equity播客中，我们探讨了埃隆·马斯克关于在太空建立数据中心的构想。",
-    "date": "2026-04-05 16:01",
-    "timestamp": 1775404882.743057
   }
 ]
