@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI chip startup Cerebras files for IPO",
+    "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+    "summary": "人工智能芯片公司Cerebras近期与亚马逊云科技达成合作，将其芯片部署于亚马逊数据中心，并与OpenAI签订了据称价值超百亿美元的合作协议。",
+    "date": "2026-04-18 19:28",
+    "timestamp": 1776540480.588475
+  },
+  {
     "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
     "link": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch Disrupt 2026门票优惠即将结束，现可节省近500美元，截止日期为太平洋时间4月10日23:59。",
     "date": "2026-04-06 15:29",
     "timestamp": 1775489373.1568148
-  },
-  {
-    "title": "Spain’s Xoople raises $130 million Series B to map the Earth for AI",
-    "link": "https://techcrunch.com/2026/04/06/spains-xoople-raises-130-million-series-b-to-map-the-earth-for-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Xoople_Founders-May2024_APPROVED-FOR-PUBLISHING-1.jpeg?resize=1200,801",
-    "summary": "Xoople公司与L3Harris达成合作，将由其负责航天器传感器制造。",
-    "date": "2026-04-06 13:55",
-    "timestamp": 1775483750.5245035
   }
 ]
