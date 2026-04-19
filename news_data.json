@@ -1,5 +1,21 @@
 [
   {
+    "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+    "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/05/palantir.jpg?resize=1200,640",
+    "summary": "Palantir因与ICE合作并自诩为“西方捍卫者”，其意识形态倾向受到更多审视。",
+    "date": "2026-04-19 17:19",
+    "timestamp": 1776619140.8224757
+  },
+  {
+    "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+    "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/2603112-01_LEAF_robotaxi_01.jpg?w=1200",
+    "summary": "欢迎回到TechCrunch Mobility，本栏目聚焦未来交通，尤其关注人工智能在其中的关键作用。",
+    "date": "2026-04-19 17:19",
+    "timestamp": 1776619142.7003794
+  },
+  {
     "title": "Tesla brings its robotaxi service to Dallas and Houston",
     "link": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-getty.jpg?resize=1200,801",
@@ -782,21 +798,5 @@
     "summary": "OpenAI建议对AI利润征税、设立公共财富基金并扩大社会保障，以应对失业与不平等问题，将再分配机制融入资本主义体系，供政策制定者参考。",
     "date": "2026-04-06 16:28",
     "timestamp": 1775492907.5496268
-  },
-  {
-    "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
-    "link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/sb200_trophy.png?w=1080",
-    "summary": "TechCrunch启动初创企业评选，入选200强将有机会获得投资对接、媒体曝光及10万美元奖金。报名截止日期为5月27日。",
-    "date": "2026-04-06 15:29",
-    "timestamp": 1775489368.614898
-  },
-  {
-    "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
-    "link": "https://techcrunch.com/2026/04/06/how-to-use-chatgpt-apps-doordash-spotify-uber/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "OpenAI推出新功能，允许用户直接在ChatGPT内操作Spotify、Canva、Figma及Expedia等第三方应用，提升交互效率。",
-    "date": "2026-04-06 15:29",
-    "timestamp": 1775489371.010542
   }
 ]
