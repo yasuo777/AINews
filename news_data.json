@@ -1,5 +1,13 @@
 [
   {
+    "title": "The 12-month window",
+    "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?resize=1200,800",
+    "summary": "众多AI初创企业的生存空间，源于基础模型尚未覆盖其细分领域。业内普遍认为，这种窗口期不会永久持续。",
+    "date": "2026-04-19 20:04",
+    "timestamp": 1776629083.8150413
+  },
+  {
     "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
     "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/05/palantir.jpg?resize=1200,640",
@@ -790,13 +798,5 @@
     "summary": "伊朗宣布将升级对美军事行动，计划打击美国关联数据中心，两国冲突进一步加剧。",
     "date": "2026-04-06 18:34",
     "timestamp": 1775500491.758871
-  },
-  {
-    "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
-    "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
-    "summary": "OpenAI建议对AI利润征税、设立公共财富基金并扩大社会保障，以应对失业与不平等问题，将再分配机制融入资本主义体系，供政策制定者参考。",
-    "date": "2026-04-06 16:28",
-    "timestamp": 1775492907.5496268
   }
 ]
