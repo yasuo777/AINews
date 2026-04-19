@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s existential questions",
+    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266645295.jpg?w=1024",
+    "summary": "OpenAI近期收购引发关注，业界探讨其是否正应对公司面临的两大生存性挑战。",
+    "date": "2026-04-19 22:04",
+    "timestamp": 1776636251.3287368
+  },
+  {
     "title": "The 12-month window",
     "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌推出离线优先听写应用，搭载Gemma AI模型，旨在对标Wispr Flow等同类产品。",
     "date": "2026-04-06 19:39",
     "timestamp": 1775504383.2684662
-  },
-  {
-    "title": "Iran threatens ‘Stargate’ AI data centers",
-    "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
-    "summary": "伊朗宣布将升级对美军事行动，计划打击美国关联数据中心，两国冲突进一步加剧。",
-    "date": "2026-04-06 18:34",
-    "timestamp": 1775500491.758871
   }
 ]
