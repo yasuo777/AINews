@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google rolls out Gemini in Chrome in seven new countries",
+    "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Chrome_Hero.png?resize=1200,677",
+    "summary": "谷歌在澳大利亚、印尼、日本、菲律宾、新加坡、韩国和越南的Chrome浏览器中推出Gemini人工智能助手。",
+    "date": "2026-04-20 22:26",
+    "timestamp": 1776724007.9688365
+  },
+  {
     "title": "It’s not just one thing — it’s another thing",
     "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
@@ -790,13 +798,5 @@
     "summary": "近期趋势显示，越来越多家族办公室正绕过风投机构，直接投资AI初创企业，从被动投资者转变为积极参与者。",
     "date": "2026-04-07 14:54",
     "timestamp": 1775573681.0624135
-  },
-  {
-    "title": "AI startup Rocket offers vibe McKinsey-style reports at a fraction of the cost",
-    "link": "https://techcrunch.com/2026/04/06/indian-startup-rocket-wants-its-ai-to-do-mckinsey-style-consulting-at-a-fraction-of-the-cost/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/rocket-co-founder-ceo-vishal-virani.jpg?resize=1200,800",
-    "summary": "Rocket推出全新AI平台，整合战略规划、产品构建与竞争情报功能，旨在超越单一代码生成，提供全方位商业解决方案。",
-    "date": "2026-04-07 06:57",
-    "timestamp": 1775545062.9910724
   }
 ]
