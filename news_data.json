@@ -1,5 +1,13 @@
 [
   {
+    "title": "It’s not just one thing — it’s another thing",
+    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
+    "summary": "AI写作中频繁出现的\"It's not just this — it's that\"句式，已从识别合成文本的线索演变为确凿特征。",
+    "date": "2026-04-20 19:45",
+    "timestamp": 1776714337.5581164
+  },
+  {
     "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
     "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Rocket推出全新AI平台，整合战略规划、产品构建与竞争情报功能，旨在超越单一代码生成，提供全方位商业解决方案。",
     "date": "2026-04-07 06:57",
     "timestamp": 1775545062.9910724
-  },
-  {
-    "title": "From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability",
-    "link": "https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gen1-1152x648.png",
-    "summary": "新型AI模型具备自主应对突发状况与解决未训练任务的能力。",
-    "date": "2026-04-06 23:07",
-    "timestamp": 1775516843.772279
   }
 ]
