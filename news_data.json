@@ -1,5 +1,13 @@
 [
   {
+    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
+    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+    "summary": "Only Elon would do this before an IPO.",
+    "date": "2026-04-21 23:21",
+    "timestamp": 1776813663.3381898
+  },
+  {
     "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
     "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌推出离线优先听写应用，搭载Gemma AI模型，旨在挑战Wispr Flow等同类产品。",
     "date": "2026-04-08 06:09",
     "timestamp": 1775628564.7391798
-  },
-  {
-    "title": "I can’t help rooting for tiny open source AI model maker Arcee",
-    "link": "https://techcrunch.com/2026/04/07/i-cant-help-rooting-for-tiny-open-source-ai-model-maker-arcee/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802",
-    "summary": "美国初创公司Arcee仅26人，成功开发出高性能开源大语言模型，正受到OpenClaw用户青睐。",
-    "date": "2026-04-07 22:20",
-    "timestamp": 1775600429.2084513
   }
 ]
