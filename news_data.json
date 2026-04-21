@@ -1,5 +1,21 @@
 [
   {
+    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1968296977.jpg?resize=1200,800",
+    "summary": "美国联邦贸易委员会与Clarifai达成和解后，后者删除了相关照片。据法庭文件显示，Clarifai曾于2014年通过高管投资关系，要求OkCupid共享用户数据。",
+    "date": "2026-04-21 17:38",
+    "timestamp": 1776793136.4485247
+  },
+  {
+    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
+    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Voyage-Promo-Art-3.jpg?w=1200",
+    "summary": "Latitude公司推出AI原生平台Voyage，旨在帮助玩家自主创建角色扮演游戏。",
+    "date": "2026-04-21 17:38",
+    "timestamp": 1776793138.7785463
+  },
+  {
     "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
     "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/003_home_screen.png?resize=675,1200",
@@ -782,21 +798,5 @@
     "summary": "马斯克新科技项目引入半导体合作伙伴，强化技术实力。",
     "date": "2026-04-07 18:37",
     "timestamp": 1775587079.579739
-  },
-  {
-    "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
-    "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-    "summary": "新型号将供少数知名企业用于开展防御性网络安全工作。",
-    "date": "2026-04-07 18:38",
-    "timestamp": 1775587081.045653
-  },
-  {
-    "title": "Uber is the latest to be won over by Amazon’s AI chips",
-    "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/AWS-Trainium2-chip-11-29-24-embargo-till-12-3-24-1.jpg?resize=1200,812",
-    "summary": "优步扩大与亚马逊AWS合作，将更多网约车功能迁移至亚马逊自研芯片，此举被视为对甲骨文和谷歌的直接挑战。",
-    "date": "2026-04-07 17:39",
-    "timestamp": 1775583587.4060457
   }
 ]
