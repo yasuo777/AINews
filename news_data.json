@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bond, a new social media platform, wants to use AI to help you kick your doomscrolling habit",
+    "link": "https://techcrunch.com/2026/04/21/bond-social-media-platform-ai-memories-kick-doomscrolling-habit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/003_home_screen.png?resize=675,1200",
+    "summary": "新平台Bond利用AI系统激励用户放下手机、回归现实生活，旨在促进线下活动参与。",
+    "date": "2026-04-21 15:56",
+    "timestamp": 1776787006.9640214
+  },
+  {
+    "title": "YouTube expands its AI likeness detection technology to celebrities",
+    "link": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?resize=1200,800",
+    "summary": "YouTube将AI仿冒检测工具扩展至名人群体，为其团队提供识别和删除深度伪造内容的能力。",
+    "date": "2026-04-21 15:56",
+    "timestamp": 1776787009.3105211
+  },
+  {
     "title": "GRAI believes AI can make music more social, not replace artists",
     "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/listening-to-music-GettyImages-2170179832.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "优步扩大与亚马逊AWS合作，将更多网约车功能迁移至亚马逊自研芯片，此举被视为对甲骨文和谷歌的直接挑战。",
     "date": "2026-04-07 17:39",
     "timestamp": 1775583587.4060457
-  },
-  {
-    "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
-    "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
-    "summary": "Anthropic与谷歌和博通扩大算力合作，其年化收入已飙升至300亿美元。",
-    "date": "2026-04-07 16:37",
-    "timestamp": 1775579847.5624776
-  },
-  {
-    "title": "Google Maps can now write captions for your photos using AI",
-    "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
-    "summary": "谷歌Gemini新增图片与视频字幕自动生成功能，便于用户分享多媒体内容。",
-    "date": "2026-04-07 16:37",
-    "timestamp": 1775579849.786523
   }
 ]
