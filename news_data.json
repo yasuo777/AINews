@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hands on with X’s new AI-powered custom feeds",
+    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
+    "summary": "X平台以AI生成的时间线功能取代社群板块，推出由Grok策划的信息流并新增广告位。",
+    "date": "2026-04-22 22:28",
+    "timestamp": 1776896906.8291645
+  },
+  {
     "title": "Our newsroom AI policy",
     "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "两大科技巨头拟联合开发定制芯片，以应对全球CPU短缺加剧的市场需求。",
     "date": "2026-04-09 18:37",
     "timestamp": 1775759832.2073855
-  },
-  {
-    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-    "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
-    "summary": "Sierra联合创始人预测，AI智能体将取代传统软件界面，用户可通过自然对话直接完成任务。",
-    "date": "2026-04-09 18:37",
-    "timestamp": 1775759833.7033672
   }
 ]
