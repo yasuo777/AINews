@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+    "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Google-TPU8.jpg?w=1031",
+    "summary": "谷歌新一代TPU在性能提升和成本降低方面表现突出，但公司目前仍在其云服务中保留对英伟达芯片的支持。",
+    "date": "2026-04-22 18:45",
+    "timestamp": 1776883500.5721989
+  },
+  {
+    "title": "Anthropic tested removing Claude Code from the Pro plan",
+    "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-1152x648.jpg",
+    "summary": "AI公司Anthropic因需求激增，正探索服务配额管理方案以应对压力。",
+    "date": "2026-04-22 18:45",
+    "timestamp": 1776883503.3781168
+  },
+  {
     "title": "Google turns Chrome into an AI coworker for the workplace",
     "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "亚马逊CEO安迪·贾西在年度股东信中为2000亿美元资本支出辩护，措辞强硬，被指似在广泛抨击竞争对手。",
     "date": "2026-04-09 15:08",
     "timestamp": 1775747327.0039575
-  },
-  {
-    "title": "Final 2 days to save up to $500 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/04/09/final-2-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-ticket/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026大会早鸟票优惠将于太平洋时间4月10日23:59截止，最高可省500美元。此后票价将上调。建议即刻注册以锁定优惠。",
-    "date": "2026-04-09 15:08",
-    "timestamp": 1775747329.6148071
-  },
-  {
-    "title": "Poke makes AI agents as easy as sending a text",
-    "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
-    "summary": "AI初创公司Poke推出短信交互式AI代理服务，用户无需安装应用或技术背景，即可通过自然语言短信指令自动处理日常任务与流程。",
-    "date": "2026-04-08 21:27",
-    "timestamp": 1775683672.143265
   }
 ]
