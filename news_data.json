@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+    "summary": "Infosys宣布将整合技术，帮助客户实现软件开发现代化、自动化工作流及部署AI系统，初期聚焦于软件工程、遗留系统现代化和DevOps领域。",
+    "date": "2026-04-22 15:54",
+    "timestamp": 1776873273.319645
+  },
+  {
     "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
     "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/10xScience_Team_Picture_1.png?w=1182",
@@ -790,13 +798,5 @@
     "summary": "流媒体平台Tubi率先在ChatGPT中集成应用，用户现可直接通过该AI聊天机器人访问其影视内容。",
     "date": "2026-04-08 18:49",
     "timestamp": 1775674195.3756268
-  },
-  {
-    "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
-    "link": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/poppy-claude-hero-scaled-1.webp?resize=1200,563",
-    "summary": "Astropad推出Workbench工具，支持通过iPhone或iPad远程监控和操作Mac Mini上的AI代理，提供低延迟流传输与移动端便捷访问。",
-    "date": "2026-04-08 16:43",
-    "timestamp": 1775666608.746154
   }
 ]
