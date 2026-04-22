@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
+    "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/10xScience_Team_Picture_1.png?w=1182",
+    "summary": "生物科技公司10x Science完成480万美元种子轮融资，致力于为药企研究人员提供复杂分子结构解析服务。",
+    "date": "2026-04-22 14:18",
+    "timestamp": 1776867492.126778
+  },
+  {
+    "title": "The most interesting startups showcased at Google Cloud Next 2026",
+    "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/Google-Cloud-Next-_23_Thomas-Kurian_1.jpg?resize=1200,800",
+    "summary": "谷歌在年度大会上重点推介其云平台，展示了一系列AI初创企业案例，以吸引更多AI初创公司使用其云服务。",
+    "date": "2026-04-22 14:18",
+    "timestamp": 1776867496.3057797
+  },
+  {
+    "title": "Google Maps is about to get a big dose of AI",
+    "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-5.26.25-PM.png?resize=1200,670",
+    "summary": "谷歌地图正引入生成式AI技术，以提升其热门功能的智能化体验。",
+    "date": "2026-04-22 14:18",
+    "timestamp": 1776867498.736451
+  },
+  {
     "title": "Meta will record employees’ keystrokes and use it to train its AI models",
     "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Astropad推出Workbench工具，支持通过iPhone或iPad远程监控和操作Mac Mini上的AI代理，提供低延迟流传输与移动端便捷访问。",
     "date": "2026-04-08 16:43",
     "timestamp": 1775666608.746154
-  },
-  {
-    "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
-    "link": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "OpenAI发布儿童安全蓝图，旨在应对AI技术发展导致的儿童性剥削内容激增问题，强化平台安全防护措施。",
-    "date": "2026-04-08 16:43",
-    "timestamp": 1775666610.974791
-  },
-  {
-    "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
-    "link": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Databricks_Matei_Zaharia_for-ACM.jpg?resize=1200,845",
-    "summary": "ACM最高奖得主马泰·扎哈里亚正致力于科研AI开发，并指出通用人工智能（AGI）常被误解。",
-    "date": "2026-04-08 16:43",
-    "timestamp": 1775666613.0874488
-  },
-  {
-    "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_3Days-16X9-Dark.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026大会门票优惠500美元，截止日期为太平洋时间4月10日晚11:59。即刻注册，把握科技核心机遇。",
-    "date": "2026-04-08 14:55",
-    "timestamp": 1775660150.5032787
   }
 ]
