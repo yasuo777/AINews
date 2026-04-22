@@ -1,5 +1,13 @@
 [
   {
+    "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+    "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "summary": "AI代码编辑器Cursor因SpaceX提供100亿美元合作费及600亿美元收购路径，暂停了原计划本周完成的20亿美元融资谈判。",
+    "date": "2026-04-22 20:33",
+    "timestamp": 1776889988.233695
+  },
+  {
     "title": "Google Cloud launches two new AI chips to compete with Nvidia",
     "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Google-TPU8.jpg?w=1031",
@@ -790,13 +798,5 @@
     "summary": "Officer created over 3,000 \"deepfake\" images.",
     "date": "2026-04-09 16:50",
     "timestamp": 1775753416.7824876
-  },
-  {
-    "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
-    "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
-    "summary": "亚马逊CEO安迪·贾西在年度股东信中为2000亿美元资本支出辩护，措辞强硬，被指似在广泛抨击竞争对手。",
-    "date": "2026-04-09 15:08",
-    "timestamp": 1775747327.0039575
   }
 ]
