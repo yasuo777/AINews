@@ -1,5 +1,13 @@
 [
   {
+    "title": "Our newsroom AI policy",
+    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
+    "summary": "《Ars Technica》披露其有限度使用生成式AI辅助翻译与摘要，但坚持核心报道与事实核查均由编辑人工完成，以维护内容专业性与准确性。",
+    "date": "2026-04-22 21:33",
+    "timestamp": 1776893617.9411097
+  },
+  {
     "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
     "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
@@ -790,13 +798,5 @@
     "summary": "Sierra联合创始人预测，AI智能体将取代传统软件界面，用户可通过自然对话直接完成任务。",
     "date": "2026-04-09 18:37",
     "timestamp": 1775759833.7033672
-  },
-  {
-    "title": "State police corporal created porn deepfakes from driver's license photos",
-    "link": "https://arstechnica.com/tech-policy/2026/04/state-police-corporal-created-porn-deepfakes-from-drivers-license-photos/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2233168552-1152x648-1775751732.jpg",
-    "summary": "Officer created over 3,000 \"deepfake\" images.",
-    "date": "2026-04-09 16:50",
-    "timestamp": 1775753416.7824876
   }
 ]
