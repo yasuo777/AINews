@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "link": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+    "summary": "Meta公司宣布开发出一款内部工具，可将用户鼠标移动与点击行为转化为数据，用于训练其人工智能模型。",
+    "date": "2026-04-22 00:05",
+    "timestamp": 1776816344.15006
+  },
+  {
+    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
+    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
+    "summary": "Anthropic回应称正在调查相关指控，但坚称目前没有证据表明其系统受到影响。",
+    "date": "2026-04-22 00:05",
+    "timestamp": 1776816346.1577115
+  },
+  {
     "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
     "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026大会门票优惠500美元，截止日期为太平洋时间4月10日晚11:59。即刻注册，把握科技核心机遇。",
     "date": "2026-04-08 14:55",
     "timestamp": 1775660150.5032787
-  },
-  {
-    "title": "Atlassian launches visual AI tools and third-party agents in Confluence",
-    "link": "https://techcrunch.com/2026/04/08/atlassian-confluence-visual-ai-tools-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/atlassian-confluence-bug-getty.jpg?resize=1200,800",
-    "summary": "Confluence新增内置视觉资产创建功能，并与Lovable、Replit及Gamma等第三方平台代理服务集成。",
-    "date": "2026-04-08 14:55",
-    "timestamp": 1775660152.719122
-  },
-  {
-    "title": "Google quietly launched an AI dictation app that works offline",
-    "link": "https://techcrunch.com/2026/04/07/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-    "summary": "谷歌推出离线优先听写应用，搭载Gemma AI模型，旨在挑战Wispr Flow等同类产品。",
-    "date": "2026-04-08 06:09",
-    "timestamp": 1775628564.7391798
   }
 ]
