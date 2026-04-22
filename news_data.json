@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google updates Workspace to make AI your new office intern",
+    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "谷歌为Workspace引入一系列由全新AI系统Workspace Intelligence驱动的新自动化功能。",
+    "date": "2026-04-22 23:30",
+    "timestamp": 1776900648.9926665
+  },
+  {
     "title": "Hands on with X’s new AI-powered custom feeds",
     "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Anthropic本周表示，因新模型Mythos过于擅长发现全球软件的安全漏洞，故限制其发布。外界质疑此举是否以网络安全为由掩盖前沿实验室的更深层问题。",
     "date": "2026-04-09 19:48",
     "timestamp": 1775764125.1911225
-  },
-  {
-    "title": "Google and Intel deepen AI infrastructure partnership",
-    "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
-    "summary": "两大科技巨头拟联合开发定制芯片，以应对全球CPU短缺加剧的市场需求。",
-    "date": "2026-04-09 18:37",
-    "timestamp": 1775759832.2073855
   }
 ]
