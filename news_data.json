@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+    "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
+    "summary": "特斯拉计划2026年资本支出将达历史水平的三倍，其首席财务官表示，这将导致公司在今年剩余时间内出现负自由现金流。",
+    "date": "2026-04-23 01:12",
+    "timestamp": 1776906733.4732273
+  },
+  {
     "title": "Google updates Workspace to make AI your new office intern",
     "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta AI新模型发布后，其应用商店排名从第57位迅速跃升至前5名，且仍在持续上升。",
     "date": "2026-04-09 19:48",
     "timestamp": 1775764123.2498455
-  },
-  {
-    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-    "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182",
-    "summary": "Anthropic本周表示，因新模型Mythos过于擅长发现全球软件的安全漏洞，故限制其发布。外界质疑此举是否以网络安全为由掩盖前沿实验室的更深层问题。",
-    "date": "2026-04-09 19:48",
-    "timestamp": 1775764125.1911225
   }
 ]
