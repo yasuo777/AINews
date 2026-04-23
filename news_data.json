@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/doomscrolling-GettyImages-2195349954.jpg?resize=1200,800",
+    "summary": "Noscroll推出AI机器人，代用户阅读网络内容，旨在帮助用户摆脱“末日刷屏”习惯，提升信息获取效率。",
+    "date": "2026-04-23 19:52",
+    "timestamp": 1776973929.201351
+  },
+  {
+    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+    "summary": "OpenAI宣布其最新模型在多领域能力上显著提升，性能表现更加全面。",
+    "date": "2026-04-23 19:52",
+    "timestamp": 1776973930.181585
+  },
+  {
     "title": "Era raises $11M to build a software platform for AI gadgets",
     "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/IMG_2200.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "2026年东京创新展聚焦AI、机器人、韧性与娱乐四大领域，将展示人形机器人、自动驾驶软件革新、网络安全与气候技术，并探讨AI对全球音乐与动漫产业的重塑。",
     "date": "2026-04-10 17:31",
     "timestamp": 1775842316.889101
-  },
-  {
-    "title": "What leaked \"SteamGPT\" files could mean for the PC gaming platform's use of AI",
-    "link": "https://arstechnica.com/gaming/2026/04/what-is-steamgpt-leaked-files-point-to-ai-powered-valve-security-review-system/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/steamface.png",
-    "summary": "AI工具可辅助审核员高效筛选海量可疑内容，提升处理效率。",
-    "date": "2026-04-10 17:31",
-    "timestamp": 1775842319.2457752
-  },
-  {
-    "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/10/27055664959_5fbe947d9b_o.jpg?resize=1200,799",
-    "summary": "TechCrunch Disrupt 2026大会门票优惠将于太平洋时间今晚11:59截止，最高可节省500美元。",
-    "date": "2026-04-10 14:00",
-    "timestamp": 1775829652.965362
   }
 ]
