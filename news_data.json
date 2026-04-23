@@ -1,5 +1,29 @@
 [
   {
+    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
+    "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-StrictlyVC-Session.jpg?resize=1200,800",
+    "summary": "StrictlyVC旧金山活动将于4月30日在Sentro菲律宾文化中心举行，现正售票，欢迎风投人士与创始人参加。",
+    "date": "2026-04-23 14:21",
+    "timestamp": 1776954118.8301325
+  },
+  {
+    "title": "Another customer of troubled startup Delve suffered a big security incident",
+    "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
+    "summary": "TechCrunch确认，Delve是为AI训练初创公司Context AI进行安全认证的合规企业。后者上周披露了一起安全事件。",
+    "date": "2026-04-23 14:21",
+    "timestamp": 1776954119.9133437
+  },
+  {
+    "title": "AI galaxy hunters are adding to the global GPU crunch",
+    "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/z14-galaxy.jpg?resize=1200,500",
+    "summary": "天文学家借助GPU从海量天文数据中高效筛选关键信号，如同在银河“干草堆”中寻“针”，显著提升搜索效率与精准度。",
+    "date": "2026-04-23 14:22",
+    "timestamp": 1776954121.3940692
+  },
+  {
     "title": "India’s app market is booming — but global platforms are capturing most of the gains",
     "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1230168738.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "OpenAI周四宣布推出每月100美元订阅计划，填补了原有20美元与200美元方案间的价格空缺，回应了高级用户需求。",
     "date": "2026-04-09 22:22",
     "timestamp": 1775773376.557298
-  },
-  {
-    "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
-    "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-    "summary": "去年四月佛罗里达州立大学枪击案致两死五伤，据报道凶手作案计划借助ChatGPT制定。一名遇害者家属表示，将就此起诉OpenAI公司。",
-    "date": "2026-04-09 21:28",
-    "timestamp": 1775770134.4747248
-  },
-  {
-    "title": "Why Anthropic sent its Claude AI to an actual psychiatrist",
-    "link": "https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1397973635-1152x648.jpg",
-    "summary": "OpenAI称其最新模型Mythos为迄今训练出的“心理最稳定”的AI系统。",
-    "date": "2026-04-09 21:28",
-    "timestamp": 1775770136.558398
-  },
-  {
-    "title": "After data breach, $10B valued startup Mercor is having a month",
-    "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
-    "summary": "黑客攻击后，Mercor面临诉讼并流失重要客户。",
-    "date": "2026-04-09 19:48",
-    "timestamp": 1775764121.5354614
   }
 ]
