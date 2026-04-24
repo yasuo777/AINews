@@ -1,5 +1,13 @@
 [
   {
+    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+    "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+    "summary": "Meta已大规模采用亚马逊自研CPU（非GPU）用于AI代理任务，标志着新型芯片竞争已拉开序幕。",
+    "date": "2026-04-24 12:41",
+    "timestamp": 1777034489.0711596
+  },
+  {
     "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
     "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "上周Claude对OpenClaw用户调整定价后，该平台随即实施封禁。",
     "date": "2026-04-10 21:06",
     "timestamp": 1775855210.9414575
-  },
-  {
-    "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
-    "link": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1733837014-e.jpg?resize=1200,800",
-    "summary": "OpenAI遭起诉，指控其无视ChatGPT用户危险警告，包括大规模伤亡风险标记，致使用户利用该技术骚扰前女友。",
-    "date": "2026-04-10 17:31",
-    "timestamp": 1775842314.1524215
   }
 ]
