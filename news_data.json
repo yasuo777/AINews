@@ -1,5 +1,13 @@
 [
   {
+    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
+    "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
+    "summary": "苹果热销的Mac mini因紧凑设计及本地AI模型运行需求激增，导致eBay出现大幅加价转售。该设备目前官方渠道已售罄。",
+    "date": "2026-04-24 17:35",
+    "timestamp": 1777052119.071907
+  },
+  {
     "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
     "link": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "美国防部近期将人工智能公司Anthropic列为供应链风险，使得该公司最新报告显得尤为出人意料。",
     "date": "2026-04-12 22:02",
     "timestamp": 1776031365.8973637
-  },
-  {
-    "title": "Apple reportedly testing four designs for upcoming smart glasses",
-    "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
-    "summary": "苹果放弃推出多款混合与增强现实设备的原计划，其新眼镜产品标志着战略收缩。",
-    "date": "2026-04-12 20:03",
-    "timestamp": 1776024192.4774683
   }
 ]
