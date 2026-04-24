@@ -1,5 +1,13 @@
 [
   {
+    "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
+    "link": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-1152x648.jpg",
+    "summary": "近日，一只深受喜爱的狼从动物园挖洞逃脱，引发全国关注。目前该狼已安全寻回，事件未造成人员伤亡。",
+    "date": "2026-04-24 16:36",
+    "timestamp": 1777048583.3885427
+  },
+  {
     "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
     "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "苹果放弃推出多款混合与增强现实设备的原计划，其新眼镜产品标志着战略收缩。",
     "date": "2026-04-12 20:03",
     "timestamp": 1776024192.4774683
-  },
-  {
-    "title": "From LLMs to hallucinations, here’s a simple guide to common AI terms",
-    "link": "https://techcrunch.com/2026/04/12/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-    "summary": "人工智能浪潮催生大量新兴术语。本文整理关键词汇与行话，并提供专业释义，以助读者理解这一领域的基本概念。",
-    "date": "2026-04-12 15:20",
-    "timestamp": 1776007233.262882
   }
 ]
