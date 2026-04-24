@@ -1,5 +1,29 @@
 [
   {
+    "title": "Uber CTO Praveen Neppalli Naga joins stacked StrictlyVC SF lineup for April 30 event",
+    "link": "https://techcrunch.com/2026/04/24/uber-cto-praveen-neppalli-naga-joins-stacked-strictlyvc-sf-lineup-for-april-30-event/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
+    "summary": "摘要：4月30日，TechCrunch在旧金山Sentro Filipino文化中心启动本年度活动，Uber首席技术官Praveen Neppalli Naga将加入演讲阵容，探讨AI时代的大规模运营。",
+    "date": "2026-04-24 14:57",
+    "timestamp": 1777042651.3648832
+  },
+  {
+    "title": "Nothing introduces an AI-powered dictation tool",
+    "link": "https://techcrunch.com/2026/04/24/nothing-introduces-an-ai-powered-dictation-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
+    "summary": "Nothing 的新设备端听写工具支持超过100种语言，无需联网即可使用。",
+    "date": "2026-04-24 14:57",
+    "timestamp": 1777042652.4537401
+  },
+  {
+    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
+    "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
+    "summary": "DeepSeek称，其新模型因架构改进，在效率和性能上优于DeepSeek V3.2，并在推理基准测试中几乎“追平”了当前领先的开源与闭源模型。",
+    "date": "2026-04-24 14:57",
+    "timestamp": 1777042653.8359818
+  },
+  {
     "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
     "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
@@ -774,29 +798,5 @@
     "summary": "人工智能浪潮催生大量新兴术语。本文整理关键词汇与行话，并提供专业释义，以助读者理解这一领域的基本概念。",
     "date": "2026-04-12 15:20",
     "timestamp": 1776007233.262882
-  },
-  {
-    "title": "At the HumanX conference, everyone was talking about Claude",
-    "link": "https://techcrunch.com/2026/04/12/at-the-humanx-conference-everyone-was-talking-about-claude/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
-    "summary": "在旧金山AI大会上，Anthropic凭借其前沿技术成为全场焦点。",
-    "date": "2026-04-12 15:20",
-    "timestamp": 1776007235.3126528
-  },
-  {
-    "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
-    "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "summary": "OpenAI CEO发文回应住所遇袭事件及《纽约客》对其个人信誉的质疑。",
-    "date": "2026-04-11 18:01",
-    "timestamp": 1775930474.9040313
-  },
-  {
-    "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
-    "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
-    "summary": "上周Claude对OpenClaw用户调整定价后，该平台随即实施封禁。",
-    "date": "2026-04-10 21:06",
-    "timestamp": 1775855210.9414575
   }
 ]
