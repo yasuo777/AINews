@@ -1,5 +1,13 @@
 [
   {
+    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/fall-guys.png?resize=1200,675",
+    "summary": "ComfyUI获3000万美元融资，其工具为创作者提供对AI图像、视频及音频生成更强的控制能力。",
+    "date": "2026-04-24 20:28",
+    "timestamp": 1777062501.6886833
+  },
+  {
     "title": "Google to invest up to $40B in Anthropic in cash and compute",
     "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "公司CEO表示，已为IPO做好充分准备，并将持续完善相关筹备工作。",
     "date": "2026-04-13 16:00",
     "timestamp": 1776096007.8527298
-  },
-  {
-    "title": "To teach in the time of ChatGPT is to know pain",
-    "link": "https://arstechnica.com/science/2026/04/to-teach-in-the-time-of-chatgpt-is-to-know-pain/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2228543358-2560x1440.jpg",
-    "summary": "大学教师反映，大语言模型（LLM）的滥用已成为当前最令人沮丧的教学挑战，严重冲击学术诚信与教学秩序。",
-    "date": "2026-04-13 11:53",
-    "timestamp": 1776081239.9646935
   }
 ]
