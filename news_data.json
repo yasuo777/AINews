@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta’s loss is Thinking Machines’ gain",
+    "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+    "summary": "Meta近期持续从Thinking Machines Lab挖角人才，但双方也存在人才双向流动。",
+    "date": "2026-04-24 21:30",
+    "timestamp": 1777066256.1990924
+  },
+  {
     "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
     "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/fall-guys.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "斯坦福AI指数报告显示，公众与专家对AI认知差距扩大，公众对就业、医疗及经济领域的AI影响焦虑加剧。",
     "date": "2026-04-13 19:50",
     "timestamp": 1776109857.3539712
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch signals IPO readiness as AI agents fuel revenue surge",
-    "link": "https://techcrunch.com/2026/04/13/vercel-ceo-guillermo-rauch-signals-ipo-readiness-as-ai-agents-fuel-revenue-surge/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Vercel-founder-Guillermo-Rauch.jpg?resize=1200,800",
-    "summary": "公司CEO表示，已为IPO做好充分准备，并将持续完善相关筹备工作。",
-    "date": "2026-04-13 16:00",
-    "timestamp": 1776096007.8527298
   }
 ]
