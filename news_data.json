@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google to invest up to $40B in Anthropic in cash and compute",
+    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "谷歌拟向AI公司Anthropic投资高达400亿美元，以抢占大规模算力资源。此前，谷歌已有限发布了专注于网络安全的强大模型Mythos，凸显AI巨头间算力竞赛白热化。",
+    "date": "2026-04-24 18:27",
+    "timestamp": 1777055234.0780654
+  },
+  {
+    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
+    "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "苹果CEO蒂姆·库克计划于9月卸任，由硬件主管约翰·特努斯接替。特努斯将接手这家科技巨头，但需面对与库克经营多年截然不同的商业生态。",
+    "date": "2026-04-24 18:27",
+    "timestamp": 1777055235.3443317
+  },
+  {
     "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
     "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "大学教师反映，大语言模型（LLM）的滥用已成为当前最令人沮丧的教学挑战，严重冲击学术诚信与教学秩序。",
     "date": "2026-04-13 11:53",
     "timestamp": 1776081239.9646935
-  },
-  {
-    "title": "The largest orbital compute cluster is open for business",
-    "link": "https://techcrunch.com/2026/04/13/the-largest-orbital-compute-cluster-is-open-for-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/KEPLER-T1-.jpg?w=800",
-    "summary": "加拿大通信公司Kepler正于地球轨道部署40个GPU，其最新客户为索菲亚航天公司。",
-    "date": "2026-04-13 08:34",
-    "timestamp": 1776069253.3647392
-  },
-  {
-    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "美国防部近期将人工智能公司Anthropic列为供应链风险，使得该公司最新报告显得尤为出人意料。",
-    "date": "2026-04-12 22:02",
-    "timestamp": 1776031365.8973637
   }
 ]
