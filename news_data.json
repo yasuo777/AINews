@@ -1,5 +1,13 @@
 [
   {
+    "title": "Maine’s governor vetoes data center moratorium",
+    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "L.D. 307 提案拟在全州范围内首次暂停新建数据中心，禁令持续至2027年11月1日。",
+    "date": "2026-04-25 21:19",
+    "timestamp": 1777151955.5834963
+  },
+  {
     "title": "OpenAI CEO apologizes to Tumbler Ridge community",
     "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "首届年度StrictlyVC大会即将在旧金山举行。活动将于4月30日举办，目前尚有余票，欢迎注册参会。",
     "date": "2026-04-14 15:53",
     "timestamp": 1776182032.5903804
-  },
-  {
-    "title": "Google brings its Gemini Personal Intelligence feature to India",
-    "link": "https://techcrunch.com/2026/04/14/google-brings-its-gemini-personal-intelligence-feature-to-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "谷歌推出新功能，允许用户关联Gmail及相册等账户，以获取个性化内容服务。",
-    "date": "2026-04-14 15:53",
-    "timestamp": 1776182034.6693492
   }
 ]
