@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
+    "summary": "SusHi Tech Tokyo 2026聚焦四大精准技术领域，配备现场演示、专属展区，并邀请全球相关领域的建设者与投资者进行专题研讨。",
+    "date": "2026-04-25 15:25",
+    "timestamp": 1777130702.9898167
+  },
+  {
+    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+    "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?resize=1200,800",
+    "summary": "苹果新任CEO约翰·特努斯出身硬件背景，预示公司或将重新聚焦设备战略，让硬件回归核心地位。",
+    "date": "2026-04-25 15:25",
+    "timestamp": 1777130704.1216917
+  },
+  {
     "title": "Meta’s loss is Thinking Machines’ gain",
     "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "OpenAI收购案显示其正为ChatGPT开发金融规划功能。",
     "date": "2026-04-14 01:08",
     "timestamp": 1776128913.0627737
-  },
-  {
-    "title": "Microsoft is working on yet another OpenClaw-like agent",
-    "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Windows-Claw.png?resize=1200,800",
-    "summary": "该公司此前已推出能独立完成任务的智能助手Cowork和Copilot Tasks。",
-    "date": "2026-04-13 19:50",
-    "timestamp": 1776109855.1763
-  },
-  {
-    "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
-    "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
-    "summary": "斯坦福AI指数报告显示，公众与专家对AI认知差距扩大，公众对就业、医疗及经济领域的AI影响焦虑加剧。",
-    "date": "2026-04-13 19:50",
-    "timestamp": 1776109857.3539712
   }
 ]
