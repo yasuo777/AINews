@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+    "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
+    "summary": "OpenAI首席执行官山姆·奥特曼致信加拿大Tumbler Ridge居民，对该公司未就近期大规模枪击案嫌疑人提前警告执法部门表示“深切歉意”。",
+    "date": "2026-04-25 17:22",
+    "timestamp": 1777137753.3310747
+  },
+  {
+    "title": "Why Cohere is merging with Aleph Alpha",
+    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
+    "summary": "加拿大AI初创公司Cohere在德国连锁超市Lidl母公司施瓦茨集团支持下，收购德国企业Aleph Alpha。双方获政府认可，旨在为欧洲企业提供独立于美国主导AI格局的自主替代方案。",
+    "date": "2026-04-25 17:22",
+    "timestamp": 1777137754.8302133
+  },
+  {
     "title": "Why Tokyo is the most important tech destination of 2026",
     "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
@@ -782,21 +798,5 @@
     "summary": "谷歌推出新功能，允许用户关联Gmail及相册等账户，以获取个性化内容服务。",
     "date": "2026-04-14 15:53",
     "timestamp": 1776182034.6693492
-  },
-  {
-    "title": "How vibe coding app Anything is rebuilding after getting booted from the App Store twice",
-    "link": "https://techcrunch.com/2026/04/14/how-vibe-coding-app-anything-is-rebuilding-after-getting-booted-from-the-app-store-twice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/dhruv_marcus.png?resize=1200,800",
-    "summary": "AI公司Anything拟推出桌面伴侣应用，以辅助其移动应用在App商店下架后的开发工作。",
-    "date": "2026-04-14 15:53",
-    "timestamp": 1776182036.7918859
-  },
-  {
-    "title": "OpenAI has bought AI personal finance startup Hiro",
-    "link": "https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-    "summary": "OpenAI收购案显示其正为ChatGPT开发金融规划功能。",
-    "date": "2026-04-14 01:08",
-    "timestamp": 1776128913.0627737
   }
 ]
