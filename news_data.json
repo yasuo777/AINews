@@ -1,5 +1,13 @@
 [
   {
+    "title": "To buy this Bay Area home, you’ll need Anthropic equity",
+    "link": "https://techcrunch.com/2026/04/26/to-buy-this-bay-area-home-youll-need-anthropic-equity/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "美国南旧金山北部米尔谷一处13英亩房产以非传统方式出售，交易条件特殊，引发关注。",
+    "date": "2026-04-26 16:23",
+    "timestamp": 1777220603.5336916
+  },
+  {
     "title": "Anthropic created a test marketplace for agent-on-agent commerce",
     "link": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-88622588.jpg?resize=1200,870",
@@ -790,13 +798,5 @@
     "summary": "该设备有望治疗多种神经系统疾病，其早期应用或包括对受损脑脊髓细胞进行微电刺激以促进修复。",
     "date": "2026-04-14 17:47",
     "timestamp": 1776188839.2584307
-  },
-  {
-    "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
-    "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
-    "summary": "谷歌Chrome将新增“技能”功能，支持用户保存并跨网站复用AI提示。该功能基于Gemini浏览器集成开发，旨在提升AI交互效率。",
-    "date": "2026-04-14 17:47",
-    "timestamp": 1776188841.7619462
   }
 ]
