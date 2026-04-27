@@ -1,5 +1,21 @@
 [
   {
+    "title": "China blocks Meta’s $2B Manus deal after months-long probe",
+    "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2209215388.jpg?w=1024",
+    "summary": "中国要求Meta撤销其数十亿美元的Manus收购案，这或对扎克伯格进军AI代理领域的计划构成打击。",
+    "date": "2026-04-27 14:35",
+    "timestamp": 1777300559.6817987
+  },
+  {
+    "title": "OpenAI could be making a phone with AI agents replacing apps",
+    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+    "summary": "分析师称，该手机可能于2028年进入量产阶段。",
+    "date": "2026-04-27 14:36",
+    "timestamp": 1777300560.7664087
+  },
+  {
     "title": "Meta inks deal for solar power at night, beamed from space",
     "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Overview-satellite-rendering.png?resize=1200,664",
@@ -782,21 +798,5 @@
     "summary": "患者对医疗AI聊天机器人的信任度受使用场景影响，尤其在患者门户中提供健康建议时需谨慎评估其可靠性。",
     "date": "2026-04-14 21:31",
     "timestamp": 1776202279.6258986
-  },
-  {
-    "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
-    "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/jack-clark-GettyImages-2271201349.jpg?w=1024",
-    "summary": "在Semafor全球经济峰会上，Anthropic联合创始人杰克·克拉克解释，公司起诉美国政府的同时仍保持合作，旨在通过法律途径明确监管框架，确保人工智能领域的合规发展。",
-    "date": "2026-04-14 19:50",
-    "timestamp": 1776196255.6825507
-  },
-  {
-    "title": "UK gov's Mythos AI tests help separate cybersecurity threat from hype",
-    "link": "https://arstechnica.com/ai/2026/04/uk-govs-mythos-ai-tests-help-separate-cybersecurity-threat-from-hype/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2270583709-1024x648.jpg",
-    "summary": "新型AI系统首次成功完成复杂多步渗透挑战，标志着人工智能在模拟网络攻击领域取得突破。",
-    "date": "2026-04-14 19:50",
-    "timestamp": 1776196258.319733
   }
 ]
