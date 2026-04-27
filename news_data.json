@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
+    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "OpenAI获其主要股东微软重大让步，可在AWS平台销售产品；作为交换，微软通过收入分成协议获得更多现金支持。",
+    "date": "2026-04-27 17:51",
+    "timestamp": 1777312285.312866
+  },
+  {
+    "title": "DeepMind’s David Silver just raised $1.1B to build an AI that learns without human data",
+    "link": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2233739454.jpg?resize=1200,686",
+    "summary": "由前DeepMind研究员David Silver创立的英国AI实验室Ineffable Intelligence，成立仅数月即获11亿美元融资，估值达51亿美元。",
+    "date": "2026-04-27 17:51",
+    "timestamp": 1777312286.481522
+  },
+  {
+    "title": "Investors back Skye’s AI home screen app for iPhone ahead of launch",
+    "link": "https://techcrunch.com/2026/04/27/investors-back-skye-signull-labs-ai-home-screen-app-for-iphone-ahead-of-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-27-at-11.09.42-AM.jpg?resize=1200,678",
+    "summary": "Skye公司尚未发布的新AI应用已吸引投资者关注，反映出市场对更智能iPhone的期待。",
+    "date": "2026-04-27 17:51",
+    "timestamp": 1777312287.4347723
+  },
+  {
     "title": "China blocks Meta’s $2B Manus deal after months-long probe",
     "link": "https://techcrunch.com/2026/04/27/china-vetoes-metas-2b-manus-deal-after-months-long-probe/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2209215388.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "里德·霍夫曼指出，追踪AI使用量可衡量技术普及程度，但需结合具体应用场景分析，不宜直接等同于生产力指标。",
     "date": "2026-04-15 14:54",
     "timestamp": 1776264896.98788
-  },
-  {
-    "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-    "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Adobe-Firefly-Innovations-Visual-Asset.jpeg?resize=1200,675",
-    "summary": "Adobe推出跨应用AI助手，可在Firefly、Photoshop等全线创意软件中自动执行任务。",
-    "date": "2026-04-15 14:54",
-    "timestamp": 1776264899.1048045
-  },
-  {
-    "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-    "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-    "summary": "有投资者向《金融时报》表示，若要证明OpenAI最新融资估值的合理性，需预设其上市估值达1.2万亿美元以上，这使得Anthropic当前3800亿美元的估值显得相对低廉。",
-    "date": "2026-04-15 04:32",
-    "timestamp": 1776227542.6378667
-  },
-  {
-    "title": "Americans ask AI for health care. Hospitals think the answer is more chatbots.",
-    "link": "https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-2245570667-1152x648.jpg",
-    "summary": "患者对医疗AI聊天机器人的信任度受使用场景影响，尤其在患者门户中提供健康建议时需谨慎评估其可靠性。",
-    "date": "2026-04-14 21:31",
-    "timestamp": 1776202279.6258986
   }
 ]
