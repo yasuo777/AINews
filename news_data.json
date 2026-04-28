@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amazon is already offering new OpenAI products on AWS",
+    "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Data-center-ChatGPT.png?resize=1200,600",
+    "summary": "OpenAI获微软解除独家授权后，AWS随即推出包含新代理服务的OpenAI模型产品组合。",
+    "date": "2026-04-28 20:49",
+    "timestamp": 1777409390.589496
+  },
+  {
     "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
     "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Amazon-Jointhe-chat-AI.jpeg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Canva新版AI助手上线，用户可通过文本提示生成可编辑设计，提升创作效率。",
     "date": "2026-04-16 14:23",
     "timestamp": 1776349419.8800666
-  },
-  {
-    "title": "DeepL, known for text translation, now wants to translate your voice",
-    "link": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/DeepL_Voice2Voice_Conversations_2.png?resize=1200,804",
-    "summary": "DeepL表示其技术可用于Zoom和Teams等会议工具，实现实时翻译功能。",
-    "date": "2026-04-16 08:16",
-    "timestamp": 1776327368.7012963
   }
 ]
