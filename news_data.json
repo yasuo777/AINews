@@ -1,5 +1,29 @@
 [
   {
+    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
+    "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
+    "summary": "YouTube正在面向美国付费订阅用户推出AI搜索功能（可选加入），旨在提升内容检索效率。",
+    "date": "2026-04-28 15:08",
+    "timestamp": 1777388893.5507128
+  },
+  {
+    "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+    "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2255262571.jpg?w=1024",
+    "summary": "该初创公司专注非侵入式“读心”技术，即采集神经数据。CEO希望该技术能广泛应用于消费领域。",
+    "date": "2026-04-28 15:08",
+    "timestamp": 1777388894.6442974
+  },
+  {
+    "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+    "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Red-Hat-Sally-OMalley.jpg?w=960",
+    "summary": "Tank OS将OpenClaw AI智能体封装于容器中，使其运行更稳定、更安全，尤其适用于大规模智能体集群管理。",
+    "date": "2026-04-28 15:08",
+    "timestamp": 1777388895.7431877
+  },
+  {
     "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
     "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "AI助手Wingman支持通过WhatsApp等聊天平台实现任务管理与自动化。",
     "date": "2026-04-15 17:47",
     "timestamp": 1776275243.3532386
-  },
-  {
-    "title": "Allbirds abandons clothes, pivots to \"AI compute infrastructure\"",
-    "link": "https://arstechnica.com/ai/2026/04/bubble-watch-fashion-brand-allbirds-pivots-hard-to-become-ai-services-company/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1253152849-1152x648-1776265730.jpg",
-    "summary": "公司更名提振股价之举，令人联想起2017年\"长岛区块链\"炒作热潮，凸显市场投机风险。",
-    "date": "2026-04-15 16:40",
-    "timestamp": 1776271211.9238245
-  },
-  {
-    "title": "After sale of its shoe business, Allbirds pivots to AI",
-    "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/allbirds-pacer-front-three-quarters.jpg?resize=1200,675",
-    "summary": "Allbirds转型为NewBird AI，获5000万美元融资，将业务重心从羊毛鞋转向AI服务器。",
-    "date": "2026-04-15 14:54",
-    "timestamp": 1776264893.8385744
-  },
-  {
-    "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-    "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-3.17.58-PM.jpg?resize=1200,653",
-    "summary": "里德·霍夫曼指出，追踪AI使用量可衡量技术普及程度，但需结合具体应用场景分析，不宜直接等同于生产力指标。",
-    "date": "2026-04-15 14:54",
-    "timestamp": 1776264896.98788
   }
 ]
