@@ -1,5 +1,21 @@
 [
   {
+    "title": "Lovable launches its vibe-coding app on iOS and Android",
+    "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "该应用使开发者能够随时随地进行网页与网站的“氛围编码”，提升了移动端开发的灵活性与便捷性。",
+    "date": "2026-04-28 17:17",
+    "timestamp": 1777396624.8647819
+  },
+  {
+    "title": "GitHub will start charging Copilot users based on their actual AI usage",
+    "link": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/copilot-1152x648.png",
+    "summary": "GitHub表示，已无法再承担最重度AI用户的“持续攀升的推理成本”，将调整相关资源策略以控制开支。",
+    "date": "2026-04-28 17:17",
+    "timestamp": 1777396626.682614
+  },
+  {
     "title": "YouTube is testing an AI-powered search feature that shows guided answers",
     "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "初创公司推出AI营销代理平台后，20个月内年经常性收入增长7000万美元。",
     "date": "2026-04-15 19:50",
     "timestamp": 1776282646.4033732
-  },
-  {
-    "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
-    "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/job-search-GettyImages-2161243486.jpg?resize=1200,800",
-    "summary": "领英称，自2022年以来招聘量下降20%，主要归因于高利率，而非人工智能影响。",
-    "date": "2026-04-15 19:50",
-    "timestamp": 1776282648.4894104
-  },
-  {
-    "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
-    "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/emergent-wingman.jpg?resize=1200,800",
-    "summary": "AI助手Wingman支持通过WhatsApp等聊天平台实现任务管理与自动化。",
-    "date": "2026-04-15 17:47",
-    "timestamp": 1776275243.3532386
   }
 ]
