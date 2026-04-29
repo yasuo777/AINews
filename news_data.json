@@ -1,5 +1,13 @@
 [
   {
+    "title": "Coby Adcock’s Scout AI raises $100 million to train its models for war. We visited its bootcamp.",
+    "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Scout_Still_10.jpg?resize=1200,675",
+    "summary": "Scout AI训练场正研发让单兵操控多辆无人车集群的AI代理系统，旨在通过智能体技术提升士兵对自主车队的战场控制力。",
+    "date": "2026-04-29 10:29",
+    "timestamp": 1777458579.056188
+  },
+  {
     "title": "At his OpenAI trial, Musk relitigates an old friendship",
     "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
     "image": "https://techcrunch.com/wp-content/uploads/2016/07/a3c4057e7d804c79b4bfb3278f4afced.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Runway CEO称AI技术可助制片方以单部成本制作数十部电影，以量取胜提高爆款几率。",
     "date": "2026-04-16 14:23",
     "timestamp": 1776349414.2509599
-  },
-  {
-    "title": "Meta raises Quest 3 and Quest 3S prices due to RAM shortage",
-    "link": "https://techcrunch.com/2026/04/16/meta-raises-quest-3-and-quest-3s-prices-due-to-ram-shortage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/Oculus-Quest-3-10.jpg?w=1200",
-    "summary": "自4月19日起，Meta Quest 3S（128GB/256GB）售价将上调50美元至349.99/449.99美元，Quest 3则上涨100美元至599.99美元。",
-    "date": "2026-04-16 14:23",
-    "timestamp": 1776349417.4378216
   }
 ]
