@@ -1,5 +1,13 @@
 [
   {
+    "title": "At his OpenAI trial, Musk relitigates an old friendship",
+    "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+    "image": "https://techcrunch.com/wp-content/uploads/2016/07/a3c4057e7d804c79b4bfb3278f4afced.jpg?resize=1200,675",
+    "summary": "马斯克在宣誓作证时首次详述了其创业经历，此前他曾在采访和传记中提及，但此次系首次在法庭上陈述。",
+    "date": "2026-04-29 01:21",
+    "timestamp": 1777425714.4908357
+  },
+  {
     "title": "Amazon is already offering new OpenAI products on AWS",
     "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Data-center-ChatGPT.png?resize=1200,600",
@@ -790,13 +798,5 @@
     "summary": "自4月19日起，Meta Quest 3S（128GB/256GB）售价将上调50美元至349.99/449.99美元，Quest 3则上涨100美元至599.99美元。",
     "date": "2026-04-16 14:23",
     "timestamp": 1776349417.4378216
-  },
-  {
-    "title": "Canva’s AI assistant can now call various tools to make designs for you",
-    "link": "https://techcrunch.com/2026/04/16/canvas-ai-assistant-can-now-call-various-tools-to-make-designs-for-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Canva-AI-2.0.jpeg?resize=1200,675",
-    "summary": "Canva新版AI助手上线，用户可通过文本提示生成可编辑设计，提升创作效率。",
-    "date": "2026-04-16 14:23",
-    "timestamp": 1776349419.8800666
   }
 ]
