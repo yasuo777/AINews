@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google Cloud surpasses $20B but says growth was capacity-constrained",
+    "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+    "summary": "谷歌云季度收入首破200亿美元，AI需求激增为主要驱动力，但产能限制制约了其潜在增速。",
+    "date": "2026-04-29 22:37",
+    "timestamp": 1777502250.0946312
+  },
+  {
+    "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+    "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
+    "summary": "Google第一季度新增2500万付费订阅用户，总数达3.5亿，主要得益于YouTube与Google One业务的增长。",
+    "date": "2026-04-29 22:37",
+    "timestamp": 1777502251.294913
+  },
+  {
     "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
     "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2250760741.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "新型号π0.7是该公司在开发通用机器人智能系统进程中的早期关键突破，标志着向通用机器人“大脑”目标迈出了重要一步。",
     "date": "2026-04-16 21:27",
     "timestamp": 1776374823.275923
-  },
-  {
-    "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
-    "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-8.39.23-AM.png?resize=1200,670",
-    "summary": "OpenAI对其智能编程工具进行重大升级，新增多项功能与能力，显著提升代理式编码效率。",
-    "date": "2026-04-16 19:47",
-    "timestamp": 1776368866.1193106
-  },
-  {
-    "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
-    "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/1704678804.jpg?resize=1200,799",
-    "summary": "克里格离职及后续设计工具动向，将加剧投资者对“SaaS末日”的担忧——即大型AI实验室可能主导软件行业，这一预期今年已多次冲击公开市场。",
-    "date": "2026-04-16 19:47",
-    "timestamp": 1776368868.948817
   }
 ]
