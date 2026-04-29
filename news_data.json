@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+    "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2250760741.jpg?resize=1200,800",
+    "summary": "总部位于纽约的Runway公司坐拥53亿美元估值及近8.6亿美元融资，其AI视频生成技术已从新奇事物快速演变为创意工具，正与Google、OpenAI等顶级实验室展开全球竞争。",
+    "date": "2026-04-29 20:42",
+    "timestamp": 1777495352.6259425
+  },
+  {
     "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
     "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "克里格离职及后续设计工具动向，将加剧投资者对“SaaS末日”的担忧——即大型AI实验室可能主导软件行业，这一预期今年已多次冲击公开市场。",
     "date": "2026-04-16 19:47",
     "timestamp": 1776368868.948817
-  },
-  {
-    "title": "Google now lets you explore the web side-by-side with AI Mode",
-    "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-    "summary": "谷歌Chrome桌面版AI模式升级，点击链接可开启网页与AI侧边栏并排显示，提升多任务处理效率。",
-    "date": "2026-04-16 17:55",
-    "timestamp": 1776362120.9804826
   }
 ]
