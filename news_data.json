@@ -1,5 +1,13 @@
 [
   {
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
+    "summary": "前Twitter CEO帕拉格·阿格拉沃尔创立的AI智能体工具初创公司，在数月前完成1亿美元融资后，再次获得由红杉资本领投的1亿美元。",
+    "date": "2026-04-29 18:59",
+    "timestamp": 1777489154.1658773
+  },
+  {
     "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
     "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
@@ -790,13 +798,5 @@
     "summary": "谷歌Chrome桌面版AI模式升级，点击链接可开启网页与AI侧边栏并排显示，提升多任务处理效率。",
     "date": "2026-04-16 17:55",
     "timestamp": 1776362120.9804826
-  },
-  {
-    "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
-    "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-1306628638.jpg?resize=1200,800",
-    "summary": "行业当前核心挑战在于，随着AI融入技术体系，关键问题已从单纯监控模型错误转向诊断整个技术栈的协同运行状态。",
-    "date": "2026-04-16 17:55",
-    "timestamp": 1776362123.363845
   }
 ]
