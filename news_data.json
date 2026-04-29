@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+    "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+    "summary": "谷歌利用AI技术重现了电影《独领风骚》中雪儿的衣帽间，以数字形式还原经典场景，展现人工智能在文化娱乐领域的创新应用。",
+    "date": "2026-04-29 17:08",
+    "timestamp": 1777482532.1065607
+  },
+  {
+    "title": "More Gemini features are coming to Google TV",
+    "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GoogleTV-2024.png?resize=1200,591",
+    "summary": "Google TV新增Gemini功能，用户可通过Nano Banana和Veo工具对照片与视频进行AI处理，提升内容编辑与转化能力。",
+    "date": "2026-04-29 17:08",
+    "timestamp": 1777482533.3838246
+  },
+  {
     "title": "Firestorm Labs raises $82M to take drone factories into the field",
     "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/DSC07538.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "行业当前核心挑战在于，随着AI融入技术体系，关键问题已从单纯监控模型错误转向诊断整个技术栈的协同运行状态。",
     "date": "2026-04-16 17:55",
     "timestamp": 1776362123.363845
-  },
-  {
-    "title": "AI traffic to US retailers rose 393% in Q1, and it’s boosting their revenue too",
-    "link": "https://techcrunch.com/2026/04/16/ai-traffic-to-us-retailers-rose-393-in-q1-and-its-boosting-their-revenue-too/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/04/GettyImages-1390536487.jpg?resize=1200,800",
-    "summary": "Adobe报告显示，3月美国零售网站AI流量激增269%，AI访客转化率与消费贡献均优于普通用户。",
-    "date": "2026-04-16 17:55",
-    "timestamp": 1776362125.7940948
-  },
-  {
-    "title": "Roblox’s AI assistant gets new agentic tools to plan, build, and test games",
-    "link": "https://techcrunch.com/2026/04/16/robloxs-ai-assistant-gets-new-agentic-tools-to-plan-build-and-test-games/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/roblox-header.jpg?resize=1200,800",
-    "summary": "新工具旨在为创作者提供全流程开发支持。",
-    "date": "2026-04-16 16:09",
-    "timestamp": 1776355788.5825644
   }
 ]
