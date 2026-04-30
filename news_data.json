@@ -1,5 +1,21 @@
 [
   {
+    "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
+    "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675",
+    "summary": "Salesforce以客户需求驱动产品规划，认为一家企业客户遇到的问题往往具有普遍性，因此优先采纳其反馈以优化路线图。",
+    "date": "2026-04-30 16:07",
+    "timestamp": 1777565277.7736166
+  },
+  {
+    "title": "X announces a rebuilt ad platform powered by AI",
+    "link": "https://techcrunch.com/2026/04/30/x-announces-a-rebuilt-ad-platform-powered-by-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/X-and-Threads-GettyImages-1763609384.jpeg?resize=1200,832",
+    "summary": "X推出由AI驱动的全新广告平台，旨在重振收入增长。",
+    "date": "2026-04-30 16:07",
+    "timestamp": 1777565278.7836285
+  },
+  {
     "title": "Meta says its business AI now facilitates 10 million conversations a week",
     "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "新代码量激增，但开发成本与重构工作量也大幅上升。",
     "date": "2026-04-17 19:43",
     "timestamp": 1776454983.3866313
-  },
-  {
-    "title": "Are we tokenmaxxing our way to nowhere?",
-    "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
-    "summary": "AI领域内外认知差距正加剧。OpenAI持续扩张业务版图，Anthropic发布因能力过强暂不公开的模型，传统企业亦纷纷转型AI基础设施。投入、疑虑与专业术语正筑起行业壁垒。",
-    "date": "2026-04-17 17:30",
-    "timestamp": 1776447056.7895875
-  },
-  {
-    "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-    "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "summary": "AI领域内外差距日益显著。OpenAI持续收购扩张，Anthropic发布因能力过强暂不公开的模型，企业纷纷向AI转型，行业呈现高投入与高壁垒态势。",
-    "date": "2026-04-17 16:32",
-    "timestamp": 1776443549.4847434
   }
 ]
