@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+    "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
+    "summary": "谷歌宣布将向内置Google服务的汽车逐步推送Gemini，替代现有Google Assistant。此举标志着车载AI升级为更先进的对话式交互系统。通用汽车此前一日也公布了类似计划。",
+    "date": "2026-04-30 17:53",
+    "timestamp": 1777571637.0285532
+  },
+  {
+    "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+    "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/link-2026-04-30-at-1.04.31-PM.jpg?resize=1200,659",
+    "summary": "Link使用户可连接卡片、银行及订阅服务，并通过审批流程授权AI代理安全支付，实现资金管理自动化。",
+    "date": "2026-04-30 17:53",
+    "timestamp": 1777571638.1476855
+  },
+  {
     "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
     "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "OpenAI关闭Sora项目并解散科学团队，核心成员Kevin Weil与Bill Peebles离职。此举标志着公司战略重心从消费级前沿探索转向企业级AI市场。",
     "date": "2026-04-17 21:24",
     "timestamp": 1776461083.894012
-  },
-  {
-    "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-    "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-    "summary": "风投机构a16z与Thrive预计将领投本轮融资。",
-    "date": "2026-04-17 19:43",
-    "timestamp": 1776454981.579737
-  },
-  {
-    "title": "“Tokenmaxxing” is making developers less productive than they think",
-    "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
-    "summary": "新代码量激增，但开发成本与重构工作量也大幅上升。",
-    "date": "2026-04-17 19:43",
-    "timestamp": 1776454983.3866313
   }
 ]
