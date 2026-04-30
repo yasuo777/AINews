@@ -1,5 +1,13 @@
 [
   {
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800",
+    "summary": "人工智能与机器人产业需要基础设施支撑，但反之，基础设施的建造也日益依赖人工智能与机器人的应用，形成双向依赖关系。",
+    "date": "2026-04-30 05:01",
+    "timestamp": 1777525311.0117433
+  },
+  {
     "title": "Amazon’s cloud business is surging — and so is its capital spending",
     "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "公司推出Claude Design，旨在帮助无设计背景的创始人和产品经理更便捷地表达创意构想。",
     "date": "2026-04-17 16:32",
     "timestamp": 1776443551.5913062
-  },
-  {
-    "title": "Meta's AI spending spree is helping make its Quest headsets more expensive",
-    "link": "https://arstechnica.com/ai/2026/04/metas-ai-spending-spree-is-helping-make-its-quest-headsets-more-expensive/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/hotdogman-1152x648.png",
-    "summary": "因大规模数据中心投资，关键部件价格大幅上涨。",
-    "date": "2026-04-17 16:32",
-    "timestamp": 1776443554.317413
   }
 ]
