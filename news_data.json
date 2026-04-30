@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta says its business AI now facilitates 10 million conversations a week",
+    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+    "summary": "Meta表示，超过80亿广告主已使用其至少一项生成式AI工具。",
+    "date": "2026-04-30 14:37",
+    "timestamp": 1777559837.0503554
+  },
+  {
     "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
     "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI领域内外差距日益显著。OpenAI持续收购扩张，Anthropic发布因能力过强暂不公开的模型，企业纷纷向AI转型，行业呈现高投入与高壁垒态势。",
     "date": "2026-04-17 16:32",
     "timestamp": 1776443549.4847434
-  },
-  {
-    "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
-    "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Claude-Design-2-Press-Logo-Claude-1920x1080-1.png?resize=1200,675",
-    "summary": "公司推出Claude Design，旨在帮助无设计背景的创始人和产品经理更便捷地表达创意构想。",
-    "date": "2026-04-17 16:32",
-    "timestamp": 1776443551.5913062
   }
 ]
