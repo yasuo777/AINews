@@ -1,5 +1,21 @@
 [
   {
+    "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+    "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+    "summary": "马斯克本周就起诉OpenAI一案出庭作证三天，法庭已披露其本人大量邮件、短信及推文。他指控奥特曼将公司转为营利模式，背叛了“非营利”初衷。后续还将有更多证人出庭。",
+    "date": "2026-05-01 18:46",
+    "timestamp": 1777661160.587943
+  },
+  {
+    "title": "Musk v. Altman is just getting started",
+    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+    "summary": "埃隆·马斯克本周就起诉OpenAI一案出庭作证近三天，法庭披露大量邮件、短信及推文。马斯克指控萨姆·奥尔特曼将公司转为营利模式，背离了“非营利”初衷，案件后续还将有多名证人出庭。",
+    "date": "2026-05-01 18:46",
+    "timestamp": 1777661162.1190462
+  },
+  {
     "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
     "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "AI写作中频繁出现的\"It's not just this — it's that\"句式，已从识别合成文本的线索演变为确凿特征。",
     "date": "2026-04-20 19:45",
     "timestamp": 1776714337.5581164
-  },
-  {
-    "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
-    "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "美国国家安全局据称已启用Anthropic公司受限版Mythos人工智能模型进行数据分析。",
-    "date": "2026-04-20 16:43",
-    "timestamp": 1776703435.4497821
-  },
-  {
-    "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
-    "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/fermi-Getty.jpg?resize=1200,800",
-    "summary": "美国前能源部长佩里联合创立的初创公司，其位于德克萨斯州的人工智能园区项目遭遇运营阻力。",
-    "date": "2026-04-20 16:43",
-    "timestamp": 1776703437.8071325
   }
 ]
