@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+    "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?resize=1200,900",
+    "summary": "美国国防部在与Anthropic就AI模型使用条款发生争议后，加倍推进AI供应商多元化，近期达成多项相关协议。",
+    "date": "2026-05-01 16:36",
+    "timestamp": 1777653418.852239
+  },
+  {
     "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
     "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "美国前能源部长佩里联合创立的初创公司，其位于德克萨斯州的人工智能园区项目遭遇运营阻力。",
     "date": "2026-04-20 16:43",
     "timestamp": 1776703437.8071325
-  },
-  {
-    "title": "OpenAI’s existential questions",
-    "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266645295.jpg?w=1024",
-    "summary": "OpenAI近期收购引发关注，业界探讨其是否正应对公司面临的两大生存性挑战。",
-    "date": "2026-04-19 22:04",
-    "timestamp": 1776636251.3287368
   }
 ]
