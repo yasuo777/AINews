@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
+    "summary": "Meta宣布收购人形机器人初创公司Assured Robot Intelligence，以增强其在机器人领域的人工智能模型能力。",
+    "date": "2026-05-01 22:31",
+    "timestamp": 1777674714.1425912
+  },
+  {
+    "title": "Study: AI models that consider user's feeling are more likely to make errors",
+    "link": "https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-1338190481-1152x648.jpg",
+    "summary": "过调可能导致模型“优先追求用户满意度而非真实性”，从而削弱其准确输出可靠信息的能力。",
+    "date": "2026-05-01 22:31",
+    "timestamp": 1777674715.7912776
+  },
+  {
     "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
     "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
@@ -782,21 +798,5 @@
     "summary": "亚马逊向人工智能公司Anthropic追加投资50亿美元，后者则承诺未来在亚马逊云服务上投入100亿美元。此次合作深化了双方在生成式AI领域的战略联盟。",
     "date": "2026-04-20 23:25",
     "timestamp": 1776727547.1205235
-  },
-  {
-    "title": "Google rolls out Gemini in Chrome in seven new countries",
-    "link": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Chrome_Hero.png?resize=1200,677",
-    "summary": "谷歌在澳大利亚、印尼、日本、菲律宾、新加坡、韩国和越南的Chrome浏览器中推出Gemini人工智能助手。",
-    "date": "2026-04-20 22:26",
-    "timestamp": 1776724007.9688365
-  },
-  {
-    "title": "It’s not just one thing — it’s another thing",
-    "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
-    "summary": "AI写作中频繁出现的\"It's not just this — it's that\"句式，已从识别合成文本的线索演变为确凿特征。",
-    "date": "2026-04-20 19:45",
-    "timestamp": 1776714337.5581164
   }
 ]
