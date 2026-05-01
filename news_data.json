@@ -1,5 +1,21 @@
 [
   {
+    "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
+    "link": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/55242949643_f997627b64_k.jpg?resize=1200,800",
+    "summary": "在TechCrunch旧金山StrictlyVC活动上，业内关注焦点是：在竞争对手Cursor据传以600亿美元被SpaceX收购的背景下，Replit是否也面临出售命运。",
+    "date": "2026-05-01 23:34",
+    "timestamp": 1777678466.0431592
+  },
+  {
+    "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
+    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
+    "summary": "Meta收购人形机器人初创公司Assured Robot Intelligence，以增强其机器人AI模型能力。",
+    "date": "2026-05-01 23:34",
+    "timestamp": 1777678466.8796473
+  },
+  {
     "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
     "link": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "YouTube将AI仿冒检测工具扩展至名人群体，为其团队提供识别和删除深度伪造内容的能力。",
     "date": "2026-04-21 15:56",
     "timestamp": 1776787009.3105211
-  },
-  {
-    "title": "GRAI believes AI can make music more social, not replace artists",
-    "link": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/listening-to-music-GettyImages-2170179832.jpg?resize=1200,800",
-    "summary": "AI音乐初创公司GRAI指出，乐迷更倾向于对现有曲目进行混音改编，而非从零生成全新歌曲。",
-    "date": "2026-04-21 14:18",
-    "timestamp": 1776781087.1427176
-  },
-  {
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "link": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
-    "summary": "亚马逊向人工智能公司Anthropic追加投资50亿美元，后者则承诺未来在亚马逊云服务上投入100亿美元。此次合作深化了双方在生成式AI领域的战略联盟。",
-    "date": "2026-04-20 23:25",
-    "timestamp": 1776727547.1205235
   }
 ]
