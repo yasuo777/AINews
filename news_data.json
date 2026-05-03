@@ -1,5 +1,13 @@
 [
   {
+    "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
+    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-104509077.jpg?resize=1200,800",
+    "summary": "一项新研究评估了大语言模型在多种医疗场景（包括真实急诊病例）中的表现，结果显示至少有一种模型的诊断准确率超过了人类医生。",
+    "date": "2026-05-03 18:34",
+    "timestamp": 1777833268.887452
+  },
+  {
     "title": "AI-generated actors and scripts are now ineligible for Oscars",
     "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2266014829.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "美国联邦贸易委员会与Clarifai达成和解后，后者删除了相关照片。据法庭文件显示，Clarifai曾于2014年通过高管投资关系，要求OkCupid共享用户数据。",
     "date": "2026-04-21 17:38",
     "timestamp": 1776793136.4485247
-  },
-  {
-    "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
-    "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Voyage-Promo-Art-3.jpg?w=1200",
-    "summary": "Latitude公司推出AI原生平台Voyage，旨在帮助玩家自主创建角色扮演游戏。",
-    "date": "2026-04-21 17:38",
-    "timestamp": 1776793138.7785463
   }
 ]
