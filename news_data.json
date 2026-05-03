@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘This is fine’ creator says AI startup stole his art",
+    "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2241691471.jpg?w=1024",
+    "summary": "Artisan AI公司发布广告，呼吁企业“停止雇佣人类”，引发关注。该初创企业以激进标语推广其AI产品，强调自动化替代人工的趋势。",
+    "date": "2026-05-03 20:24",
+    "timestamp": 1777839891.2692096
+  },
+  {
     "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
     "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-104509077.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌DeepMind为提升AI性能，正通过旗下YouTube平台收集大量视频数据，此举凸显了获取高质量交互式训练数据的行业难题。",
     "date": "2026-04-21 20:29",
     "timestamp": 1776803394.4517562
-  },
-  {
-    "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
-    "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1968296977.jpg?resize=1200,800",
-    "summary": "美国联邦贸易委员会与Clarifai达成和解后，后者删除了相关照片。据法庭文件显示，Clarifai曾于2014年通过高管投资关系，要求OkCupid共享用户数据。",
-    "date": "2026-04-21 17:38",
-    "timestamp": 1776793136.4485247
   }
 ]
