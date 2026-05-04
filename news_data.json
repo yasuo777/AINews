@@ -1,5 +1,29 @@
 [
   {
+    "title": "Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race",
+    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/stuart-russell-ai-getty.jpg?resize=1200,800",
+    "summary": "史超·罗素（Stuart Russell）长期从事AI研究，认为政府需对前沿AI实验室加以约束。",
+    "date": "2026-05-04 17:15",
+    "timestamp": 1777914948.1282609
+  },
+  {
+    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
+    "summary": "Sierra获超10亿美元融资，计划利用这笔资金打造AI驱动的客户体验“全球标准”。",
+    "date": "2026-05-04 17:15",
+    "timestamp": 1777914949.2749922
+  },
+  {
+    "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+    "link": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2158243766.jpg?resize=1200,675",
+    "summary": "马斯克致信OpenAI联合主席称，其与CEO奥特曼“将成为全美最招人恨的人”。",
+    "date": "2026-05-04 17:15",
+    "timestamp": 1777914950.64094
+  },
+  {
     "title": "5 days only: Bring a partner or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
     "link": "https://techcrunch.com/2026/05/04/5-days-only-bring-a-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/LinkedIn-Ad-with-Text-GA-BOGO-V1-Rectangle.png?w=1200",
@@ -774,29 +798,5 @@
     "summary": "Only Elon would do this before an IPO.",
     "date": "2026-04-21 23:21",
     "timestamp": 1776813663.3381898
-  },
-  {
-    "title": "Apple’s John Ternus will run one of the world’s most powerful companies; the job is a minefield",
-    "link": "https://techcrunch.com/2026/04/21/apples-john-ternus-will-run-one-of-the-worlds-most-powerful-companies-the-job-is-a-minefield/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2271736494.jpg?resize=1200,800",
-    "summary": "苹果CEO职位虽拥有巨大权力与财富，但也伴随着常人难以承受的重压与挑战。",
-    "date": "2026-04-21 20:29",
-    "timestamp": 1776803387.7358737
-  },
-  {
-    "title": "AI research lab NeoCognition lands $40M seed to build agents that learn like humans",
-    "link": "https://techcrunch.com/2026/04/21/ai-research-lab-neocognition-lands-40m-seed-to-build-agents-that-learn-like-humans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/DSC09615-3.jpg?resize=1200,796",
-    "summary": "俄亥俄州立大学研究员创立的初创公司正研发通用型AI智能体，可快速掌握并精通任意领域专业知识。",
-    "date": "2026-04-21 20:29",
-    "timestamp": 1776803390.1864142
-  },
-  {
-    "title": "ChatGPT’s new Images 2.0 model is surprisingly good at generating text",
-    "link": "https://techcrunch.com/2026/04/21/chatgpts-new-images-2-0-model-is-surprisingly-good-at-generating-text/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/openAI-spiral-color-v2.jpg?resize=1200,675",
-    "summary": "OpenAI发布ChatGPT Images 2.0图像生成模型，标志着近年来人工智能技术能力取得显著进步。",
-    "date": "2026-04-21 20:29",
-    "timestamp": 1776803391.9959326
   }
 ]
