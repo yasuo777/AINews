@@ -1,5 +1,13 @@
 [
   {
+    "title": "Image AI models now drive app growth, beating chatbot upgrades",
+    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
+    "summary": "Appfigures数据显示，视觉模型发布能带来6.5倍的下载量激增，但多数产品未能将这一增长转化为实际收入。",
+    "date": "2026-05-04 20:49",
+    "timestamp": 1777927778.4434795
+  },
+  {
     "title": "Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race",
     "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/stuart-russell-ai-getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Anthropic回应称正在调查相关指控，但坚称目前没有证据表明其系统受到影响。",
     "date": "2026-04-22 00:05",
     "timestamp": 1776816346.1577115
-  },
-  {
-    "title": "SpaceX is working with Cursor and has an option to buy the startup for $60 billion",
-    "link": "https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
-    "summary": "Only Elon would do this before an IPO.",
-    "date": "2026-04-21 23:21",
-    "timestamp": 1776813663.3381898
   }
 ]
