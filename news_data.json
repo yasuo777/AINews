@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s cozy partner Cerebras is on track for a blockbuster IPO",
+    "link": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+    "summary": "美国AI芯片公司Cerebras计划进行大规模IPO，估值或超266亿美元。该公司与OpenAI合作关系紧密且深厚。",
+    "date": "2026-05-04 22:37",
+    "timestamp": 1777934243.4344432
+  },
+  {
     "title": "Image AI models now drive app growth, beating chatbot upgrades",
     "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta公司宣布开发出一款内部工具，可将用户鼠标移动与点击行为转化为数据，用于训练其人工智能模型。",
     "date": "2026-04-22 00:05",
     "timestamp": 1776816344.15006
-  },
-  {
-    "title": "Unauthorized group has gained access to Anthropic’s exclusive cyber tool Mythos, report claims",
-    "link": "https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-    "summary": "Anthropic回应称正在调查相关指控，但坚称目前没有证据表明其系统受到影响。",
-    "date": "2026-04-22 00:05",
-    "timestamp": 1776816346.1577115
   }
 ]
