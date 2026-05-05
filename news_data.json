@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
+    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Memory-update.jpeg?resize=1200,845",
+    "summary": "GPT-5.5 Instant将取代GPT-3.5 Instant，成为ChatGPT默认模型。该更新旨在提升响应速度与性能，延续此前版本的高效对话体验。",
+    "date": "2026-05-05 17:07",
+    "timestamp": 1778000823.6579592
+  },
+  {
+    "title": "PayPal says it’s ‘becoming a technology company again.’ That means AI.",
+    "link": "https://techcrunch.com/2026/05/05/paypal-says-its-becoming-a-technology-company-again-that-means-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/11/paypal.jpg?resize=1200,799",
+    "summary": "PayPal正通过AI驱动转型，将自动化与重组结合，预计节省15亿美元成本，同步裁员并推进技术栈现代化。",
+    "date": "2026-05-05 17:07",
+    "timestamp": 1778000824.9474206
+  },
+  {
+    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
+    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/etsy-chatgpt-app-developer.jpeg?w=1200",
+    "summary": "Etsy在ChatGPT中推出原生应用，旨在为用户提供对话式购物体验。",
+    "date": "2026-05-05 17:07",
+    "timestamp": 1778000826.0010545
+  },
+  {
     "title": "As workers worry about AI, Nvidia’s Jensen Huang says AI is ‘creating an enormous number of jobs’",
     "link": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Infosys宣布将整合技术，帮助客户实现软件开发现代化、自动化工作流及部署AI系统，初期聚焦于软件工程、遗留系统现代化和DevOps领域。",
     "date": "2026-04-22 15:54",
     "timestamp": 1776873273.319645
-  },
-  {
-    "title": "AI is spitting out more potential drugs than ever. This start-up wants to figure out which ones matter.",
-    "link": "https://techcrunch.com/2026/04/22/ai-is-spitting-out-more-potential-drugs-than-ever-this-start-up-wants-to-figure-out-which-ones-matter/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/10xScience_Team_Picture_1.png?w=1182",
-    "summary": "生物科技公司10x Science完成480万美元种子轮融资，致力于为药企研究人员提供复杂分子结构解析服务。",
-    "date": "2026-04-22 14:18",
-    "timestamp": 1776867492.126778
-  },
-  {
-    "title": "The most interesting startups showcased at Google Cloud Next 2026",
-    "link": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/Google-Cloud-Next-_23_Thomas-Kurian_1.jpg?resize=1200,800",
-    "summary": "谷歌在年度大会上重点推介其云平台，展示了一系列AI初创企业案例，以吸引更多AI初创公司使用其云服务。",
-    "date": "2026-04-22 14:18",
-    "timestamp": 1776867496.3057797
-  },
-  {
-    "title": "Google Maps is about to get a big dose of AI",
-    "link": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-5.26.25-PM.png?resize=1200,670",
-    "summary": "谷歌地图正引入生成式AI技术，以提升其热门功能的智能化体验。",
-    "date": "2026-04-22 14:18",
-    "timestamp": 1776867498.736451
   }
 ]
