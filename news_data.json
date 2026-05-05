@@ -1,5 +1,13 @@
 [
   {
+    "title": "ASML CEO Christophe Fouquet: No one is coming for us",
+    "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
+    "summary": "ASML首席执行官Christophe Fouquet在出席米尔肯研究院全球会议前接受专访。这位任职逾十年、2024年接任CEO的高管谈及竞争对手时仍显从容。",
+    "date": "2026-05-05 20:43",
+    "timestamp": 1778013791.2860568
+  },
+  {
     "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
     "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/shapiro-2272836952.jpg?resize=1200,908",
@@ -790,13 +798,5 @@
     "summary": "谷歌推出Gemini企业代理平台，专为IT及技术人员设计，提供定制化AI解决方案。",
     "date": "2026-04-22 17:38",
     "timestamp": 1776879503.526987
-  },
-  {
-    "title": "AI Overviews are coming to your Gmail at work",
-    "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
-    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
-    "summary": "谷歌AI概览功能上线，可即时汇总多封邮件内容生成摘要。",
-    "date": "2026-04-22 17:38",
-    "timestamp": 1776879505.8170214
   }
 ]
