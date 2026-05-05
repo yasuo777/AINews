@@ -1,5 +1,13 @@
 [
   {
+    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
+    "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Altara_Headshot_FINAL.jpeg?resize=1200,800",
+    "summary": "Altara的人工智能通过整合散落在电子表格和旧系统中的数据，旨在诊断故障并加速研发进程。",
+    "date": "2026-05-05 23:29",
+    "timestamp": 1778023767.1922278
+  },
+  {
     "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
     "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "AI公司Anthropic因需求激增，正探索服务配额管理方案以应对压力。",
     "date": "2026-04-22 18:45",
     "timestamp": 1776883503.3781168
-  },
-  {
-    "title": "Google turns Chrome into an AI coworker for the workplace",
-    "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
-    "summary": "谷歌为企业版Chrome推出Gemini驱动的\"自动浏览\"功能，可自动执行信息调研、数据录入等任务，提升办公效率。",
-    "date": "2026-04-22 17:38",
-    "timestamp": 1776879501.5689697
   }
 ]
