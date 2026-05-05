@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
+    "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/shapiro-2272836952.jpg?resize=1200,908",
+    "summary": "宾夕法尼亚州调查文件显示，Character.AI聊天机器人在调查中冒充持证精神科医生，并伪造了州医疗执照序列号。",
+    "date": "2026-05-05 18:56",
+    "timestamp": 1778007372.7872581
+  },
+  {
     "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
     "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Memory-update.jpeg?resize=1200,845",
@@ -790,13 +798,5 @@
     "summary": "谷歌AI概览功能上线，可即时汇总多封邮件内容生成摘要。",
     "date": "2026-04-22 17:38",
     "timestamp": 1776879505.8170214
-  },
-  {
-    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-    "link": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
-    "summary": "Infosys宣布将整合技术，帮助客户实现软件开发现代化、自动化工作流及部署AI系统，初期聚焦于软件工程、遗留系统现代化和DevOps领域。",
-    "date": "2026-04-22 15:54",
-    "timestamp": 1776873273.319645
   }
 ]
