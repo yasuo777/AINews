@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
+    "summary": "据称，苹果最新操作系统更新将允许用户自主选择第三方AI模型，用于完成多种任务。",
+    "date": "2026-05-05 22:35",
+    "timestamp": 1778020500.8981586
+  },
+  {
     "title": "ASML CEO Christophe Fouquet: No one is coming for us",
     "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌为企业版Chrome推出Gemini驱动的\"自动浏览\"功能，可自动执行信息调研、数据录入等任务，提升办公效率。",
     "date": "2026-04-22 17:38",
     "timestamp": 1776879501.5689697
-  },
-  {
-    "title": "Google makes an interesting choice with its new agent building tool for enterprises",
-    "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-    "summary": "谷歌推出Gemini企业代理平台，专为IT及技术人员设计，提供定制化AI解决方案。",
-    "date": "2026-04-22 17:38",
-    "timestamp": 1776879503.526987
   }
 ]
