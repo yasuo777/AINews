@@ -1,5 +1,37 @@
 [
   {
+    "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
+    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "引用网络论坛和讨论板虽可帮助用户找到小众问题的答案，但这种设计也可能带来信息混乱。",
+    "date": "2026-05-06 17:10",
+    "timestamp": 1778087426.660671
+  },
+  {
+    "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
+    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675",
+    "summary": "Genesis AI完成1.05亿美元种子轮融资，近日发布首个模型GENE-26.5及配套演示，展示机器人手部执行复杂任务的能力。",
+    "date": "2026-05-06 17:10",
+    "timestamp": 1778087427.9132006
+  },
+  {
+    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
+    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
+    "summary": "Match Group表示，因人工智能工具“耗资巨大”，将放缓今年剩余时间的招聘计划。",
+    "date": "2026-05-06 17:10",
+    "timestamp": 1778087429.0350378
+  },
+  {
+    "title": "Google DeepMind partners with EVE Online for AI model testing",
+    "link": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/08/eve-online-1152x648.jpg",
+    "summary": "CCP Games投资1.2亿美元实现独立，并更名为Fenris Creations，完成品牌重新定位。",
+    "date": "2026-05-06 17:10",
+    "timestamp": 1778087430.88982
+  },
+  {
     "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
     "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
@@ -766,37 +798,5 @@
     "summary": "StrictlyVC旧金山活动将于4月30日在Sentro菲律宾文化中心举行，现正售票，欢迎风投人士与创始人参加。",
     "date": "2026-04-23 14:21",
     "timestamp": 1776954118.8301325
-  },
-  {
-    "title": "Another customer of troubled startup Delve suffered a big security incident",
-    "link": "https://techcrunch.com/2026/04/23/another-customer-of-troubled-startup-delve-suffered-a-big-security-incident/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_1542.jpeg?w=1170",
-    "summary": "TechCrunch确认，Delve是为AI训练初创公司Context AI进行安全认证的合规企业。后者上周披露了一起安全事件。",
-    "date": "2026-04-23 14:21",
-    "timestamp": 1776954119.9133437
-  },
-  {
-    "title": "AI galaxy hunters are adding to the global GPU crunch",
-    "link": "https://techcrunch.com/2026/04/23/ai-galaxy-hunters-are-adding-to-the-global-gpu-crunch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/z14-galaxy.jpg?resize=1200,500",
-    "summary": "天文学家借助GPU从海量天文数据中高效筛选关键信号，如同在银河“干草堆”中寻“针”，显著提升搜索效率与精准度。",
-    "date": "2026-04-23 14:22",
-    "timestamp": 1776954121.3940692
-  },
-  {
-    "title": "India’s app market is booming — but global platforms are capturing most of the gains",
-    "link": "https://techcrunch.com/2026/04/22/indias-app-market-is-booming-but-global-platforms-are-capturing-most-of-the-gains/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1230168738.jpg?resize=1200,800",
-    "summary": "印度非游戏应用市场增长强劲，主要由流媒体和AI应用驱动，但用户平均支出仍低于全球水平。",
-    "date": "2026-04-23 06:27",
-    "timestamp": 1776925642.215314
-  },
-  {
-    "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
-    "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/tesla-opitmus-Getty.jpg?resize=1200,800",
-    "summary": "特斯拉计划2026年资本支出将达历史水平的三倍，其首席财务官表示，这将导致公司在今年剩余时间内出现负自由现金流。",
-    "date": "2026-04-23 01:12",
-    "timestamp": 1776906733.4732273
   }
 ]
