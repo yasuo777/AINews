@@ -1,5 +1,29 @@
 [
   {
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+    "summary": "苹果同意支付2.5亿美元，就夸大Siri人工智能功能上线时间的集体诉讼达成和解。",
+    "date": "2026-05-06 15:14",
+    "timestamp": 1778080450.75252
+  },
+  {
+    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-23.18.12.jpeg?resize=1200,812",
+    "summary": "Ethos目前每周新增35,000名专家，增速持续加快。",
+    "date": "2026-05-06 15:14",
+    "timestamp": 1778080451.7872524
+  },
+  {
+    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+    "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+    "summary": "在2026年TechCrunch Disrupt大会上，Coinbase、M13及Mignano Law Group的领袖将探讨如何将并购作为早期战略。欢迎注册现场聆听。",
+    "date": "2026-05-06 15:14",
+    "timestamp": 1778080453.2500322
+  },
+  {
     "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
     "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2174694558.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "特斯拉计划2026年资本支出将达历史水平的三倍，其首席财务官表示，这将导致公司在今年剩余时间内出现负自由现金流。",
     "date": "2026-04-23 01:12",
     "timestamp": 1776906733.4732273
-  },
-  {
-    "title": "Google updates Workspace to make AI your new office intern",
-    "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "谷歌为Workspace引入一系列由全新AI系统Workspace Intelligence驱动的新自动化功能。",
-    "date": "2026-04-22 23:30",
-    "timestamp": 1776900648.9926665
-  },
-  {
-    "title": "Hands on with X’s new AI-powered custom feeds",
-    "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-1.jpg?resize=1200,675",
-    "summary": "X平台以AI生成的时间线功能取代社群板块，推出由Grok策划的信息流并新增广告位。",
-    "date": "2026-04-22 22:28",
-    "timestamp": 1776896906.8291645
-  },
-  {
-    "title": "Our newsroom AI policy",
-    "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/ars-logo-dark-background-1152x648.jpg",
-    "summary": "《Ars Technica》披露其有限度使用生成式AI辅助翻译与摘要，但坚持核心报道与事实核查均由编辑人工完成，以维护内容专业性与准确性。",
-    "date": "2026-04-22 21:33",
-    "timestamp": 1776893617.9411097
   }
 ]
