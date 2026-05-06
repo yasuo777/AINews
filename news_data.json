@@ -1,5 +1,13 @@
 [
   {
+    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
+    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
+    "summary": "SAP计划收购德国AI初创公司Prior Labs并加大投资，同时限制客户智能体使用范围，仅允许如Nvidia的NemoClaw等少数产品接入。",
+    "date": "2026-05-06 01:14",
+    "timestamp": 1778030093.9335065
+  },
+  {
     "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
     "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Altara_Headshot_FINAL.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "谷歌新一代TPU在性能提升和成本降低方面表现突出，但公司目前仍在其云服务中保留对英伟达芯片的支持。",
     "date": "2026-04-22 18:45",
     "timestamp": 1776883500.5721989
-  },
-  {
-    "title": "Anthropic tested removing Claude Code from the Pro plan",
-    "link": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/claude-code-1152x648.jpg",
-    "summary": "AI公司Anthropic因需求激增，正探索服务配额管理方案以应对压力。",
-    "date": "2026-04-22 18:45",
-    "timestamp": 1776883503.3781168
   }
 ]
