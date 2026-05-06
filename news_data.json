@@ -1,5 +1,37 @@
 [
   {
+    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/barry-diller.jpg?resize=1200,679",
+    "summary": "巴里·迪勒为OpenAI CEO萨姆·奥尔特曼辩护，同时警告通用人工智能仍是不可预测的力量，需设置防护措施。",
+    "date": "2026-05-06 22:28",
+    "timestamp": 1778106533.4451678
+  },
+  {
+    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+    "summary": "去年11月宣布的交易原计划将Perplexity的AI搜索引擎直接整合至Snapchat。",
+    "date": "2026-05-06 22:28",
+    "timestamp": 1778106534.439609
+  },
+  {
+    "title": "Is xAI a neocloud now?",
+    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+    "summary": "xAI的核心业务或更侧重于建设数据中心，而非单纯训练AI模型。",
+    "date": "2026-05-06 22:28",
+    "timestamp": 1778106535.3265712
+  },
+  {
+    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+    "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg",
+    "summary": "该交易紧随其与微软、亚马逊等公司达成的类似协议之后。",
+    "date": "2026-05-06 22:28",
+    "timestamp": 1778106536.8221495
+  },
+  {
     "title": "How Elon Musk left OpenAI, according to Greg Brockman",
     "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
@@ -766,37 +798,5 @@
     "summary": "Nothing 的新设备端听写工具支持超过100种语言，无需联网即可使用。",
     "date": "2026-04-24 14:57",
     "timestamp": 1777042652.4537401
-  },
-  {
-    "title": "DeepSeek previews new AI model that ‘closes the gap’ with frontier models",
-    "link": "https://techcrunch.com/2026/04/24/deepseek-previews-new-ai-model-that-closes-the-gap-with-frontier-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
-    "summary": "DeepSeek称，其新模型因架构改进，在效率和性能上优于DeepSeek V3.2，并在推理基准测试中几乎“追平”了当前领先的开源与闭源模型。",
-    "date": "2026-04-24 14:57",
-    "timestamp": 1777042653.8359818
-  },
-  {
-    "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
-    "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-    "summary": "Meta已大规模采用亚马逊自研CPU（非GPU）用于AI代理任务，标志着新型芯片竞争已拉开序幕。",
-    "date": "2026-04-24 12:41",
-    "timestamp": 1777034489.0711596
-  },
-  {
-    "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
-    "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
-    "summary": "AI客服初创公司Sierra（由技术专家Bret Taylor创立）今日宣布，已收购YC支持的法国初创公司Fragment。",
-    "date": "2026-04-23 22:25",
-    "timestamp": 1776983120.1842105
-  },
-  {
-    "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
-    "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/doomscrolling-GettyImages-2195349954.jpg?resize=1200,800",
-    "summary": "Noscroll推出AI机器人，代用户阅读网络内容，旨在帮助用户摆脱“末日刷屏”习惯，提升信息获取效率。",
-    "date": "2026-04-23 19:52",
-    "timestamp": 1776973929.201351
   }
 ]
