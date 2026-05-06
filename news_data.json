@@ -1,5 +1,29 @@
 [
   {
+    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
+    "summary": "OpenAI创始人间曾发生激烈的内部谈判，此类冲突在打造出改变世界的公司后极少被公开披露。",
+    "date": "2026-05-06 19:11",
+    "timestamp": 1778094715.2580035
+  },
+  {
+    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1240619050.jpg?resize=1200,800",
+    "summary": "该提案涉及一个“多阶段、新一代、垂直整合的半导体制造与先进计算设施”项目。",
+    "date": "2026-05-06 19:11",
+    "timestamp": 1778094716.3597877
+  },
+  {
+    "title": "DeepSeek could hit $45B valuation from its first investment round",
+    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
+    "summary": "该中国AI实验室于2025年初凭借其大语言模型崭露头角，该模型仅以美国OpenAI、Anthropic等模型一小部分算力和成本完成训练。",
+    "date": "2026-05-06 19:11",
+    "timestamp": 1778094717.5340912
+  },
+  {
     "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
     "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Noscroll推出AI机器人，代用户阅读网络内容，旨在帮助用户摆脱“末日刷屏”习惯，提升信息获取效率。",
     "date": "2026-04-23 19:52",
     "timestamp": 1776973929.201351
-  },
-  {
-    "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
-    "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-    "summary": "OpenAI宣布其最新模型在多领域能力上显著提升，性能表现更加全面。",
-    "date": "2026-04-23 19:52",
-    "timestamp": 1776973930.181585
-  },
-  {
-    "title": "Era raises $11M to build a software platform for AI gadgets",
-    "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/IMG_2200.jpeg?resize=1200,800",
-    "summary": "Era预计，未来AI硬件将呈现多种形态，包括眼镜、戒指和吊坠等多样化设备。",
-    "date": "2026-04-23 16:20",
-    "timestamp": 1776961219.9956672
-  },
-  {
-    "title": "Grab a ticket today: The first StrictlyVC of 2026 kicks off in just a week in San Francisco",
-    "link": "https://techcrunch.com/2026/04/23/grab-a-ticket-today-the-first-strictlyvc-of-2026-kicks-off-in-just-a-week-in-san-francisco/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Disrupt-2024-StrictlyVC-Session.jpg?resize=1200,800",
-    "summary": "StrictlyVC旧金山活动将于4月30日在Sentro菲律宾文化中心举行，现正售票，欢迎风投人士与创始人参加。",
-    "date": "2026-04-23 14:21",
-    "timestamp": 1776954118.8301325
   }
 ]
