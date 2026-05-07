@@ -1,5 +1,21 @@
 [
   {
+    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800",
+    "summary": "由欧洲电动滑板车巨头Voi联合创始人创办的AI初创公司Pit，获得a16z领投的1600万美元种子轮融资。",
+    "date": "2026-05-07 21:35",
+    "timestamp": 1778189708.9614553
+  },
+  {
+    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "该公司正加强对ChatGPT用户在对话涉及自伤情况下的保护力度。",
+    "date": "2026-05-07 21:35",
+    "timestamp": 1778189710.0105562
+  },
+  {
     "title": "Perplexity’s Personal Computer is now available everyone on Mac",
     "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199",
@@ -782,21 +798,5 @@
     "summary": "OpenAI首席执行官山姆·奥特曼致信加拿大Tumbler Ridge居民，对该公司未就近期大规模枪击案嫌疑人提前警告执法部门表示“深切歉意”。",
     "date": "2026-04-25 17:22",
     "timestamp": 1777137753.3310747
-  },
-  {
-    "title": "Why Cohere is merging with Aleph Alpha",
-    "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
-    "summary": "加拿大AI初创公司Cohere在德国连锁超市Lidl母公司施瓦茨集团支持下，收购德国企业Aleph Alpha。双方获政府认可，旨在为欧洲企业提供独立于美国主导AI格局的自主替代方案。",
-    "date": "2026-04-25 17:22",
-    "timestamp": 1777137754.8302133
-  },
-  {
-    "title": "Why Tokyo is the most important tech destination of 2026",
-    "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/sushitech-3-hero.webp?resize=1200,835",
-    "summary": "SusHi Tech Tokyo 2026聚焦四大精准技术领域，配备现场演示、专属展区，并邀请全球相关领域的建设者与投资者进行专题研讨。",
-    "date": "2026-04-25 15:25",
-    "timestamp": 1777130702.9898167
   }
 ]
