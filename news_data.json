@@ -1,5 +1,13 @@
 [
   {
+    "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
+    "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "summary": "Mozilla安全研究人员发现，Anthropic的Mythos工具在Firefox中检测到大量高危漏洞。",
+    "date": "2026-05-07 18:12",
+    "timestamp": 1778177551.7489111
+  },
+  {
     "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
     "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-1.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "ComfyUI获3000万美元融资，其工具为创作者提供对AI图像、视频及音频生成更强的控制能力。",
     "date": "2026-04-24 20:28",
     "timestamp": 1777062501.6886833
-  },
-  {
-    "title": "Google to invest up to $40B in Anthropic in cash and compute",
-    "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "谷歌拟向AI公司Anthropic投资高达400亿美元，以抢占大规模算力资源。此前，谷歌已有限发布了专注于网络安全的强大模型Mythos，凸显AI巨头间算力竞赛白热化。",
-    "date": "2026-04-24 18:27",
-    "timestamp": 1777055234.0780654
   }
 ]
