@@ -1,5 +1,29 @@
 [
   {
+    "title": "Startup Battlefield 200 applications close May 27: A shot at VC access, global visibility, TechCrunch coverage, and $100K",
+    "link": "https://techcrunch.com/2026/05/07/startup-battlefield-200-applications-close-may-27-a-shot-at-vc-access-global-visibility-techcrunch-coverage-and-100k/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-1.jpg?resize=1200,800",
+    "summary": "创业竞技场200强申请窗口仅剩三周，5月27日截止。入选者可获风投资源、全球曝光、TechCrunch报道及10万美元无股权资助等扩展机遇。面向Pre-A轮创始人及推荐者，截止日期临近，请速申请。",
+    "date": "2026-05-07 15:53",
+    "timestamp": 1778169237.6236217
+  },
+  {
+    "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
+    "link": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Google-Exhibit-Disrupt-2025.jpg?resize=1200,800",
+    "summary": "TechCrunch Disrupt 2026展位开放申请，企业可提前预订6英尺展桌以提升初创公司曝光度与业务机会，建议尽早行动以免落后于竞争对手。",
+    "date": "2026-05-07 15:53",
+    "timestamp": 1778169239.1075773
+  },
+  {
+    "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
+    "link": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/04/aurora-chris-urmson.jpeg?resize=1200,800",
+    "summary": "自动驾驶技术在过去十多年间始终“近在眼前”，但如今已从DARPA挑战赛阶段走向商业化。Aurora公司去年4月启动无人驾驶卡车商业运营，计划年内将车队规模从数十辆扩大至数百辆。",
+    "date": "2026-05-07 15:54",
+    "timestamp": 1778169240.6908505
+  },
+  {
     "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
     "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-AI-DJ-Header.jpg?w=978",
@@ -774,29 +798,5 @@
     "summary": "谷歌拟向AI公司Anthropic投资高达400亿美元，以抢占大规模算力资源。此前，谷歌已有限发布了专注于网络安全的强大模型Mythos，凸显AI巨头间算力竞赛白热化。",
     "date": "2026-04-24 18:27",
     "timestamp": 1777055234.0780654
-  },
-  {
-    "title": "Apple’s new CEO, and why Elon Musk wants to buy Cursor for $60B",
-    "link": "https://techcrunch.com/podcast/apples-new-ceo-and-why-elon-musk-wants-to-buy-cursor-for-60b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "苹果CEO蒂姆·库克计划于9月卸任，由硬件主管约翰·特努斯接替。特努斯将接手这家科技巨头，但需面对与库克经营多年截然不同的商业生态。",
-    "date": "2026-04-24 18:27",
-    "timestamp": 1777055235.3443317
-  },
-  {
-    "title": "Marked-up Mac minis flood eBay amid shortages driven by AI",
-    "link": "https://techcrunch.com/2026/04/24/mac-mini-price-expensive-ebay-shortage-ai-memory/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8135.jpg?resize=1200,800",
-    "summary": "苹果热销的Mac mini因紧凑设计及本地AI模型运行需求激增，导致eBay出现大幅加价转售。该设备目前官方渠道已售罄。",
-    "date": "2026-04-24 17:35",
-    "timestamp": 1777052119.071907
-  },
-  {
-    "title": "Man faces 5 years in prison for using AI to fake sighting of runaway wolf",
-    "link": "https://arstechnica.com/tech-policy/2026/04/after-wolf-escaped-zoo-man-arrested-for-creating-fake-ai-sighting-for-fun/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/GettyImages-1057635418-1152x648.jpg",
-    "summary": "近日，一只深受喜爱的狼从动物园挖洞逃脱，引发全国关注。目前该狼已安全寻回，事件未造成人员伤亡。",
-    "date": "2026-04-24 16:36",
-    "timestamp": 1777048583.3885427
   }
 ]
