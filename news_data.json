@@ -1,5 +1,29 @@
 [
   {
+    "title": "Perplexity’s Personal Computer is now available everyone on Mac",
+    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199",
+    "summary": "Perplexity推出面向Mac的AI代理“个人电脑”功能，现向所有用户开放，可在本地设备上执行复杂任务。",
+    "date": "2026-05-07 20:05",
+    "timestamp": 1778184312.6214125
+  },
+  {
+    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
+    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265445010.jpg?w=1024",
+    "summary": "埃隆·马斯克试图通过法律手段拆解OpenAI，其关键争议点在于该公司的营利性子公司是否背离了其“确保人类受益于通用人工智能”的创始使命。",
+    "date": "2026-05-07 20:05",
+    "timestamp": 1778184313.7045276
+  },
+  {
+    "title": "Bumble is getting rid of the swipe, CEO says",
+    "link": "https://techcrunch.com/2026/05/07/bumble-is-getting-rid-of-the-swipe-ceo-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/1704865759.jpg?resize=1200,800",
+    "summary": "根据Bumble CEO惠特尼·沃尔夫·赫德的公开言论，该公司将重点发展AI，正在开发AI约会助手“Bee”，并视其为“爱情与关系的加速器”。",
+    "date": "2026-05-07 20:05",
+    "timestamp": 1778184315.0097947
+  },
+  {
     "title": "How Anthropic’s Mythos has rewritten Firefox’s approach to cybersecurity",
     "link": "https://techcrunch.com/2026/05/07/how-anthropics-mythos-has-rewritten-firefoxs-approach-to-cybersecurity/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "SusHi Tech Tokyo 2026聚焦四大精准技术领域，配备现场演示、专属展区，并邀请全球相关领域的建设者与投资者进行专题研讨。",
     "date": "2026-04-25 15:25",
     "timestamp": 1777130702.9898167
-  },
-  {
-    "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
-    "link": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264522469.jpg?resize=1200,800",
-    "summary": "苹果新任CEO约翰·特努斯出身硬件背景，预示公司或将重新聚焦设备战略，让硬件回归核心地位。",
-    "date": "2026-04-25 15:25",
-    "timestamp": 1777130704.1216917
-  },
-  {
-    "title": "Meta’s loss is Thinking Machines’ gain",
-    "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
-    "summary": "Meta近期持续从Thinking Machines Lab挖角人才，但双方也存在人才双向流动。",
-    "date": "2026-04-24 21:30",
-    "timestamp": 1777066256.1990924
-  },
-  {
-    "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
-    "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/fall-guys.png?resize=1200,675",
-    "summary": "ComfyUI获3000万美元融资，其工具为创作者提供对AI图像、视频及音频生成更强的控制能力。",
-    "date": "2026-04-24 20:28",
-    "timestamp": 1777062501.6886833
   }
 ]
