@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
+    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
+    "summary": "CloudFlare宣布首次大规模裁员，CEO马修·普林斯称，由于AI效率提升，公司不再需要大量支持岗位。",
+    "date": "2026-05-08 18:55",
+    "timestamp": 1778266544.337252
+  },
+  {
     "title": "The “people’s airline” and the enterprise AI gold rush",
     "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "分析师称，该手机可能于2028年进入量产阶段。",
     "date": "2026-04-27 14:36",
     "timestamp": 1777300560.7664087
-  },
-  {
-    "title": "Meta inks deal for solar power at night, beamed from space",
-    "link": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Overview-satellite-rendering.png?resize=1200,664",
-    "summary": "Overview Energy与Meta的首份合同标志着空间太阳能迈向未来的一个小步。",
-    "date": "2026-04-27 10:33",
-    "timestamp": 1777286034.4059737
   }
 ]
