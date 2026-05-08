@@ -1,5 +1,13 @@
 [
   {
+    "title": "Intel’s comeback story is even wilder than it seems",
+    "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
+    "summary": "英特尔股价在过去一年飙升490%，反映华尔街对其前景的押注可能远超公司实际复苏进程。",
+    "date": "2026-05-08 20:37",
+    "timestamp": 1778272671.3939376
+  },
+  {
     "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
     "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "中国要求Meta撤销其数十亿美元的Manus收购案，这或对扎克伯格进军AI代理领域的计划构成打击。",
     "date": "2026-04-27 14:35",
     "timestamp": 1777300559.6817987
-  },
-  {
-    "title": "OpenAI could be making a phone with AI agents replacing apps",
-    "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
-    "summary": "分析师称，该手机可能于2028年进入量产阶段。",
-    "date": "2026-04-27 14:36",
-    "timestamp": 1777300560.7664087
   }
 ]
