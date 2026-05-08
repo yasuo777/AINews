@@ -1,5 +1,13 @@
 [
   {
+    "title": "The back office problem that explains why specialists never call you back",
+    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-9.00.25-PM.png?resize=1200,711",
+    "summary": "Basata等AI公司面临增强人力与替代人力之间的边界问题。目前，合作的行政人员更担忧工作负荷过重，而非被取代。",
+    "date": "2026-05-08 04:43",
+    "timestamp": 1778215385.3543656
+  },
+  {
     "title": "OpenAI launches new voice intelligence features in its API",
     "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Anthropic近期实验创建了一个分类市场，由AI智能体模拟买卖双方，使用真实资金完成真实商品交易。",
     "date": "2026-04-25 22:05",
     "timestamp": 1777154714.5121946
-  },
-  {
-    "title": "Maine’s governor vetoes data center moratorium",
-    "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "L.D. 307 提案拟在全州范围内首次暂停新建数据中心，禁令持续至2027年11月1日。",
-    "date": "2026-04-25 21:19",
-    "timestamp": 1777151955.5834963
   }
 ]
