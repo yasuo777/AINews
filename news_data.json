@@ -1,5 +1,21 @@
 [
   {
+    "title": "Get ready for the whisper-filled office of the future",
+    "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798",
+    "summary": "随着人机对话日益频繁，未来工作模式将更依赖语音交互，可能推动办公界面简化、任务自动化提升，同时催生新的沟通规范与人机协作方式。",
+    "date": "2026-05-10 21:31",
+    "timestamp": 1778448674.3400056
+  },
+  {
+    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "summary": "据Anthropic研究，虚构作品中的人工智能形象会对实际AI模型产生真实影响。",
+    "date": "2026-05-10 21:31",
+    "timestamp": 1778448675.5458815
+  },
+  {
     "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
     "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "GitHub表示，已无法再承担最重度AI用户的“持续攀升的推理成本”，将调整相关资源策略以控制开支。",
     "date": "2026-04-28 17:17",
     "timestamp": 1777396626.682614
-  },
-  {
-    "title": "YouTube is testing an AI-powered search feature that shows guided answers",
-    "link": "https://techcrunch.com/2026/04/28/youtube-is-testing-an-ai-powered-search-feature-that-shows-guided-answers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2242441443.jpg?resize=1200,800",
-    "summary": "YouTube正在面向美国付费订阅用户推出AI搜索功能（可选加入），旨在提升内容检索效率。",
-    "date": "2026-04-28 15:08",
-    "timestamp": 1777388893.5507128
-  },
-  {
-    "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
-    "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2255262571.jpg?w=1024",
-    "summary": "该初创公司专注非侵入式“读心”技术，即采集神经数据。CEO希望该技术能广泛应用于消费领域。",
-    "date": "2026-04-28 15:08",
-    "timestamp": 1777388894.6442974
   }
 ]
