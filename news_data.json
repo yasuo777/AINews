@@ -1,5 +1,13 @@
 [
   {
+    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "xAI与Anthropic的合作可能对母公司SpaceX产生战略影响，双方在AI与航天领域的协同效应值得关注。",
+    "date": "2026-05-10 15:35",
+    "timestamp": 1778427307.438182
+  },
+  {
     "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
     "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该初创公司专注非侵入式“读心”技术，即采集神经数据。CEO希望该技术能广泛应用于消费领域。",
     "date": "2026-04-28 15:08",
     "timestamp": 1777388894.6442974
-  },
-  {
-    "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
-    "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Red-Hat-Sally-OMalley.jpg?w=960",
-    "summary": "Tank OS将OpenClaw AI智能体封装于容器中，使其运行更稳定、更安全，尤其适用于大规模智能体集群管理。",
-    "date": "2026-04-28 15:08",
-    "timestamp": 1777388895.7431877
   }
 ]
