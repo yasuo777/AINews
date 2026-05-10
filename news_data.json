@@ -1,5 +1,13 @@
 [
   {
+    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+    "link": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/wispr-flow-india-image.jpg?resize=1200,800",
+    "summary": "Wispr Flow推出印地英语混合语音AI后，在印度市场增长加速，但语音AI产品整体仍面临挑战。",
+    "date": "2026-05-10 05:22",
+    "timestamp": 1778390524.0103993
+  },
+  {
     "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
     "link": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Tank OS将OpenClaw AI智能体封装于容器中，使其运行更稳定、更安全，尤其适用于大规模智能体集群管理。",
     "date": "2026-04-28 15:08",
     "timestamp": 1777388895.7431877
-  },
-  {
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "link": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "OpenAI获其主要股东微软重大让步，可在AWS平台销售产品；作为交换，微软通过收入分成协议获得更多现金支持。",
-    "date": "2026-04-27 17:51",
-    "timestamp": 1777312285.312866
   }
 ]
