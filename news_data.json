@@ -1,5 +1,13 @@
 [
   {
+    "title": "Digg tries again, this time as an AI news aggregator",
+    "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/digg-ver2-at-10.40.29-AM.jpg?resize=1200,888",
+    "summary": "Digg再次上线，转型为人工智能新闻聚合平台，用户可在此集中阅读AI相关资讯。",
+    "date": "2026-05-11 18:22",
+    "timestamp": 1778523742.1455345
+  },
+  {
     "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
     "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960",
@@ -790,13 +798,5 @@
     "summary": "谷歌与国防部签署新合同，而Anthropic此前拒绝允许军方将其AI用于国内大规模监控和自主武器。此举引发对科技公司军事合作伦理边界的关注。",
     "date": "2026-04-28 19:10",
     "timestamp": 1777403454.2451808
-  },
-  {
-    "title": "Lovable launches its vibe-coding app on iOS and Android",
-    "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "该应用使开发者能够随时随地进行网页与网站的“氛围编码”，提升了移动端开发的灵活性与便捷性。",
-    "date": "2026-04-28 17:17",
-    "timestamp": 1777396624.8647819
   }
 ]
