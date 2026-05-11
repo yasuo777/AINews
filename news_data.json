@@ -1,5 +1,13 @@
 [
   {
+    "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+    "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960",
+    "summary": "Cowboy Space Corporation计划在轨道部署数据中心，但前提是需先研发运载火箭以实现发射。",
+    "date": "2026-05-11 13:32",
+    "timestamp": 1778506350.9115214
+  },
+  {
     "title": "Get ready for the whisper-filled office of the future",
     "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798",
@@ -790,13 +798,5 @@
     "summary": "该应用使开发者能够随时随地进行网页与网站的“氛围编码”，提升了移动端开发的灵活性与便捷性。",
     "date": "2026-04-28 17:17",
     "timestamp": 1777396624.8647819
-  },
-  {
-    "title": "GitHub will start charging Copilot users based on their actual AI usage",
-    "link": "https://arstechnica.com/ai/2026/04/github-will-start-charging-copilot-users-based-on-their-actual-ai-usage/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/copilot-1152x648.png",
-    "summary": "GitHub表示，已无法再承担最重度AI用户的“持续攀升的推理成本”，将调整相关资源策略以控制开支。",
-    "date": "2026-04-28 17:17",
-    "timestamp": 1777396626.682614
   }
 ]
