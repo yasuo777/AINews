@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+    "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vapi-founders-jordan-dearsley-nikhil-gupta.jpg?resize=1200,800",
+    "summary": "Vapi称其企业业务自2025年初以来增长10倍，主因是企业将客服和销售电话转向AI代理。",
+    "date": "2026-05-12 13:24",
+    "timestamp": 1778592262.9983132
+  },
+  {
     "title": "Thinking Machines wants to build an AI that actually listens while it talks",
     "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
@@ -790,13 +798,5 @@
     "summary": "Scout AI训练场正研发让单兵操控多辆无人车集群的AI代理系统，旨在通过智能体技术提升士兵对自主车队的战场控制力。",
     "date": "2026-04-29 10:29",
     "timestamp": 1777458579.056188
-  },
-  {
-    "title": "At his OpenAI trial, Musk relitigates an old friendship",
-    "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
-    "image": "https://techcrunch.com/wp-content/uploads/2016/07/a3c4057e7d804c79b4bfb3278f4afced.jpg?resize=1200,675",
-    "summary": "马斯克在宣誓作证时首次详述了其创业经历，此前他曾在采访和传记中提及，但此次系首次在法庭上陈述。",
-    "date": "2026-04-29 01:21",
-    "timestamp": 1777425714.4908357
   }
 ]
