@@ -1,5 +1,13 @@
 [
   {
+    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+    "link": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vlad-tenev-robinhood-GettyImages-2272038864.jpg?w=1024",
+    "summary": "Robinhood已秘密提交其第二支风险基金的申请，此次投资范围兼顾早期初创企业与成长阶段公司。",
+    "date": "2026-05-12 01:23",
+    "timestamp": 1778549013.231306
+  },
+  {
     "title": "Digg tries again, this time as an AI news aggregator",
     "link": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/digg-ver2-at-10.40.29-AM.jpg?resize=1200,888",
@@ -790,13 +798,5 @@
     "summary": "亚马逊推出“加入聊天”新功能，允许用户针对产品提问，并获取AI驱动的语音回答。",
     "date": "2026-04-28 19:10",
     "timestamp": 1777403453.06669
-  },
-  {
-    "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
-    "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1080946342.jpeg?resize=1200,800",
-    "summary": "谷歌与国防部签署新合同，而Anthropic此前拒绝允许军方将其AI用于国内大规模监控和自主武器。此举引发对科技公司军事合作伦理边界的关注。",
-    "date": "2026-04-28 19:10",
-    "timestamp": 1777403454.2451808
   }
 ]
