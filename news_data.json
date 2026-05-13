@@ -1,5 +1,13 @@
 [
   {
+    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
+    "summary": "ACCESS首次建立了政府支付机制，用于支付AI代理在患者就诊间隙进行监测、电话随访、协调住房转介或提醒用药等服务。此前，这类服务缺乏资金支持。",
+    "date": "2026-05-13 01:28",
+    "timestamp": 1778635700.7622812
+  },
+  {
     "title": "Musk mulled handing OpenAI to his children, Altman testifies",
     "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "总部位于纽约的Runway公司坐拥53亿美元估值及近8.6亿美元融资，其AI视频生成技术已从新奇事物快速演变为创意工具，正与Google、OpenAI等顶级实验室展开全球竞争。",
     "date": "2026-04-29 20:42",
     "timestamp": 1777495352.6259425
-  },
-  {
-    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-    "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
-    "summary": "前Twitter CEO帕拉格·阿格拉沃尔创立的AI智能体工具初创公司，在数月前完成1亿美元融资后，再次获得由红杉资本领投的1亿美元。",
-    "date": "2026-04-29 18:59",
-    "timestamp": 1777489154.1658773
   }
 ]
