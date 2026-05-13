@@ -1,5 +1,29 @@
 [
   {
+    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "xAI因在Colossus 2数据中心使用移动燃气轮机供电被起诉，诉讼质疑其依赖燃气轮机的合法性。",
+    "date": "2026-05-13 21:10",
+    "timestamp": 1778706611.9319005
+  },
+  {
+    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
+    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cat-Wu.jpg?resize=1200,800",
+    "summary": "Claude Code与Cowork产品负责人指出，人工智能的下一个重大突破将是主动性，即AI不再仅响应指令，而是主动预判需求并采取行动。",
+    "date": "2026-05-13 21:10",
+    "timestamp": 1778706613.0097911
+  },
+  {
+    "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
+    "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-128091999-1152x648-1778700444.jpg",
+    "summary": "Old \"honor code\" systems are under strain.",
+    "date": "2026-05-13 21:10",
+    "timestamp": 1778706613.8382235
+  },
+  {
     "title": "Who trusts Sam Altman?",
     "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "X推出由AI驱动的全新广告平台，旨在重振收入增长。",
     "date": "2026-04-30 16:07",
     "timestamp": 1777565278.7836285
-  },
-  {
-    "title": "Meta says its business AI now facilitates 10 million conversations a week",
-    "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-    "summary": "Meta表示，超过80亿广告主已使用其至少一项生成式AI工具。",
-    "date": "2026-04-30 14:37",
-    "timestamp": 1777559837.0503554
-  },
-  {
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "link": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800",
-    "summary": "人工智能与机器人产业需要基础设施支撑，但反之，基础设施的建造也日益依赖人工智能与机器人的应用，形成双向依赖关系。",
-    "date": "2026-04-30 05:01",
-    "timestamp": 1777525311.0117433
-  },
-  {
-    "title": "Amazon’s cloud business is surging — and so is its capital spending",
-    "link": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
-    "summary": "电商巨头首席执行官表示，AWS盈利超出预期，但当前及近期支出规模较大，将持续投入。",
-    "date": "2026-04-30 01:21",
-    "timestamp": 1777512076.2568262
   }
 ]
