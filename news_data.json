@@ -1,5 +1,29 @@
 [
   {
+    "title": "Who trusts Sam Altman?",
+    "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "summary": "奥特曼在联邦法院作证时表示：“我认为自己是一位诚实且值得信赖的商人。”",
+    "date": "2026-05-13 17:01",
+    "timestamp": 1778691677.969797
+  },
+  {
+    "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
+    "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Origin-Lab-Co-Founders.jpg?resize=1156,1200",
+    "summary": "Origin Lab将打造一个市场，供AI实验室购买高质量授权数据，同时让游戏公司出售此类数据。",
+    "date": "2026-05-13 17:01",
+    "timestamp": 1778691679.1654491
+  },
+  {
+    "title": "Anthropic courts a new kind of customer: small business owners",
+    "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+    "summary": "Anthropic的新产品表明，AI平台战正向低端市场扩展，下一个用户争夺主战场不再是《财富》500强，而是构成美国经济支柱的3600万家小企业。",
+    "date": "2026-05-13 17:01",
+    "timestamp": 1778691680.757524
+  },
+  {
     "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
     "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/poppy-header.jpeg?resize=1200,727",
@@ -774,29 +798,5 @@
     "summary": "电商巨头首席执行官表示，AWS盈利超出预期，但当前及近期支出规模较大，将持续投入。",
     "date": "2026-04-30 01:21",
     "timestamp": 1777512076.2568262
-  },
-  {
-    "title": "Sources: Anthropic could raise a new $50B round at a valuation of $900B",
-    "link": "https://techcrunch.com/2026/04/29/sources-anthropic-could-raise-a-new-50b-round-at-a-valuation-of-900b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
-    "summary": "据知情人士透露，Claude的开发商已收到多份初步收购要约，估值范围在8500亿至9000亿美元之间。",
-    "date": "2026-04-30 01:21",
-    "timestamp": 1777512077.4408126
-  },
-  {
-    "title": "On the stand, Elon Musk can’t escape his own tweets",
-    "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
-    "summary": "埃隆·马斯克在试图通过法律途径解散OpenAI的庭审中连续第二天出庭作证。",
-    "date": "2026-04-30 01:21",
-    "timestamp": 1777512078.582479
-  },
-  {
-    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-    "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-496394442.jpg?resize=1200,747",
-    "summary": "微软于周三表示，尽管外界仍存有“Copilot无人使用”的刻板印象，但其用户数量与使用参与度正持续增长。",
-    "date": "2026-04-29 23:35",
-    "timestamp": 1777505739.2379327
   }
 ]
