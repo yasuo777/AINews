@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
+    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cerebras-Nasdaq-opening-bell.png?resize=1200,695",
+    "summary": "一年前看似无望的突破，如今Cerebras迎来了关键进展。",
+    "date": "2026-05-14 18:21",
+    "timestamp": 1778782919.6865842
+  },
+  {
+    "title": "Your doctor’s AI notetaker may be making things up, Ontario audit finds",
+    "link": "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2171717851-1152x648.jpg",
+    "summary": "虚假治疗转介及处方错误是常见失误。",
+    "date": "2026-05-14 18:22",
+    "timestamp": 1778782921.302332
+  },
+  {
     "title": "Khosla Ventures is betting $10M on Ian Crosby, whose last startup, Bench, imploded",
     "link": "https://techcrunch.com/2026/05/14/khosla-ventures-is-betting-10m-on-ian-crosby-whose-last-startup-bench-imploded/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Synthetic-Ian-Crosby.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "OpenAI 将率先向关键网络防御者推出其网络安全测试工具 GPT-5.5 Cyber，助力提升安全防护能力。",
     "date": "2026-04-30 20:00",
     "timestamp": 1777579205.6740077
-  },
-  {
-    "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
-    "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/OopenAI-how-to-1.jpg?resize=1200,600",
-    "summary": "OpenAI为ChatGPT账户推出可选附加保护措施，包括与安全密钥提供商Yubico达成新合作，以增强账户安全性。",
-    "date": "2026-04-30 20:00",
-    "timestamp": 1777579206.7519665
-  },
-  {
-    "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
-    "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-    "summary": "前沿实验室正通过“蒸馏”技术防范小型竞争者的模型复制行为，该技术成为行业焦点。",
-    "date": "2026-04-30 20:00",
-    "timestamp": 1777579207.8177292
   }
 ]
