@@ -1,5 +1,29 @@
 [
   {
+    "title": "What happens when AI starts building itself?",
+    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+    "summary": "Richard Socher新创公司融资6.5亿美元，计划开发能自主研究并持续自我优化的AI系统，并承诺将实际交付产品。",
+    "date": "2026-05-14 20:17",
+    "timestamp": 1778789867.0516903
+  },
+  {
+    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
+    "summary": "据彭博社报道，OpenAI已聘请外部律师事务所就其未来战略选项进行法律评估与规划。",
+    "date": "2026-05-14 20:17",
+    "timestamp": 1778789868.0527005
+  },
+  {
+    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/clawdmeter-edit.png?resize=1200,827",
+    "summary": "Clawdmeter是一款新型开源桌面小工具，可将Claude Code的使用统计数据实时显示在迷你仪表盘上，专为AI编程重度用户设计，便于直观追踪编码效率。",
+    "date": "2026-05-14 20:17",
+    "timestamp": 1778789869.3014493
+  },
+  {
     "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
     "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cerebras-Nasdaq-opening-bell.png?resize=1200,695",
@@ -774,29 +798,5 @@
     "summary": "Anthropic正要求投资者在48小时内提交其最新融资的认购意向，知情人士透露。",
     "date": "2026-04-30 23:33",
     "timestamp": 1777592016.2534788
-  },
-  {
-    "title": "Apple was surprised by AI-driven demand for Macs",
-    "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
-    "summary": "苹果表示，下一季度Mac mini、Mac Studio及Neo机型仍将面临供应受限。",
-    "date": "2026-04-30 22:34",
-    "timestamp": 1777588497.5014622
-  },
-  {
-    "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
-    "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/jude-law-for-legora.jpeg?resize=1200,831",
-    "summary": "两大快速增长的竞争对手均获巨额融资，并相互渗透至对方核心业务领域，目前正展开针锋相对的广告宣传攻势。",
-    "date": "2026-04-30 21:38",
-    "timestamp": 1777585107.6836407
-  },
-  {
-    "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
-    "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
-    "summary": "OpenAI 将率先向关键网络防御者推出其网络安全测试工具 GPT-5.5 Cyber，助力提升安全防护能力。",
-    "date": "2026-04-30 20:00",
-    "timestamp": 1777579205.6740077
   }
 ]
