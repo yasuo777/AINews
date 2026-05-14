@@ -1,5 +1,13 @@
 [
   {
+    "title": "Clio’s $500M milestone arrives just as Anthropic ups the ante",
+    "link": "https://techcrunch.com/2026/05/13/clios-500m-milestone-arrives-just-as-anthropic-ups-the-ante/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/gavel-messy-legal.jpg?resize=1200,675",
+    "summary": "法律科技初创公司正获得大量客户采用，例如Clio的年经常性收入已达5亿美元。",
+    "date": "2026-05-14 05:31",
+    "timestamp": 1778736690.523317
+  },
+  {
     "title": "Notion just turned its workspace into a hub for AI agents",
     "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Notion-Developer-Platform.jpg?w=686",
@@ -790,13 +798,5 @@
     "summary": "Link使用户可连接卡片、银行及订阅服务，并通过审批流程授权AI代理安全支付，实现资金管理自动化。",
     "date": "2026-04-30 17:53",
     "timestamp": 1777571638.1476855
-  },
-  {
-    "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
-    "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/Salesforce_logo-e1672835031758.jpg?resize=1200,675",
-    "summary": "Salesforce以客户需求驱动产品规划，认为一家企业客户遇到的问题往往具有普遍性，因此优先采纳其反馈以优化路线图。",
-    "date": "2026-04-30 16:07",
-    "timestamp": 1777565277.7736166
   }
 ]
