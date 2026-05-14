@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+    "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+    "summary": "自2月以来，马斯克新合并的SpaceXAI已有超50名员工离职，引发对职业倦怠、领导层变动、人才挖角及流动事件削弱留任激励的质疑。",
+    "date": "2026-05-14 21:47",
+    "timestamp": 1778795275.0096357
+  },
+  {
+    "title": "OpenAI says Codex is coming to your phone",
+    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/App-view.png?resize=1200,675",
+    "summary": "本次更新为用户提供了更灵活的工作流管理方式。",
+    "date": "2026-05-14 21:47",
+    "timestamp": 1778795275.929797
+  },
+  {
     "title": "What happens when AI starts building itself?",
     "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "美国国防部在与Anthropic就AI模型使用条款发生争议后，加倍推进AI供应商多元化，近期达成多项相关协议。",
     "date": "2026-05-01 16:36",
     "timestamp": 1777653418.852239
-  },
-  {
-    "title": "ChatGPT Images 2.0 is a hit in India, but not a big winner elsewhere, yet",
-    "link": "https://techcrunch.com/2026/04/30/chatgpt-images-2-0-is-a-hit-in-india-but-not-a-big-winner-elsewhere-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
-    "summary": "印度用户正积极使用ChatGPT Images 2.0生成创意个人视觉内容，包括头像和电影感肖像等，展现出对该工具在个性化图像创作方面的广泛接受。",
-    "date": "2026-05-01 05:26",
-    "timestamp": 1777613217.1842012
-  },
-  {
-    "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
-    "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
-    "summary": "Anthropic正要求投资者在48小时内提交其最新融资的认购意向，知情人士透露。",
-    "date": "2026-04-30 23:33",
-    "timestamp": 1777592016.2534788
   }
 ]
