@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
+    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "用户连接账户后，即可查看包含投资组合表现、消费、订阅及待付账单的仪表盘概览。",
+    "date": "2026-05-15 18:10",
+    "timestamp": 1778868646.5688643
+  },
+  {
     "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
     "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
@@ -790,13 +798,5 @@
     "summary": "Meta收购人形机器人初创公司Assured Robot Intelligence，以增强其机器人AI模型能力。",
     "date": "2026-05-01 23:34",
     "timestamp": 1777678466.8796473
-  },
-  {
-    "title": "Meta buys robotic startup to bolster its humanoid AI ambitions",
-    "link": "https://techcrunch.com/2026/05/01/meta-buys-robotic-startup-to-bolster-its-humanoid-ai-ambitions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2195752979.jpg?resize=1200,800",
-    "summary": "Meta宣布收购人形机器人初创公司Assured Robot Intelligence，以增强其在机器人领域的人工智能模型能力。",
-    "date": "2026-05-01 22:31",
-    "timestamp": 1777674714.1425912
   }
 ]
