@@ -1,5 +1,13 @@
 [
   {
+    "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
+    "link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Cat-Wu-1152x648-1778778452.jpg",
+    "summary": "Anthropic公司Cat Wu表示，虽无宏大计划，但这是有意为之。",
+    "date": "2026-05-15 11:03",
+    "timestamp": 1778842997.5974114
+  },
+  {
     "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
     "link": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_4131-rotated.jpg?resize=900,1200",
@@ -790,13 +798,5 @@
     "summary": "马斯克本周就起诉OpenAI一案出庭作证三天，法庭已披露其本人大量邮件、短信及推文。他指控奥特曼将公司转为营利模式，背叛了“非营利”初衷。后续还将有更多证人出庭。",
     "date": "2026-05-01 18:46",
     "timestamp": 1777661160.587943
-  },
-  {
-    "title": "Musk v. Altman is just getting started",
-    "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "summary": "埃隆·马斯克本周就起诉OpenAI一案出庭作证近三天，法庭披露大量邮件、短信及推文。马斯克指控萨姆·奥尔特曼将公司转为营利模式，背离了“非营利”初衷，案件后续还将有多名证人出庭。",
-    "date": "2026-05-01 18:46",
-    "timestamp": 1777661162.1190462
   }
 ]
