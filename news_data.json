@@ -1,5 +1,13 @@
 [
   {
+    "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+    "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
+    "summary": "ArXiv加强措施，打击在科研论文中不当使用大型语言模型的行为，以维护学术诚信和出版质量。",
+    "date": "2026-05-16 19:47",
+    "timestamp": 1778960847.6969016
+  },
+  {
     "title": "OpenAI co-founder Greg Brockman reportedly takes charge of product strategy",
     "link": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Artisan AI公司发布广告，呼吁企业“停止雇佣人类”，引发关注。该初创企业以激进标语推广其AI产品，强调自动化替代人工的趋势。",
     "date": "2026-05-03 20:24",
     "timestamp": 1777839891.2692096
-  },
-  {
-    "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
-    "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/GettyImages-104509077.jpg?resize=1200,800",
-    "summary": "一项新研究评估了大语言模型在多种医疗场景（包括真实急诊病例）中的表现，结果显示至少有一种模型的诊断准确率超过了人类医生。",
-    "date": "2026-05-03 18:34",
-    "timestamp": 1777833268.887452
   }
 ]
