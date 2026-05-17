@@ -1,5 +1,21 @@
 [
   {
+    "title": "Apple’s Siri revamp could include auto-deleting chats",
+    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "summary": "苹果即将发布新版Siri，隐私功能将成为其核心亮点。",
+    "date": "2026-05-17 20:28",
+    "timestamp": 1779049713.868122
+  },
+  {
+    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+    "summary": "审判最后几天的焦点是OpenAI首席执行官萨姆·奥尔特曼是否值得信赖。",
+    "date": "2026-05-17 20:28",
+    "timestamp": 1779049714.8658004
+  },
+  {
     "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
     "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/01/university.jpg?resize=1200,641",
@@ -782,21 +798,5 @@
     "summary": "Appfigures数据显示，视觉模型发布能带来6.5倍的下载量激增，但多数产品未能将这一增长转化为实际收入。",
     "date": "2026-05-04 20:49",
     "timestamp": 1777927778.4434795
-  },
-  {
-    "title": "Elon Musk’s only expert witness at the OpenAI trial fears an AGI arms race",
-    "link": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/stuart-russell-ai-getty.jpg?resize=1200,800",
-    "summary": "史超·罗素（Stuart Russell）长期从事AI研究，认为政府需对前沿AI实验室加以约束。",
-    "date": "2026-05-04 17:15",
-    "timestamp": 1777914948.1282609
-  },
-  {
-    "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
-    "link": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
-    "summary": "Sierra获超10亿美元融资，计划利用这笔资金打造AI驱动的客户体验“全球标准”。",
-    "date": "2026-05-04 17:15",
-    "timestamp": 1777914949.2749922
   }
 ]
