@@ -1,5 +1,13 @@
 [
   {
+    "title": "South Korea’s LetinAR is building optics behind AI glasses",
+    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1446311598.jpg?resize=1200,800",
+    "summary": "一家韩国初创公司研发出拇指甲大小的镜片，有望成为AI眼镜时代的光学核心，推动智能穿戴设备的技术突破。",
+    "date": "2026-05-18 14:43",
+    "timestamp": 1779115434.3640604
+  },
+  {
     "title": "Apple’s Siri revamp could include auto-deleting chats",
     "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "美国AI芯片公司Cerebras计划进行大规模IPO，估值或超266亿美元。该公司与OpenAI合作关系紧密且深厚。",
     "date": "2026-05-04 22:37",
     "timestamp": 1777934243.4344432
-  },
-  {
-    "title": "Image AI models now drive app growth, beating chatbot upgrades",
-    "link": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
-    "summary": "Appfigures数据显示，视觉模型发布能带来6.5倍的下载量激增，但多数产品未能将这一增长转化为实际收入。",
-    "date": "2026-05-04 20:49",
-    "timestamp": 1777927778.4434795
   }
 ]
