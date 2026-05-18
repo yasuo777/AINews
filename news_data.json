@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
+    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "纽约初创公司Stainless（2022年成立）因自动化生成与维护软件开发工具包（SDK）而迅速崛起，成为AI行业新星。",
+    "date": "2026-05-18 20:18",
+    "timestamp": 1779135490.505821
+  },
+  {
     "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
     "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "PayPal正通过AI驱动转型，将自动化与重组结合，预计节省15亿美元成本，同步裁员并推进技术栈现代化。",
     "date": "2026-05-05 17:07",
     "timestamp": 1778000824.9474206
-  },
-  {
-    "title": "Etsy launches its app within ChatGPT as it continues its AI push",
-    "link": "https://techcrunch.com/2026/05/05/etsy-launches-its-app-within-chatgpt-as-it-continues-its-ai-push/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/etsy-chatgpt-app-developer.jpeg?w=1200",
-    "summary": "Etsy在ChatGPT中推出原生应用，旨在为用户提供对话式购物体验。",
-    "date": "2026-05-05 17:07",
-    "timestamp": 1778000826.0010545
   }
 ]
