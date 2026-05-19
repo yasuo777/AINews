@@ -1,5 +1,29 @@
 [
   {
+    "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
+    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+    "summary": "截至本周末，你和萨姆将成为全美最遭憎恨的人。",
+    "date": "2026-05-19 20:18",
+    "timestamp": 1779221932.3000367
+  },
+  {
+    "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
+    "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1421.jpg?resize=1200,900",
+    "summary": "谷歌推出新型“音频眼镜”，用户可通过语音指令调用其应用生态系统（包括Gemini）完成任务。",
+    "date": "2026-05-19 20:18",
+    "timestamp": 1779221933.262782
+  },
+  {
+    "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
+    "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2164333125-1152x648.jpg",
+    "summary": "两项工具均可生成假设，其中一项还可对部分数据进行分析。",
+    "date": "2026-05-19 20:18",
+    "timestamp": 1779221935.0531435
+  },
+  {
     "title": "Google’s Genie world model can now simulate real streets with Street View",
     "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
@@ -774,29 +798,5 @@
     "summary": "芬兰AI实验室QyTw0完成2500万欧元天使轮融资，估值3.25亿欧元。该公司由前AMD旗下Silo AI CEO Peter Sarlin创立，凸显欧洲在AI、量子计算及主权科技领域的持续增长动力。",
     "date": "2026-05-06 07:56",
     "timestamp": 1778054163.393616
-  },
-  {
-    "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-    "link": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/marc-lore-wonder.jpg?resize=1200,672",
-    "summary": "Wonder计划将机器人厨房升级为AI驱动的“餐厅工厂”，用户只需输入指令即可快速创建虚拟餐饮品牌。",
-    "date": "2026-05-06 07:56",
-    "timestamp": 1778054164.9121435
-  },
-  {
-    "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-    "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/nemoclaw.jpg?resize=1200,675",
-    "summary": "SAP计划收购德国AI初创公司Prior Labs并加大投资，同时限制客户智能体使用范围，仅允许如Nvidia的NemoClaw等少数产品接入。",
-    "date": "2026-05-06 01:14",
-    "timestamp": 1778030093.9335065
-  },
-  {
-    "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-    "link": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Altara_Headshot_FINAL.jpeg?resize=1200,800",
-    "summary": "Altara的人工智能通过整合散落在电子表格和旧系统中的数据，旨在诊断故障并加速研发进程。",
-    "date": "2026-05-05 23:29",
-    "timestamp": 1778023767.1922278
   }
 ]
