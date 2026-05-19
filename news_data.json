@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google’s Genie world model can now simulate real streets with Street View",
+    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
+    "summary": "谷歌DeepMind将街景与Genie项目融合，打造沉浸式交互世界模拟，应用于机器人、游戏和旅行领域，用户可探索环境、天气变化及罕见场景。",
+    "date": "2026-05-19 18:24",
+    "timestamp": 1779215085.093087
+  },
+  {
+    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
+    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
+    "summary": "谷歌在年度开发者大会上发布迄今最强大的编程与智能体AI模型Gemini 3.5 Flash，能够自主执行复杂任务并从头构建软件。",
+    "date": "2026-05-19 18:24",
+    "timestamp": 1779215086.1661403
+  },
+  {
+    "title": "How to use Google’s new information agents",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+    "summary": "谷歌推出基于AI的“信息代理”，可后台监控特定主题，主动向用户推送更新与变化通知。",
+    "date": "2026-05-19 18:24",
+    "timestamp": 1779215087.4123714
+  },
+  {
     "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
     "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Altara的人工智能通过整合散落在电子表格和旧系统中的数据，旨在诊断故障并加速研发进程。",
     "date": "2026-05-05 23:29",
     "timestamp": 1778023767.1922278
-  },
-  {
-    "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-    "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
-    "summary": "据称，苹果最新操作系统更新将允许用户自主选择第三方AI模型，用于完成多种任务。",
-    "date": "2026-05-05 22:35",
-    "timestamp": 1778020500.8981586
-  },
-  {
-    "title": "ASML CEO Christophe Fouquet: No one is coming for us",
-    "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
-    "summary": "ASML首席执行官Christophe Fouquet在出席米尔肯研究院全球会议前接受专访。这位任职逾十年、2024年接任CEO的高管谈及竞争对手时仍显从容。",
-    "date": "2026-05-05 20:43",
-    "timestamp": 1778013791.2860568
-  },
-  {
-    "title": "Pennsylvania sues Character.AI after a chatbot allegedly posed as a doctor",
-    "link": "https://techcrunch.com/2026/05/05/pennsylvania-sues-character-ai-after-a-chatbot-allegedly-posed-as-a-doctor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/shapiro-2272836952.jpg?resize=1200,908",
-    "summary": "宾夕法尼亚州调查文件显示，Character.AI聊天机器人在调查中冒充持证精神科医生，并伪造了州医疗执照序列号。",
-    "date": "2026-05-05 18:56",
-    "timestamp": 1778007372.7872581
   }
 ]
