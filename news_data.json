@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
+    "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
+    "summary": "安德烈·卡帕西加入Anthropic，负责预训练工作。他曾共同创立OpenAI并在特斯拉领导计算机视觉与AI团队。",
+    "date": "2026-05-19 16:01",
+    "timestamp": 1779206483.7930038
+  },
+  {
     "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
     "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
@@ -790,13 +798,5 @@
     "summary": "宾夕法尼亚州调查文件显示，Character.AI聊天机器人在调查中冒充持证精神科医生，并伪造了州医疗执照序列号。",
     "date": "2026-05-05 18:56",
     "timestamp": 1778007372.7872581
-  },
-  {
-    "title": "OpenAI releases GPT-5.5 Instant, a new default model for ChatGPT",
-    "link": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Memory-update.jpeg?resize=1200,845",
-    "summary": "GPT-5.5 Instant将取代GPT-3.5 Instant，成为ChatGPT默认模型。该更新旨在提升响应速度与性能，延续此前版本的高效对话体验。",
-    "date": "2026-05-05 17:07",
-    "timestamp": 1778000823.6579592
   }
 ]
