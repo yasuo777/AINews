@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google just declared itself a contender in AI design at IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
+    "summary": "谷歌称该应用设计旨在覆盖从教师到小企业主等所有用户群体，力求人人可及。",
+    "date": "2026-05-19 21:58",
+    "timestamp": 1779227890.0278687
+  },
+  {
+    "title": "You can now talk to your Gmail inbox, as seen at Google IO 2026",
+    "link": "https://techcrunch.com/2026/05/19/you-can-now-talk-to-your-gmail-inbox-as-seen-at-google-io-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+    "summary": "谷歌扩展Gmail的AI收件箱功能，新增对话式语音搜索，用户可通过Gemini助手查找隐藏邮件细节。",
+    "date": "2026-05-19 21:58",
+    "timestamp": 1779227891.014422
+  },
+  {
+    "title": "How to use Google’s new AI agents to go beyond your standard searches",
+    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-ai-agents-to-go-beyond-your-standard-searches/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
+    "summary": "谷歌推出基于AI的“信息代理”功能，可在后台持续监控特定主题，并主动向用户推送更新与变化提醒。",
+    "date": "2026-05-19 21:58",
+    "timestamp": 1779227892.0597756
+  },
+  {
     "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
     "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
@@ -774,29 +798,5 @@
     "summary": "苹果同意支付2.5亿美元，就夸大Siri人工智能功能上线时间的集体诉讼达成和解。",
     "date": "2026-05-06 15:14",
     "timestamp": 1778080450.75252
-  },
-  {
-    "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-    "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-23.18.12.jpeg?resize=1200,812",
-    "summary": "Ethos目前每周新增35,000名专家，增速持续加快。",
-    "date": "2026-05-06 15:14",
-    "timestamp": 1778080451.7872524
-  },
-  {
-    "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
-    "link": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-    "summary": "在2026年TechCrunch Disrupt大会上，Coinbase、M13及Mignano Law Group的领袖将探讨如何将并购作为早期战略。欢迎注册现场聆听。",
-    "date": "2026-05-06 15:14",
-    "timestamp": 1778080453.2500322
-  },
-  {
-    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-    "link": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2174694558.jpg?resize=1200,800",
-    "summary": "芬兰AI实验室QyTw0完成2500万欧元天使轮融资，估值3.25亿欧元。该公司由前AMD旗下Silo AI CEO Peter Sarlin创立，凸显欧洲在AI、量子计算及主权科技领域的持续增长动力。",
-    "date": "2026-05-06 07:56",
-    "timestamp": 1778054163.393616
   }
 ]
