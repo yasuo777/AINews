@@ -1,5 +1,29 @@
 [
   {
+    "title": "Clouted wants to take the guesswork out of making short videos go viral",
+    "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/CLOUTED-TEAM-PHOTOS-2.jpg?resize=1200,765",
+    "summary": "**摘要：**  \n视频剪辑初创公司完成700万美元种子轮融资，由Slow Ventures领投。",
+    "date": "2026-05-20 22:57",
+    "timestamp": 1779317823.14995
+  },
+  {
+    "title": "xAI burned $6.4B last year. SpaceX’s IPO filing shows why the spending is far from over",
+    "link": "https://techcrunch.com/2026/05/20/xai-burned-6-4b-last-year-spacexs-ipo-filing-shows-why-the-spending-is-far-from-over/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+    "summary": "SpaceX的IPO文件首次披露旗下xAI在2025年亏损64亿美元，同时计划大规模扩展Grok，展示了马斯克AI业务的财务状况与扩张野心。",
+    "date": "2026-05-20 22:57",
+    "timestamp": 1779317824.1746936
+  },
+  {
+    "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+    "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+    "summary": "英伟达周三盘后公布再创纪录的营收数据，但预计下一季度收入增速将放缓。",
+    "date": "2026-05-20 22:57",
+    "timestamp": 1779317825.1574545
+  },
+  {
     "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
     "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
@@ -774,29 +798,5 @@
     "summary": "去年11月宣布的交易原计划将Perplexity的AI搜索引擎直接整合至Snapchat。",
     "date": "2026-05-06 22:28",
     "timestamp": 1778106534.439609
-  },
-  {
-    "title": "Is xAI a neocloud now?",
-    "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
-    "summary": "xAI的核心业务或更侧重于建设数据中心，而非单纯训练AI模型。",
-    "date": "2026-05-06 22:28",
-    "timestamp": 1778106535.3265712
-  },
-  {
-    "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
-    "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Dario-Amodei-Code-with-Claude-SF-2026-1152x648.jpg",
-    "summary": "该交易紧随其与微软、亚马逊等公司达成的类似协议之后。",
-    "date": "2026-05-06 22:28",
-    "timestamp": 1778106536.8221495
-  },
-  {
-    "title": "How Elon Musk left OpenAI, according to Greg Brockman",
-    "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
-    "summary": "OpenAI创始人间曾发生激烈的内部谈判，此类冲突在打造出改变世界的公司后极少被公开披露。",
-    "date": "2026-05-06 19:11",
-    "timestamp": 1778094715.2580035
   }
 ]
