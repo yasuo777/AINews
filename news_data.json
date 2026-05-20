@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI search startups are blowing up",
+    "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
+    "summary": "AI搜索已悄然成为消费级AI领域最具吸引力的方向之一。",
+    "date": "2026-05-20 16:16",
+    "timestamp": 1779293795.2085612
+  },
+  {
+    "title": "Stability AI releases a new audio model that can create six-minute songs",
+    "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800",
+    "summary": "Stability Audio 3.0小模型可本地运行，生成长达两分钟的音乐片段。",
+    "date": "2026-05-20 16:16",
+    "timestamp": 1779293796.12155
+  },
+  {
+    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
+    "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
+    "summary": "NanoCo，即OpenClaw替代方案NanoClaw的开发者，在发布引发病毒式传播后，已完成1200万美元种子轮融资。",
+    "date": "2026-05-20 16:16",
+    "timestamp": 1779293797.372082
+  },
+  {
     "title": "Google just declared itself a contender in AI design at IO 2026",
     "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
@@ -774,29 +798,5 @@
     "summary": "Genesis AI完成1.05亿美元种子轮融资，近日发布首个模型GENE-26.5及配套演示，展示机器人手部执行复杂任务的能力。",
     "date": "2026-05-06 17:10",
     "timestamp": 1778087427.9132006
-  },
-  {
-    "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-    "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/09/tinder-icon-ios.jpg?resize=1200,674",
-    "summary": "Match Group表示，因人工智能工具“耗资巨大”，将放缓今年剩余时间的招聘计划。",
-    "date": "2026-05-06 17:10",
-    "timestamp": 1778087429.0350378
-  },
-  {
-    "title": "Google DeepMind partners with EVE Online for AI model testing",
-    "link": "https://arstechnica.com/gaming/2026/05/google-deepmind-partners-with-eve-online-for-ai-model-testing/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2016/08/eve-online-1152x648.jpg",
-    "summary": "CCP Games投资1.2亿美元实现独立，并更名为Fenris Creations，完成品牌重新定位。",
-    "date": "2026-05-06 17:10",
-    "timestamp": 1778087430.88982
-  },
-  {
-    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-    "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
-    "summary": "苹果同意支付2.5亿美元，就夸大Siri人工智能功能上线时间的集体诉讼达成和解。",
-    "date": "2026-05-06 15:14",
-    "timestamp": 1778080450.75252
   }
 ]
