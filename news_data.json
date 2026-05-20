@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
+    "summary": "OpenAI称其推理模型推翻了一个自1946年未解的几何猜想，此次先前揭露其错误主张的数学家们也证实了该成果。",
+    "date": "2026-05-20 21:21",
+    "timestamp": 1779312116.5206602
+  },
+  {
+    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
+    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900",
+    "summary": "Iris最初被定位为“AI管家”，能够观察用户桌面操作并自主学习替用户执行任务，其联合创始人表示。",
+    "date": "2026-05-20 21:21",
+    "timestamp": 1779312117.551734
+  },
+  {
+    "title": "OpenAI barrels toward IPO that may happen in September",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+    "summary": "马斯克起诉OpenAI案败诉次日，据报OpenAI已重启IPO筹备工作。该公司此前诉讼中面临的架构、领导层及财务风险暂时解除。",
+    "date": "2026-05-20 21:21",
+    "timestamp": 1779312118.7156918
+  },
+  {
     "title": "OpenAI barrels towards IPO that may happen in September",
     "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "OpenAI创始人间曾发生激烈的内部谈判，此类冲突在打造出改变世界的公司后极少被公开披露。",
     "date": "2026-05-06 19:11",
     "timestamp": 1778094715.2580035
-  },
-  {
-    "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
-    "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1240619050.jpg?resize=1200,800",
-    "summary": "该提案涉及一个“多阶段、新一代、垂直整合的半导体制造与先进计算设施”项目。",
-    "date": "2026-05-06 19:11",
-    "timestamp": 1778094716.3597877
-  },
-  {
-    "title": "DeepSeek could hit $45B valuation from its first investment round",
-    "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
-    "summary": "该中国AI实验室于2025年初凭借其大语言模型崭露头角，该模型仅以美国OpenAI、Anthropic等模型一小部分算力和成本完成训练。",
-    "date": "2026-05-06 19:11",
-    "timestamp": 1778094717.5340912
-  },
-  {
-    "title": "Google updates AI search to include ‘expert advice’ from Reddit and other web forums",
-    "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-    "summary": "引用网络论坛和讨论板虽可帮助用户找到小众问题的答案，但这种设计也可能带来信息混乱。",
-    "date": "2026-05-06 17:10",
-    "timestamp": 1778087426.660671
   }
 ]
