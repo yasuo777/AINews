@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI barrels towards IPO that may happen in September",
+    "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+    "summary": "马斯克诉讼未影响OpenAI上市进程，据报道，在输掉威胁其结构、领导层与财务的官司后次日，OpenAI已重启IPO准备工作。",
+    "date": "2026-05-20 19:05",
+    "timestamp": 1779303927.2279983
+  },
+  {
     "title": "AI search startups are blowing up",
     "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "引用网络论坛和讨论板虽可帮助用户找到小众问题的答案，但这种设计也可能带来信息混乱。",
     "date": "2026-05-06 17:10",
     "timestamp": 1778087426.660671
-  },
-  {
-    "title": "Khosla-backed robotics startup Genesis AI has gone full-stack, demo shows",
-    "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genesis-AI-Rubiks-Cube-Solve-A-Cam.jpg?resize=1200,675",
-    "summary": "Genesis AI完成1.05亿美元种子轮融资，近日发布首个模型GENE-26.5及配套演示，展示机器人手部执行复杂任务的能力。",
-    "date": "2026-05-06 17:10",
-    "timestamp": 1778087427.9132006
   }
 ]
