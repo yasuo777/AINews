@@ -1,5 +1,29 @@
 [
   {
+    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
+    "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-Audiobooks-Ux.jpg?resize=1200,675",
+    "summary": "Spotify将于今年晚些时候推出新的有声书订阅计划。",
+    "date": "2026-05-21 17:19",
+    "timestamp": 1779383943.9205034
+  },
+  {
+    "title": "Spotify takes on Google’s NotebookLM with its new app",
+    "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Header.jpeg?resize=1200,675",
+    "summary": "Spotify在超过20个市场推出新桌面应用的研究预览版，以测试功能并收集用户反馈。",
+    "date": "2026-05-21 17:19",
+    "timestamp": 1779383945.0808334
+  },
+  {
+    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
+    "link": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
+    "summary": "Spotify将推出用户自定义提示词生成的每日或每周播报摘要功能。",
+    "date": "2026-05-21 17:19",
+    "timestamp": 1779383946.2454007
+  },
+  {
     "title": "With aluminum prices up 20%, recycling startups bet on AI to cash in",
     "link": "https://techcrunch.com/2026/05/21/with-aluminum-prices-up-20-recycling-startups-bet-on-ai-to-cash-in/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-180404126-e1694911368750.jpg?resize=1200,676",
@@ -774,29 +798,5 @@
     "summary": "创业竞技场200强申请窗口仅剩三周，5月27日截止。入选者可获风投资源、全球曝光、TechCrunch报道及10万美元无股权资助等扩展机遇。面向Pre-A轮创始人及推荐者，截止日期临近，请速申请。",
     "date": "2026-05-07 15:53",
     "timestamp": 1778169237.6236217
-  },
-  {
-    "title": "Exhibit at TechCrunch Disrupt 2026: Get in front of 10,000 decision-makers before space runs out",
-    "link": "https://techcrunch.com/2026/05/07/exhibit-at-techcrunch-disrupt-2026-get-in-front-of-10000-decision-makers-before-space-runs-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Google-Exhibit-Disrupt-2025.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026展位开放申请，企业可提前预订6英尺展桌以提升初创公司曝光度与业务机会，建议尽早行动以免落后于竞争对手。",
-    "date": "2026-05-07 15:53",
-    "timestamp": 1778169239.1075773
-  },
-  {
-    "title": "Aurora’s Chris Urmson on why self-driving trucks are finally ready to scale",
-    "link": "https://techcrunch.com/podcast/auroras-chris-urmson-on-why-self-driving-trucks-are-finally-ready-to-scale/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/04/aurora-chris-urmson.jpeg?resize=1200,800",
-    "summary": "自动驾驶技术在过去十多年间始终“近在眼前”，但如今已从DARPA挑战赛阶段走向商业化。Aurora公司去年4月启动无人驾驶卡车商业运营，计划年内将车队规模从数十辆扩大至数百辆。",
-    "date": "2026-05-07 15:54",
-    "timestamp": 1778169240.6908505
-  },
-  {
-    "title": "Spotify’s AI DJ now supports French, German, Italian and Brazilian Portuguese",
-    "link": "https://techcrunch.com/2026/05/07/spotifys-ai-dj-now-supports-french-german-italian-and-brazilian-portuguese/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-AI-DJ-Header.jpg?w=978",
-    "summary": "Spotify的AI DJ功能现已支持法语、德语、意大利语和巴西葡萄牙语。",
-    "date": "2026-05-07 13:19",
-    "timestamp": 1778159959.3257515
   }
 ]
