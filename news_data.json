@@ -1,5 +1,21 @@
 [
   {
+    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "link": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "summary": "英伟达CEO黄仁勋预测，AI智能体所需CPU将成为公司下一个重大增长点，市场规模可达2000亿美元。",
+    "date": "2026-05-21 01:33",
+    "timestamp": 1779327180.6031127
+  },
+  {
+    "title": "Anthropic says it’s about to have its first profitable quarter",
+    "link": "https://techcrunch.com/2026/05/20/anthropic-says-its-about-to-have-its-first-profitable-quarter/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+    "summary": "Anthropic向投资者透露，预计第二季度营收将翻倍以上，达到约109亿美元。",
+    "date": "2026-05-21 01:33",
+    "timestamp": 1779327181.9493527
+  },
+  {
     "title": "Clouted wants to take the guesswork out of making short videos go viral",
     "link": "https://techcrunch.com/2026/05/20/clouted-wants-to-take-the-guesswork-out-of-making-short-videos-go-viral/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/CLOUTED-TEAM-PHOTOS-2.jpg?resize=1200,765",
@@ -782,21 +798,5 @@
     "summary": "本周，五位涉及AI供应链各环节的业内人士在贝弗利山米尔肯全球会议上接受TechCrunch采访，探讨从芯片短缺、轨道数据中心，到支撑该技术的整个架构可能存在缺陷等议题。",
     "date": "2026-05-07 08:05",
     "timestamp": 1778141135.7990234
-  },
-  {
-    "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
-    "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/barry-diller.jpg?resize=1200,679",
-    "summary": "巴里·迪勒为OpenAI CEO萨姆·奥尔特曼辩护，同时警告通用人工智能仍是不可预测的力量，需设置防护措施。",
-    "date": "2026-05-06 22:28",
-    "timestamp": 1778106533.4451678
-  },
-  {
-    "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
-    "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
-    "summary": "去年11月宣布的交易原计划将Perplexity的AI搜索引擎直接整合至Snapchat。",
-    "date": "2026-05-06 22:28",
-    "timestamp": 1778106534.439609
   }
 ]
