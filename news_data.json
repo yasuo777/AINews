@@ -1,5 +1,21 @@
 [
   {
+    "title": "We tried Google’s AI glasses and they’re almost there",
+    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/1_IO_Glasses_Product_GentleMonst.width-1000.format-webp_NnExl2N.webp?w=1000",
+    "summary": "谷歌展示了安卓XR眼镜原型，可将Gemini驱动的翻译、导航等信息直接叠加在用户视野中，实现实时交互体验。",
+    "date": "2026-05-22 16:03",
+    "timestamp": 1779465804.5332735
+  },
+  {
+    "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
+    "link": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg",
+    "summary": "Steven Rosenbaum就《真相的未来》一书中出现的不准确引述作出解释，说明其成因。",
+    "date": "2026-05-22 16:03",
+    "timestamp": 1779465806.7716277
+  },
+  {
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "link": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/10/spotify-app-GettyImages-1689920063-e1702479483636.jpeg?resize=1200,676",
@@ -782,21 +798,5 @@
     "summary": "该公司正加强对ChatGPT用户在对话涉及自伤情况下的保护力度。",
     "date": "2026-05-07 21:35",
     "timestamp": 1778189710.0105562
-  },
-  {
-    "title": "Perplexity’s Personal Computer is now available everyone on Mac",
-    "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199",
-    "summary": "Perplexity推出面向Mac的AI代理“个人电脑”功能，现向所有用户开放，可在本地设备上执行复杂任务。",
-    "date": "2026-05-07 20:05",
-    "timestamp": 1778184312.6214125
-  },
-  {
-    "title": "Elon Musk’s lawsuit is putting OpenAI’s safety record under the microscope",
-    "link": "https://techcrunch.com/2026/05/07/elon-musks-lawsuit-is-putting-openais-safety-record-under-the-microscope/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265445010.jpg?w=1024",
-    "summary": "埃隆·马斯克试图通过法律手段拆解OpenAI，其关键争议点在于该公司的营利性子公司是否背离了其“确保人类受益于通用人工智能”的创始使命。",
-    "date": "2026-05-07 20:05",
-    "timestamp": 1778184313.7045276
   }
 ]
