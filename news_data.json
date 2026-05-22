@@ -1,5 +1,21 @@
 [
   {
+    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800",
+    "summary": "SpaceX递交的S-1文件披露了其宏伟目标：总潜在市场规模达28万亿美元，薪酬与火星殖民计划挂钩，估值目标将使其成为美国史上最大IPO。文件仅风险因素就长达36页。",
+    "date": "2026-05-22 18:20",
+    "timestamp": 1779474059.4025853
+  },
+  {
+    "title": "You can no longer Google the word ‘disregard’",
+    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-IO-everything.webp?resize=1200,674",
+    "summary": "谷歌搜索AI更新后，关键词“disregard”会直接导致搜索界面崩溃。",
+    "date": "2026-05-22 18:21",
+    "timestamp": 1779474060.386679
+  },
+  {
     "title": "We tried Google’s AI glasses and they’re almost there",
     "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/1_IO_Glasses_Product_GentleMonst.width-1000.format-webp_NnExl2N.webp?w=1000",
@@ -782,21 +798,5 @@
     "summary": "OpenAI新功能可应用于客服系统，并广泛适用于教育及创作者平台等多个领域。",
     "date": "2026-05-07 22:40",
     "timestamp": 1778193637.442846
-  },
-  {
-    "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
-    "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800",
-    "summary": "由欧洲电动滑板车巨头Voi联合创始人创办的AI初创公司Pit，获得a16z领投的1600万美元种子轮融资。",
-    "date": "2026-05-07 21:35",
-    "timestamp": 1778189708.9614553
-  },
-  {
-    "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
-    "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "该公司正加强对ChatGPT用户在对话涉及自伤情况下的保护力度。",
-    "date": "2026-05-07 21:35",
-    "timestamp": 1778189710.0105562
   }
 ]
