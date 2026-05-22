@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+    "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965",
+    "summary": "谷歌宣布，Pixel手机用户现可将全面屏界面设置为迪斯科球风格效果，实现屏幕动态闪烁的视觉体验。",
+    "date": "2026-05-22 21:45",
+    "timestamp": 1779486351.0466878
+  },
+  {
+    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pinocchio-ARR-nose2.png?resize=1200,800",
+    "summary": "部分AI初创公司在公开披露进展时，刻意夸大传统营收指标，而其投资者对此心知肚明。",
+    "date": "2026-05-22 21:45",
+    "timestamp": 1779486352.281242
+  },
+  {
     "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
     "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026优惠最后一天：购一票即享第二张半价，可携合作伙伴、联合创始人或同事同行。请立即注册。",
     "date": "2026-05-08 15:09",
     "timestamp": 1778252961.6776075
-  },
-  {
-    "title": "The back office problem that explains why specialists never call you back",
-    "link": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-07-at-9.00.25-PM.png?resize=1200,711",
-    "summary": "Basata等AI公司面临增强人力与替代人力之间的边界问题。目前，合作的行政人员更担忧工作负荷过重，而非被取代。",
-    "date": "2026-05-08 04:43",
-    "timestamp": 1778215385.3543656
-  },
-  {
-    "title": "OpenAI launches new voice intelligence features in its API",
-    "link": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "OpenAI新功能可应用于客服系统，并广泛适用于教育及创作者平台等多个领域。",
-    "date": "2026-05-07 22:40",
-    "timestamp": 1778193637.442846
   }
 ]
