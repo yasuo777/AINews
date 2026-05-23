@@ -1,5 +1,13 @@
 [
   {
+    "title": "Elon Musk has given up on solar power (on Earth)",
+    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+    "summary": "马斯克旗下xAI全面转向天然气，SpaceX则专注轨道数据中心，其此前承诺的“太阳能电力经济”愿景或已偏离。",
+    "date": "2026-05-23 14:49",
+    "timestamp": 1779547759.6596332
+  },
+  {
     "title": "AI is being used to resurrect the voices of dead pilots",
     "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "CloudFlare宣布首次大规模裁员，CEO马修·普林斯称，由于AI效率提升，公司不再需要大量支持岗位。",
     "date": "2026-05-08 18:55",
     "timestamp": 1778266544.337252
-  },
-  {
-    "title": "The “people’s airline” and the enterprise AI gold rush",
-    "link": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-    "summary": "本周多家企业加速布局企业级AI：Anthropic与OpenAI宣布成立合资公司，SAP斥资10亿美元收购德国AI初创公司Prior Labs，表明专注企业工具开发的初创公司正成为热门收购目标。",
-    "date": "2026-05-08 16:54",
-    "timestamp": 1778259279.6840453
   }
 ]
