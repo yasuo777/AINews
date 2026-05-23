@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ferrari is using IBM’s AI to create F1 superfans",
+    "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
+    "summary": "IBM与Scuderia Ferrari HP合作，通过技术革新重新定义赛车迷的观赛体验，融合数据分析与沉浸式互动，打造个性化、实时的粉丝参与新模式。",
+    "date": "2026-05-23 17:42",
+    "timestamp": 1779558175.009205
+  },
+  {
     "title": "Elon Musk has given up on solar power (on Earth)",
     "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英特尔股价在过去一年飙升490%，反映华尔街对其前景的押注可能远超公司实际复苏进程。",
     "date": "2026-05-08 20:37",
     "timestamp": 1778272671.3939376
-  },
-  {
-    "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
-    "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/12/Matthew-Prince-CloudflareDSC00252.jpg?resize=1200,800",
-    "summary": "CloudFlare宣布首次大规模裁员，CEO马修·普林斯称，由于AI效率提升，公司不再需要大量支持岗位。",
-    "date": "2026-05-08 18:55",
-    "timestamp": 1778266544.337252
   }
 ]
