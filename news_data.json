@@ -1,5 +1,13 @@
 [
   {
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/17.png?resize=1200,750",
+    "summary": "亚马逊Bee等AI可穿戴设备在提供便利的同时，也引发了用户对隐私的担忧。",
+    "date": "2026-05-24 16:40",
+    "timestamp": 1779640821.2811253
+  },
+  {
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
     "link": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/01-bxd-ferrari-xg-photography-v2.jpg?resize=1200,959",
@@ -790,13 +798,5 @@
     "summary": "部分远程员工因公司将其归类为远程工作者，未能获得《WARN法案》规定的两个月提前通知等保护。",
     "date": "2026-05-08 23:37",
     "timestamp": 1778283451.9655814
-  },
-  {
-    "title": "Intel’s comeback story is even wilder than it seems",
-    "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
-    "summary": "英特尔股价在过去一年飙升490%，反映华尔街对其前景的押注可能远超公司实际复苏进程。",
-    "date": "2026-05-08 20:37",
-    "timestamp": 1778272671.3939376
   }
 ]
