@@ -1,5 +1,13 @@
 [
   {
+    "title": "What ClickUp’s mass layoff tells us about the future of work",
+    "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?resize=1200,800",
+    "summary": "一家成立九年的初创公司正以数千个AI智能体取代数百名员工。",
+    "date": "2026-05-25 18:13",
+    "timestamp": 1779732804.6457872
+  },
+  {
     "title": "The pope’s AI encyclical isn’t really about AI",
     "link": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2213411719.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "据Anthropic研究，虚构作品中的人工智能形象会对实际AI模型产生真实影响。",
     "date": "2026-05-10 21:31",
     "timestamp": 1778448675.5458815
-  },
-  {
-    "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
-    "link": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "xAI与Anthropic的合作可能对母公司SpaceX产生战略影响，双方在AI与航天领域的协同效应值得关注。",
-    "date": "2026-05-10 15:35",
-    "timestamp": 1778427307.438182
   }
 ]
