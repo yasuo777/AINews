@@ -1,5 +1,13 @@
 [
   {
+    "title": "Citing Gandalf, Pope Leo says we must \"disarm\" AI",
+    "link": "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2277573960-1-1152x648-1779741792.jpg",
+    "summary": "在人工智能时代，教皇呼吁人们成为“希望的工匠”，以专业精神应对技术变革，坚守人文价值。",
+    "date": "2026-05-25 21:48",
+    "timestamp": 1779745713.0705473
+  },
+  {
     "title": "What ClickUp’s mass layoff tells us about the future of work",
     "link": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1247853635.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "随着人机对话日益频繁，未来工作模式将更依赖语音交互，可能推动办公界面简化、任务自动化提升，同时催生新的沟通规范与人机协作方式。",
     "date": "2026-05-10 21:31",
     "timestamp": 1778448674.3400056
-  },
-  {
-    "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
-    "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "据Anthropic研究，虚构作品中的人工智能形象会对实际AI模型产生真实影响。",
-    "date": "2026-05-10 21:31",
-    "timestamp": 1778448675.5458815
   }
 ]
