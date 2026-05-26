@@ -1,5 +1,21 @@
 [
   {
+    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
+    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
+    "summary": "在2026年I/O大会上，谷歌将搜索全面升级为AI智能体模式，替代传统蓝色链接，引发用户强烈反弹。DuckDuckGo应用安装量因此激增30%，反映出用户正向替代搜索引擎流失。",
+    "date": "2026-05-26 22:52",
+    "timestamp": 1779835923.5286696
+  },
+  {
+    "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
+    "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg",
+    "summary": "Parsing a papal proclamation.",
+    "date": "2026-05-26 22:52",
+    "timestamp": 1779835924.1801536
+  },
+  {
     "title": "OpenRouter more than doubles valuation to $1.3B in a year",
     "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
@@ -782,21 +798,5 @@
     "summary": "Vapi称其企业业务自2025年初以来增长10倍，主因是企业将客服和销售电话转向AI代理。",
     "date": "2026-05-12 13:24",
     "timestamp": 1778592262.9983132
-  },
-  {
-    "title": "Thinking Machines wants to build an AI that actually listens while it talks",
-    "link": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2271655163.jpg?resize=1200,879",
-    "summary": "当前所有AI模型均采用“听-答”交替模式。Thinking Machines正试图颠覆这一机制，研发可同步处理输入并生成输出的模型，使其更接近实时通话而非文本对话。",
-    "date": "2026-05-12 05:23",
-    "timestamp": 1778563420.3013852
-  },
-  {
-    "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
-    "link": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/gm-headquarters-getty.jpg?resize=1200,800",
-    "summary": "该新闻提及多个AI相关职位方向，涵盖原生开发、数据工程与分析、云端工程、代理与模型开发、提示工程及新型AI工作流。",
-    "date": "2026-05-12 05:23",
-    "timestamp": 1778563421.6340406
   }
 ]
