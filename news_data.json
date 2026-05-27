@@ -1,5 +1,29 @@
 [
   {
+    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+    "summary": "Snowflake与亚马逊签署了为期五年的大型协议，以获取用于人工智能的芯片，此举再度对英伟达构成挑战。",
+    "date": "2026-05-27 20:52",
+    "timestamp": 1779915178.9040806
+  },
+  {
+    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+    "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
+    "summary": "Remote近期年度经常性收入突破3亿美元，并实现现金流正向增长，这得益于采用人工智能后每位员工带来的收入提升了50%。",
+    "date": "2026-05-27 20:53",
+    "timestamp": 1779915180.159606
+  },
+  {
+    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+    "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
+    "summary": "谷歌I/O大会正式将AI生成答案置于搜索结果核心位置，但多数品牌几乎无法了解AI如何向客户描述自身。对长期围绕传统蓝色链接构建策略的企业而言，规则已发生重大改变。",
+    "date": "2026-05-27 20:53",
+    "timestamp": 1779915181.4357526
+  },
+  {
     "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
     "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Adaption推出AutoScientist工具，通过自动化微调流程，使模型快速适配特定能力，提升传统微调效率。",
     "date": "2026-05-13 13:51",
     "timestamp": 1778680313.276663
-  },
-  {
-    "title": "Rivian adds a new onboard AI assistant to its latest software update",
-    "link": "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/RivianAssistantStatic-1152x648.jpg",
-    "summary": "Rivian Assistant现已支持Gen1和Gen2硬件。",
-    "date": "2026-05-13 13:52",
-    "timestamp": 1778680321.351008
-  },
-  {
-    "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-    "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-877394926.jpg?resize=1200,800",
-    "summary": "ACCESS首次建立了政府支付机制，用于支付AI代理在患者就诊间隙进行监测、电话随访、协调住房转介或提醒用药等服务。此前，这类服务缺乏资金支持。",
-    "date": "2026-05-13 01:28",
-    "timestamp": 1778635700.7622812
-  },
-  {
-    "title": "Musk mulled handing OpenAI to his children, Altman testifies",
-    "link": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-    "summary": "OpenAI首席执行官回忆与SpaceX创始人进行了一次“尤为惊险”的对话。",
-    "date": "2026-05-12 18:24",
-    "timestamp": 1778610246.175048
   }
 ]
