@@ -1,5 +1,29 @@
 [
   {
+    "title": "In just 3 weeks, StrictlyVC is coming to Los Angeles",
+    "link": "https://techcrunch.com/2026/05/28/in-just-3-weeks-strictlyvc-is-coming-to-los-angeles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/54599380127_df4ede7c18_c.jpg?w=799",
+    "summary": "StrictlyVC洛杉矶活动将于6月18日举行，届时将与Mach Industries、Shinkei Systems等企业领袖进行深度交流与炉边对话，欢迎注册参与。",
+    "date": "2026-05-28 17:50",
+    "timestamp": 1779990635.5751398
+  },
+  {
+    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "summary": "Opus新模型推出了“动态工作流”工具，用于协调多个子智能体的任务执行。",
+    "date": "2026-05-28 17:50",
+    "timestamp": 1779990637.0257554
+  },
+  {
+    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
+    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+    "summary": "马斯克公开将xAI与Anthropic的大额算力合约重新描述为短期且可取消，但SpaceX的S-1文件显示付款将持续至2029年5月。",
+    "date": "2026-05-28 17:50",
+    "timestamp": 1779990638.5120697
+  },
+  {
     "title": "2 days left: Lock in ticket savings of up to $410 to TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/05/28/2-days-left-lock-in-ticket-savings-of-up-to-410-to-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_2Days-16X9-dark.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Notion推出新开发者平台，支持将AI代理、外部数据源及自定义代码直接集成至工作区，进一步拓展其在智能代理型生产力软件领域的布局。",
     "date": "2026-05-13 22:47",
     "timestamp": 1778712478.4404442
-  },
-  {
-    "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
-    "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "xAI因在Colossus 2数据中心使用移动燃气轮机供电被起诉，诉讼质疑其依赖燃气轮机的合法性。",
-    "date": "2026-05-13 21:10",
-    "timestamp": 1778706611.9319005
-  },
-  {
-    "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
-    "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cat-Wu.jpg?resize=1200,800",
-    "summary": "Claude Code与Cowork产品负责人指出，人工智能的下一个重大突破将是主动性，即AI不再仅响应指令，而是主动预判需求并采取行动。",
-    "date": "2026-05-13 21:10",
-    "timestamp": 1778706613.0097911
-  },
-  {
-    "title": "AI invades Princeton, where 30% of students cheat—but peers won't snitch",
-    "link": "https://arstechnica.com/tech-policy/2026/05/ai-driven-cheating-widespread-even-at-elite-schools-like-princeton/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-128091999-1152x648-1778700444.jpg",
-    "summary": "Old \"honor code\" systems are under strain.",
-    "date": "2026-05-13 21:10",
-    "timestamp": 1778706613.8382235
   }
 ]
