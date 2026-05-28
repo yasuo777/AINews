@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
+    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800",
+    "summary": "Vertu新款折叠手机基于开源Hermes项目，融合AI代理工作流与企业级集成，并采用超高端奢华设计。",
+    "date": "2026-05-28 10:40",
+    "timestamp": 1779964812.8459096
+  },
+  {
     "title": "Why Google’s AI can’t spell Google (or anything else)",
     "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Anthropic的新产品表明，AI平台战正向低端市场扩展，下一个用户争夺主战场不再是《财富》500强，而是构成美国经济支柱的3600万家小企业。",
     "date": "2026-05-13 17:01",
     "timestamp": 1778691680.757524
-  },
-  {
-    "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
-    "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/poppy-header.jpeg?resize=1200,727",
-    "summary": "Poppy是一款AI应用，通过整合日历、邮件、消息等服务，根据用户生活动态智能推送提醒、建议与任务。",
-    "date": "2026-05-13 13:51",
-    "timestamp": 1778680311.6974955
   }
 ]
