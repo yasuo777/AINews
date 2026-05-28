@@ -1,5 +1,21 @@
 [
   {
+    "title": "The internet is being rebuilt for machines",
+    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "summary": "随着AI智能体从实验阶段进入生产应用，AWS、Cloudflare等企业正重新设计云基础设施，以应对机器生成流量将超越人类用户主导的未来。",
+    "date": "2026-05-28 23:00",
+    "timestamp": 1780009244.6072931
+  },
+  {
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
+    "summary": "根据微调测试结果，模型存在“倾向于自信地将主张呈现为事实”的偏差。",
+    "date": "2026-05-28 23:00",
+    "timestamp": 1780009246.0603385
+  },
+  {
     "title": "Asana acquires no-code agent-builder Stack AI",
     "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/asana-illustration-getty.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Crosby正在打造Synthetic，一款面向初创企业的全自动AI记账服务，旨在实现财务流程的全面智能化。",
     "date": "2026-05-14 15:58",
     "timestamp": 1778774280.5718377
-  },
-  {
-    "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports ‘record quarterly revenue’",
-    "link": "https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/chuck-robbins-2270936687.jpg?resize=1200,865",
-    "summary": "思科近期再次裁员，尽管其首席执行官宣称公司营收与增长创下历史新高。",
-    "date": "2026-05-14 15:58",
-    "timestamp": 1778774282.0427408
-  },
-  {
-    "title": "Two weeks left: Startup Battlefield 200 applications close May 27",
-    "link": "https://techcrunch.com/2026/05/14/two-weeks-left-startup-battlefield-200-applications-close-may-27/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/sb200_trophy.png?w=1080",
-    "summary": "创业公司申请截止日为5月27日，入选者将获得风险投资对接、全球曝光、TechCrunch报道及10万美元无股权融资机会。请尽快申请。",
-    "date": "2026-05-14 15:58",
-    "timestamp": 1778774283.7734392
   }
 ]
