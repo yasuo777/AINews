@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why Google’s AI can’t spell Google (or anything else)",
+    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
+    "summary": "Google is embarrassing itself, again.",
+    "date": "2026-05-28 01:24",
+    "timestamp": 1779931452.982221
+  },
+  {
     "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
     "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Poppy是一款AI应用，通过整合日历、邮件、消息等服务，根据用户生活动态智能推送提醒、建议与任务。",
     "date": "2026-05-13 13:51",
     "timestamp": 1778680311.6974955
-  },
-  {
-    "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
-    "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
-    "summary": "Adaption推出AutoScientist工具，通过自动化微调流程，使模型快速适配特定能力，提升传统微调效率。",
-    "date": "2026-05-13 13:51",
-    "timestamp": 1778680313.276663
   }
 ]
