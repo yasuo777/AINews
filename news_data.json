@@ -1,5 +1,29 @@
 [
   {
+    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
+    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
+    "summary": "Groq计划通过内部融资筹集6.5亿美元，从硬件转向专注于AI推理服务，以优化模型响应提示请求的过程。",
+    "date": "2026-05-29 17:55",
+    "timestamp": 1780077308.7514288
+  },
+  {
+    "title": "Cognition’s Scott Wu says AI coding agents shouldn’t replace humans",
+    "link": "https://techcrunch.com/2026/05/29/cognitions-scott-wu-says-ai-coding-agents-shouldnt-replace-humans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+    "summary": "Cognition公司开发了首个且公认最成功的AI编程助手Devin。著名程序员吴指出，该工具旨在辅助而非替代人类程序员。",
+    "date": "2026-05-29 17:55",
+    "timestamp": 1780077310.2669942
+  },
+  {
+    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=1200",
+    "summary": "请在今日内提交你的会议主题，即有机会在TechCrunch Disrupt 2026上发表演讲。立即申请，分享见解，共同塑造定义科技行业的关键对话。",
+    "date": "2026-05-29 17:55",
+    "timestamp": 1780077311.4281213
+  },
+  {
     "title": "This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory",
     "link": "https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/MX1P_CSB_REV20_-2_black.jpg?resize=1200,750",
@@ -774,29 +798,5 @@
     "summary": "Richard Socher新创公司融资6.5亿美元，计划开发能自主研究并持续自我优化的AI系统，并承诺将实际交付产品。",
     "date": "2026-05-14 20:17",
     "timestamp": 1778789867.0516903
-  },
-  {
-    "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
-    "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
-    "summary": "据彭博社报道，OpenAI已聘请外部律师事务所就其未来战略选项进行法律评估与规划。",
-    "date": "2026-05-14 20:17",
-    "timestamp": 1778789868.0527005
-  },
-  {
-    "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
-    "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/clawdmeter-edit.png?resize=1200,827",
-    "summary": "Clawdmeter是一款新型开源桌面小工具，可将Claude Code的使用统计数据实时显示在迷你仪表盘上，专为AI编程重度用户设计，便于直观追踪编码效率。",
-    "date": "2026-05-14 20:17",
-    "timestamp": 1778789869.3014493
-  },
-  {
-    "title": "Cerebras raises $5.5B, then stock pops $108%, in the first huge tech IPO of 2026",
-    "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cerebras-Nasdaq-opening-bell.png?resize=1200,695",
-    "summary": "一年前看似无望的突破，如今Cerebras迎来了关键进展。",
-    "date": "2026-05-14 18:21",
-    "timestamp": 1778782919.6865842
   }
 ]
