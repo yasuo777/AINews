@@ -1,5 +1,21 @@
 [
   {
+    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+    "summary": "AI兴起催生大量新术语与俚语。以下汇编了关键词汇的定义，助您理解常见AI相关表达。",
+    "date": "2026-05-29 21:00",
+    "timestamp": 1780088407.465463
+  },
+  {
+    "title": "What happens when companies become too AI-pilled?",
+    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
+    "summary": "Box创始人Aaron Levie指出，决定AI能替代你工作的人，往往最不了解你的实际工作内容，并将其称为“AI精神病”。ClickUp近期因AI裁减22%员工，2026年科技裁员规模已几乎持平2025年全年。",
+    "date": "2026-05-29 21:00",
+    "timestamp": 1780088409.3606954
+  },
+  {
     "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
     "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "自2月以来，马斯克新合并的SpaceXAI已有超50名员工离职，引发对职业倦怠、领导层变动、人才挖角及流动事件削弱留任激励的质疑。",
     "date": "2026-05-14 21:47",
     "timestamp": 1778795275.0096357
-  },
-  {
-    "title": "OpenAI says Codex is coming to your phone",
-    "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/App-view.png?resize=1200,675",
-    "summary": "本次更新为用户提供了更灵活的工作流管理方式。",
-    "date": "2026-05-14 21:47",
-    "timestamp": 1778795275.929797
-  },
-  {
-    "title": "What happens when AI starts building itself?",
-    "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
-    "summary": "Richard Socher新创公司融资6.5亿美元，计划开发能自主研究并持续自我优化的AI系统，并承诺将实际交付产品。",
-    "date": "2026-05-14 20:17",
-    "timestamp": 1778789867.0516903
   }
 ]
