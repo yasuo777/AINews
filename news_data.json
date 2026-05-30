@@ -1,5 +1,13 @@
 [
   {
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
+    "summary": "谷歌推出Gemini Spark，用于自动化处理收件箱摘要、本地活动规划等日常任务，但为何将其作为独立产品推出，原因尚不明确。",
+    "date": "2026-05-30 15:50",
+    "timestamp": 1780156226.9615836
+  },
+  {
     "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
     "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
@@ -790,13 +798,5 @@
     "summary": "Osaurus是一款Mac应用，整合本地与云端AI模型，将用户的记忆、文件及工具保留在自有硬件上，兼顾智能与隐私安全。",
     "date": "2026-05-15 13:15",
     "timestamp": 1778850955.3173463
-  },
-  {
-    "title": "Claude Code's product lead talks usage limits, transparency, and the \"lean harness\"",
-    "link": "https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/Cat-Wu-1152x648-1778778452.jpg",
-    "summary": "Anthropic公司Cat Wu表示，虽无宏大计划，但这是有意为之。",
-    "date": "2026-05-15 11:03",
-    "timestamp": 1778842997.5974114
   }
 ]
