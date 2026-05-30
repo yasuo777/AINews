@@ -1,5 +1,13 @@
 [
   {
+    "title": "SoftBank says it will invest up to €75 billion to build French data centers",
+    "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
+    "summary": "该公司表示，其目标是开发并运营多达5吉瓦的额外数据中心容量。",
+    "date": "2026-05-30 22:37",
+    "timestamp": 1780180665.5215685
+  },
+  {
     "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
     "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
@@ -790,13 +798,5 @@
     "summary": "该网站一名版主在社交媒体上说明了新政策的内容。",
     "date": "2026-05-15 20:05",
     "timestamp": 1778875548.7627969
-  },
-  {
-    "title": "OpenAI launches ChatGPT for personal finance, will let you connect bank accounts",
-    "link": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
-    "summary": "用户连接账户后，即可查看包含投资组合表现、消费、订阅及待付账单的仪表盘概览。",
-    "date": "2026-05-15 18:10",
-    "timestamp": 1778868646.5688643
   }
 ]
