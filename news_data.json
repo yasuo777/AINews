@@ -1,5 +1,21 @@
 [
   {
+    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
+    "summary": "微软GitHub Copilot的黄金时代似乎已近尾声。",
+    "date": "2026-05-30 17:42",
+    "timestamp": 1780162953.2630298
+  },
+  {
+    "title": "Meta is reportedly developing an AI pendant",
+    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "summary": "Meta正大力押注AI驱动硬件。",
+    "date": "2026-05-30 17:42",
+    "timestamp": 1780162954.266976
+  },
+  {
     "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
     "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "用户连接账户后，即可查看包含投资组合表现、消费、订阅及待付账单的仪表盘概览。",
     "date": "2026-05-15 18:10",
     "timestamp": 1778868646.5688643
-  },
-  {
-    "title": "Runway started by helping filmmakers. Now it wants to beat Google at AI.",
-    "link": "https://techcrunch.com/2026/05/15/runway-started-by-helping-filmmakers-now-it-wants-to-beat-google-at-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Runway-founders.jpg?resize=1200,960",
-    "summary": "Runway认为视频生成是构建世界模型的关键路径，并主张作为AI领域的外部参与者反而是一种优势。",
-    "date": "2026-05-15 15:50",
-    "timestamp": 1778860235.577418
-  },
-  {
-    "title": "Osaurus brings both local and cloud AI models to your Mac",
-    "link": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png?resize=1200,675",
-    "summary": "Osaurus是一款Mac应用，整合本地与云端AI模型，将用户的记忆、文件及工具保留在自有硬件上，兼顾智能与隐私安全。",
-    "date": "2026-05-15 13:15",
-    "timestamp": 1778850955.3173463
   }
 ]
