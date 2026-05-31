@@ -1,5 +1,13 @@
 [
   {
+    "title": "Making sense of the debate over AI psychosis",
+    "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+    "summary": "科技CEO是否易患“AI妄想症”引发争议。最新一期《Equity》节目就此展开辩论，探讨企业领导者对人工智能的过度狂热是否具有独特性。",
+    "date": "2026-05-31 15:53",
+    "timestamp": 1780242795.14541
+  },
+  {
     "title": "SoftBank says it will invest up to €75 billion to build French data centers",
     "link": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224533087.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "由于人工智能推动电力需求激增，硅谷热门度假地太浩湖即将面临能源价格上涨。",
     "date": "2026-05-15 20:05",
     "timestamp": 1778875547.0630078
-  },
-  {
-    "title": "Send the arXiv AI-generated slop, get a yearlong vacation from submissions",
-    "link": "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-    "summary": "该网站一名版主在社交媒体上说明了新政策的内容。",
-    "date": "2026-05-15 20:05",
-    "timestamp": 1778875548.7627969
   }
 ]
