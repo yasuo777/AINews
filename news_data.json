@@ -1,5 +1,21 @@
 [
   {
+    "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
+    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+    "summary": "谷歌母公司计划通过发行股票筹集资金。",
+    "date": "2026-06-01 23:14",
+    "timestamp": 1780355680.9468787
+  },
+  {
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+    "summary": "英伟达若能实现AI代理的简便、安全且实用的大规模应用，其影响将极为深远且重大。",
+    "date": "2026-06-01 23:14",
+    "timestamp": 1780355682.015816
+  },
+  {
     "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
     "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "苹果即将发布新版Siri，隐私功能将成为其核心亮点。",
     "date": "2026-05-17 20:28",
     "timestamp": 1779049713.868122
-  },
-  {
-    "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
-    "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
-    "summary": "审判最后几天的焦点是OpenAI首席执行官萨姆·奥尔特曼是否值得信赖。",
-    "date": "2026-05-17 20:28",
-    "timestamp": 1779049714.8658004
-  },
-  {
-    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
-    "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/01/university.jpg?resize=1200,641",
-    "summary": "近期调查显示，毕业生对由人工智能主导的未来缺乏热情，专业前景引发忧虑。",
-    "date": "2026-05-17 17:38",
-    "timestamp": 1779039481.6372843
   }
 ]
