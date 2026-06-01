@@ -1,5 +1,21 @@
 [
   {
+    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+    "summary": "该诉讼部分涉及去年佛罗里达州立大学的一起枪击事件，并指控ChatGPT在该事件中扮演了角色。",
+    "date": "2026-06-01 21:16",
+    "timestamp": 1780348587.1385396
+  },
+  {
+    "title": "Water access is now a risk factor in SpaceX’s IPO",
+    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+    "summary": "该公司表示，其数据中心冷却需大量水资源，而获得充足且低成本的水源是一大挑战。",
+    "date": "2026-06-01 21:16",
+    "timestamp": 1780348588.1817284
+  },
+  {
     "title": "Anthropic files to go public",
     "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "近期调查显示，毕业生对由人工智能主导的未来缺乏热情，专业前景引发忧虑。",
     "date": "2026-05-17 17:38",
     "timestamp": 1779039481.6372843
-  },
-  {
-    "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
-    "link": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/rj-scaringe-Getty.jpg?resize=1200,800",
-    "summary": "TechCrunch Mobility 报道聚焦未来交通领域的最新动态与深度洞察，涵盖技术、政策及行业趋势，为读者提供专业新闻与分析。",
-    "date": "2026-05-17 17:38",
-    "timestamp": 1779039483.01498
-  },
-  {
-    "title": "The haves and have nots of the AI gold rush",
-    "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
-    "summary": "当前AI热潮在科技行业内部也引发争议，行业情绪并不乐观。",
-    "date": "2026-05-16 21:31",
-    "timestamp": 1778967083.25359
   }
 ]
