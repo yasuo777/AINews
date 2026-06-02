@@ -1,5 +1,29 @@
 [
   {
+    "title": "Trump signs narrower executive order on AI oversight after industry objections",
+    "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
+    "summary": "美国总统特朗普在行业反对后，签署修订版人工智能行政令，仅要求对先进模型进行自愿性的预发布政府审查。",
+    "date": "2026-06-02 17:06",
+    "timestamp": 1780419978.0508487
+  },
+  {
+    "title": "OpenAI launches new Codex tools for white-collar work",
+    "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI于周二发布Codex新功能，旨在拓展其在企业职场中的代理工具应用，并同步发布内部报告，揭示该工具在知识工作中的多样化用途。此举表明其正加速布局企业级用户市场。",
+    "date": "2026-06-02 17:06",
+    "timestamp": 1780419979.5395226
+  },
+  {
+    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
+    "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "summary": "Anthropic扩展安全漏洞计划Project Glasswing，将Mythos访问权限授予15国150家机构，重点覆盖电力、水利、医疗及通信等关键基础设施，预防可能影响上亿人的网络攻击。",
+    "date": "2026-06-02 17:06",
+    "timestamp": 1780419981.0379744
+  },
+  {
     "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
     "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "埃隆·马斯克指控OpenAI联合创始人对其不公的诉讼被加州陪审团一致驳回，理由是其诉讼时效已过。",
     "date": "2026-05-18 17:46",
     "timestamp": 1779126414.6893902
-  },
-  {
-    "title": "Amazon’s new Alexa+ powered feature can generate podcast episodes",
-    "link": "https://techcrunch.com/2026/05/18/amazons-new-alexa-powered-feature-can-generate-podcast-episodes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/alexa-podcasts-hero.png?w=1200",
-    "summary": "亚马逊Alexa+新增按需生成定制AI播客功能，标志着其智能助手正向个性化AI内容平台扩展。",
-    "date": "2026-05-18 17:46",
-    "timestamp": 1779126415.767082
-  },
-  {
-    "title": "South Korea’s LetinAR is building optics behind AI glasses",
-    "link": "https://techcrunch.com/2026/05/18/south-koreas-letinar-is-building-the-optics-behind-ai-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1446311598.jpg?resize=1200,800",
-    "summary": "一家韩国初创公司研发出拇指甲大小的镜片，有望成为AI眼镜时代的光学核心，推动智能穿戴设备的技术突破。",
-    "date": "2026-05-18 14:43",
-    "timestamp": 1779115434.3640604
-  },
-  {
-    "title": "Apple’s Siri revamp could include auto-deleting chats",
-    "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
-    "summary": "苹果即将发布新版Siri，隐私功能将成为其核心亮点。",
-    "date": "2026-05-17 20:28",
-    "timestamp": 1779049713.868122
   }
 ]
