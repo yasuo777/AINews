@@ -1,5 +1,29 @@
 [
   {
+    "title": "Uber caps employee AI spending after blowing through budget in four months",
+    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "summary": "优步在鼓励员工广泛使用人工智能后，近期进行了裁员。此举反映出公司正通过技术优化提升运营效率。",
+    "date": "2026-06-02 20:29",
+    "timestamp": 1780432144.788351
+  },
+  {
+    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
+    "summary": "微软于周二发布开源框架Adaptive Spec-driven Scoring for Evaluation and Regression Testing，用于启动AI评估与回归测试。",
+    "date": "2026-06-02 20:29",
+    "timestamp": 1780432145.8238847
+  },
+  {
+    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
+    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2244067270.jpg?resize=1200,800",
+    "summary": "全球最著名导演之一仅将该技术用于分镜脚本制作，强调其辅助功能，而非替代传统拍摄。",
+    "date": "2026-06-02 20:29",
+    "timestamp": 1780432147.072875
+  },
+  {
     "title": "Trump signs narrower executive order on AI oversight after industry objections",
     "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "安德烈·卡帕西加入Anthropic，负责预训练工作。他曾共同创立OpenAI并在特斯拉领导计算机视觉与AI团队。",
     "date": "2026-05-19 16:01",
     "timestamp": 1779206483.7930038
-  },
-  {
-    "title": "SandboxAQ brings its drug discovery models to Claude — no PhD in computing required",
-    "link": "https://techcrunch.com/2026/05/18/sandboxaq-brings-its-drug-discovery-models-to-claude-no-phd-in-computing-required/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-5339511481.jpg?w=640",
-    "summary": "SandboxAQ认为，AI药物研发的主要障碍在于数据获取，而Claude解决了这一问题。其他风投支持的初创公司如Chai Discovery和Isomorphic Labs也在竞相开发更优模型。",
-    "date": "2026-05-18 21:49",
-    "timestamp": 1779140981.1007063
-  },
-  {
-    "title": "Anthropic has acquired the dev tools startup used by OpenAI, Google, and Cloudflare",
-    "link": "https://techcrunch.com/2026/05/18/anthropic-has-acquired-the-dev-tools-startup-used-by-openai-google-and-cloudflare/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "纽约初创公司Stainless（2022年成立）因自动化生成与维护软件开发工具包（SDK）而迅速崛起，成为AI行业新星。",
-    "date": "2026-05-18 20:18",
-    "timestamp": 1779135490.505821
-  },
-  {
-    "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-    "link": "https://techcrunch.com/2026/05/18/elon-musk-has-lost-his-lawsuit-against-sam-altman-and-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
-    "summary": "埃隆·马斯克指控OpenAI联合创始人对其不公的诉讼被加州陪审团一致驳回，理由是其诉讼时效已过。",
-    "date": "2026-05-18 17:46",
-    "timestamp": 1779126414.6893902
   }
 ]
