@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Cybersecurity-padlocks-Getty.jpg?resize=1200,675",
+    "summary": "这家网络安全公司即将完成由Evolution Equity Partners领投的3亿美元融资轮。",
+    "date": "2026-06-03 00:15",
+    "timestamp": 1780445746.578539
+  },
+  {
     "title": "Uber caps employee AI spending after blowing through budget in four months",
     "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "谷歌推出基于AI的“信息代理”，可后台监控特定主题，主动向用户推送更新与变化通知。",
     "date": "2026-05-19 18:24",
     "timestamp": 1779215087.4123714
-  },
-  {
-    "title": "OpenAI co-founder Andrej Karpathy joins Anthropic’s pre-training team",
-    "link": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1321808956.jpg?w=1024",
-    "summary": "安德烈·卡帕西加入Anthropic，负责预训练工作。他曾共同创立OpenAI并在特斯拉领导计算机视觉与AI团队。",
-    "date": "2026-05-19 16:01",
-    "timestamp": 1779206483.7930038
   }
 ]
