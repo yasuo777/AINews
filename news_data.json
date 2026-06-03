@@ -1,5 +1,29 @@
 [
   {
+    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
+    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "summary": "英国监管机构要求谷歌提供工具，允许网站出版商选择退出生成式AI搜索功能。该选项将在英国测试后推广至全球。",
+    "date": "2026-06-03 15:19",
+    "timestamp": 1780499992.5825343
+  },
+  {
+    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
+    "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+    "summary": "WhatsApp将根据Token使用量，向企业用户收取AI代理服务费。",
+    "date": "2026-06-03 15:19",
+    "timestamp": 1780499993.5796645
+  },
+  {
+    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
+    "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
+    "summary": "Coralogix完成F轮融资，估值达16亿美元，距上一轮融资不到一年。",
+    "date": "2026-06-03 15:19",
+    "timestamp": 1780499994.5486891
+  },
+  {
     "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
     "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/Cybersecurity-padlocks-Getty.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "两项工具均可生成假设，其中一项还可对部分数据进行分析。",
     "date": "2026-05-19 20:18",
     "timestamp": 1779221935.0531435
-  },
-  {
-    "title": "Google’s Genie world model can now simulate real streets with Street View",
-    "link": "https://techcrunch.com/2026/05/19/googles-genie-world-model-can-now-simulate-real-streets-with-street-view/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Genie-Street-View-NYC.png?resize=1200,662",
-    "summary": "谷歌DeepMind将街景与Genie项目融合，打造沉浸式交互世界模拟，应用于机器人、游戏和旅行领域，用户可探索环境、天气变化及罕见场景。",
-    "date": "2026-05-19 18:24",
-    "timestamp": 1779215085.093087
-  },
-  {
-    "title": "With Gemini 3.5 Flash, Google bets its next AI wave on agents, not chatbots",
-    "link": "https://techcrunch.com/2026/05/19/with-gemini-3-5-flash-google-bets-its-next-ai-wave-on-agents-not-chatbots/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1192.jpg?resize=1200,900",
-    "summary": "谷歌在年度开发者大会上发布迄今最强大的编程与智能体AI模型Gemini 3.5 Flash，能够自主执行复杂任务并从头构建软件。",
-    "date": "2026-05-19 18:24",
-    "timestamp": 1779215086.1661403
-  },
-  {
-    "title": "How to use Google’s new information agents",
-    "link": "https://techcrunch.com/2026/05/19/how-to-use-googles-new-information-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/G-information-agents.png?resize=1200,750",
-    "summary": "谷歌推出基于AI的“信息代理”，可后台监控特定主题，主动向用户推送更新与变化通知。",
-    "date": "2026-05-19 18:24",
-    "timestamp": 1779215087.4123714
   }
 ]
