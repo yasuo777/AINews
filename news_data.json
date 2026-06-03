@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+    "summary": "Dreambeans从Google账户个人数据中精选AI插画“故事”，以专业方式呈现用户数字轨迹的视觉化摘要。",
+    "date": "2026-06-03 19:35",
+    "timestamp": 1780515325.3404977
+  },
+  {
+    "title": "Amazon will show AI product images when you search for some reason",
+    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.16.52-AM.jpg?resize=1200,695",
+    "summary": "亚马逊将利用视觉搜索与AI技术，根据用户搜索查询展示AI生成的产品图片，旨在帮助用户更精准地找到目标商品。",
+    "date": "2026-06-03 19:35",
+    "timestamp": 1780515326.3822837
+  },
+  {
+    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Athx-Pictures_-Right-Mariama-Left-Ayooluwa.jpg?resize=1200,675",
+    "summary": "该初创公司自建技术栈已在非洲和中东地区每日处理超1.7万通电话，运营规模持续扩大。",
+    "date": "2026-06-03 19:35",
+    "timestamp": 1780515327.799055
+  },
+  {
     "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
     "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
@@ -774,29 +798,5 @@
     "summary": "谷歌推出基于AI的“信息代理”功能，可在后台持续监控特定主题，并主动向用户推送更新与变化提醒。",
     "date": "2026-05-19 21:58",
     "timestamp": 1779227892.0597756
-  },
-  {
-    "title": "Elon Musk said Sam Altman “stole” a non-profit — but the trial showed he had similar aims",
-    "link": "https://techcrunch.com/2026/05/19/elon-musk-said-sam-altman-stole-a-non-profit-but-the-trial-showed-he-had-similar-aims/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-    "summary": "截至本周末，你和萨姆将成为全美最遭憎恨的人。",
-    "date": "2026-05-19 20:18",
-    "timestamp": 1779221932.3000367
-  },
-  {
-    "title": "Google takes a page out of Meta’s book, announces new audio-powered smart glasses",
-    "link": "https://techcrunch.com/2026/05/19/google-takes-a-page-out-of-metas-book-announces-new-audio-powered-smart-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/IMG_1421.jpg?resize=1200,900",
-    "summary": "谷歌推出新型“音频眼镜”，用户可通过语音指令调用其应用生态系统（包括Gemini）完成任务。",
-    "date": "2026-05-19 20:18",
-    "timestamp": 1779221933.262782
-  },
-  {
-    "title": "Two AI-based science assistants succeed with drug-retargeting tasks",
-    "link": "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2164333125-1152x648.jpg",
-    "summary": "两项工具均可生成假设，其中一项还可对部分数据进行分析。",
-    "date": "2026-05-19 20:18",
-    "timestamp": 1779221935.0531435
   }
 ]
