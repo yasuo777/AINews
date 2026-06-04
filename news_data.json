@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta rolls out a new AI creator assistant on Facebook",
+    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
+    "summary": "创作者常需分析图表和仪表板来了解自身表现，而新的AI助手能快速解答“何时发布”及“评论中提及什么”等问题，提升效率。",
+    "date": "2026-06-04 19:03",
+    "timestamp": 1780599786.648314
+  },
+  {
+    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+    "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
+    "summary": "苹果WWDC即将举行，届时将发布最新操作系统与AI功能，预计带来iOS、iPadOS及macOS重大更新，进一步强化生态整合与用户体验。",
+    "date": "2026-06-04 19:03",
+    "timestamp": 1780599788.532149
+  },
+  {
     "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
     "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
@@ -782,21 +798,5 @@
     "summary": "马斯克诉讼未影响OpenAI上市进程，据报道，在输掉威胁其结构、领导层与财务的官司后次日，OpenAI已重启IPO准备工作。",
     "date": "2026-05-20 19:05",
     "timestamp": 1779303927.2279983
-  },
-  {
-    "title": "AI search startups are blowing up",
-    "link": "https://techcrunch.com/2026/05/20/ai-search-startups-are-blowing-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
-    "summary": "AI搜索已悄然成为消费级AI领域最具吸引力的方向之一。",
-    "date": "2026-05-20 16:16",
-    "timestamp": 1779293795.2085612
-  },
-  {
-    "title": "Stability AI releases a new audio model that can create six-minute songs",
-    "link": "https://techcrunch.com/2026/05/20/stability-ai-release-a-new-audio-model-that-can-create-six-minute-songs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1480808838.jpg?resize=1200,800",
-    "summary": "Stability Audio 3.0小模型可本地运行，生成长达两分钟的音乐片段。",
-    "date": "2026-05-20 16:16",
-    "timestamp": 1779293796.12155
   }
 ]
