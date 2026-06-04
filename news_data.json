@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
+    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
+    "summary": "Meta正尝试采用帐篷式结构来降低数据中心高昂的建设与运营成本，此举或可显著削减其巨额开支。",
+    "date": "2026-06-04 21:17",
+    "timestamp": 1780607823.9302554
+  },
+  {
+    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
+    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
+    "summary": "Poke成为首个获苹果Messages for Business平台批准的AI代理初创公司，用户可通过短信与其AI代理互动。",
+    "date": "2026-06-04 21:17",
+    "timestamp": 1780607825.2345557
+  },
+  {
     "title": "Meta rolls out a new AI creator assistant on Facebook",
     "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Iris最初被定位为“AI管家”，能够观察用户桌面操作并自主学习替用户执行任务，其联合创始人表示。",
     "date": "2026-05-20 21:21",
     "timestamp": 1779312117.551734
-  },
-  {
-    "title": "OpenAI barrels toward IPO that may happen in September",
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-toward-ipo-that-may-happen-in-september/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "summary": "马斯克起诉OpenAI案败诉次日，据报OpenAI已重启IPO筹备工作。该公司此前诉讼中面临的架构、领导层及财务风险暂时解除。",
-    "date": "2026-05-20 21:21",
-    "timestamp": 1779312118.7156918
-  },
-  {
-    "title": "OpenAI barrels towards IPO that may happen in September",
-    "link": "https://techcrunch.com/2026/05/20/openai-barrels-towards-ipo-that-may-happen-in-september/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
-    "summary": "马斯克诉讼未影响OpenAI上市进程，据报道，在输掉威胁其结构、领导层与财务的官司后次日，OpenAI已重启IPO准备工作。",
-    "date": "2026-05-20 19:05",
-    "timestamp": 1779303927.2279983
   }
 ]
