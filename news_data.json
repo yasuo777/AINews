@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
+    "summary": "该AI巨头联合创始人解释了公司可能进军公开市场融资的原因，并强调对代币化抵制无需担忧。",
+    "date": "2026-06-04 22:54",
+    "timestamp": 1780613698.926643
+  },
+  {
+    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
+    "summary": "爱彼迎CEO去年表示，公司尚未与大型语言模型达成合作，因为现有产品尚未完全成熟。",
+    "date": "2026-06-04 22:55",
+    "timestamp": 1780613700.0251997
+  },
+  {
+    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
+    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
+    "summary": "6月18日，投资者、创始人与科技领袖将齐聚航空航天公司园区，探讨风险投资、国防科技、人工智能及先进工业领域的关键变革。席位有限，请速报名。",
+    "date": "2026-06-04 22:55",
+    "timestamp": 1780613701.3181133
+  },
+  {
     "title": "Meta steals a tactic from Tesla and builds data centers in tents",
     "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "SpaceX的IPO文件首次披露旗下xAI在2025年亏损64亿美元，同时计划大规模扩展Grok，展示了马斯克AI业务的财务状况与扩张野心。",
     "date": "2026-05-20 22:57",
     "timestamp": 1779317824.1746936
-  },
-  {
-    "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
-    "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-    "summary": "英伟达周三盘后公布再创纪录的营收数据，但预计下一季度收入增速将放缓。",
-    "date": "2026-05-20 22:57",
-    "timestamp": 1779317825.1574545
-  },
-  {
-    "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
-    "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
-    "summary": "OpenAI称其推理模型推翻了一个自1946年未解的几何猜想，此次先前揭露其错误主张的数学家们也证实了该成果。",
-    "date": "2026-05-20 21:21",
-    "timestamp": 1779312116.5206602
-  },
-  {
-    "title": "IrisGo, a startup backed by Andrew Ng, looks to become the AI desktop buddy you never knew you needed",
-    "link": "https://techcrunch.com/2026/05/20/irisgo-a-startup-backed-by-andrew-ng-looks-to-become-the-ai-desktop-buddy-you-never-knew-you-needed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Arnold-Jeffrey-Andrew-Ng36.jpg?resize=1200,900",
-    "summary": "Iris最初被定位为“AI管家”，能够观察用户桌面操作并自主学习替用户执行任务，其联合创始人表示。",
-    "date": "2026-05-20 21:21",
-    "timestamp": 1779312117.551734
   }
 ]
