@@ -1,5 +1,21 @@
 [
   {
+    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
+    "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
+    "summary": "加州一家初创公司发布了第四代家庭辅助机器人Stretch。",
+    "date": "2026-06-04 16:03",
+    "timestamp": 1780589039.223212
+  },
+  {
+    "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+    "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+    "summary": "Apple App Store 2024年实现1.4万亿美元销售额，同比增长，其中数字商品销售额达1490亿美元。",
+    "date": "2026-06-04 16:04",
+    "timestamp": 1780589040.2951002
+  },
+  {
     "title": "Lovable signs multiyear deal with Google Cloud to up usage 5x, source says",
     "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Stability Audio 3.0小模型可本地运行，生成长达两分钟的音乐片段。",
     "date": "2026-05-20 16:16",
     "timestamp": 1779293796.12155
-  },
-  {
-    "title": "NanoClaw creator turns down $20M buyout offer, raises $12M seed instead",
-    "link": "https://techcrunch.com/2026/05/20/nanoclaw-creator-turns-down-20m-buyout-offer-raises-12m-seed-instead/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/NanoClaw-fouders-2.jpg?resize=1200,708",
-    "summary": "NanoCo，即OpenClaw替代方案NanoClaw的开发者，在发布引发病毒式传播后，已完成1200万美元种子轮融资。",
-    "date": "2026-05-20 16:16",
-    "timestamp": 1779293797.372082
-  },
-  {
-    "title": "Google just declared itself a contender in AI design at IO 2026",
-    "link": "https://techcrunch.com/2026/05/19/ai-design-tools-are-the-next-big-battleground-and-google-is-going-all-in-at-io-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-pics.png?resize=1200,736",
-    "summary": "谷歌称该应用设计旨在覆盖从教师到小企业主等所有用户群体，力求人人可及。",
-    "date": "2026-05-19 21:58",
-    "timestamp": 1779227890.0278687
   }
 ]
