@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833",
+    "summary": "据报道，克里希南正筹建新机构，以继续影响特朗普的人工智能政策。",
+    "date": "2026-06-06 17:46",
+    "timestamp": 1780767999.895791
+  },
+  {
+    "title": "The Trump administration might take an equity stake in OpenAI",
+    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
+    "summary": "美国总统特朗普表示，正在商讨相关协议，以便美国民众能从人工智能的成功中获益。",
+    "date": "2026-06-06 17:46",
+    "timestamp": 1780768001.070147
+  },
+  {
     "title": "Startup Battlefield 200 applications officially close in 3 days",
     "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "特朗普总统签署行政令，延迟对AI模型实施发布前政府安全审查的要求，理由是对行政令的措辞表述不满。",
     "date": "2026-05-21 19:28",
     "timestamp": 1779391690.626602
-  },
-  {
-    "title": "Spotify launches an ElevenLabs-powered audiobook creation tool",
-    "link": "https://techcrunch.com/2026/05/21/spotify-launches-an-elevenlabs-powered-audiobook-creation-tool/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Spotify-Audiobooks-Ux.jpg?resize=1200,675",
-    "summary": "Spotify将于今年晚些时候推出新的有声书订阅计划。",
-    "date": "2026-05-21 17:19",
-    "timestamp": 1779383943.9205034
-  },
-  {
-    "title": "Spotify takes on Google’s NotebookLM with its new app",
-    "link": "https://techcrunch.com/2026/05/21/spotify-debuts-a-new-desktop-app-for-creating-personal-podcasts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Header.jpeg?resize=1200,675",
-    "summary": "Spotify在超过20个市场推出新桌面应用的研究预览版，以测试功能并收集用户反馈。",
-    "date": "2026-05-21 17:19",
-    "timestamp": 1779383945.0808334
   }
 ]
