@@ -1,5 +1,13 @@
 [
   {
+    "title": "Is this the dawn of the Tokenpocalypse?",
+    "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800",
+    "summary": "随着大型AI公司计划上市，预计其产品或服务价格将进一步上涨。",
+    "date": "2026-06-07 20:50",
+    "timestamp": 1780865444.409441
+  },
+  {
     "title": "Notion restores access to Anthropic after service disruption",
     "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
@@ -790,13 +798,5 @@
     "summary": "SpaceX递交的S-1文件披露了其宏伟目标：总潜在市场规模达28万亿美元，薪酬与火星殖民计划挂钩，估值目标将使其成为美国史上最大IPO。文件仅风险因素就长达36页。",
     "date": "2026-05-22 18:20",
     "timestamp": 1779474059.4025853
-  },
-  {
-    "title": "You can no longer Google the word ‘disregard’",
-    "link": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-IO-everything.webp?resize=1200,674",
-    "summary": "谷歌搜索AI更新后，关键词“disregard”会直接导致搜索界面崩溃。",
-    "date": "2026-05-22 18:21",
-    "timestamp": 1779474060.386679
   }
 ]
