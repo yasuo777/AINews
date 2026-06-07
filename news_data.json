@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI is still working on that ‘super app’",
+    "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI高级员工近日声称“聊天已死”，意指对话式AI交互模式正被更先进的技术取代。",
+    "date": "2026-06-07 16:55",
+    "timestamp": 1780851334.8067987
+  },
+  {
     "title": "School shooting survivor sues AI gun detection firm after system failed to spot weapon",
     "link": "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1434414748-2560x1440-1780697712.jpg",
@@ -790,13 +798,5 @@
     "summary": "谷歌展示了安卓XR眼镜原型，可将Gemini驱动的翻译、导航等信息直接叠加在用户视野中，实现实时交互体验。",
     "date": "2026-05-22 16:03",
     "timestamp": 1779465804.5332735
-  },
-  {
-    "title": "AI put \"synthetic quotes\" in his book. But this author wants to keep using it.",
-    "link": "https://arstechnica.com/ai/2026/05/ai-put-synthetic-quotes-in-his-book-but-this-author-wants-to-keep-using-it/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/ai-fabricated-quotes-Rosenbaum-1152x648.jpg",
-    "summary": "Steven Rosenbaum就《真相的未来》一书中出现的不准确引述作出解释，说明其成因。",
-    "date": "2026-05-22 16:03",
-    "timestamp": 1779465806.7716277
   }
 ]
