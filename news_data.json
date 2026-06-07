@@ -1,5 +1,13 @@
 [
   {
+    "title": "Notion restores access to Anthropic after service disruption",
+    "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
+    "summary": "Notion产品负责人对大量用户转发该帖表示“惊讶”。",
+    "date": "2026-06-07 18:52",
+    "timestamp": 1780858375.408783
+  },
+  {
     "title": "OpenAI is still working on that ‘super app’",
     "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "谷歌搜索AI更新后，关键词“disregard”会直接导致搜索界面崩溃。",
     "date": "2026-05-22 18:21",
     "timestamp": 1779474060.386679
-  },
-  {
-    "title": "We tried Google’s AI glasses and they’re almost there",
-    "link": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/1_IO_Glasses_Product_GentleMonst.width-1000.format-webp_NnExl2N.webp?w=1000",
-    "summary": "谷歌展示了安卓XR眼镜原型，可将Gemini驱动的翻译、导航等信息直接叠加在用户视野中，实现实时交互体验。",
-    "date": "2026-05-22 16:03",
-    "timestamp": 1779465804.5332735
   }
 ]
