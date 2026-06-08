@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amazon now lets you design custom merch using AI",
+    "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/about-amazon-hero-ai-merch-hero-amazon-news-lt-060226.jpg?resize=1200,675",
+    "summary": "亚马逊购物应用新增功能，用户可借助Alexa生成设计，并将其印制在T恤、卫衣及杯子等商品上。",
+    "date": "2026-06-08 16:38",
+    "timestamp": 1780936698.0433729
+  },
+  {
+    "title": "WWDC 2026: What to expect, from Siri’s highly anticipated revamp to Apple Intelligence and iOS 27",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-what-to-expect-from-siris-highly-anticipated-revamp-to-apple-intelligence-and-ios-27/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
+    "summary": "苹果全球开发者大会临近，预计将发布新版操作系统及AI功能升级，重点提升设备间协同体验。",
+    "date": "2026-06-08 16:38",
+    "timestamp": 1780936699.640114
+  },
+  {
     "title": "Is this the dawn of the Tokenpocalypse?",
     "link": "https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-124923144.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "谷歌宣布，Pixel手机用户现可将全面屏界面设置为迪斯科球风格效果，实现屏幕动态闪烁的视觉体验。",
     "date": "2026-05-22 21:45",
     "timestamp": 1779486351.0466878
-  },
-  {
-    "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
-    "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pinocchio-ARR-nose2.png?resize=1200,800",
-    "summary": "部分AI初创公司在公开披露进展时，刻意夸大传统营收指标，而其投资者对此心知肚明。",
-    "date": "2026-05-22 21:45",
-    "timestamp": 1779486352.281242
-  },
-  {
-    "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
-    "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800",
-    "summary": "SpaceX递交的S-1文件披露了其宏伟目标：总潜在市场规模达28万亿美元，薪酬与火星殖民计划挂钩，估值目标将使其成为美国史上最大IPO。文件仅风险因素就长达36页。",
-    "date": "2026-05-22 18:20",
-    "timestamp": 1779474059.4025853
   }
 ]
