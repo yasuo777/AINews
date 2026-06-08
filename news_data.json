@@ -1,5 +1,29 @@
 [
   {
+    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?resize=1200,663",
+    "summary": "苹果公司正为Safari、Shortcuts及Password应用新增多项AI功能，旨在提升用户体验与操作效率。",
+    "date": "2026-06-08 19:08",
+    "timestamp": 1780945702.5632298
+  },
+  {
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+    "summary": "苹果WWDC 2026于今日在Apple Park开幕，预计将发布Siri、iOS 27及Apple Intelligence等更新。此次活动尤为特别，因为这是CEO蒂姆·库克在苹果的最后一届WWDC。",
+    "date": "2026-06-08 19:08",
+    "timestamp": 1780945704.3720245
+  },
+  {
+    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
+    "summary": "Shortcuts 迎来 AI 升级，用户可通过自然语言描述所需工作流程，系统自动生成相应自动化指令。",
+    "date": "2026-06-08 19:08",
+    "timestamp": 1780945705.8155627
+  },
+  {
     "title": "Amazon now lets you design custom merch using AI",
     "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/about-amazon-hero-ai-merch-hero-amazon-news-lt-060226.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "IBM与Scuderia Ferrari HP合作，通过技术革新重新定义赛车迷的观赛体验，融合数据分析与沉浸式互动，打造个性化、实时的粉丝参与新模式。",
     "date": "2026-05-23 17:42",
     "timestamp": 1779558175.009205
-  },
-  {
-    "title": "Elon Musk has given up on solar power (on Earth)",
-    "link": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
-    "summary": "马斯克旗下xAI全面转向天然气，SpaceX则专注轨道数据中心，其此前承诺的“太阳能电力经济”愿景或已偏离。",
-    "date": "2026-05-23 14:49",
-    "timestamp": 1779547759.6596332
-  },
-  {
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "link": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
-    "summary": "美国国家运输安全委员会因有人利用AI技术重构驾驶舱录音频谱图，被迫临时封锁其档案系统访问权限。",
-    "date": "2026-05-22 23:43",
-    "timestamp": 1779493402.409003
-  },
-  {
-    "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
-    "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965",
-    "summary": "谷歌宣布，Pixel手机用户现可将全面屏界面设置为迪斯科球风格效果，实现屏幕动态闪烁的视觉体验。",
-    "date": "2026-05-22 21:45",
-    "timestamp": 1779486351.0466878
   }
 ]
