@@ -1,5 +1,29 @@
 [
   {
+    "title": "It’s not FAANG anymore. It’s MANGOS.",
+    "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mango-crushing-fang.png?resize=1200,960",
+    "summary": "SpaceX、Anthropic与OpenAI等科技巨头筹备大规模上市，业界或迎来新巨头阵营“MANGOS”，取代原有的FAANG格局。",
+    "date": "2026-06-09 16:19",
+    "timestamp": 1781021977.3780816
+  },
+  {
+    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
+    "summary": "Sandstone完成由Lightspeed Partners领投、Sequoia参与的A轮融资。",
+    "date": "2026-06-09 16:19",
+    "timestamp": 1781021978.7094908
+  },
+  {
+    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+    "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
+    "summary": "Lovable公司年化运行收入已突破5亿美元，用户正利用其平台创业并替换企业内部软件。",
+    "date": "2026-06-09 16:19",
+    "timestamp": 1781021979.9471393
+  },
+  {
     "title": "How an e-scooter founder raised $5 million to build space data centers",
     "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Parsing a papal proclamation.",
     "date": "2026-05-26 22:52",
     "timestamp": 1779835924.1801536
-  },
-  {
-    "title": "OpenRouter more than doubles valuation to $1.3B in a year",
-    "link": "https://techcrunch.com/2026/05/26/openrouter-more-than-doubles-valuation-to-1-3b-in-a-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
-    "summary": "OpenRouter完成1.13亿美元B轮融资，由CapitalG领投。其半年内使用量增长5倍，标志着多AI模型协同的未来已到来。",
-    "date": "2026-05-26 19:06",
-    "timestamp": 1779822373.5758598
-  },
-  {
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "link": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
-    "summary": "Human Archive，由伯克利和斯坦福研究员创立，正雇佣印度零工佩戴摄像帽与传感器，收集现实物理训练数据，以满足AI与机器人实验室的迫切需求。",
-    "date": "2026-05-26 16:29",
-    "timestamp": 1779812991.7005656
-  },
-  {
-    "title": "Universal Music Group and TikTok renew agreement to combat unauthorized AI music",
-    "link": "https://techcrunch.com/2026/05/26/universal-music-group-and-tiktok-renew-agreement-to-combat-unauthorized-ai-music/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/tiktok-header.jpg?resize=1200,800",
-    "summary": "多年来，环球音乐集团持续要求各大平台、流媒体服务商及人工智能公司加强内容审核政策，以维护版权与内容安全。",
-    "date": "2026-05-26 16:29",
-    "timestamp": 1779812993.0522053
   }
 ]
