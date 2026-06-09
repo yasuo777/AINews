@@ -1,5 +1,21 @@
 [
   {
+    "title": "Hey Siri, here’s what I actually want from AI",
+    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
+    "summary": "用户渴望拥有个人AI助手，但又担忧过度依赖手机中的智能语音功能会削弱自身独立能力。",
+    "date": "2026-06-09 22:13",
+    "timestamp": 1781043194.3497531
+  },
+  {
+    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?resize=1200,871",
+    "summary": "Anthropic计划推出的Claude Fable 5将受网络“氛围编码者”欢迎，预计成为热门工具。",
+    "date": "2026-06-09 22:13",
+    "timestamp": 1781043195.8238533
+  },
+  {
     "title": "Can tech companies learn to love cheaper AI models?",
     "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Cognition年化收入达4.92亿美元，估值在八个月内翻倍以上。",
     "date": "2026-05-27 18:12",
     "timestamp": 1779905549.7989576
-  },
-  {
-    "title": "Startup Battlefield 200 applications close today: Nominate a founder or submit your startup",
-    "link": "https://techcrunch.com/2026/05/27/startup-battlefield-200-applications-close-today-nominate-a-founder-or-submit-your-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
-    "summary": "今天是申请或提名初创公司参与“创业战场200”的最后一天，截止时间为太平洋时间晚上11:59。入选者将有机会角逐10万美元无股权资金、获得全球曝光、直接对接投资者，并登上TechCrunch Disrupt舞台。",
-    "date": "2026-05-27 14:41",
-    "timestamp": 1779892909.8226671
-  },
-  {
-    "title": "ElevenLabs’s new music generation model can switch genres mid-track",
-    "link": "https://techcrunch.com/2026/05/27/elevenlabss-new-music-generation-model-can-switch-genres-mid-track/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-    "summary": "ElevenLabs推出新模型，允许用户在不影响歌曲其他部分的情况下，单独重新生成其中某一段落。",
-    "date": "2026-05-27 14:41",
-    "timestamp": 1779892911.1260228
   }
 ]
