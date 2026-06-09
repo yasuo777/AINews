@@ -1,5 +1,21 @@
 [
   {
+    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+    "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+    "summary": "苹果主要展示了其长期使用的Siri助手的体验升级，该升级与多数发布内容一样，融入了大量人工智能技术。",
+    "date": "2026-06-09 18:35",
+    "timestamp": 1781030146.4419641
+  },
+  {
+    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+    "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+    "summary": "Anthropic发布首款面向公众的Mythos级模型Claude Fable 5，该模型在网络安全与生物学等高风险领域设置了防护栏，阻止相关应答。",
+    "date": "2026-06-09 18:35",
+    "timestamp": 1781030147.7800002
+  },
+  {
     "title": "It’s not FAANG anymore. It’s MANGOS.",
     "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mango-crushing-fang.png?resize=1200,960",
@@ -782,21 +798,5 @@
     "summary": "SOND公司由前Bose睡眠产品负责人创立，近日获得700万美元融资，推出AI驱动的睡眠耳机。该产品旨在通过智能音频技术改善用户睡眠质量。",
     "date": "2026-05-27 14:41",
     "timestamp": 1779892912.6578133
-  },
-  {
-    "title": "DuckDuckGo installs are up 30% as users reject being ‘force-fed’ Google’s AI Search",
-    "link": "https://techcrunch.com/2026/05/26/duckduckgo-installs-are-up-30-as-users-reject-being-force-fed-googles-ai-search/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-    "summary": "在2026年I/O大会上，谷歌将搜索全面升级为AI智能体模式，替代传统蓝色链接，引发用户强烈反弹。DuckDuckGo应用安装量因此激增30%，反映出用户正向替代搜索引擎流失。",
-    "date": "2026-05-26 22:52",
-    "timestamp": 1779835923.5286696
-  },
-  {
-    "title": "Is Peter Thiel the target of Pope Leo's Gandalf quote? An investigation.",
-    "link": "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2214681415-1152x648-1779832466.jpg",
-    "summary": "Parsing a papal proclamation.",
-    "date": "2026-05-26 22:52",
-    "timestamp": 1779835924.1801536
   }
 ]
