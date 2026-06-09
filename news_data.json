@@ -1,5 +1,13 @@
 [
   {
+    "title": "Can tech companies learn to love cheaper AI models?",
+    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+    "summary": "如果更廉价的模型能在不影响质量的前提下处理相同的AI任务，将引发AI经济格局的重大转变。",
+    "date": "2026-06-09 20:37",
+    "timestamp": 1781037437.8532567
+  },
+  {
     "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
     "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
@@ -790,13 +798,5 @@
     "summary": "ElevenLabs推出新模型，允许用户在不影响歌曲其他部分的情况下，单独重新生成其中某一段落。",
     "date": "2026-05-27 14:41",
     "timestamp": 1779892911.1260228
-  },
-  {
-    "title": "SOND, a sleep tech startup from Bose’s former head of sleep, exits stealth with $7M",
-    "link": "https://techcrunch.com/2026/05/27/sond-a-sleep-tech-startup-from-boses-former-head-of-sleep-exits-stealth-with-7m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Travel-Sleeping-2000px.jpg?resize=1200,800",
-    "summary": "SOND公司由前Bose睡眠产品负责人创立，近日获得700万美元融资，推出AI驱动的睡眠耳机。该产品旨在通过智能音频技术改善用户睡眠质量。",
-    "date": "2026-05-27 14:41",
-    "timestamp": 1779892912.6578133
   }
 ]
