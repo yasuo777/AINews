@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google just fired a warning shot in the AI subscription price wars",
+    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+    "summary": "Google大幅下调了其AI基础订阅服务的价格，降低了用户使用门槛。",
+    "date": "2026-06-10 05:05",
+    "timestamp": 1781067907.0816038
+  },
+  {
+    "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
+    "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/JustinErnest_TechCrunch.jpg?resize=1200,675",
+    "summary": "Sabertooth VC创始人未采用传统年度募资模式，而是通过专属LP网络投资Anthropic、Anduril及SpaceX等初创企业。",
+    "date": "2026-06-10 05:05",
+    "timestamp": 1781067908.4099348
+  },
+  {
     "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
     "link": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/JustinErnest_TechCrunch.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Remote近期年度经常性收入突破3亿美元，并实现现金流正向增长，这得益于采用人工智能后每位员工带来的收入提升了50%。",
     "date": "2026-05-27 20:53",
     "timestamp": 1779915180.159606
-  },
-  {
-    "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
-    "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
-    "summary": "谷歌I/O大会正式将AI生成答案置于搜索结果核心位置，但多数品牌几乎无法了解AI如何向客户描述自身。对长期围绕传统蓝色链接构建策略的企业而言，规则已发生重大改变。",
-    "date": "2026-05-27 20:53",
-    "timestamp": 1779915181.4357526
-  },
-  {
-    "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
-    "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
-    "summary": "Meta在全球范围内为Instagram、Facebook和WhatsApp推出付费订阅计划，同时以“Meta One”品牌测试新的AI、创作者及企业服务。",
-    "date": "2026-05-27 18:12",
-    "timestamp": 1779905548.8117192
   }
 ]
