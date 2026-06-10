@@ -1,5 +1,29 @@
 [
   {
+    "title": "How memory tools can make AI models worse",
+    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
+    "summary": "新研究指出，AI记忆系统可能降低模型性能，并助长其趋炎附势的倾向。",
+    "date": "2026-06-10 16:48",
+    "timestamp": 1781110106.7091403
+  },
+  {
+    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+    "summary": "网络安全研究人员指出，Anthropic新模型Fable的安全护栏过于严格，几乎无法用于任何网络安全相关工作。",
+    "date": "2026-06-10 16:48",
+    "timestamp": 1781110107.7446404
+  },
+  {
+    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970",
+    "summary": "AI编码初创公司Niteshift获700万美元种子轮融资，投资方包括多位知名天使。该公司主打为企业提供模型主导权，避免被模型供应商锁定。",
+    "date": "2026-06-10 16:48",
+    "timestamp": 1781110109.3836925
+  },
+  {
     "title": "Meta signs first AI data center deal in India with Reliance",
     "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200",
@@ -774,29 +798,5 @@
     "summary": "通用计算公司押注SambaNova将成为下一个崛起的芯片制造商。",
     "date": "2026-05-28 14:23",
     "timestamp": 1779978224.0160496
-  },
-  {
-    "title": "Vertu wants CEOs to run companies from an AI foldable starting at $6,880",
-    "link": "https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/vertu-alphafold-foldable.jpg?resize=1200,800",
-    "summary": "Vertu新款折叠手机基于开源Hermes项目，融合AI代理工作流与企业级集成，并采用超高端奢华设计。",
-    "date": "2026-05-28 10:40",
-    "timestamp": 1779964812.8459096
-  },
-  {
-    "title": "Why Google’s AI can’t spell Google (or anything else)",
-    "link": "https://techcrunch.com/2026/05/27/why-googles-ai-cant-spell-google-or-anything-else/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-two-ps.jpg?resize=1200,675",
-    "summary": "Google is embarrassing itself, again.",
-    "date": "2026-05-28 01:24",
-    "timestamp": 1779931452.982221
-  },
-  {
-    "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
-    "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-    "summary": "Snowflake与亚马逊签署了为期五年的大型协议，以获取用于人工智能的芯片，此举再度对英伟达构成挑战。",
-    "date": "2026-05-27 20:52",
-    "timestamp": 1779915178.9040806
   }
 ]
