@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta signs first AI data center deal in India with Reliance",
+    "link": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/meta-getty.jpg?w=1200",
+    "summary": "该168兆瓦设施将支持Meta全球AI算力需求，并具备未来扩展能力。",
+    "date": "2026-06-10 09:05",
+    "timestamp": 1781082352.0847692
+  },
+  {
     "title": "Google just fired a warning shot in the AI subscription price wars",
     "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Snowflake与亚马逊签署了为期五年的大型协议，以获取用于人工智能的芯片，此举再度对英伟达构成挑战。",
     "date": "2026-05-27 20:52",
     "timestamp": 1779915178.9040806
-  },
-  {
-    "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
-    "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
-    "summary": "Remote近期年度经常性收入突破3亿美元，并实现现金流正向增长，这得益于采用人工智能后每位员工带来的收入提升了50%。",
-    "date": "2026-05-27 20:53",
-    "timestamp": 1779915180.159606
   }
 ]
