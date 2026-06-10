@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
+    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?resize=1200,1057",
+    "summary": "根据Ramp AI指数，最热衷AI的企业每月为每位员工在AI上花费约7500美元，这一数额尚未超过一名工程师的工资。",
+    "date": "2026-06-10 19:55",
+    "timestamp": 1781121357.964287
+  },
+  {
     "title": "How memory tools can make AI models worse",
     "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Visa表示，已有超过1000名员工使用Replit进行原型设计与开发工作。",
     "date": "2026-05-28 14:23",
     "timestamp": 1779978223.0164273
-  },
-  {
-    "title": "Has the hunt for AI compute uncovered the next Cerebras?",
-    "link": "https://techcrunch.com/2026/05/28/has-the-hunt-for-ai-compute-uncovered-the-next-cerebras/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Data-Center-Visit.jpeg?resize=900,1200",
-    "summary": "通用计算公司押注SambaNova将成为下一个崛起的芯片制造商。",
-    "date": "2026-05-28 14:23",
-    "timestamp": 1779978224.0160496
   }
 ]
