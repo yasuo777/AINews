@@ -1,5 +1,13 @@
 [
   {
+    "title": "LLMs believe false statements even after explicit warnings that they're false",
+    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
+    "summary": "研究发现，微调测试存在明显“偏向于将主张自信地表述为真实”的倾向。",
+    "date": "2026-06-11 23:08",
+    "timestamp": 1781219338.2769208
+  },
+  {
     "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
     "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/spacex-falcon-9.jpeg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "该企业级AI搜索初创公司虽面临科技巨头入局竞争，年收入仍增长两倍，展现出强劲发展势头。",
     "date": "2026-05-29 01:33",
     "timestamp": 1780018427.6480098
-  },
-  {
-    "title": "The internet is being rebuilt for machines",
-    "link": "https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-    "summary": "随着AI智能体从实验阶段进入生产应用，AWS、Cloudflare等企业正重新设计云基础设施，以应对机器生成流量将超越人类用户主导的未来。",
-    "date": "2026-05-28 23:00",
-    "timestamp": 1780009244.6072931
   }
 ]
