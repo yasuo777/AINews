@@ -1,5 +1,21 @@
 [
   {
+    "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
+    "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/spacex-falcon-9.jpeg?resize=1200,675",
+    "summary": "SpaceX正式公布股价，首次公开募股（IPO）已启动。",
+    "date": "2026-06-11 21:06",
+    "timestamp": 1781212008.709196
+  },
+  {
+    "title": "SpaceX SPV investors won’t know their true holdings until post-IPO lock-ups lift",
+    "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+    "summary": "SpaceX公开亮相后，底层SPV投资者面临隐性费用、长期分红延迟及欺诈风险。",
+    "date": "2026-06-11 21:06",
+    "timestamp": 1781212010.14045
+  },
+  {
     "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
     "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "随着AI智能体从实验阶段进入生产应用，AWS、Cloudflare等企业正重新设计云基础设施，以应对机器生成流量将超越人类用户主导的未来。",
     "date": "2026-05-28 23:00",
     "timestamp": 1780009244.6072931
-  },
-  {
-    "title": "LLMs believe false statements even after explicit warnings that they're false",
-    "link": "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/GettyImages-2207567240-1152x648.jpg",
-    "summary": "根据微调测试结果，模型存在“倾向于自信地将主张呈现为事实”的偏差。",
-    "date": "2026-05-28 23:00",
-    "timestamp": 1780009246.0603385
-  },
-  {
-    "title": "Asana acquires no-code agent-builder Stack AI",
-    "link": "https://techcrunch.com/2026/05/28/asana-acquires-no-code-agent-builder-stack-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/asana-illustration-getty.jpg?resize=1200,800",
-    "summary": "Asana将把Stack AI整合至其不断扩展的AI工作流工具套件中。",
-    "date": "2026-05-28 20:58",
-    "timestamp": 1780001898.6576889
   }
 ]
