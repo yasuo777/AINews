@@ -1,5 +1,21 @@
 [
   {
+    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
+    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
+    "summary": "印度已成为全球最大的全球能力中心市场，这一决定正是在此背景下作出的。",
+    "date": "2026-06-11 05:13",
+    "timestamp": 1781154804.9816594
+  },
+  {
+    "title": "Anthropic’s Dario Amodei has just one direct report",
+    "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
+    "summary": "If you doubted his genius, doubt no more.",
+    "date": "2026-06-11 05:13",
+    "timestamp": 1781154805.0759346
+  },
+  {
     "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
     "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "StrictlyVC洛杉矶活动将于6月18日举行，届时将与Mach Industries、Shinkei Systems等企业领袖进行深度交流与炉边对话，欢迎注册参与。",
     "date": "2026-05-28 17:50",
     "timestamp": 1779990635.5751398
-  },
-  {
-    "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "Opus新模型推出了“动态工作流”工具，用于协调多个子智能体的任务执行。",
-    "date": "2026-05-28 17:50",
-    "timestamp": 1779990637.0257554
-  },
-  {
-    "title": "How long is Anthropic’s lease with SpaceX? Opinions vary.",
-    "link": "https://techcrunch.com/2026/05/28/how-long-is-anthropics-lease-with-spacex-opinions-vary/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
-    "summary": "马斯克公开将xAI与Anthropic的大额算力合约重新描述为短期且可取消，但SpaceX的S-1文件显示付款将持续至2029年5月。",
-    "date": "2026-05-28 17:50",
-    "timestamp": 1779990638.5120697
   }
 ]
