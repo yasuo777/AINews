@@ -1,5 +1,21 @@
 [
   {
+    "title": "Deezer’s new tool can identify AI music from Spotify, Apple Music, and others",
+    "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+    "summary": "Deezer推出新工具，可扫描来自Spotify、Apple Music等平台的播放列表，识别其中的人工智能生成音乐。",
+    "date": "2026-06-11 17:54",
+    "timestamp": 1781200466.0039897
+  },
+  {
+    "title": "Pool’s new app turns your screenshots into something useful",
+    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/hero.jpg?resize=1200,704",
+    "summary": "Pool推出的新应用能自动分类截图、追溯原始链接，帮助用户快速找回产品、食谱、旅行灵感等曾计划重温的内容，提升信息管理效率。",
+    "date": "2026-06-11 17:54",
+    "timestamp": 1781200467.4533923
+  },
+  {
     "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
     "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Asana将把Stack AI整合至其不断扩展的AI工作流工具套件中。",
     "date": "2026-05-28 20:58",
     "timestamp": 1780001898.6576889
-  },
-  {
-    "title": "Anthropic raises $65 billion, nears $1T valuation ahead of IPO",
-    "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?resize=1200,671",
-    "summary": "Anthropic完成650亿美元H轮融资，投后估值达9650亿美元，这可能是其IPO前的最后一轮私募融资。",
-    "date": "2026-05-28 20:58",
-    "timestamp": 1780001900.0123067
-  },
-  {
-    "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
-    "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-    "summary": "大型交易所正围绕AI代币设计衍生品，该类资产正从计算产出被视为类似电力或带宽的原材料输入。",
-    "date": "2026-05-28 20:58",
-    "timestamp": 1780001901.2980766
   }
 ]
