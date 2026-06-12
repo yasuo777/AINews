@@ -1,5 +1,29 @@
 [
   {
+    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
+    "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
+    "summary": "摘要：IPO市场复苏，新“MANGOS”集团（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI、SpaceX）取代FAANG引领上市潮。其中半数公司集中公开上市，对投资者、估值及市场构成压力测试。",
+    "date": "2026-06-12 17:25",
+    "timestamp": 1781285108.512947
+  },
+  {
+    "title": "It’s hot IPO summer, and the MANGOS are ripe",
+    "link": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/spacex-rocket-getty.jpg?resize=1200,801",
+    "summary": "IPO市场复苏，但领跑者已非FAANG。新组合“MANGOS”（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI及SpaceX）中半数公司将在同一窗口期上市，对投资者、估值及市场构成压力测试。",
+    "date": "2026-06-12 17:25",
+    "timestamp": 1781285110.26452
+  },
+  {
+    "title": "When it comes to total water use, AI data centers are a drop in the bucket",
+    "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1240294200-1024x648.jpg",
+    "summary": "即使是中等规模的数据中心，也可能对当地产生显著影响。",
+    "date": "2026-06-12 17:25",
+    "timestamp": 1781285112.122712
+  },
+  {
     "title": "SpaceX IPO: Everything you need to know",
     "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "研究人员警告，AI虽能帮助程序员更快地编写代码，但未必能提升代码质量，这可能为后续工作埋下隐患。",
     "date": "2026-05-29 22:57",
     "timestamp": 1780095459.236313
-  },
-  {
-    "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-    "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-    "summary": "AI兴起催生大量新术语与俚语。以下汇编了关键词汇的定义，助您理解常见AI相关表达。",
-    "date": "2026-05-29 21:00",
-    "timestamp": 1780088407.465463
-  },
-  {
-    "title": "What happens when companies become too AI-pilled?",
-    "link": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2244026103.jpg?resize=1200,800",
-    "summary": "Box创始人Aaron Levie指出，决定AI能替代你工作的人，往往最不了解你的实际工作内容，并将其称为“AI精神病”。ClickUp近期因AI裁减22%员工，2026年科技裁员规模已几乎持平2025年全年。",
-    "date": "2026-05-29 21:00",
-    "timestamp": 1780088409.3606954
-  },
-  {
-    "title": "After Nvidia’s $20B not-aqui-hire, AI chip startup Groq reportedly raising $650M",
-    "link": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-aqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
-    "summary": "Groq计划通过内部融资筹集6.5亿美元，从硬件转向专注于AI推理服务，以优化模型响应提示请求的过程。",
-    "date": "2026-05-29 17:55",
-    "timestamp": 1780077308.7514288
   }
 ]
