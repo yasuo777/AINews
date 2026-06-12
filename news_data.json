@@ -1,5 +1,13 @@
 [
   {
+    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+    "summary": "该科技巨头称，名为“外部企业”的组织利用人工智能在两周内发送250万条短信，诈骗了数十万名受害者。",
+    "date": "2026-06-12 21:18",
+    "timestamp": 1781299134.6995947
+  },
+  {
     "title": "SpaceX IPO: Live updates on everything you need to know",
     "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "该公司表示，其目标是开发并运营多达5吉瓦的额外数据中心容量。",
     "date": "2026-05-30 22:37",
     "timestamp": 1780180665.5215685
-  },
-  {
-    "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-    "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
-    "summary": "微软GitHub Copilot的黄金时代似乎已近尾声。",
-    "date": "2026-05-30 17:42",
-    "timestamp": 1780162953.2630298
   }
 ]
