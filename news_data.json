@@ -1,5 +1,37 @@
 [
   {
+    "title": "SpaceX IPO: Live updates on everything you need to know",
+    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "summary": "TechCrunch长期追踪SpaceX的创立、困境与成就，现推出其IPO专题，涵盖潜在赢家与输家、上市前交易及S-1文件核心内容。",
+    "date": "2026-06-12 19:33",
+    "timestamp": 1781292793.2920878
+  },
+  {
+    "title": "Mistral is rumored to be raising €3B at €20B valuation",
+    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+    "summary": "该轮融资将使公司估值达约200亿欧元（约231.5亿美元），较C轮117亿欧元估值近乎翻倍。",
+    "date": "2026-06-12 19:33",
+    "timestamp": 1781292794.401773
+  },
+  {
+    "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+    "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+    "summary": "该科技巨头称，一个名为“局外企业”的组织利用人工智能在两周内发送250万条短信，诈骗数十万人。",
+    "date": "2026-06-12 19:33",
+    "timestamp": 1781292795.916847
+  },
+  {
+    "title": "Here's what Jeff Bezos' new startup Prometheus will do",
+    "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Bezos-Bajaj-Prometheus-1152x648.jpg",
+    "summary": "这家初创公司并非唯一涉足物理AI领域的企业，但它是资金最充裕的公司之一。",
+    "date": "2026-06-12 19:33",
+    "timestamp": 1781292797.7898757
+  },
+  {
     "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
     "link": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
@@ -766,37 +798,5 @@
     "summary": "微软GitHub Copilot的黄金时代似乎已近尾声。",
     "date": "2026-05-30 17:42",
     "timestamp": 1780162953.2630298
-  },
-  {
-    "title": "Meta is reportedly developing an AI pendant",
-    "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-    "summary": "Meta正大力押注AI驱动硬件。",
-    "date": "2026-05-30 17:42",
-    "timestamp": 1780162954.266976
-  },
-  {
-    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-    "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
-    "summary": "谷歌推出Gemini Spark，用于自动化处理收件箱摘要、本地活动规划等日常任务，但为何将其作为独立产品推出，原因尚不明确。",
-    "date": "2026-05-30 15:50",
-    "timestamp": 1780156226.9615836
-  },
-  {
-    "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-    "link": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-    "summary": "以下为当前挑战Chrome与Safari的几款主流替代浏览器概述，旨在为用户提供更多专业选择。",
-    "date": "2026-05-30 14:17",
-    "timestamp": 1780150626.5787103
-  },
-  {
-    "title": "Coders are refusing to work without AI — and that could come back to bite them",
-    "link": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "研究人员警告，AI虽能帮助程序员更快地编写代码，但未必能提升代码质量，这可能为后续工作埋下隐患。",
-    "date": "2026-05-29 22:57",
-    "timestamp": 1780095459.236313
   }
 ]
