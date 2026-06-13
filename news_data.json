@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI faces investigation from state attorneys general",
+    "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "目前尚不清楚涉及哪些州，但相关问询涵盖OpenAI的广告政策及健康数据处理等多个方面。",
+    "date": "2026-06-13 17:01",
+    "timestamp": 1781370080.8542423
+  },
+  {
     "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
     "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Windborne Systems最新天气预报模型比最佳政府预测提前数日，展现更高准确性。",
     "date": "2026-06-01 17:03",
     "timestamp": 1780333391.9670484
-  },
-  {
-    "title": "DuckDuckGo makes its ‘no-AI’ search engine easier to access as its traffic booms",
-    "link": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/DuckDuckGo_NoAI.png?resize=1200,784",
-    "summary": "DuckDuckGo推出“无AI”浏览器扩展，适用于Chrome和Firefox用户，提供无人工智能干预的搜索体验。",
-    "date": "2026-06-01 17:03",
-    "timestamp": 1780333393.0435193
   }
 ]
