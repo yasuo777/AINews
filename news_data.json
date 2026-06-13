@@ -1,5 +1,21 @@
 [
   {
+    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
+    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
+    "summary": "AI再次被证实为关于AI本身的不可靠信息来源。",
+    "date": "2026-06-13 20:51",
+    "timestamp": 1781383878.5197597
+  },
+  {
+    "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+    "link": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1348139958.jpg?resize=1200,767",
+    "summary": "亚马逊CEO安迪·贾西可能引发安全担忧，导致Anthropic于周五在全球范围内切断两款模型的访问权限。",
+    "date": "2026-06-13 20:51",
+    "timestamp": 1781383880.0237741
+  },
+  {
     "title": "OpenAI faces investigation from state attorneys general",
     "link": "https://techcrunch.com/2026/06/13/openai-faces-investigation-from-state-attorneys-general/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
@@ -782,21 +798,5 @@
     "summary": "该公司表示，其数据中心冷却需大量水资源，而获得充足且低成本的水源是一大挑战。",
     "date": "2026-06-01 21:16",
     "timestamp": 1780348588.1817284
-  },
-  {
-    "title": "Anthropic files to go public",
-    "link": "https://techcrunch.com/2026/06/01/anthropic-files-to-go-public/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-    "summary": "该公司周一表示，已秘密提交首次公开募股（IPO）申请。",
-    "date": "2026-06-01 17:03",
-    "timestamp": 1780333390.7183588
-  },
-  {
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "link": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-    "summary": "Windborne Systems最新天气预报模型比最佳政府预测提前数日，展现更高准确性。",
-    "date": "2026-06-01 17:03",
-    "timestamp": 1780333391.9670484
   }
 ]
