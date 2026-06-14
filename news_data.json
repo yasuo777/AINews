@@ -1,5 +1,13 @@
 [
   {
+    "title": "As AI companies race to go public, who else is along for the ride?",
+    "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+    "summary": "初创企业正试图抓住SpaceX首次公开募股的热潮，以借势推动自身发展。",
+    "date": "2026-06-14 17:00",
+    "timestamp": 1781456453.7430367
+  },
+  {
     "title": "As Anthropic suspends access to new models, India debates its AI future",
     "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "谷歌母公司计划通过发行股票筹集资金。",
     "date": "2026-06-01 23:14",
     "timestamp": 1780355680.9468787
-  },
-  {
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
-    "summary": "英伟达若能实现AI代理的简便、安全且实用的大规模应用，其影响将极为深远且重大。",
-    "date": "2026-06-01 23:14",
-    "timestamp": 1780355682.015816
   }
 ]
