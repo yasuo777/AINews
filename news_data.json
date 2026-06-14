@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
+    "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+    "summary": "Meta应北京要求，开始撤销其20亿美元收购Manus的交易，逐步解除相关整合。",
+    "date": "2026-06-14 01:58",
+    "timestamp": 1781402323.5383327
+  },
+  {
     "title": "KPMG pulls report on AI usage due to apparent hallucinations",
     "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "该诉讼部分涉及去年佛罗里达州立大学的一起枪击事件，并指控ChatGPT在该事件中扮演了角色。",
     "date": "2026-06-01 21:16",
     "timestamp": 1780348587.1385396
-  },
-  {
-    "title": "Water access is now a risk factor in SpaceX’s IPO",
-    "link": "https://techcrunch.com/2026/06/01/water-access-is-now-a-risk-factor-in-spacexs-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-    "summary": "该公司表示，其数据中心冷却需大量水资源，而获得充足且低成本的水源是一大挑战。",
-    "date": "2026-06-01 21:16",
-    "timestamp": 1780348588.1817284
   }
 ]
