@@ -1,5 +1,13 @@
 [
   {
+    "title": "As Anthropic suspends access to new models, India debates its AI future",
+    "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "科技界领袖热议Anthropic事件是否应为印度AI发展敲响警钟，引发对其AI战略与全球竞争力的反思。",
+    "date": "2026-06-14 07:08",
+    "timestamp": 1781420907.9511163
+  },
+  {
     "title": "Meta reportedly moves to unwind $2B Manus deal after Beijing’s demand",
     "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英伟达若能实现AI代理的简便、安全且实用的大规模应用，其影响将极为深远且重大。",
     "date": "2026-06-01 23:14",
     "timestamp": 1780355682.015816
-  },
-  {
-    "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
-    "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
-    "summary": "该诉讼部分涉及去年佛罗里达州立大学的一起枪击事件，并指控ChatGPT在该事件中扮演了角色。",
-    "date": "2026-06-01 21:16",
-    "timestamp": 1780348587.1385396
   }
 ]
