@@ -1,5 +1,29 @@
 [
   {
+    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+    "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
+    "summary": "Salesforce计划利用Fin团队及其技术，升级其企业平台Agentforce，以帮助企业构建定制化AI代理，实现任务自动化。",
+    "date": "2026-06-15 14:47",
+    "timestamp": 1781534844.4352467
+  },
+  {
+    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam.jpg?resize=1200,800",
+    "summary": "HCLTech宣布向班加罗尔一家初创企业投资1.5亿美元，以拓展其技术布局。",
+    "date": "2026-06-15 14:47",
+    "timestamp": 1781534845.6515694
+  },
+  {
+    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/newcore-founders.jpg?resize=1200,800",
+    "summary": "NewCore指出，企业安全的下一个挑战将是管理AI智能体，而非人员。",
+    "date": "2026-06-15 14:47",
+    "timestamp": 1781534847.016381
+  },
+  {
     "title": "The AI layoff wave is becoming a powder keg",
     "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Powder-Keg.png?resize=1200,960",
@@ -774,29 +798,5 @@
     "summary": "全球最著名导演之一仅将该技术用于分镜脚本制作，强调其辅助功能，而非替代传统拍摄。",
     "date": "2026-06-02 20:29",
     "timestamp": 1780432147.072875
-  },
-  {
-    "title": "Trump signs narrower executive order on AI oversight after industry objections",
-    "link": "https://techcrunch.com/2026/06/02/trump-signs-narrower-executive-order-on-ai-oversight-after-industry-objections/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
-    "summary": "美国总统特朗普在行业反对后，签署修订版人工智能行政令，仅要求对先进模型进行自愿性的预发布政府审查。",
-    "date": "2026-06-02 17:06",
-    "timestamp": 1780419978.0508487
-  },
-  {
-    "title": "OpenAI launches new Codex tools for white-collar work",
-    "link": "https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "OpenAI于周二发布Codex新功能，旨在拓展其在企业职场中的代理工具应用，并同步发布内部报告，揭示该工具在知识工作中的多样化用途。此举表明其正加速布局企业级用户市场。",
-    "date": "2026-06-02 17:06",
-    "timestamp": 1780419979.5395226
-  },
-  {
-    "title": "Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries",
-    "link": "https://techcrunch.com/2026/06/02/anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "Anthropic扩展安全漏洞计划Project Glasswing，将Mythos访问权限授予15国150家机构，重点覆盖电力、水利、医疗及通信等关键基础设施，预防可能影响上亿人的网络攻击。",
-    "date": "2026-06-02 17:06",
-    "timestamp": 1780419981.0379744
   }
 ]
