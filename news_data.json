@@ -1,5 +1,13 @@
 [
   {
+    "title": "The AI layoff wave is becoming a powder keg",
+    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Powder-Keg.png?resize=1200,960",
+    "summary": "当下，数万工人被裁员之际，一小批人工智能领域内部人士却以难以置信的速度暴富，这一反差令人震惊。",
+    "date": "2026-06-15 08:39",
+    "timestamp": 1781512769.207259
+  },
+  {
     "title": "As AI companies race to go public, who else is along for the ride?",
     "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Anthropic扩展安全漏洞计划Project Glasswing，将Mythos访问权限授予15国150家机构，重点覆盖电力、水利、医疗及通信等关键基础设施，预防可能影响上亿人的网络攻击。",
     "date": "2026-06-02 17:06",
     "timestamp": 1780419981.0379744
-  },
-  {
-    "title": "Alphabet plans to raise $80 billion to pay for AI buildout",
-    "link": "https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
-    "summary": "谷歌母公司计划通过发行股票筹集资金。",
-    "date": "2026-06-01 23:14",
-    "timestamp": 1780355680.9468787
   }
 ]
