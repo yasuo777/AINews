@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
+    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
+    "summary": "Meta宣布在Facebook推出多项新AI功能，旨在加速追赶AI竞赛，提升用户平台参与度。",
+    "date": "2026-06-15 19:31",
+    "timestamp": 1781551880.3694391
+  },
+  {
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "summary": "TechCrunch长期追踪SpaceX从创立、挫折到成功的历程。其IPO专题报道分析了潜在赢家与输家、上市前交易及S-1注册文件细节。",
+    "date": "2026-06-15 19:31",
+    "timestamp": 1781551882.1917043
+  },
+  {
+    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+    "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
+    "summary": "数十名网络安全专家联名呼吁白宫取消对Anthropic的Fable与Mythos模型的出口限制，认为该禁令将削弱网络安全防御者保护其软件与产品的能力。",
+    "date": "2026-06-15 19:31",
+    "timestamp": 1781551883.7621586
+  },
+  {
     "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
     "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
@@ -774,29 +798,5 @@
     "summary": "这家网络安全公司即将完成由Evolution Equity Partners领投的3亿美元融资轮。",
     "date": "2026-06-03 00:15",
     "timestamp": 1780445746.578539
-  },
-  {
-    "title": "Uber caps employee AI spending after blowing through budget in four months",
-    "link": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-    "summary": "优步在鼓励员工广泛使用人工智能后，近期进行了裁员。此举反映出公司正通过技术优化提升运营效率。",
-    "date": "2026-06-02 20:29",
-    "timestamp": 1780432144.788351
-  },
-  {
-    "title": "New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
-    "link": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-172665283.jpg?resize=1200,900",
-    "summary": "微软于周二发布开源框架Adaptive Spec-driven Scoring for Evaluation and Regression Testing，用于启动AI评估与回归测试。",
-    "date": "2026-06-02 20:29",
-    "timestamp": 1780432145.8238847
-  },
-  {
-    "title": "Martin Scorsese becomes the latest — and most unlikely — Hollywood voice for AI",
-    "link": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2244067270.jpg?resize=1200,800",
-    "summary": "全球最著名导演之一仅将该技术用于分镜脚本制作，强调其辅助功能，而非替代传统拍摄。",
-    "date": "2026-06-02 20:29",
-    "timestamp": 1780432147.072875
   }
 ]
