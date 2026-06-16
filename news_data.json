@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
+    "summary": "AI再次成为大学毕业生抗议的焦点，此次争议源于该技术被用于谷歌的国防合同。",
+    "date": "2026-06-16 00:15",
+    "timestamp": 1781568932.030041
+  },
+  {
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/trump-2267050833.jpg?resize=1200,800",
+    "summary": "特朗普政府迫使Anthropic撤回最新网络安全模型的决定，或出于反应性反击或报复，但释放出明确信号：AI行业无法免受美国政府干预。",
+    "date": "2026-06-16 00:15",
+    "timestamp": 1781568933.131561
+  },
+  {
     "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
     "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "WhatsApp将根据Token使用量，向企业用户收取AI代理服务费。",
     "date": "2026-06-03 15:19",
     "timestamp": 1780499993.5796645
-  },
-  {
-    "title": "Coralogix raises $200M on bet that someone needs to watch the AI agents",
-    "link": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/coralogix-co-founders.jpg?resize=1200,800",
-    "summary": "Coralogix完成F轮融资，估值达16亿美元，距上一轮融资不到一年。",
-    "date": "2026-06-03 15:19",
-    "timestamp": 1780499994.5486891
-  },
-  {
-    "title": "Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
-    "link": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Cybersecurity-padlocks-Getty.jpg?resize=1200,675",
-    "summary": "这家网络安全公司即将完成由Evolution Equity Partners领投的3亿美元融资轮。",
-    "date": "2026-06-03 00:15",
-    "timestamp": 1780445746.578539
   }
 ]
