@@ -1,5 +1,29 @@
 [
   {
+    "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+    "summary": "WordPress VIP调查显示，尽管企业日益将AI搜索视为重要推荐渠道，消费者对其生成答案仍持谨慎态度。",
+    "date": "2026-06-16 17:36",
+    "timestamp": 1781631409.1357098
+  },
+  {
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "summary": "TechCrunch长期追踪SpaceX的创立、挑战与成就，现推出IPO专题报道，涵盖潜在赢家与输家、上市前交易及S-1文件关键细节。",
+    "date": "2026-06-16 17:36",
+    "timestamp": 1781631410.4782565
+  },
+  {
+    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
+    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "美国司法部表示，五角大楼需允许xAI继续使用其未获许可的燃气轮机。",
+    "date": "2026-06-16 17:36",
+    "timestamp": 1781631411.6073275
+  },
+  {
     "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
     "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
@@ -774,29 +798,5 @@
     "summary": "Lovable与Google签署多年期扩展协议，将其在Google Cloud上的业务规模扩大5倍，并获更广泛使用Anthropic Claude模型的权限。",
     "date": "2026-06-04 00:17",
     "timestamp": 1780532241.6997488
-  },
-  {
-    "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
-    "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
-    "summary": "Alphabet创纪录的850亿美元股票发行表明，投资者对人工智能相关资产需求强劲，市场信心高涨。",
-    "date": "2026-06-03 22:14",
-    "timestamp": 1780524891.2065814
-  },
-  {
-    "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
-    "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
-    "summary": "Dreambeans从Google账户个人数据中精选AI插画“故事”，以专业方式呈现用户数字轨迹的视觉化摘要。",
-    "date": "2026-06-03 19:35",
-    "timestamp": 1780515325.3404977
-  },
-  {
-    "title": "Amazon will show AI product images when you search for some reason",
-    "link": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.16.52-AM.jpg?resize=1200,695",
-    "summary": "亚马逊将利用视觉搜索与AI技术，根据用户搜索查询展示AI生成的产品图片，旨在帮助用户更精准地找到目标商品。",
-    "date": "2026-06-03 19:35",
-    "timestamp": 1780515326.3822837
   }
 ]
