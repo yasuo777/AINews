@@ -1,5 +1,29 @@
 [
   {
+    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "summary": "该交易旨在支持SpaceX旗下处境困难的AI部门。该公司向IPO投资者表示，其在AI领域可触及的市场规模达26万亿美元。",
+    "date": "2026-06-16 11:55",
+    "timestamp": 1781610948.7346787
+  },
+  {
+    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
+    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/respond-team-comp-2.webp?resize=1200,800",
+    "summary": "马来西亚初创企业Respond.io利用AI代理处理大量客户咨询，按对话量而非坐席收费，成为值得关注的科技公司之一。",
+    "date": "2026-06-16 11:55",
+    "timestamp": 1781610950.0681403
+  },
+  {
+    "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
+    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
+    "summary": "SearchLeak漏洞再次揭示，当前行业应对大语言模型安全的方法存在系统性缺陷，反复失效，需从根本上反思防护策略。",
+    "date": "2026-06-16 11:55",
+    "timestamp": 1781610952.349676
+  },
+  {
     "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
     "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
@@ -774,29 +798,5 @@
     "summary": "亚马逊将利用视觉搜索与AI技术，根据用户搜索查询展示AI生成的产品图片，旨在帮助用户更精准地找到目标商品。",
     "date": "2026-06-03 19:35",
     "timestamp": 1780515326.3822837
-  },
-  {
-    "title": "These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
-    "link": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Athx-Pictures_-Right-Mariama-Left-Ayooluwa.jpg?resize=1200,675",
-    "summary": "该初创公司自建技术栈已在非洲和中东地区每日处理超1.7万通电话，运营规模持续扩大。",
-    "date": "2026-06-03 19:35",
-    "timestamp": 1780515327.799055
-  },
-  {
-    "title": "Publishers will be able to opt out of AI Search, thanks to new regulation",
-    "link": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-    "summary": "英国监管机构要求谷歌提供工具，允许网站出版商选择退出生成式AI搜索功能。该选项将在英国测试后推广至全球。",
-    "date": "2026-06-03 15:19",
-    "timestamp": 1780499992.5825343
-  },
-  {
-    "title": "Meta’s AI agent for WhatsApp Business is now available globally",
-    "link": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-    "summary": "WhatsApp将根据Token使用量，向企业用户收取AI代理服务费。",
-    "date": "2026-06-03 15:19",
-    "timestamp": 1780499993.5796645
   }
 ]
