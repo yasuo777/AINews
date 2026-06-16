@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
+    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg",
+    "summary": "原定于周一实施的调整方案将大幅增加重度用户的用电成本。",
+    "date": "2026-06-16 22:33",
+    "timestamp": 1781649223.4327233
+  },
+  {
     "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
     "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "苹果WWDC即将举行，届时将发布最新操作系统与AI功能，预计带来iOS、iPadOS及macOS重大更新，进一步强化生态整合与用户体验。",
     "date": "2026-06-04 19:03",
     "timestamp": 1780599788.532149
-  },
-  {
-    "title": "Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.",
-    "link": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
-    "summary": "加州一家初创公司发布了第四代家庭辅助机器人Stretch。",
-    "date": "2026-06-04 16:03",
-    "timestamp": 1780589039.223212
   }
 ]
