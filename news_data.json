@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
+    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560",
+    "summary": "Pramaana将专注于法律、药物研发及税务申报等高敏感领域，这些领域错误成本高昂，对可靠性要求极高。",
+    "date": "2026-06-17 14:17",
+    "timestamp": 1781705857.7310455
+  },
+  {
+    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
+    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
+    "summary": "加拿大养老基金巨头将收购印度科技公司CtrlS 8.2%的股份。该公司在印度运营超过15个数据中心。",
+    "date": "2026-06-17 14:17",
+    "timestamp": 1781705859.2107394
+  },
+  {
+    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mixhalo-Billboard-2-1200x627-2.jpeg?resize=1200,675",
+    "summary": "DeepL通过收购在旧金山开设办事处，以拓展美国业务。",
+    "date": "2026-06-17 14:17",
+    "timestamp": 1781705860.612224
+  },
+  {
     "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
     "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "6月18日，投资者、创始人与科技领袖将齐聚航空航天公司园区，探讨风险投资、国防科技、人工智能及先进工业领域的关键变革。席位有限，请速报名。",
     "date": "2026-06-04 22:55",
     "timestamp": 1780613701.3181133
-  },
-  {
-    "title": "Meta steals a tactic from Tesla and builds data centers in tents",
-    "link": "https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/meta-ai-icon-smartphone.jpg?resize=1200,800",
-    "summary": "Meta正尝试采用帐篷式结构来降低数据中心高昂的建设与运营成本，此举或可显著削减其巨额开支。",
-    "date": "2026-06-04 21:17",
-    "timestamp": 1780607823.9302554
-  },
-  {
-    "title": "Apple approves Poke as the first AI agent on its Messages for Business platform",
-    "link": "https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
-    "summary": "Poke成为首个获苹果Messages for Business平台批准的AI代理初创公司，用户可通过短信与其AI代理互动。",
-    "date": "2026-06-04 21:17",
-    "timestamp": 1780607825.2345557
-  },
-  {
-    "title": "Meta rolls out a new AI creator assistant on Facebook",
-    "link": "https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Introducing-Creator-Assistant-Plus-More-Languages-for-AI-Translations-on-Facebook_Header.jpg?resize=1200,675",
-    "summary": "创作者常需分析图表和仪表板来了解自身表现，而新的AI助手能快速解答“何时发布”及“评论中提及什么”等问题，提升效率。",
-    "date": "2026-06-04 19:03",
-    "timestamp": 1780599786.648314
   }
 ]
