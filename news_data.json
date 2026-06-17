@@ -1,5 +1,29 @@
 [
   {
+    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
+    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281424015.jpg?w=1024",
+    "summary": "法国总统马克龙与印度总理莫迪在G7峰会上警告，美国可能一夜之间切断对他国的人工智能技术接入，而近期Anthropic的服务中断事件已印证了这一担忧。",
+    "date": "2026-06-17 19:47",
+    "timestamp": 1781725661.1133635
+  },
+  {
+    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "Anthropic加入前沿联盟，该联盟再获9.15亿美元承诺，用于资助碳移除项目。",
+    "date": "2026-06-17 19:47",
+    "timestamp": 1781725662.504592
+  },
+  {
+    "title": "Social media’s next evolution: user-controlled algorithms",
+    "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1200,798",
+    "summary": "社交媒体平台（如Threads、Instagram、TikTok）正推出新工具，允许用户直接定制推荐算法，使信息流更具个性化。",
+    "date": "2026-06-17 19:47",
+    "timestamp": 1781725663.8634958
+  },
+  {
     "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
     "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "尽管AI融资屡创新高，部分创始人转向反向赛道。Mirror创始人Brynn Putnam为实体社交游戏公司Board融资；DIY电脑创客走红，鼓励用户“触摸草地”。这已不仅是技术抵制，而是产业转向。",
     "date": "2026-06-05 19:22",
     "timestamp": 1780687341.3943646
-  },
-  {
-    "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
-    "link": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1316461644.jpg?resize=1200,816",
-    "summary": "这场对话的核心已从追求速度和代币最大化，转向如何设立护栏和有效控制风险。",
-    "date": "2026-06-05 17:01",
-    "timestamp": 1780678883.0413175
-  },
-  {
-    "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-    "link": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
-    "summary": "澳大利亚数据中心运营商计划在印度建设5吉瓦的容量设施。",
-    "date": "2026-06-05 14:08",
-    "timestamp": 1780668504.4086652
-  },
-  {
-    "title": "Mira Murati steps back into the spotlight, carefully",
-    "link": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-    "summary": "在当前环境下，埋头苦干已难获回报，适时发声才能维持市场存在感。",
-    "date": "2026-06-05 06:51",
-    "timestamp": 1780642261.4322174
   }
 ]
