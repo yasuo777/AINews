@@ -1,5 +1,29 @@
 [
   {
+    "title": "Roelof Botha joins SpaceX’s board of directors",
+    "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+    "summary": "红杉资本前高管近日加入SpaceX董事会，填补现有空缺。该公司此前刚完成史上最大规模IPO。",
+    "date": "2026-06-17 22:24",
+    "timestamp": 1781735069.4715629
+  },
+  {
+    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+    "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
+    "summary": "Snap长期期待的智能眼镜上市并未显著提振公司股价。",
+    "date": "2026-06-17 22:24",
+    "timestamp": 1781735070.8392072
+  },
+  {
+    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
+    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Tiffany-Luck_headshot.jpg?resize=1200,800",
+    "summary": "今年初，硅谷掀起“Token透支”热潮，企业鼓励员工极限使用AI。随后成本激增：Uber数月耗尽全年AI预算，部分公司削减Claude许可，Meta取消内部AI排行榜。投入与回报的失衡引发反思。",
+    "date": "2026-06-17 22:24",
+    "timestamp": 1781735072.5082283
+  },
+  {
     "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
     "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281424015.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "美国总统特朗普表示，正在商讨相关协议，以便美国民众能从人工智能的成功中获益。",
     "date": "2026-06-06 17:46",
     "timestamp": 1780768001.070147
-  },
-  {
-    "title": "Startup Battlefield 200 applications officially close in 3 days",
-    "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
-    "summary": "初创企业竞赛“Startup Battlefield 200”申请截止日期为太平洋时间6月8日晚11:59。请尽快提交，争取在2026年10月旧金山Moscone West举办的TechCrunch Disrupt大会上登台竞争。",
-    "date": "2026-06-05 21:10",
-    "timestamp": 1780693845.6652584
-  },
-  {
-    "title": "Google will pay SpaceX $920M per month for compute",
-    "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-    "summary": "两家公司于周五宣布达成交易，距SpaceX历史性IPO仅一周时间。",
-    "date": "2026-06-05 19:22",
-    "timestamp": 1780687339.8475459
-  },
-  {
-    "title": "The most interesting startups right now want to get you off your phone",
-    "link": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/IMG_2376-rotated.jpeg?resize=900,1200",
-    "summary": "尽管AI融资屡创新高，部分创始人转向反向赛道。Mirror创始人Brynn Putnam为实体社交游戏公司Board融资；DIY电脑创客走红，鼓励用户“触摸草地”。这已不仅是技术抵制，而是产业转向。",
-    "date": "2026-06-05 19:22",
-    "timestamp": 1780687341.3943646
   }
 ]
