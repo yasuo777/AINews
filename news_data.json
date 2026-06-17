@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "summary": "根据Ramp数据，Anthropic在企业用户中的受欢迎程度持续上升，近期与政府的摩擦反而可能进一步提振其业务表现。",
+    "date": "2026-06-17 00:03",
+    "timestamp": 1781654583.2337127
+  },
+  {
     "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
     "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "创作者常需分析图表和仪表板来了解自身表现，而新的AI助手能快速解答“何时发布”及“评论中提及什么”等问题，提升效率。",
     "date": "2026-06-04 19:03",
     "timestamp": 1780599786.648314
-  },
-  {
-    "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
-    "link": "https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Apple-WWDC26-event-branding_big.jpg.large_.jpg?w=980",
-    "summary": "苹果WWDC即将举行，届时将发布最新操作系统与AI功能，预计带来iOS、iPadOS及macOS重大更新，进一步强化生态整合与用户体验。",
-    "date": "2026-06-04 19:03",
-    "timestamp": 1780599788.532149
   }
 ]
