@@ -1,5 +1,29 @@
 [
   {
+    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
+    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+    "summary": "皮尤研究中心报告显示，尽管华尔街看好人工智能，但美国普通民众对该行业的乐观情绪显著下降。",
+    "date": "2026-06-17 17:35",
+    "timestamp": 1781717737.5157743
+  },
+  {
+    "title": "Google bets on Gemini to reinvent the smart home speaker",
+    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Berry.jpeg?resize=1200,899",
+    "summary": "谷歌推出99.99美元的新款智能音箱，以更自然的Gemini对话交互取代谷歌助手时代的固定指令模式，押注生成式AI为智能音箱市场注入新活力。",
+    "date": "2026-06-17 17:35",
+    "timestamp": 1781717739.1328163
+  },
+  {
+    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
+    "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238192342.jpg?resize=1200,800",
+    "summary": "摘要：人们渴望重新掌控自己的时间、生活与注意力，愿意接受任何有助于实现这一目标的方式。",
+    "date": "2026-06-17 17:35",
+    "timestamp": 1781717740.4677982
+  },
+  {
     "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
     "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560",
@@ -774,29 +798,5 @@
     "summary": "在当前环境下，埋头苦干已难获回报，适时发声才能维持市场存在感。",
     "date": "2026-06-05 06:51",
     "timestamp": 1780642261.4322174
-  },
-  {
-    "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
-    "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
-    "summary": "该AI巨头联合创始人解释了公司可能进军公开市场融资的原因，并强调对代币化抵制无需担忧。",
-    "date": "2026-06-04 22:54",
-    "timestamp": 1780613698.926643
-  },
-  {
-    "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
-    "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
-    "summary": "爱彼迎CEO去年表示，公司尚未与大型语言模型达成合作，因为现有产品尚未完全成熟。",
-    "date": "2026-06-04 22:55",
-    "timestamp": 1780613700.0251997
-  },
-  {
-    "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-    "link": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/StrictlyVC-NYC-2024.jpg?resize=1200,800",
-    "summary": "6月18日，投资者、创始人与科技领袖将齐聚航空航天公司园区，探讨风险投资、国防科技、人工智能及先进工业领域的关键变革。席位有限，请速报名。",
-    "date": "2026-06-04 22:55",
-    "timestamp": 1780613701.3181133
   }
 ]
