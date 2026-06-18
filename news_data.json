@@ -1,5 +1,13 @@
 [
   {
+    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
+    "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pixi-app-screen-6-e1781642459181.jpeg?w=796",
+    "summary": "Pixi公司认为，消息应用的下一次进化将是交互式增强现实（AR），而不仅仅是贴纸、GIF或表情符号反应。",
+    "date": "2026-06-18 13:51",
+    "timestamp": 1781790679.083539
+  },
+  {
     "title": "How to turn off AI in your Google Docs",
     "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "苹果WWDC临近，预计将发布iOS、macOS等系统更新，重点展示AI功能增强与跨设备生态融合，可能推出新一代芯片与硬件产品。",
     "date": "2026-06-06 19:57",
     "timestamp": 1780775841.752583
-  },
-  {
-    "title": "Sriram Krishnan is leaving his role as White House AI advisor",
-    "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2021-02-03-at-1.18.03-PM-1.webp?resize=1200,833",
-    "summary": "据报道，克里希南正筹建新机构，以继续影响特朗普的人工智能政策。",
-    "date": "2026-06-06 17:46",
-    "timestamp": 1780767999.895791
   }
 ]
