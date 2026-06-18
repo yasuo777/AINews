@@ -1,5 +1,13 @@
 [
   {
+    "title": "How to turn off AI in your Google Docs",
+    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
+    "summary": "移除“使用Gemini撰写”弹窗的方法：在浏览器地址栏输入 `chrome://flags/#gemini`，将“Gemini”相关实验性功能设置为“已禁用”，重启浏览器即可。",
+    "date": "2026-06-18 05:22",
+    "timestamp": 1781760130.8013263
+  },
+  {
     "title": "Roelof Botha joins SpaceX’s board of directors",
     "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "据报道，克里希南正筹建新机构，以继续影响特朗普的人工智能政策。",
     "date": "2026-06-06 17:46",
     "timestamp": 1780767999.895791
-  },
-  {
-    "title": "The Trump administration might take an equity stake in OpenAI",
-    "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/donald-trump-cellphone.jpg?resize=1200,800",
-    "summary": "美国总统特朗普表示，正在商讨相关协议，以便美国民众能从人工智能的成功中获益。",
-    "date": "2026-06-06 17:46",
-    "timestamp": 1780768001.070147
   }
 ]
