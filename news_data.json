@@ -1,5 +1,21 @@
 [
   {
+    "title": "Billionaire Ambani wants AI in every call, app, and home",
+    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
+    "summary": "Reliance正将人工智能融入其服务超5亿用户的电信业务中，以提升网络效率与用户体验。此举标志着AI在大型通信基础设施中的深度落地。",
+    "date": "2026-06-19 15:52",
+    "timestamp": 1781884324.576164
+  },
+  {
+    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=1024",
+    "summary": "一家由单一创始人创办的初创公司已完成巨额种子轮融资，但后续发展路径尚不明朗。",
+    "date": "2026-06-19 15:52",
+    "timestamp": 1781884325.919797
+  },
+  {
     "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
     "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "谷歌将于今秋推出双层AI模型升级，新增多项功能。此次整合了谷歌技术支持的AI模型重构，旨在提升用户体验与智能化水平。",
     "date": "2026-06-08 21:25",
     "timestamp": 1780953944.8313918
-  },
-  {
-    "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-    "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?resize=1200,663",
-    "summary": "苹果公司正为Safari、Shortcuts及Password应用新增多项AI功能，旨在提升用户体验与操作效率。",
-    "date": "2026-06-08 19:08",
-    "timestamp": 1780945702.5632298
-  },
-  {
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-    "link": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
-    "summary": "苹果WWDC 2026于今日在Apple Park开幕，预计将发布Siri、iOS 27及Apple Intelligence等更新。此次活动尤为特别，因为这是CEO蒂姆·库克在苹果的最后一届WWDC。",
-    "date": "2026-06-08 19:08",
-    "timestamp": 1780945704.3720245
   }
 ]
