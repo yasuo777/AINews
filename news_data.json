@@ -1,5 +1,13 @@
 [
   {
+    "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
+    "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
+    "summary": "商用逻辑不支持ASML为武装中国客户而冒险失去出口许可。",
+    "date": "2026-06-19 08:18",
+    "timestamp": 1781857082.0211277
+  },
+  {
     "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
     "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
@@ -790,13 +798,5 @@
     "summary": "苹果WWDC 2026于今日在Apple Park开幕，预计将发布Siri、iOS 27及Apple Intelligence等更新。此次活动尤为特别，因为这是CEO蒂姆·库克在苹果的最后一届WWDC。",
     "date": "2026-06-08 19:08",
     "timestamp": 1780945704.3720245
-  },
-  {
-    "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-    "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
-    "summary": "Shortcuts 迎来 AI 升级，用户可通过自然语言描述所需工作流程，系统自动生成相应自动化指令。",
-    "date": "2026-06-08 19:08",
-    "timestamp": 1780945705.8155627
   }
 ]
