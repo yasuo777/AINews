@@ -1,5 +1,13 @@
 [
   {
+    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
+    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+    "summary": "过去30年，阻止网络安全软件传播始终无效，目前也未见理由能有效限制Anthropic的网络安全模型Mythos。",
+    "date": "2026-06-19 23:44",
+    "timestamp": 1781912674.7464712
+  },
+  {
     "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
     "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "在主要竞争对手Anthropic提交上市申请一周多后，该公司也递交了IPO文件，两大AI企业间的竞逐进一步加剧。",
     "date": "2026-06-08 23:02",
     "timestamp": 1780959750.0050225
-  },
-  {
-    "title": "Apple plays catch-up at WWDC",
-    "link": "https://techcrunch.com/2026/06/08/apple-plays-catch-up-at-wwdc/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/tim-cook-wwdc-2026.jpeg?resize=1200,677",
-    "summary": "苹果在WWDC主题演讲中重点介绍了修复、性能改进及用户长期要求的功能，随后才发布升级版AI智能助手Siri，表明其希望用户将AI视为软件整体优化的一部分。",
-    "date": "2026-06-08 21:25",
-    "timestamp": 1780953940.6961944
   }
 ]
