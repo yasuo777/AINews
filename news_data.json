@@ -1,5 +1,13 @@
 [
   {
+    "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+    "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-824355868.jpg?resize=1200,760",
+    "summary": "DeductiveAI成立仅三年，专注于利用人工智能技术检测并修复软件漏洞。",
+    "date": "2026-06-19 02:20",
+    "timestamp": 1781835644.1289856
+  },
+  {
     "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
     "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Shortcuts 迎来 AI 升级，用户可通过自然语言描述所需工作流程，系统自动生成相应自动化指令。",
     "date": "2026-06-08 19:08",
     "timestamp": 1780945705.8155627
-  },
-  {
-    "title": "Amazon now lets you design custom merch using AI",
-    "link": "https://techcrunch.com/2026/06/08/amazon-now-lets-you-design-custom-merch-using-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/about-amazon-hero-ai-merch-hero-amazon-news-lt-060226.jpg?resize=1200,675",
-    "summary": "亚马逊购物应用新增功能，用户可借助Alexa生成设计，并将其印制在T恤、卫衣及杯子等商品上。",
-    "date": "2026-06-08 16:38",
-    "timestamp": 1780936698.0433729
   }
 ]
