@@ -1,5 +1,21 @@
 [
   {
+    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "summary": "上周末，美国政府以国家安全为由，强制Anthropic下架其两款新模型Fable 5和Mythos 5，因亚马逊研究人员据称找到绕过其防护措施的方法。网络安全专家签署公开信批评此举危险，Anthropic指出类似漏洞也存在于其他模型中。",
+    "date": "2026-06-19 18:20",
+    "timestamp": 1781893219.3287027
+  },
+  {
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
+    "summary": "美国政府在周末以国家安全为由，要求Anthropic下架其最新模型Fable 5和Mythos 5，起因是亚马逊研究人员据称找到了绕过前者安全防护的方法。网络安全研究者随后签署公开信，批评此举危险，Anthropic也指出其他模型存在同样漏洞。",
+    "date": "2026-06-19 18:20",
+    "timestamp": 1781893221.1222239
+  },
+  {
     "title": "Billionaire Ambani wants AI in every call, app, and home",
     "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "苹果在WWDC主题演讲中重点介绍了修复、性能改进及用户长期要求的功能，随后才发布升级版AI智能助手Siri，表明其希望用户将AI视为软件整体优化的一部分。",
     "date": "2026-06-08 21:25",
     "timestamp": 1780953940.6961944
-  },
-  {
-    "title": "Apple bets cheaper AI will woo small developers",
-    "link": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/app-of-the-year.jpg?resize=1200,722",
-    "summary": "苹果宣布，为降低AI实验成本，将为首次下载量低于200万的开发者免除云端API费用。",
-    "date": "2026-06-08 21:25",
-    "timestamp": 1780953942.2630966
-  },
-  {
-    "title": "Say hi to \"Siri AI\"—Apple announces new, more \"conversational\" voice assistant",
-    "link": "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/image-6-1152x648.png",
-    "summary": "谷歌将于今秋推出双层AI模型升级，新增多项功能。此次整合了谷歌技术支持的AI模型重构，旨在提升用户体验与智能化水平。",
-    "date": "2026-06-08 21:25",
-    "timestamp": 1780953944.8313918
   }
 ]
