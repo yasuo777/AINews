@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?resize=1200,676",
+    "summary": "Jumper等多名核心成员相继离开Google DeepMind，引发外界对团队稳定性的关注。",
+    "date": "2026-06-20 17:06",
+    "timestamp": 1781975213.6716368
+  },
+  {
     "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
     "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "苹果2026年WWDC主题演讲风格务实，如同展示已完成的待办清单。众多AI演示中，用户手持手机站立的场景反复出现，暗示新功能聚焦日常实用场景。",
     "date": "2026-06-08 23:02",
     "timestamp": 1780959748.3948162
-  },
-  {
-    "title": "OpenAI files confidentially for IPO, following Anthropic",
-    "link": "https://techcrunch.com/2026/06/08/following-anthropic-openai-files-confidentially-for-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
-    "summary": "在主要竞争对手Anthropic提交上市申请一周多后，该公司也递交了IPO文件，两大AI企业间的竞逐进一步加剧。",
-    "date": "2026-06-08 23:02",
-    "timestamp": 1780959750.0050225
   }
 ]
