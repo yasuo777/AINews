@@ -1,5 +1,21 @@
 [
   {
+    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+    "summary": "《Equity》新一期节目探讨了政府近期针对Anthropic采取行动的直接原因，并分析了此举对AI生态系统的潜在影响。",
+    "date": "2026-06-21 15:29",
+    "timestamp": 1782055789.8682523
+  },
+  {
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
+    "summary": "苹果WWDC展示的Siri AI升级备受关注，但iOS 27中其他AI功能更为实用，将在多个场景中提供高效支持。",
+    "date": "2026-06-21 15:29",
+    "timestamp": 1782055791.3993268
+  },
+  {
     "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
     "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Orbital创始人Euwyn Poon曾打造Spin的25万辆共享滑板车，现计划部署一万个太空数据中心。",
     "date": "2026-06-09 13:30",
     "timestamp": 1781011854.7688918
-  },
-  {
-    "title": "Why Apple’s slow-and-steady AI bet is starting to look pretty smart",
-    "link": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
-    "summary": "苹果新推出的AI功能能否打消外界对其在关键行业竞争中落后的质疑，仍有待观察。此次升级意在展示技术实力，但能否扭转局面尚不确定。",
-    "date": "2026-06-09 05:51",
-    "timestamp": 1780984272.0464542
-  },
-  {
-    "title": "Mercor’s Brendan Foody calls out Sequoia over ‘dual-pricing’ valuation tricks",
-    "link": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258486979.jpg?w=1024",
-    "summary": "红杉资本等顶级风投公司，以两种不同价格出售同一股权，引发市场关注。",
-    "date": "2026-06-09 01:30",
-    "timestamp": 1780968609.3935533
   }
 ]
