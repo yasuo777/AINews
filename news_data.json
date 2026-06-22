@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024",
+    "summary": "谷歌DeepMind与A24联合开发AI电影制作工具，旨在通过技术合作提升影视创作效率，探索人工智能在电影产业中的专业应用。",
+    "date": "2026-06-22 18:58",
+    "timestamp": 1782154733.4228141
+  },
+  {
+    "title": "Amazon is testing Alexa+ in India with Hindi support",
+    "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
+    "summary": "亚马逊计划将新型对话式AI助手Alexa+扩展至印度市场，并邀请当地用户测试印地语版本。",
+    "date": "2026-06-22 18:58",
+    "timestamp": 1782154734.511302
+  },
+  {
+    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+    "summary": "Reflection AI与英伟达达成协议，自2026年7月1日起至2029年，每月支付1.5亿美元，以优先获取其最新GB300芯片及配套硬件，并部署于SpaceX位于田纳西州孟菲斯附近的Colossus 2数据中心。",
+    "date": "2026-06-22 18:58",
+    "timestamp": 1782154736.2707293
+  },
+  {
     "title": "The founder conference built for growth: TechCrunch Founder Summit pass rates increase June 26",
     "link": "https://techcrunch.com/2026/06/22/the-founder-conference-built-for-growth-techcrunch-founder-summit-pass-rates-increase-june-26/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Anthropic发布首款面向公众的Mythos级模型Claude Fable 5，该模型在网络安全与生物学等高风险领域设置了防护栏，阻止相关应答。",
     "date": "2026-06-09 18:35",
     "timestamp": 1781030147.7800002
-  },
-  {
-    "title": "It’s not FAANG anymore. It’s MANGOS.",
-    "link": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mango-crushing-fang.png?resize=1200,960",
-    "summary": "SpaceX、Anthropic与OpenAI等科技巨头筹备大规模上市，业界或迎来新巨头阵营“MANGOS”，取代原有的FAANG格局。",
-    "date": "2026-06-09 16:19",
-    "timestamp": 1781021977.3780816
-  },
-  {
-    "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-    "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
-    "summary": "Sandstone完成由Lightspeed Partners领投、Sequoia参与的A轮融资。",
-    "date": "2026-06-09 16:19",
-    "timestamp": 1781021978.7094908
-  },
-  {
-    "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-    "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
-    "summary": "Lovable公司年化运行收入已突破5亿美元，用户正利用其平台创业并替换企业内部软件。",
-    "date": "2026-06-09 16:19",
-    "timestamp": 1781021979.9471393
   }
 ]
