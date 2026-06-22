@@ -1,5 +1,29 @@
 [
   {
+    "title": "The AI world is getting ‘loopy’",
+    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
+    "summary": "该循环机制授权多智能体集群在后台持续运行，实现了无间断自主作业，进一步推动了代理型AI的发展。",
+    "date": "2026-06-22 21:46",
+    "timestamp": 1782164812.9151168
+  },
+  {
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
+    "summary": "人工智能公司Groq在完成非收购性人才交易后，近期获得融资，正大力发展其“新云”业务，并招聘新高管团队。",
+    "date": "2026-06-22 21:46",
+    "timestamp": 1782164814.3857439
+  },
+  {
+    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+    "summary": "英伟达公布新型数据中心冷却系统，可减少内部用水，但未涉及AI最大耗水来源——化石燃料发电厂。",
+    "date": "2026-06-22 21:46",
+    "timestamp": 1782164815.8758333
+  },
+  {
     "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
     "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Anthropic计划推出的Claude Fable 5将受网络“氛围编码者”欢迎，预计成为热门工具。",
     "date": "2026-06-09 22:13",
     "timestamp": 1781043195.8238533
-  },
-  {
-    "title": "Can tech companies learn to love cheaper AI models?",
-    "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
-    "summary": "如果更廉价的模型能在不影响质量的前提下处理相同的AI任务，将引发AI经济格局的重大转变。",
-    "date": "2026-06-09 20:37",
-    "timestamp": 1781037437.8532567
-  },
-  {
-    "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
-    "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
-    "summary": "苹果主要展示了其长期使用的Siri助手的体验升级，该升级与多数发布内容一样，融入了大量人工智能技术。",
-    "date": "2026-06-09 18:35",
-    "timestamp": 1781030146.4419641
-  },
-  {
-    "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-    "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
-    "summary": "Anthropic发布首款面向公众的Mythos级模型Claude Fable 5，该模型在网络安全与生物学等高风险领域设置了防护栏，阻止相关应答。",
-    "date": "2026-06-09 18:35",
-    "timestamp": 1781030147.7800002
   }
 ]
