@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
+    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?resize=1200,687",
+    "summary": "Anthropic在Slack中推出常驻AI助手Claude Tag，不仅提升工作效率，更旨在通过捕获组织语境、制度知识与企业工作流，深化企业级战略布局。",
+    "date": "2026-06-23 17:28",
+    "timestamp": 1782235737.0364
+  },
+  {
     "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
     "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该168兆瓦设施将支持Meta全球AI算力需求，并具备未来扩展能力。",
     "date": "2026-06-10 09:05",
     "timestamp": 1781082352.0847692
-  },
-  {
-    "title": "Google just fired a warning shot in the AI subscription price wars",
-    "link": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-    "summary": "Google大幅下调了其AI基础订阅服务的价格，降低了用户使用门槛。",
-    "date": "2026-06-10 05:05",
-    "timestamp": 1781067907.0816038
   }
 ]
