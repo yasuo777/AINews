@@ -1,5 +1,21 @@
 [
   {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
+    "summary": "**摘要：**  \n本文按倒序梳理了今年因AI因素宣布大幅裁员的头部科技公司，聚焦其人事调整与AI战略间的关联，呈现行业转型动态。",
+    "date": "2026-06-23 04:44",
+    "timestamp": 1782189896.4436219
+  },
+  {
+    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "OpenAI正着手解决开源软件社区面临的安全问题。",
+    "date": "2026-06-23 04:44",
+    "timestamp": 1782189897.633445
+  },
+  {
     "title": "The AI world is getting ‘loopy’",
     "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
@@ -782,21 +798,5 @@
     "summary": "Sabertooth VC创始人未用一年时间募集传统风投基金，而是通过专属有限合伙人网络投资了Anthropic、Anduril及SpaceX等初创公司。",
     "date": "2026-06-09 23:56",
     "timestamp": 1781049401.1259344
-  },
-  {
-    "title": "Hey Siri, here’s what I actually want from AI",
-    "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
-    "summary": "用户渴望拥有个人AI助手，但又担忧过度依赖手机中的智能语音功能会削弱自身独立能力。",
-    "date": "2026-06-09 22:13",
-    "timestamp": 1781043194.3497531
-  },
-  {
-    "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
-    "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?resize=1200,871",
-    "summary": "Anthropic计划推出的Claude Fable 5将受网络“氛围编码者”欢迎，预计成为热门工具。",
-    "date": "2026-06-09 22:13",
-    "timestamp": 1781043195.8238533
   }
 ]
