@@ -1,5 +1,29 @@
 [
   {
+    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+    "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+    "summary": "英伟达发布上市后首份财报，预测核心业务毛利率收窄，引发投资者担忧。",
+    "date": "2026-06-24 22:50",
+    "timestamp": 1782341421.0712478
+  },
+  {
+    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+    "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?resize=1200,800",
+    "summary": "SignalFire数据显示，尽管AI主导裁员话题，但工程师在新招聘中占比更高，实际需求仍在增长。",
+    "date": "2026-06-24 22:50",
+    "timestamp": 1782341422.349349
+  },
+  {
+    "title": "AI researchers continue to leave Google for its rivals",
+    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?resize=1200,645",
+    "summary": "顶级AI研究员Jonas Adler与Alexander Pritzel离开谷歌加入Anthropic，此前顶尖科学家Noam Shazeer与John Jumper已相继离职。",
+    "date": "2026-06-24 22:50",
+    "timestamp": 1782341423.8079243
+  },
+  {
     "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
     "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
@@ -774,29 +798,5 @@
     "summary": "Deezer推出新工具，可扫描来自Spotify、Apple Music等平台的播放列表，识别其中的人工智能生成音乐。",
     "date": "2026-06-11 17:54",
     "timestamp": 1781200466.0039897
-  },
-  {
-    "title": "Pool’s new app turns your screenshots into something useful",
-    "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/hero.jpg?resize=1200,704",
-    "summary": "Pool推出的新应用能自动分类截图、追溯原始链接，帮助用户快速找回产品、食谱、旅行灵感等曾计划重温的内容，提升信息管理效率。",
-    "date": "2026-06-11 17:54",
-    "timestamp": 1781200467.4533923
-  },
-  {
-    "title": "DoorDash’s new AI chatbot lets you order with prompts and photos",
-    "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
-    "summary": "DoorDash推出新聊天机器人“Ask DoorDash”，用户可用自然语言搜索所需商品，无需逐店浏览加购，提升点餐效率。",
-    "date": "2026-06-11 14:25",
-    "timestamp": 1781187917.4201946
-  },
-  {
-    "title": "Opendoor’s India exit is fueling a bigger conversation about AI and outsourcing",
-    "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
-    "summary": "印度已成为全球最大的全球能力中心市场，这一决定正是在此背景下作出的。",
-    "date": "2026-06-11 05:13",
-    "timestamp": 1781154804.9816594
   }
 ]
