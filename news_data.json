@@ -1,5 +1,13 @@
 [
   {
+    "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
+    "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+    "summary": "MoEngage通过全现金交易获得为个体客户分配AI代理的技术，进一步强化其个性化营销能力。",
+    "date": "2026-06-24 01:28",
+    "timestamp": 1782264534.6584535
+  },
+  {
     "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
     "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "网络安全研究人员指出，Anthropic新模型Fable的安全护栏过于严格，几乎无法用于任何网络安全相关工作。",
     "date": "2026-06-10 16:48",
     "timestamp": 1781110107.7446404
-  },
-  {
-    "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
-    "link": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/sajid_conor_photo_niteshift_launch.jpg?resize=1200,970",
-    "summary": "AI编码初创公司Niteshift获700万美元种子轮融资，投资方包括多位知名天使。该公司主打为企业提供模型主导权，避免被模型供应商锁定。",
-    "date": "2026-06-10 16:48",
-    "timestamp": 1781110109.3836925
   }
 ]
