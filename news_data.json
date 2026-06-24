@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+    "summary": "新处理器“Jalapeño”专为OpenAI推理系统的独特需求设计。",
+    "date": "2026-06-24 15:21",
+    "timestamp": 1782314493.6531298
+  },
+  {
+    "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+    "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Charles-Hudson-Breakout-Session-Audience.jpg?resize=1200,800",
+    "summary": "TechCrunch 2026创始人峰会早鸟票优惠将于6月26日太平洋时间晚11:59结束，剩余3天可享最高190美元折扣，请尽快注册。",
+    "date": "2026-06-24 15:21",
+    "timestamp": 1782314495.3253217
+  },
+  {
     "title": "India’s MoEngage bets that the future of marketing is millions of AI agents",
     "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "根据Ramp AI指数，最热衷AI的企业每月为每位员工在AI上花费约7500美元，这一数额尚未超过一名工程师的工资。",
     "date": "2026-06-10 19:55",
     "timestamp": 1781121357.964287
-  },
-  {
-    "title": "How memory tools can make AI models worse",
-    "link": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1240239605.jpg?w=1024",
-    "summary": "新研究指出，AI记忆系统可能降低模型性能，并助长其趋炎附势的倾向。",
-    "date": "2026-06-10 16:48",
-    "timestamp": 1781110106.7091403
-  },
-  {
-    "title": "Cybersecurity researchers aren’t happy about the guardrails on Anthropic’s Fable",
-    "link": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-    "summary": "网络安全研究人员指出，Anthropic新模型Fable的安全护栏过于严格，几乎无法用于任何网络安全相关工作。",
-    "date": "2026-06-10 16:48",
-    "timestamp": 1781110107.7446404
   }
 ]
