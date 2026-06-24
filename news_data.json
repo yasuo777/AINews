@@ -1,5 +1,29 @@
 [
   {
+    "title": "Facebook rolls out an AI companion app for creators",
+    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
+    "summary": "Facebook正在测试一款新应用，内置其近期推出的AI创作者助手，目前仅对部分创作者开放。",
+    "date": "2026-06-24 17:30",
+    "timestamp": 1782322206.1477053
+  },
+  {
+    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+    "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/Agility-Robotics-DIGIT-9.jpg?resize=1200,675",
+    "summary": "Agility Robotics（2015年从俄勒冈州立大学分拆的人形机器人初创公司）预计将获得6.2亿美元收益。",
+    "date": "2026-06-24 17:30",
+    "timestamp": 1782322207.6420617
+  },
+  {
+    "title": "Figma adds code layers, support for animations, more AI features in new update",
+    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675",
+    "summary": "Figma更新新增代码层，支持动效与着色器，并可通过AI创建自定义插件以完成多种任务。",
+    "date": "2026-06-24 17:30",
+    "timestamp": 1782322209.1930096
+  },
+  {
     "title": "OpenAI unveils its first custom chip, built by Broadcom",
     "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
@@ -774,29 +798,5 @@
     "summary": "If you doubted his genius, doubt no more.",
     "date": "2026-06-11 05:13",
     "timestamp": 1781154805.0759346
-  },
-  {
-    "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
-    "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-    "summary": "前xAI工程师起诉公司及SpaceX，声称因其在SpaceX历史性IPO前数日提出Grok的AI安全隐患而遭解雇。",
-    "date": "2026-06-11 00:02",
-    "timestamp": 1781136155.5477657
-  },
-  {
-    "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-    "link": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217247219.jpg?w=1024",
-    "summary": "企业在人工智能军备竞赛中投入巨额资金，债务水平持续攀升。",
-    "date": "2026-06-10 22:30",
-    "timestamp": 1781130612.2630057
-  },
-  {
-    "title": "‘AI-pilled’ firms spend $7,500 per employee each month on AI",
-    "link": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2253659638.jpg?resize=1200,1057",
-    "summary": "根据Ramp AI指数，最热衷AI的企业每月为每位员工在AI上花费约7500美元，这一数额尚未超过一名工程师的工资。",
-    "date": "2026-06-10 19:55",
-    "timestamp": 1781121357.964287
   }
 ]
