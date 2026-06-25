@@ -1,5 +1,13 @@
 [
   {
+    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "summary": "OpenAI据报将按特朗普政府要求，仅向特定合作伙伴分享其最新模型GPT 5.6，而非面向公众发布。",
+    "date": "2026-06-25 23:56",
+    "timestamp": 1782431799.1068094
+  },
+  {
     "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
     "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Patronus-team.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该科技巨头称，一个名为“局外企业”的组织利用人工智能在两周内发送250万条短信，诈骗数十万人。",
     "date": "2026-06-12 19:33",
     "timestamp": 1781292795.916847
-  },
-  {
-    "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-    "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Bezos-Bajaj-Prometheus-1152x648.jpg",
-    "summary": "这家初创公司并非唯一涉足物理AI领域的企业，但它是资金最充裕的公司之一。",
-    "date": "2026-06-12 19:33",
-    "timestamp": 1781292797.7898757
   }
 ]
