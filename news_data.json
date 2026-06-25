@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "summary": "数据显示，尽管ChatGPT在市场中占据领先地位，付费AI用户正越来越多地转向Anthropic的Claude。",
+    "date": "2026-06-25 18:36",
+    "timestamp": 1782412608.5614567
+  },
+  {
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+    "summary": "General Intuition获3.2亿美元融资，利用数百万小时游戏数据进行AI训练，旨在通过行为数据推动AI更接近人类直觉。",
+    "date": "2026-06-25 18:36",
+    "timestamp": 1782412609.7513204
+  },
+  {
+    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
+    "summary": "Un-0是一款图像生成系统工具，首次展示了该公司技术如何复制传统AI系统的能力。",
+    "date": "2026-06-25 18:36",
+    "timestamp": 1782412610.824304
+  },
+  {
     "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
     "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "IPO市场复苏，但领跑者已非FAANG。新组合“MANGOS”（Meta/Microsoft、Anthropic、Nvidia、Google、OpenAI及SpaceX）中半数公司将在同一窗口期上市，对投资者、估值及市场构成压力测试。",
     "date": "2026-06-12 17:25",
     "timestamp": 1781285110.26452
-  },
-  {
-    "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-    "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-1240294200-1024x648.jpg",
-    "summary": "即使是中等规模的数据中心，也可能对当地产生显著影响。",
-    "date": "2026-06-12 17:25",
-    "timestamp": 1781285112.122712
-  },
-  {
-    "title": "SpaceX IPO: Everything you need to know",
-    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2240506392.jpg?resize=1200,800",
-    "summary": "TechCrunch长期追踪SpaceX的发展历程，现推出IPO专题报道，涵盖潜在赢家与输家、上市前交易及S-1注册文件内容。",
-    "date": "2026-06-12 14:21",
-    "timestamp": 1781274077.4820788
-  },
-  {
-    "title": "Cheaper, faster, and culturally aware, Avataar’s video AI is built for India’s scale",
-    "link": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-11-at-3.39.00-PM.jpg?resize=1200,685",
-    "summary": "Avataar AI推出的精简视频模型生成价格定为每秒0.005美元。",
-    "date": "2026-06-12 07:06",
-    "timestamp": 1781248009.2417564
   }
 ]
