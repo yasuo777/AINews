@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+    "summary": "OpenAI表示，此类政府访问程序不应成为长期默认方式，否则将阻碍用户、开发者、企业及网络安全人员获得关键工具。",
+    "date": "2026-06-26 20:21",
+    "timestamp": 1782505318.5343518
+  },
+  {
+    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
+    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
+    "summary": "OpenAI加速布局印度市场，通过设立办公室、拓展合作与招聘，进一步扩大其在当地的业务版图。",
+    "date": "2026-06-26 20:22",
+    "timestamp": 1782505320.0315068
+  },
+  {
     "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
     "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
@@ -782,21 +798,5 @@
     "summary": "杨安泽列举了美国人在住房、食品、无线通讯等方面的超额开支，认为下一波创业热潮的机遇在于帮助民众省回这些钱。",
     "date": "2026-06-13 06:40",
     "timestamp": 1781332841.3180535
-  },
-  {
-    "title": "Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
-    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2153561878.jpg?w=1024",
-    "summary": "Anthropic对因发现一个窄域越狱漏洞而要求召回已商用的模型表示不满，认为该做法不合理。",
-    "date": "2026-06-13 06:40",
-    "timestamp": 1781332842.58555
-  },
-  {
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-    "summary": "一份新报告指出，该拥有6500名员工的部门濒临哗变。",
-    "date": "2026-06-12 23:02",
-    "timestamp": 1781305340.098326
   }
 ]
