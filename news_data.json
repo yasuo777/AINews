@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
+    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "summary": "英伟达长期主导AI芯片市场，但行业正摆脱单一供应商依赖。OpenAI联合博通推出自研推理芯片Jalapeño，加入谷歌、苹果、SpaceX等公司行列，以降低供应链风险。",
+    "date": "2026-06-26 18:15",
+    "timestamp": 1782497712.1308413
+  },
+  {
+    "title": "It’s not about Anthropic vs. OpenAI anymore",
+    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
+    "summary": "AI模型的发展已具备实际政治影响，应对其后果需要全球集体行动。",
+    "date": "2026-06-26 18:15",
+    "timestamp": 1782497713.4874754
+  },
+  {
+    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
+    "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "英伟达长期主导AI芯片市场，但这一局面或将改变。OpenAI宣布与博通合作研发定制推理芯片“Jalapeño”，加入谷歌、苹果、SpaceX等企业行列，以降低单一供应商风险。",
+    "date": "2026-06-26 18:15",
+    "timestamp": 1782497715.005274
+  },
+  {
     "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
     "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "一份新报告指出，该拥有6500名员工的部门濒临哗变。",
     "date": "2026-06-12 23:02",
     "timestamp": 1781305340.098326
-  },
-  {
-    "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
-    "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-    "summary": "该科技巨头称，名为“外部企业”的组织利用人工智能在两周内发送250万条短信，诈骗了数十万名受害者。",
-    "date": "2026-06-12 21:18",
-    "timestamp": 1781299134.6995947
-  },
-  {
-    "title": "SpaceX IPO: Live updates on everything you need to know",
-    "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "summary": "TechCrunch长期追踪SpaceX的创立、困境与成就，现推出其IPO专题，涵盖潜在赢家与输家、上市前交易及S-1文件核心内容。",
-    "date": "2026-06-12 19:33",
-    "timestamp": 1781292793.2920878
-  },
-  {
-    "title": "Mistral is rumored to be raising €3B at €20B valuation",
-    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
-    "summary": "该轮融资将使公司估值达约200亿欧元（约231.5亿美元），较C轮117亿欧元估值近乎翻倍。",
-    "date": "2026-06-12 19:33",
-    "timestamp": 1781292794.401773
   }
 ]
