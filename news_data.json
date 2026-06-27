@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+    "summary": "据报道，超100家企业和政府机构获授权使用Mythos 5，其非美籍员工亦可使用。",
+    "date": "2026-06-27 04:39",
+    "timestamp": 1782535145.906072
+  },
+  {
     "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
     "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "目前尚不清楚涉及哪些州，但相关问询涵盖OpenAI的广告政策及健康数据处理等多个方面。",
     "date": "2026-06-13 17:01",
     "timestamp": 1781370080.8542423
-  },
-  {
-    "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
-    "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1487822193.jpg?resize=1200,800",
-    "summary": "杨安泽列举了美国人在住房、食品、无线通讯等方面的超额开支，认为下一波创业热潮的机遇在于帮助民众省回这些钱。",
-    "date": "2026-06-13 06:40",
-    "timestamp": 1781332841.3180535
   }
 ]
