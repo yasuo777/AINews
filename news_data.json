@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
+    "summary": "苹果公司负责Vision Pro头显的副总裁Paul Meade据悉将离职，加入OpenAI硬件团队。",
+    "date": "2026-06-27 17:43",
+    "timestamp": 1782582182.447229
+  },
+  {
     "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
     "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM.png?resize=1200,683",
@@ -790,13 +798,5 @@
     "summary": "Meta应北京要求，开始撤销其20亿美元收购Manus的交易，逐步解除相关整合。",
     "date": "2026-06-14 01:58",
     "timestamp": 1781402323.5383327
-  },
-  {
-    "title": "KPMG pulls report on AI usage due to apparent hallucinations",
-    "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2276519058.jpg?w=1024",
-    "summary": "AI再次被证实为关于AI本身的不可靠信息来源。",
-    "date": "2026-06-13 20:51",
-    "timestamp": 1781383878.5197597
   }
 ]
