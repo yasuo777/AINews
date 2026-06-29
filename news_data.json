@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "Anthropic与加州深化合作，但因此成为联邦政府的针对目标，这家OpenAI的竞争对手面临敌意。",
+    "date": "2026-06-29 19:24",
+    "timestamp": 1782761043.6912446
+  },
+  {
+    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+    "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-455242307_8b18ff.jpg?resize=1200,800",
+    "summary": "全球两大内存芯片公司宣布扩建内存实验室工厂，韩国借此强化其人工智能技术强国地位。",
+    "date": "2026-06-29 19:24",
+    "timestamp": 1782761045.1056495
+  },
+  {
+    "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+    "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+    "summary": "该初创公司运营着知名的免费AI排行榜，于去年9月刚推出其商业服务。",
+    "date": "2026-06-29 19:24",
+    "timestamp": 1782761046.2803044
+  },
+  {
     "title": "Cursor now has a mobile app for guiding your coding agent on the go",
     "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
@@ -774,29 +798,5 @@
     "summary": "特朗普政府迫使Anthropic撤回最新网络安全模型的决定，或出于反应性反击或报复，但释放出明确信号：AI行业无法免受美国政府干预。",
     "date": "2026-06-16 00:15",
     "timestamp": 1781568933.131561
-  },
-  {
-    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-    "link": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
-    "summary": "Meta宣布在Facebook推出多项新AI功能，旨在加速追赶AI竞赛，提升用户平台参与度。",
-    "date": "2026-06-15 19:31",
-    "timestamp": 1781551880.3694391
-  },
-  {
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "link": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "summary": "TechCrunch长期追踪SpaceX从创立、挫折到成功的历程。其IPO专题报道分析了潜在赢家与输家、上市前交易及S-1注册文件细节。",
-    "date": "2026-06-15 19:31",
-    "timestamp": 1781551882.1917043
-  },
-  {
-    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-    "summary": "数十名网络安全专家联名呼吁白宫取消对Anthropic的Fable与Mythos模型的出口限制，认为该禁令将削弱网络安全防御者保护其软件与产品的能力。",
-    "date": "2026-06-15 19:31",
-    "timestamp": 1781551883.7621586
   }
 ]
