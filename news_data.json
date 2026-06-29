@@ -1,5 +1,21 @@
 [
   {
+    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
+    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
+    "summary": "Proception公司采用独特方式收集训练数据，旨在攻克机器人领域最难问题之一——机械手操控技术。",
+    "date": "2026-06-29 14:37",
+    "timestamp": 1782743841.0203204
+  },
+  {
+    "title": "Omen AI’s plan to optimize data centers is all wet",
+    "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/OmenAI-CEO.Founder_Zach-Laberge.jpg?resize=1200,800",
+    "summary": "Omen AI完成3100万美元A轮融资，用于监测数据中心芯片冷却系统，防止细菌滋生，保障设备安全运行。",
+    "date": "2026-06-29 14:37",
+    "timestamp": 1782743842.4147334
+  },
+  {
     "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
     "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "HCLTech宣布向班加罗尔一家初创企业投资1.5亿美元，以拓展其技术布局。",
     "date": "2026-06-15 14:47",
     "timestamp": 1781534845.6515694
-  },
-  {
-    "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
-    "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/newcore-founders.jpg?resize=1200,800",
-    "summary": "NewCore指出，企业安全的下一个挑战将是管理AI智能体，而非人员。",
-    "date": "2026-06-15 14:47",
-    "timestamp": 1781534847.016381
-  },
-  {
-    "title": "The AI layoff wave is becoming a powder keg",
-    "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Powder-Keg.png?resize=1200,960",
-    "summary": "当下，数万工人被裁员之际，一小批人工智能领域内部人士却以难以置信的速度暴富，这一反差令人震惊。",
-    "date": "2026-06-15 08:39",
-    "timestamp": 1781512769.207259
   }
 ]
