@@ -1,5 +1,21 @@
 [
   {
+    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+    "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+    "summary": "Cursor推出了一款新的移动应用，支持用户远程监控编程代理的运行。该应用旨在提升开发者在移动端对代码任务的管控能力。",
+    "date": "2026-06-29 17:19",
+    "timestamp": 1782753545.4598126
+  },
+  {
+    "title": "TIDAL cracks down on AI music by cutting off monetization",
+    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
+    "summary": "TIDAL新规禁止AI生成音乐在其平台获利，以维护原创内容价值与艺术家权益。",
+    "date": "2026-06-29 17:19",
+    "timestamp": 1782753547.0260196
+  },
+  {
     "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
     "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "数十名网络安全专家联名呼吁白宫取消对Anthropic的Fable与Mythos模型的出口限制，认为该禁令将削弱网络安全防御者保护其软件与产品的能力。",
     "date": "2026-06-15 19:31",
     "timestamp": 1781551883.7621586
-  },
-  {
-    "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
-    "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1125951338.jpg?resize=1200,900",
-    "summary": "Salesforce计划利用Fin团队及其技术，升级其企业平台Agentforce，以帮助企业构建定制化AI代理，实现任务自动化。",
-    "date": "2026-06-15 14:47",
-    "timestamp": 1781534844.4352467
-  },
-  {
-    "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
-    "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/sarvam.jpg?resize=1200,800",
-    "summary": "HCLTech宣布向班加罗尔一家初创企业投资1.5亿美元，以拓展其技术布局。",
-    "date": "2026-06-15 14:47",
-    "timestamp": 1781534845.6515694
   }
 ]
