@@ -1,5 +1,13 @@
 [
   {
+    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800",
+    "summary": "OKX正将支付、身份与声誉整合为一个面向AI代理的市场，实现三者融合的一站式服务。",
+    "date": "2026-06-30 11:59",
+    "timestamp": 1782820763.7960289
+  },
+  {
     "title": "The AI jobs debate just got messier",
     "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "该交易旨在支持SpaceX旗下处境困难的AI部门。该公司向IPO投资者表示，其在AI领域可触及的市场规模达26万亿美元。",
     "date": "2026-06-16 11:55",
     "timestamp": 1781610948.7346787
-  },
-  {
-    "title": "Malaysia’s AI agent-powered messaging app Respond.io raises $62.5M, eyes acquisitions",
-    "link": "https://techcrunch.com/2026/06/15/malaysias-respond-io-raises-62-5m-eyes-acquisitions-in-north-america-and-europe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/respond-team-comp-2.webp?resize=1200,800",
-    "summary": "马来西亚初创企业Respond.io利用AI代理处理大量客户咨询，按对话量而非坐席收费，成为值得关注的科技公司之一。",
-    "date": "2026-06-16 11:55",
-    "timestamp": 1781610950.0681403
   }
 ]
