@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenClaw is finally available on Android and iOS",
+    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
+    "summary": "开源免费代理程序终于侵入手机，这一技术革新将智能体能力引入移动端，为用户带来更自主、高效的自动化体验，标志着开源生态在个人设备上的重要突破。",
+    "date": "2026-06-30 22:54",
+    "timestamp": 1782860076.3823204
+  },
+  {
     "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
     "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "摘要：人们渴望重新掌控自己的时间、生活与注意力，愿意接受任何有助于实现这一目标的方式。",
     "date": "2026-06-17 17:35",
     "timestamp": 1781717740.4677982
-  },
-  {
-    "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
-    "link": "https://techcrunch.com/2026/06/17/pramaana-labs-raises-27-million-seed-round-from-khosla-ventures-to-bring-formal-verification-to-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-9.53.46-AM.jpg?resize=1200,560",
-    "summary": "Pramaana将专注于法律、药物研发及税务申报等高敏感领域，这些领域错误成本高昂，对可靠性要求极高。",
-    "date": "2026-06-17 14:17",
-    "timestamp": 1781705857.7310455
   }
 ]
