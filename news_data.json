@@ -1,5 +1,21 @@
 [
   {
+    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
+    "summary": "总部位于布拉格的AI实验室EquiLibre Technologies由三位前DeepMind研究员创立，目前估值已超5亿美元。",
+    "date": "2026-06-30 21:18",
+    "timestamp": 1782854306.093681
+  },
+  {
+    "title": "New attack provides one more reason why AI browsers are a bad idea",
+    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
+    "summary": "向大语言模型提供“2+2=5”的错误前提，即可使其遵循原本被禁止的指令。",
+    "date": "2026-06-30 21:18",
+    "timestamp": 1782854307.9867496
+  },
+  {
     "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
     "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-image-models.png?resize=1200,678",
@@ -782,21 +798,5 @@
     "summary": "Pramaana将专注于法律、药物研发及税务申报等高敏感领域，这些领域错误成本高昂，对可靠性要求极高。",
     "date": "2026-06-17 14:17",
     "timestamp": 1781705857.7310455
-  },
-  {
-    "title": "Canadian pension giant joins race to fund India’s AI-fueled data center boom",
-    "link": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1468360413.jpg?resize=1200,857",
-    "summary": "加拿大养老基金巨头将收购印度科技公司CtrlS 8.2%的股份。该公司在印度运营超过15个数据中心。",
-    "date": "2026-06-17 14:17",
-    "timestamp": 1781705859.2107394
-  },
-  {
-    "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
-    "link": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mixhalo-Billboard-2-1200x627-2.jpeg?resize=1200,675",
-    "summary": "DeepL通过收购在旧金山开设办事处，以拓展美国业务。",
-    "date": "2026-06-17 14:17",
-    "timestamp": 1781705860.612224
   }
 ]
