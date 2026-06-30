@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
+    "summary": "Anthropic推出Claude Science，为科研人员提供一体化计算研究平台，整合数据库、流程与工具，避免切换系统，提升效率。",
+    "date": "2026-06-30 17:27",
+    "timestamp": 1782840456.4838746
+  },
+  {
+    "title": "Podcasting platform Riverside enters the newsletter publishing game",
+    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Copy-of-Newsletter-2.jpeg?resize=1200,809",
+    "summary": "用户将能够利用AI，根据个人录音自动生成新闻简报。该功能以专业方式提升了内容创作效率。",
+    "date": "2026-06-30 17:27",
+    "timestamp": 1782840457.7687306
+  },
+  {
     "title": "X now offers an MCP server to make its platform easier for AI tools to use",
     "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "SpaceX自上周五股票交易以来，估值增长达1万亿美元。",
     "date": "2026-06-16 20:30",
     "timestamp": 1781641826.0877674
-  },
-  {
-    "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-    "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
-    "summary": "谷歌发布Android 17与Wear OS 7，新增多任务处理、家长控制、安全工具及智能手表升级，同时通过Pixel Drop将最新AI模型引入设备。",
-    "date": "2026-06-16 20:30",
-    "timestamp": 1781641827.7393336
-  },
-  {
-    "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
-    "summary": "WordPress VIP调查显示，尽管企业日益将AI搜索视为重要推荐渠道，消费者对其生成答案仍持谨慎态度。",
-    "date": "2026-06-16 17:36",
-    "timestamp": 1781631409.1357098
   }
 ]
