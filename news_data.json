@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+    "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-image-models.png?resize=1200,678",
+    "summary": "谷歌正在升级其图像生成工具，使其速度更快、成本更低，从而为创作者制作AI内容提供更高效的实用方案。",
+    "date": "2026-06-30 19:23",
+    "timestamp": 1782847401.3861115
+  },
+  {
+    "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+    "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+    "summary": "英伟达AI芯片竞争对手Etched宣布，其推理系统芯片已签约订单金额达10亿美元。",
+    "date": "2026-06-30 19:23",
+    "timestamp": 1782847402.6859007
+  },
+  {
+    "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+    "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "Anthropic发布Claude Sonnet 5，具备更强代理能力、更低价格与更高安全性，定位为比肩Opus、GPT-5.5及Gemini Pro的经济型替代方案。",
+    "date": "2026-06-30 19:23",
+    "timestamp": 1782847403.8051775
+  },
+  {
     "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
     "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "DeepL通过收购在旧金山开设办事处，以拓展美国业务。",
     "date": "2026-06-17 14:17",
     "timestamp": 1781705860.612224
-  },
-  {
-    "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
-    "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
-    "summary": "根据Ramp数据，Anthropic在企业用户中的受欢迎程度持续上升，近期与政府的摩擦反而可能进一步提振其业务表现。",
-    "date": "2026-06-17 00:03",
-    "timestamp": 1781654583.2337127
-  },
-  {
-    "title": "Anthropic \"pauses\" token-based billing for its Claude Agent SDK",
-    "link": "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/02/claude37_header-1152x648.jpg",
-    "summary": "原定于周一实施的调整方案将大幅增加重度用户的用电成本。",
-    "date": "2026-06-16 22:33",
-    "timestamp": 1781649223.4327233
-  },
-  {
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675",
-    "summary": "SpaceX自上周五股票交易以来，估值增长达1万亿美元。",
-    "date": "2026-06-16 20:30",
-    "timestamp": 1781641826.0877674
   }
 ]
