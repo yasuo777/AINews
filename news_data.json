@@ -1,5 +1,29 @@
 [
   {
+    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
+    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
+    "summary": "X推出托管MCP服务器，简化开发者将AI应用与公司API对接的流程。",
+    "date": "2026-06-30 15:17",
+    "timestamp": 1782832629.4914937
+  },
+  {
+    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
+    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1808364693.jpg?w=1200",
+    "summary": "新团队工程师将入驻企业部署专用智能代理，注重快速落地与客户自主运营能力。",
+    "date": "2026-06-30 15:17",
+    "timestamp": 1782832630.8554378
+  },
+  {
+    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
+    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
+    "summary": "Proton将于本周推出Lumo 2.0版本，为用户提供更丰富的功能。",
+    "date": "2026-06-30 15:17",
+    "timestamp": 1782832632.1061733
+  },
+  {
     "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
     "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "WordPress VIP调查显示，尽管企业日益将AI搜索视为重要推荐渠道，消费者对其生成答案仍持谨慎态度。",
     "date": "2026-06-16 17:36",
     "timestamp": 1781631409.1357098
-  },
-  {
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "link": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "summary": "TechCrunch长期追踪SpaceX的创立、挑战与成就，现推出IPO专题报道，涵盖潜在赢家与输家、上市前交易及S-1文件关键细节。",
-    "date": "2026-06-16 17:36",
-    "timestamp": 1781631410.4782565
-  },
-  {
-    "title": "DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, and energy security’",
-    "link": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "美国司法部表示，五角大楼需允许xAI继续使用其未获许可的燃气轮机。",
-    "date": "2026-06-16 17:36",
-    "timestamp": 1781631411.6073275
-  },
-  {
-    "title": "SpaceX to acquire Cursor for $60B in stock, days after blockbuster IPO",
-    "link": "https://techcrunch.com/2026/06/16/spacex-to-acquire-cursor-for-60b-in-stock-days-after-blockbuster-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "summary": "该交易旨在支持SpaceX旗下处境困难的AI部门。该公司向IPO投资者表示，其在AI领域可触及的市场规模达26万亿美元。",
-    "date": "2026-06-16 11:55",
-    "timestamp": 1781610948.7346787
   }
 ]
