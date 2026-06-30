@@ -1,5 +1,21 @@
 [
   {
+    "title": "The AI jobs debate just got messier",
+    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+    "summary": "最新报告显示，“高强度AI采用者”企业员工总数增长10.2%，其中初级岗位增加12%，反驳了AI替代初级职位的说法。",
+    "date": "2026-06-30 04:49",
+    "timestamp": 1782794949.7259383
+  },
+  {
+    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
+    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
+    "summary": "Wix旗下代码平台Base44已开始推出自研AI模型，目标是在性能上超越现有前沿模型。",
+    "date": "2026-06-30 04:49",
+    "timestamp": 1782794950.9494438
+  },
+  {
     "title": "Gemini’s personalized AI image generation is now free for US users",
     "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "马来西亚初创企业Respond.io利用AI代理处理大量客户咨询，按对话量而非坐席收费，成为值得关注的科技公司之一。",
     "date": "2026-06-16 11:55",
     "timestamp": 1781610950.0681403
-  },
-  {
-    "title": "Critical Copilot vulnerability allowed hackers to seal 2FA code from users",
-    "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2242817595-1152x648.jpg",
-    "summary": "SearchLeak漏洞再次揭示，当前行业应对大语言模型安全的方法存在系统性缺陷，反复失效，需从根本上反思防护策略。",
-    "date": "2026-06-16 11:55",
-    "timestamp": 1781610952.349676
-  },
-  {
-    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
-    "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
-    "summary": "AI再次成为大学毕业生抗议的焦点，此次争议源于该技术被用于谷歌的国防合同。",
-    "date": "2026-06-16 00:15",
-    "timestamp": 1781568932.030041
   }
 ]
