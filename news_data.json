@@ -1,5 +1,29 @@
 [
   {
+    "title": "The ‘Father of the Internet’ is finally retiring",
+    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+    "summary": "互联网协议发明者之一温顿·瑟夫将于下周卸任谷歌首席互联网布道师一职。",
+    "date": "2026-07-01 06:54",
+    "timestamp": 1782888899.6580331
+  },
+  {
+    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
+    "summary": "特朗普政府多变的人工智能政策制定方式，使业界企业对未来模型发布的监管规则缺乏清晰认识。",
+    "date": "2026-07-01 06:55",
+    "timestamp": 1782888901.0745027
+  },
+  {
+    "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+    "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wayve-Germany-02.jpg?resize=1200,675",
+    "summary": "Wayve等AI初创公司正通过员工股票发售作为吸引和留住人才的战略工具，这一趋势日益显著。",
+    "date": "2026-07-01 06:55",
+    "timestamp": 1782888902.4227886
+  },
+  {
     "title": "OpenClaw is finally available on Android and iOS",
     "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "社交媒体平台（如Threads、Instagram、TikTok）正推出新工具，允许用户直接定制推荐算法，使信息流更具个性化。",
     "date": "2026-06-17 19:47",
     "timestamp": 1781725663.8634958
-  },
-  {
-    "title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows",
-    "link": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
-    "summary": "皮尤研究中心报告显示，尽管华尔街看好人工智能，但美国普通民众对该行业的乐观情绪显著下降。",
-    "date": "2026-06-17 17:35",
-    "timestamp": 1781717737.5157743
-  },
-  {
-    "title": "Google bets on Gemini to reinvent the smart home speaker",
-    "link": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Berry.jpeg?resize=1200,899",
-    "summary": "谷歌推出99.99美元的新款智能音箱，以更自然的Gemini对话交互取代谷歌助手时代的固定指令模式，押注生成式AI为智能音箱市场注入新活力。",
-    "date": "2026-06-17 17:35",
-    "timestamp": 1781717739.1328163
-  },
-  {
-    "title": "The slowtech revolution is here to kill your phone addiction and rescue your attention span",
-    "link": "https://techcrunch.com/2026/06/17/the-slowtech-revolution-is-here-to-kill-your-phone-addiction-and-rescue-your-attention-span/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238192342.jpg?resize=1200,800",
-    "summary": "摘要：人们渴望重新掌控自己的时间、生活与注意力，愿意接受任何有助于实现这一目标的方式。",
-    "date": "2026-06-17 17:35",
-    "timestamp": 1781717740.4677982
   }
 ]
