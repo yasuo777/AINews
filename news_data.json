@@ -1,5 +1,29 @@
 [
   {
+    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
+    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
+    "summary": "Venice AI首席执行官Erik Voorhees表示，该公司已实现盈利，年化收入超过7000万美元。",
+    "date": "2026-07-01 16:57",
+    "timestamp": 1782925033.9113395
+  },
+  {
+    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
+    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+    "summary": "谷歌推出24小时智能助手Gemini Spark，现已登陆Mac平台，新增实时追踪及更多应用支持功能，进一步优化用户体验。",
+    "date": "2026-07-01 16:57",
+    "timestamp": 1782925035.3044767
+  },
+  {
+    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026将重启Builders Stage，汇聚上万名创始人、运营者与投资者，聚焦公司构建与规模化实战经验。立即注册可节省高达330美元。",
+    "date": "2026-07-01 16:57",
+    "timestamp": 1782925036.6076832
+  },
+  {
     "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
     "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Snap长期期待的智能眼镜上市并未显著提振公司股价。",
     "date": "2026-06-17 22:24",
     "timestamp": 1781735070.8392072
-  },
-  {
-    "title": "NEA’s Tiffany Luck says enterprises are still figuring out their AI ROI",
-    "link": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Tiffany-Luck_headshot.jpg?resize=1200,800",
-    "summary": "今年初，硅谷掀起“Token透支”热潮，企业鼓励员工极限使用AI。随后成本激增：Uber数月耗尽全年AI预算，部分公司削减Claude许可，Meta取消内部AI排行榜。投入与回报的失衡引发反思。",
-    "date": "2026-06-17 22:24",
-    "timestamp": 1781735072.5082283
-  },
-  {
-    "title": "World leaders want American AI. They just don’t want America to be able to turn it off.",
-    "link": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281424015.jpg?w=1024",
-    "summary": "法国总统马克龙与印度总理莫迪在G7峰会上警告，美国可能一夜之间切断对他国的人工智能技术接入，而近期Anthropic的服务中断事件已印证了这一担忧。",
-    "date": "2026-06-17 19:47",
-    "timestamp": 1781725661.1133635
-  },
-  {
-    "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-    "link": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "Anthropic加入前沿联盟，该联盟再获9.15亿美元承诺，用于资助碳移除项目。",
-    "date": "2026-06-17 19:47",
-    "timestamp": 1781725662.504592
   }
 ]
