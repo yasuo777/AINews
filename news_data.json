@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
+    "summary": "Meta正计划推出云基础设施业务，向客户出售AI算力与模型，此举将与亚马逊AWS、谷歌云及微软Azure等主要云服务商展开直接竞争。",
+    "date": "2026-07-01 13:53",
+    "timestamp": 1782914013.1385133
+  },
+  {
     "title": "The ‘Father of the Internet’ is finally retiring",
     "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
@@ -790,13 +798,5 @@
     "summary": "Anthropic加入前沿联盟，该联盟再获9.15亿美元承诺，用于资助碳移除项目。",
     "date": "2026-06-17 19:47",
     "timestamp": 1781725662.504592
-  },
-  {
-    "title": "Social media’s next evolution: user-controlled algorithms",
-    "link": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/social-media-icons.jpg?resize=1200,798",
-    "summary": "社交媒体平台（如Threads、Instagram、TikTok）正推出新工具，允许用户直接定制推荐算法，使信息流更具个性化。",
-    "date": "2026-06-17 19:47",
-    "timestamp": 1781725663.8634958
   }
 ]
