@@ -1,5 +1,29 @@
 [
   {
+    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "summary": "据报道，SpaceX在上市前向投资者展示了一款“手机式”AI设备，此举或预示其将进一步拓展无线业务。",
+    "date": "2026-07-01 19:22",
+    "timestamp": 1782933761.6209905
+  },
+  {
+    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800",
+    "summary": "Sound凭借对顶级AI实验室的高集中、高确信押注建立声誉，而Kutcher的新基金则聚焦支撑这些公司的底层基础设施与能源领域。",
+    "date": "2026-07-01 19:22",
+    "timestamp": 1782933763.1865308
+  },
+  {
+    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
+    "summary": "Cloudflare要求AI公司在9月15日前将用于搜索的网络爬虫与用于AI训练及代理的爬虫分离，否则将在多数发布商网站上默认屏蔽其访问。",
+    "date": "2026-07-01 19:22",
+    "timestamp": 1782933764.8326316
+  },
+  {
     "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
     "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
@@ -774,29 +798,5 @@
     "summary": "Pixi公司认为，消息应用的下一次进化将是交互式增强现实（AR），而不仅仅是贴纸、GIF或表情符号反应。",
     "date": "2026-06-18 13:51",
     "timestamp": 1781790679.083539
-  },
-  {
-    "title": "How to turn off AI in your Google Docs",
-    "link": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-182884083.jpg?resize=1200,800",
-    "summary": "移除“使用Gemini撰写”弹窗的方法：在浏览器地址栏输入 `chrome://flags/#gemini`，将“Gemini”相关实验性功能设置为“已禁用”，重启浏览器即可。",
-    "date": "2026-06-18 05:22",
-    "timestamp": 1781760130.8013263
-  },
-  {
-    "title": "Roelof Botha joins SpaceX’s board of directors",
-    "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-    "summary": "红杉资本前高管近日加入SpaceX董事会，填补现有空缺。该公司此前刚完成史上最大规模IPO。",
-    "date": "2026-06-17 22:24",
-    "timestamp": 1781735069.4715629
-  },
-  {
-    "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-    "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281915461.jpg?resize=1200,800",
-    "summary": "Snap长期期待的智能眼镜上市并未显著提振公司股价。",
-    "date": "2026-06-17 22:24",
-    "timestamp": 1781735070.8392072
   }
 ]
