@@ -1,5 +1,13 @@
 [
   {
+    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
+    "summary": "Neo是Bhavin Turakhia的第五次创业，专注企业软件领域，此次以AI技术挑战微软Office和谷歌应用。",
+    "date": "2026-07-02 09:46",
+    "timestamp": 1782985573.3094435
+  },
+  {
     "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
     "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "该初创公司利用Medal平台每年20亿条视频数据（来自1000万月活用户），训练具身AI与世界模型。",
     "date": "2026-06-18 17:46",
     "timestamp": 1781804764.8938417
-  },
-  {
-    "title": "Pixi’s new iOS app turns text messages into interactive AR experiences",
-    "link": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pixi-app-screen-6-e1781642459181.jpeg?w=796",
-    "summary": "Pixi公司认为，消息应用的下一次进化将是交互式增强现实（AR），而不仅仅是贴纸、GIF或表情符号反应。",
-    "date": "2026-06-18 13:51",
-    "timestamp": 1781790679.083539
   }
 ]
