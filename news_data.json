@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
+    "summary": "据报道，OpenAI CEO Sam Altman提议将公司5%的股权分配给美国主权财富基金，重新引发公众分享AI产业增长收益的讨论。",
+    "date": "2026-07-02 17:16",
+    "timestamp": 1783012560.410619
+  },
+  {
     "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
     "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "约47%的单身人士对在约会中使用AI持负面态度，但许多约会软件用户接受AI帮助优化个人资料或开启对话。",
     "date": "2026-06-18 21:09",
     "timestamp": 1781816986.406568
-  },
-  {
-    "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-    "link": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2238192342.jpg?resize=1200,800",
-    "summary": "该报道指出，人们强烈渴望重新掌控自己的时间、生活与注意力，并愿意接受任何有助于实现这一目标的方式。",
-    "date": "2026-06-18 17:46",
-    "timestamp": 1781804761.3902922
   }
 ]
