@@ -1,5 +1,13 @@
 [
   {
+    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
+    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
+    "summary": "据Jersey Mike's IPO文件显示，这家三明治连锁店竟在业务中提及人工智能，尽管看似与餐饮主业无关。此举反映出AI概念正渗透至传统行业。",
+    "date": "2026-07-02 20:44",
+    "timestamp": 1783025049.9340863
+  },
+  {
     "title": "Meta quietly launches vibe-coded gaming app Pocket",
     "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "初创公司Baseten据报正接近完成15亿美元融资，估值达130亿美元，标志着“推理淘金热”持续升温。",
     "date": "2026-06-18 23:22",
     "timestamp": 1781824978.3588665
-  },
-  {
-    "title": "Snap spins off AI video team into new company, Dotmo, due to costs",
-    "link": "https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2281911508.jpg?resize=1200,856",
-    "summary": "Snapchat母公司拆分内部团队成立新公司Dotmo，由现有员工组成，专注AI视频技术研发。",
-    "date": "2026-06-18 21:09",
-    "timestamp": 1781816983.7349627
   }
 ]
