@@ -1,5 +1,13 @@
 [
   {
+    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+    "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
+    "summary": "微软继亚马逊、OpenAI和Anthropic之后，也成立了新的人工智能部署团队。",
+    "date": "2026-07-02 14:56",
+    "timestamp": 1783004209.6000988
+  },
+  {
     "title": "Yep, we’re using OpenClaw to date now",
     "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/openclaw-dating.png?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "该报道指出，人们强烈渴望重新掌控自己的时间、生活与注意力，并愿意接受任何有助于实现这一目标的方式。",
     "date": "2026-06-18 17:46",
     "timestamp": 1781804761.3902922
-  },
-  {
-    "title": "‘Queer Eye’s’ life coach Karamo Brown launches Kē, a wellness app featuring his AI digital clone",
-    "link": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/KaramoBrown-Ke.jpg?resize=1200,800",
-    "summary": "卡莫拉·布朗（Netflix《粉雄救兵》知名主持人）推出健康与AI应用Kē，该应用基于其一年半的自我成长实践（涵盖健身、营养、冥想、戒酒、人际关系等），旨在帮助用户实现个人提升。",
-    "date": "2026-06-18 17:46",
-    "timestamp": 1781804763.2055633
   }
 ]
