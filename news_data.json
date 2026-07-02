@@ -1,5 +1,13 @@
 [
   {
+    "title": "Yep, we’re using OpenClaw to date now",
+    "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/openclaw-dating.png?resize=1200,900",
+    "summary": "Ben Guez通过OpenClaw、Claude代码和Instagram测试版编写自动化脚本，成功引来大量潜在国际婚恋对象私信联系。",
+    "date": "2026-07-02 12:30",
+    "timestamp": 1782995458.562248
+  },
+  {
     "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
     "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
@@ -790,13 +798,5 @@
     "summary": "卡莫拉·布朗（Netflix《粉雄救兵》知名主持人）推出健康与AI应用Kē，该应用基于其一年半的自我成长实践（涵盖健身、营养、冥想、戒酒、人际关系等），旨在帮助用户实现个人提升。",
     "date": "2026-06-18 17:46",
     "timestamp": 1781804763.2055633
-  },
-  {
-    "title": "General Intuition in talks to raise $300M at around $2B valuation",
-    "link": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/General-intuition.png?w=880",
-    "summary": "该初创公司利用Medal平台每年20亿条视频数据（来自1000万月活用户），训练具身AI与世界模型。",
-    "date": "2026-06-18 17:46",
-    "timestamp": 1781804764.8938417
   }
 ]
