@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta quietly launches vibe-coded gaming app Pocket",
+    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+    "summary": "Meta低调推出实验性AI应用Pocket，用户可通过文字提示生成并分享互动迷你游戏，主打轻量化创作与社交分享功能。",
+    "date": "2026-07-02 19:01",
+    "timestamp": 1783018883.008839
+  },
+  {
+    "title": "Anthropic is discussing a new custom chip with Samsung",
+    "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "OpenAI宣布与博通合作开发定制AI芯片约一周后，相关消息进一步推动了行业关注。",
+    "date": "2026-07-02 19:01",
+    "timestamp": 1783018884.3843532
+  },
+  {
     "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
     "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Snapchat母公司拆分内部团队成立新公司Dotmo，由现有员工组成，专注AI视频技术研发。",
     "date": "2026-06-18 21:09",
     "timestamp": 1781816983.7349627
-  },
-  {
-    "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
-    "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
-    "summary": "OpenAI为筹备IPO加速人才布局，一周内先后招揽Transformer联合发明人Noam Shazeer及前特朗普政府AI政策官员Dean Ball。",
-    "date": "2026-06-18 21:09",
-    "timestamp": 1781816985.1102242
-  },
-  {
-    "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
-    "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
-    "summary": "约47%的单身人士对在约会中使用AI持负面态度，但许多约会软件用户接受AI帮助优化个人资料或开启对话。",
-    "date": "2026-06-18 21:09",
-    "timestamp": 1781816986.406568
   }
 ]
