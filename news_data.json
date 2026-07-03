@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+    "summary": "Meta CEO在内部会议中指出，AI研发进度未达预期，推进速度慢于原定计划。",
+    "date": "2026-07-03 01:14",
+    "timestamp": 1783041285.9614196
+  },
+  {
     "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
     "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
@@ -790,13 +798,5 @@
     "summary": "DeductiveAI成立仅三年，专注于利用人工智能技术检测并修复软件漏洞。",
     "date": "2026-06-19 02:20",
     "timestamp": 1781835644.1289856
-  },
-  {
-    "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-    "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1502217391.jpg?resize=1200,800",
-    "summary": "初创公司Baseten据报正接近完成15亿美元融资，估值达130亿美元，标志着“推理淘金热”持续升温。",
-    "date": "2026-06-18 23:22",
-    "timestamp": 1781824978.3588665
   }
 ]
