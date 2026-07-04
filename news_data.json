@@ -1,5 +1,13 @@
 [
   {
+    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+    "summary": "美国《独立宣言》签署250周年之际，一则新广告设想：若开国元勋当年可用Google Workspace，历史将如何不同？",
+    "date": "2026-07-04 21:36",
+    "timestamp": 1783201013.4250424
+  },
+  {
     "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
     "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "过去30年，阻止网络安全软件传播始终无效，目前也未见理由能有效限制Anthropic的网络安全模型Mythos。",
     "date": "2026-06-19 23:44",
     "timestamp": 1781912674.7464712
-  },
-  {
-    "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
-    "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "上周末，美国政府以国家安全为由，强制Anthropic下架其两款新模型Fable 5和Mythos 5，因亚马逊研究人员据称找到绕过其防护措施的方法。网络安全专家签署公开信批评此举危险，Anthropic指出类似漏洞也存在于其他模型中。",
-    "date": "2026-06-19 18:20",
-    "timestamp": 1781893219.3287027
   }
 ]
