@@ -1,5 +1,13 @@
 [
   {
+    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "summary": "Midjourney在与三家好莱坞制片厂的法律纠纷中，要求对方公开其自身使用AI技术的具体方式，以推动案件审理。",
+    "date": "2026-07-04 19:50",
+    "timestamp": 1783194637.499571
+  },
+  {
     "title": "Alibaba reportedly bans employees from using Claude Code",
     "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "上周末，美国政府以国家安全为由，强制Anthropic下架其两款新模型Fable 5和Mythos 5，因亚马逊研究人员据称找到绕过其防护措施的方法。网络安全专家签署公开信批评此举危险，Anthropic指出类似漏洞也存在于其他模型中。",
     "date": "2026-06-19 18:20",
     "timestamp": 1781893219.3287027
-  },
-  {
-    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
-    "summary": "美国政府在周末以国家安全为由，要求Anthropic下架其最新模型Fable 5和Mythos 5，起因是亚马逊研究人员据称找到了绕过前者安全防护的方法。网络安全研究者随后签署公开信，批评此举危险，Anthropic也指出其他模型存在同样漏洞。",
-    "date": "2026-06-19 18:20",
-    "timestamp": 1781893221.1222239
   }
 ]
