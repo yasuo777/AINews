@@ -1,5 +1,21 @@
 [
   {
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "summary": "阿里巴巴已将Claude Code列为高风险软件。",
+    "date": "2026-07-04 17:40",
+    "timestamp": 1783186856.6066155
+  },
+  {
+    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
+    "summary": "Mistral AI自2023年成立以来，凭借开源AI模型获得大额融资，致力于“让前沿AI普及大众”。",
+    "date": "2026-07-04 17:40",
+    "timestamp": 1783186858.0696273
+  },
+  {
     "title": "The only AI glossary you’ll need this year",
     "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "美国政府在周末以国家安全为由，要求Anthropic下架其最新模型Fable 5和Mythos 5，起因是亚马逊研究人员据称找到了绕过前者安全防护的方法。网络安全研究者随后签署公开信，批评此举危险，Anthropic也指出其他模型存在同样漏洞。",
     "date": "2026-06-19 18:20",
     "timestamp": 1781893221.1222239
-  },
-  {
-    "title": "Billionaire Ambani wants AI in every call, app, and home",
-    "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/reliance-mukesh-ambani.jpg?resize=1200,800",
-    "summary": "Reliance正将人工智能融入其服务超5亿用户的电信业务中，以提升网络效率与用户体验。此举标志着AI在大型通信基础设施中的深度落地。",
-    "date": "2026-06-19 15:52",
-    "timestamp": 1781884324.576164
-  },
-  {
-    "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
-    "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Nadia-Carlsten-HS.png?w=1024",
-    "summary": "一家由单一创始人创办的初创公司已完成巨额种子轮融资，但后续发展路径尚不明朗。",
-    "date": "2026-06-19 15:52",
-    "timestamp": 1781884325.919797
   }
 ]
