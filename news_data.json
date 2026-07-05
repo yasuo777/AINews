@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840",
+    "summary": "亚马逊旗下众包平台“机械土耳其人”或面临终结，其作为低成本灵活劳动市场的重要地位正受到挑战。",
+    "date": "2026-07-05 18:41",
+    "timestamp": 1783276912.2099297
+  },
+  {
     "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
     "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
@@ -790,13 +798,5 @@
     "summary": "Jumper等多名核心成员相继离开Google DeepMind，引发外界对团队稳定性的关注。",
     "date": "2026-06-20 17:06",
     "timestamp": 1781975213.6716368
-  },
-  {
-    "title": "Encryption, spyware, and now Mythos: History shows why cyber export control doesn’t work",
-    "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
-    "summary": "过去30年，阻止网络安全软件传播始终无效，目前也未见理由能有效限制Anthropic的网络安全模型Mythos。",
-    "date": "2026-06-19 23:44",
-    "timestamp": 1781912674.7464712
   }
 ]
