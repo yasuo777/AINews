@@ -1,5 +1,13 @@
 [
   {
+    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+    "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
+    "summary": "微软于周一裁减约4800个岗位（占全球员工2.1%），其中Xbox及商业销售部门受冲击最重。此次裁员加剧了外界对AI替代就业的担忧。",
+    "date": "2026-07-06 16:43",
+    "timestamp": 1783356206.9016767
+  },
+  {
     "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
     "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "这些不是你的朋友，不是有意识的存在，也不是具备感知的对话者。",
     "date": "2026-06-20 20:53",
     "timestamp": 1781988784.471694
-  },
-  {
-    "title": "In the Weights is your new AI-centric vanity search",
-    "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/10/GettyImages-1278815846.jpg?resize=1200,800",
-    "summary": "So ... what's your In the Weights score?",
-    "date": "2026-06-20 20:53",
-    "timestamp": 1781988784.5334172
   }
 ]
