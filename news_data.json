@@ -1,5 +1,29 @@
 [
   {
+    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+    "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+    "summary": "新版控制功能允许用户调节Siri的语速及语音表现力，提升交互灵活性。",
+    "date": "2026-07-06 19:21",
+    "timestamp": 1783365690.476573
+  },
+  {
+    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
+    "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+    "summary": "以下为今年因AI因素宣布大规模裁员的科技公司概览（按时间倒序排列）。",
+    "date": "2026-07-06 19:21",
+    "timestamp": 1783365691.9864807
+  },
+  {
+    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
+    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "summary": "谷歌近日更新隐私设置，允许其利用更多用户数据训练AI。用户可通过调整设置选择退出，以保护个人数据不被用于AI训练。",
+    "date": "2026-07-06 19:21",
+    "timestamp": 1783365693.6646795
+  },
+  {
     "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
     "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "TechCrunch创始人峰会2026将于11月4日在波士顿举办，6月26日下午11:59（太平洋时间）前注册可省高达190美元。",
     "date": "2026-06-22 15:07",
     "timestamp": 1782140864.0693126
-  },
-  {
-    "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-    "summary": "《Equity》新一期节目探讨了政府近期针对Anthropic采取行动的直接原因，并分析了此举对AI生态系统的潜在影响。",
-    "date": "2026-06-21 15:29",
-    "timestamp": 1782055789.8682523
-  },
-  {
-    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-    "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-iphone-GettyImages-2234563479.jpg?w=1024",
-    "summary": "苹果WWDC展示的Siri AI升级备受关注，但iOS 27中其他AI功能更为实用，将在多个场景中提供高效支持。",
-    "date": "2026-06-21 15:29",
-    "timestamp": 1782055791.3993268
-  },
-  {
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/meredith-whittaker-1.jpg?resize=1200,800",
-    "summary": "这些不是你的朋友，不是有意识的存在，也不是具备感知的对话者。",
-    "date": "2026-06-20 20:53",
-    "timestamp": 1781988784.471694
   }
 ]
