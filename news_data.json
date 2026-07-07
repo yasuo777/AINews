@@ -1,5 +1,13 @@
 [
   {
+    "title": "Claude Cowork expands to mobile and web",
+    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Cowork-Web-Mobile-Press-alt-Claude-logo-1920x1080-1.png?resize=1200,675",
+    "summary": "本次更新后，用户可在桌面端启动任务，通过手机获取状态更新，并在笔记本合盖后随时获取最终输出。",
+    "date": "2026-07-07 18:34",
+    "timestamp": 1783449263.9748578
+  },
+  {
     "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
     "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
@@ -790,13 +798,5 @@
     "summary": "该循环机制授权多智能体集群在后台持续运行，实现了无间断自主作业，进一步推动了代理型AI的发展。",
     "date": "2026-06-22 21:46",
     "timestamp": 1782164812.9151168
-  },
-  {
-    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
-    "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
-    "summary": "人工智能公司Groq在完成非收购性人才交易后，近期获得融资，正大力发展其“新云”业务，并招聘新高管团队。",
-    "date": "2026-06-22 21:46",
-    "timestamp": 1782164814.3857439
   }
 ]
