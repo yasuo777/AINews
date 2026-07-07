@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+    "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+    "summary": "开源模型与前沿实验室并非此消彼长，而是分别对应同一生命周期的两个阶段。",
+    "date": "2026-07-07 20:30",
+    "timestamp": 1783456219.06456
+  },
+  {
+    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
+    "summary": "微软成为最新一家缩减AI支出的硅谷巨头。",
+    "date": "2026-07-07 20:30",
+    "timestamp": 1783456219.9697912
+  },
+  {
+    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
+    "summary": "公司确认该问题自5月起已影响账户，上周末又有200名用户被封禁，随后团队发现并修复了问题。",
+    "date": "2026-07-07 20:30",
+    "timestamp": 1783456221.003358
+  },
+  {
     "title": "Claude Cowork expands to mobile and web",
     "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Cowork-Web-Mobile-Press-alt-Claude-logo-1920x1080-1.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "总部位于斯德哥尔摩的初创公司Fika Jobs正在开发一款视频优先的招聘平台，结合AI面试代理与短视频简介，打造出类似LinkedIn与TikTok融合的产品体验。",
     "date": "2026-06-23 15:37",
     "timestamp": 1782229071.1710455
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Robot-hand.png?resize=1200,800",
-    "summary": "**摘要：**  \n本文按倒序梳理了今年因AI因素宣布大幅裁员的头部科技公司，聚焦其人事调整与AI战略间的关联，呈现行业转型动态。",
-    "date": "2026-06-23 04:44",
-    "timestamp": 1782189896.4436219
-  },
-  {
-    "title": "OpenAI launches new initiative to help find and patch open-source bugs",
-    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "OpenAI正着手解决开源软件社区面临的安全问题。",
-    "date": "2026-06-23 04:44",
-    "timestamp": 1782189897.633445
-  },
-  {
-    "title": "The AI world is getting ‘loopy’",
-    "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
-    "summary": "该循环机制授权多智能体集群在后台持续运行，实现了无间断自主作业，进一步推动了代理型AI的发展。",
-    "date": "2026-06-22 21:46",
-    "timestamp": 1782164812.9151168
   }
 ]
