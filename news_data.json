@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta rolls out Muse, a new AI image generator",
+    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
+    "summary": "该新型图像生成模型可应用于广告、装饰及创意孵化等多个专业领域，具备广泛的商业化前景。",
+    "date": "2026-07-07 23:33",
+    "timestamp": 1783467223.7186399
+  },
+  {
     "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
     "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch 2026创始人峰会早鸟票将于6月26日太平洋时间晚11:59截止，最多可节省190美元。请尽快注册。",
     "date": "2026-06-23 15:37",
     "timestamp": 1782229069.9519022
-  },
-  {
-    "title": "Fika Jobs raises $4M to build a video-first hiring platform where AI agents interview candidates",
-    "link": "https://techcrunch.com/2026/06/23/fika-jobs-raises-4m-to-build-a-video-first-hiring-platform-where-ai-agents-interview-candidates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Torleif_Svensson-FikaJobsAI.jpeg?w=1200",
-    "summary": "总部位于斯德哥尔摩的初创公司Fika Jobs正在开发一款视频优先的招聘平台，结合AI面试代理与短视频简介，打造出类似LinkedIn与TikTok融合的产品体验。",
-    "date": "2026-06-23 15:37",
-    "timestamp": 1782229071.1710455
   }
 ]
