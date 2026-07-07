@@ -1,5 +1,13 @@
 [
   {
+    "title": "The first American autonomous ground vehicles are fighting in Ukraine",
+    "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
+    "summary": "Forterra has deployed more than 100",
+    "date": "2026-07-07 10:08",
+    "timestamp": 1783418884.9955614
+  },
+  {
     "title": "The ‘first’ AI-run ransomware attack still needed a human",
     "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
@@ -790,13 +798,5 @@
     "summary": "英伟达公布新型数据中心冷却系统，可减少内部用水，但未涉及AI最大耗水来源——化石燃料发电厂。",
     "date": "2026-06-22 21:46",
     "timestamp": 1782164815.8758333
-  },
-  {
-    "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
-    "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024",
-    "summary": "谷歌DeepMind与A24联合开发AI电影制作工具，旨在通过技术合作提升影视创作效率，探索人工智能在电影产业中的专业应用。",
-    "date": "2026-06-22 18:58",
-    "timestamp": 1782154733.4228141
   }
 ]
