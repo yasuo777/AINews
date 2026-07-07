@@ -1,5 +1,21 @@
 [
   {
+    "title": "The ‘first’ AI-run ransomware attack still needed a human",
+    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
+    "summary": "AI代理首次实际执行了勒索软件攻击的技术环节，但新细节显示，仍是人类选择目标、搭建基础设施并提供窃取的凭证——这并非上周报道所称的完全自主网络犯罪首例。",
+    "date": "2026-07-07 01:21",
+    "timestamp": 1783387263.4065864
+  },
+  {
+    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
+    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+    "summary": "SK海力士因AI需求实现业务繁荣，预计于本周五在美进行数十亿美元的IPO上市。",
+    "date": "2026-07-07 01:21",
+    "timestamp": 1783387264.771285
+  },
+  {
     "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
     "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "谷歌DeepMind与A24联合开发AI电影制作工具，旨在通过技术合作提升影视创作效率，探索人工智能在电影产业中的专业应用。",
     "date": "2026-06-22 18:58",
     "timestamp": 1782154733.4228141
-  },
-  {
-    "title": "Amazon is testing Alexa+ in India with Hindi support",
-    "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-plus-event.png?resize=1200,675",
-    "summary": "亚马逊计划将新型对话式AI助手Alexa+扩展至印度市场，并邀请当地用户测试印地语版本。",
-    "date": "2026-06-22 18:58",
-    "timestamp": 1782154734.511302
-  },
-  {
-    "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-    "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-    "summary": "Reflection AI与英伟达达成协议，自2026年7月1日起至2029年，每月支付1.5亿美元，以优先获取其最新GB300芯片及配套硬件，并部署于SpaceX位于田纳西州孟菲斯附近的Colossus 2数据中心。",
-    "date": "2026-06-22 18:58",
-    "timestamp": 1782154736.2707293
   }
 ]
