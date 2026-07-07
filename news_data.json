@@ -1,5 +1,13 @@
 [
   {
+    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
+    "summary": "该公司近日完成700万美元种子轮融资，并计划于周二在iPhone和Android平台同步上线其应用。",
+    "date": "2026-07-07 13:02",
+    "timestamp": 1783429364.5543451
+  },
+  {
     "title": "The first American autonomous ground vehicles are fighting in Ukraine",
     "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/img-dedb3291-a67a-44b6-a6d7-dd6659f9d433.png?w=1080",
@@ -790,13 +798,5 @@
     "summary": "人工智能公司Groq在完成非收购性人才交易后，近期获得融资，正大力发展其“新云”业务，并招聘新高管团队。",
     "date": "2026-06-22 21:46",
     "timestamp": 1782164814.3857439
-  },
-  {
-    "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
-    "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
-    "summary": "英伟达公布新型数据中心冷却系统，可减少内部用水，但未涉及AI最大耗水来源——化石燃料发电厂。",
-    "date": "2026-06-22 21:46",
-    "timestamp": 1782164815.8758333
   }
 ]
