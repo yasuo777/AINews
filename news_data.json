@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
+    "summary": "AI芯片公司SambaNova以110亿美元估值完成新一轮融资，数月前英特尔曾有意以约16亿美元收购该公司。",
+    "date": "2026-07-08 07:57",
+    "timestamp": 1783497424.2570076
+  },
+  {
+    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
+    "summary": "“HalluSquatting”利用大语言模型无法回答“不知道”的缺陷，通过诱导模型生成虚假信息，实施网络欺诈或传播错误内容，是一种新型安全威胁。",
+    "date": "2026-07-08 07:57",
+    "timestamp": 1783497427.030028
+  },
+  {
     "title": "Meta rolls out Muse, a new AI image generator",
     "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
@@ -782,21 +798,5 @@
     "summary": "甲骨文正投入数十亿美元建设数据中心基础设施，以支持人工智能发展。",
     "date": "2026-06-23 21:18",
     "timestamp": 1782249508.2163248
-  },
-  {
-    "title": "Anthropic’s Claude Tag is learning your company, one Slack message at a time",
-    "link": "https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-Tag.png?resize=1200,687",
-    "summary": "Anthropic在Slack中推出常驻AI助手Claude Tag，不仅提升工作效率，更旨在通过捕获组织语境、制度知识与企业工作流，深化企业级战略布局。",
-    "date": "2026-06-23 17:28",
-    "timestamp": 1782235737.0364
-  },
-  {
-    "title": "4 days left to save up to $190 on TechCrunch Founder Summit 2026",
-    "link": "https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-    "summary": "TechCrunch 2026创始人峰会早鸟票将于6月26日太平洋时间晚11:59截止，最多可节省190美元。请尽快注册。",
-    "date": "2026-06-23 15:37",
-    "timestamp": 1782229069.9519022
   }
 ]
