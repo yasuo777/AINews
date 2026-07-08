@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why this CEO thinks video games make better training data than the internet",
+    "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
+    "summary": "大型语言模型（如ChatGPT、Claude）在文本处理上表现出色，但缺乏对空间和时间中物体运动的理解能力，而这正是实现通用人工智能（AGI）的关键。游戏数据可能弥补这一缺口，这也是初创公司General Intuition的核心策略。",
+    "date": "2026-07-08 18:04",
+    "timestamp": 1783533882.1624577
+  },
+  {
+    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
+    "summary": "Meta为其AI眼镜新增反秘密录制功能，防止用户未经许可拍摄他人，但同时继续扩大AI产品对个人数据的收集与使用范围。",
+    "date": "2026-07-08 18:04",
+    "timestamp": 1783533883.8485615
+  },
+  {
+    "title": "OpenAI releases new voice models for more natural live conversations",
+    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
+    "summary": "OpenAI宣布其新语音模式可实现同时听说，这一关键能力将支持实时翻译功能。",
+    "date": "2026-07-08 18:04",
+    "timestamp": 1783533885.393749
+  },
+  {
     "title": "These AI startups are growing  revenue at faster and faster rates",
     "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
@@ -774,29 +798,5 @@
     "summary": "Facebook正在测试一款新应用，内置其近期推出的AI创作者助手，目前仅对部分创作者开放。",
     "date": "2026-06-24 17:30",
     "timestamp": 1782322206.1477053
-  },
-  {
-    "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-    "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/03/Agility-Robotics-DIGIT-9.jpg?resize=1200,675",
-    "summary": "Agility Robotics（2015年从俄勒冈州立大学分拆的人形机器人初创公司）预计将获得6.2亿美元收益。",
-    "date": "2026-06-24 17:30",
-    "timestamp": 1782322207.6420617
-  },
-  {
-    "title": "Figma adds code layers, support for animations, more AI features in new update",
-    "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Config-product-feat.jpg?resize=1200,675",
-    "summary": "Figma更新新增代码层，支持动效与着色器，并可通过AI创建自定义插件以完成多种任务。",
-    "date": "2026-06-24 17:30",
-    "timestamp": 1782322209.1930096
-  },
-  {
-    "title": "OpenAI unveils its first custom chip, built by Broadcom",
-    "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
-    "summary": "新处理器“Jalapeño”专为OpenAI推理系统的独特需求设计。",
-    "date": "2026-06-24 15:21",
-    "timestamp": 1782314493.6531298
   }
 ]
