@@ -1,5 +1,29 @@
 [
   {
+    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+    "summary": "埃隆·马斯克旗下科技公司于周三发布最新版Grok，称其较其他强大AI模型更廉价高效。",
+    "date": "2026-07-08 20:07",
+    "timestamp": 1783541231.8183212
+  },
+  {
+    "title": "This startup thinks robotics is about to have its ChatGPT moment",
+    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+    "summary": "通用直觉公司正投入数百万小时的游戏数据，用于训练物理AI的基础模型，从而通过最少真实世界数据构建更智能的机器人。",
+    "date": "2026-07-08 20:07",
+    "timestamp": 1783541233.2299879
+  },
+  {
+    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+    "summary": "该功能可对视频进行电影级补光、替换背景或添加艺术风格，提升画面效果。",
+    "date": "2026-07-08 20:07",
+    "timestamp": 1783541234.5682914
+  },
+  {
     "title": "Why this CEO thinks video games make better training data than the internet",
     "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
@@ -774,29 +798,5 @@
     "summary": "SignalFire数据显示，尽管AI主导裁员话题，但工程师在新招聘中占比更高，实际需求仍在增长。",
     "date": "2026-06-24 22:50",
     "timestamp": 1782341422.349349
-  },
-  {
-    "title": "AI researchers continue to leave Google for its rivals",
-    "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?resize=1200,645",
-    "summary": "顶级AI研究员Jonas Adler与Alexander Pritzel离开谷歌加入Anthropic，此前顶尖科学家Noam Shazeer与John Jumper已相继离职。",
-    "date": "2026-06-24 22:50",
-    "timestamp": 1782341423.8079243
-  },
-  {
-    "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
-    "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-    "summary": "代币疯狂时代已结束，当前正步入代币限量配给时期。",
-    "date": "2026-06-24 21:12",
-    "timestamp": 1782335526.9397829
-  },
-  {
-    "title": "Facebook rolls out an AI companion app for creators",
-    "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/facebook-logo-on-phone.jpg?resize=1200,800",
-    "summary": "Facebook正在测试一款新应用，内置其近期推出的AI创作者助手，目前仅对部分创作者开放。",
-    "date": "2026-06-24 17:30",
-    "timestamp": 1782322206.1477053
   }
 ]
