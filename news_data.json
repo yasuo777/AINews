@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
+    "summary": "本周早些时候，一张显示肯塔基州参议员米奇·麦康奈尔在医院病床上插满管子的图片被证实为AI生成的虚假内容。",
+    "date": "2026-07-08 21:46",
+    "timestamp": 1783547200.353135
+  },
+  {
+    "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
+    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-1152x648.jpg",
+    "summary": "教授警告：依赖AI作弊将导致“失败社会”。",
+    "date": "2026-07-08 21:46",
+    "timestamp": 1783547201.8836133
+  },
+  {
     "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
     "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "由Mayfield和Aramco Ventures投资，Vishal Sikka创立的新公司汇聚了来自SAP、Infosys和VianAI的资深专家。",
     "date": "2026-06-25 01:35",
     "timestamp": 1782351334.3885314
-  },
-  {
-    "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-    "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
-    "summary": "英伟达发布上市后首份财报，预测核心业务毛利率收窄，引发投资者担忧。",
-    "date": "2026-06-24 22:50",
-    "timestamp": 1782341421.0712478
-  },
-  {
-    "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-    "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?resize=1200,800",
-    "summary": "SignalFire数据显示，尽管AI主导裁员话题，但工程师在新招聘中占比更高，实际需求仍在增长。",
-    "date": "2026-06-24 22:50",
-    "timestamp": 1782341422.349349
   }
 ]
