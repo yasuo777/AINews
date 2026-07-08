@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
+    "summary": "ZML，这家获图灵奖得主Yann LeCun支持的法国AI初创公司，近日发布ZML/LLMD软件，可降低AI运行成本。",
+    "date": "2026-07-08 10:47",
+    "timestamp": 1783507646.5282056
+  },
+  {
     "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
     "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
@@ -790,13 +798,5 @@
     "summary": "MoEngage通过全现金交易获得为个体客户分配AI代理的技术，进一步强化其个性化营销能力。",
     "date": "2026-06-24 01:28",
     "timestamp": 1782264534.6584535
-  },
-  {
-    "title": "Oracle’s 21,000 layoffs help drive its debt-fueled AI investments",
-    "link": "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2212917669-1152x648.jpg",
-    "summary": "甲骨文正投入数十亿美元建设数据中心基础设施，以支持人工智能发展。",
-    "date": "2026-06-23 21:18",
-    "timestamp": 1782249508.2163248
   }
 ]
