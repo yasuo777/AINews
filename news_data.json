@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "Claude新推出的Reflect仪表板不仅可视化你的AI使用习惯，也在潜移默化中强化了你日常工作对Anthropic聊天机器人的依赖程度。",
+    "date": "2026-07-09 17:04",
+    "timestamp": 1783616646.821275
+  },
+  {
+    "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+    "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/ai-deals.jpg?resize=1200,675",
+    "summary": "三起大型AI企业IPO将创造的价值，超过2000年以来美国所有风投支持的企业退出价值总和。",
+    "date": "2026-07-09 17:04",
+    "timestamp": 1783616648.2751994
+  },
+  {
     "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
     "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/c.ai-Series-1.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "Un-0是一款图像生成系统工具，首次展示了该公司技术如何复制传统AI系统的能力。",
     "date": "2026-06-25 18:36",
     "timestamp": 1782412610.824304
-  },
-  {
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
-    "summary": "Netris提供运行于网络交换机上的软件，其平台帮助云运营商缩短上线时间。",
-    "date": "2026-06-25 16:07",
-    "timestamp": 1782403649.8024428
-  },
-  {
-    "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-    "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-    "summary": "TechCrunch 2026创始人峰会早鸟优惠将于6月26日太平洋时间晚11:59截止，届时票价最高可省190美元，请及时注册锁定席位。",
-    "date": "2026-06-25 16:07",
-    "timestamp": 1782403651.235317
   }
 ]
