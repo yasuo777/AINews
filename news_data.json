@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI launches its new family of models with GPT-5.6",
+    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+    "summary": "OpenAI最新模型系列在网络安全等多领域实现性能提升。",
+    "date": "2026-07-09 22:53",
+    "timestamp": 1783637581.7298903
+  },
+  {
+    "title": "An AI agent startup just let its agent run its $100 million fundraise",
+    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
+    "summary": "Lyzr利用自家AI代理成功融资1亿美元，证明了其企业级AI代理产品的实际价值与市场认可。",
+    "date": "2026-07-09 22:53",
+    "timestamp": 1783637583.2945354
+  },
+  {
+    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+    "summary": "OpenAI 将关停其AI浏览器，上线不足一年。部分代理浏览功能将迁移至桌面应用及Chrome扩展中。",
+    "date": "2026-07-09 22:53",
+    "timestamp": 1783637584.9260762
+  },
+  {
     "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
     "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "英伟达长期主导AI芯片市场，但这一局面或将改变。OpenAI宣布与博通合作研发定制推理芯片“Jalapeño”，加入谷歌、苹果、SpaceX等企业行列，以降低单一供应商风险。",
     "date": "2026-06-26 18:15",
     "timestamp": 1782497715.005274
-  },
-  {
-    "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
-    "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-    "summary": "TechCrunch 2026创始人峰会早鸟票今日（太平洋时间23:59）截止，可省高达190美元，之后票价将上涨，请立即注册。",
-    "date": "2026-06-26 13:35",
-    "timestamp": 1782480929.0588348
-  },
-  {
-    "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-    "summary": "OpenAI据报将按特朗普政府要求，仅向特定合作伙伴分享其最新模型GPT 5.6，而非面向公众发布。",
-    "date": "2026-06-25 23:56",
-    "timestamp": 1782431799.1068094
-  },
-  {
-    "title": "Patronus AI lands $50M  to build ‘digital worlds’ that stress-test AI agents",
-    "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Patronus-team.jpg?resize=1200,800",
-    "summary": "由前Meta AI研究员创立的AI代理测试初创公司Patronus AI，其投资人表示，市场对其服务的需求几乎无可满足。",
-    "date": "2026-06-25 20:34",
-    "timestamp": 1782419666.1985245
   }
 ]
