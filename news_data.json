@@ -1,5 +1,29 @@
 [
   {
+    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/c.ai-Series-1.jpg?resize=1200,675",
+    "summary": "用户可与剧中角色互动、提问甚至演绎不同剧情，这一创新利用了公司的核心产品。",
+    "date": "2026-07-09 14:13",
+    "timestamp": 1783606399.9615986
+  },
+  {
+    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
+    "summary": "Benchmark支持的Ollama在GitHub上获17.6万星标及近1.7万分支，通过帮助开发者轻松在PC上运行AI，迅速获得社区认可。",
+    "date": "2026-07-09 14:13",
+    "timestamp": 1783606401.3664615
+  },
+  {
+    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+    "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/nandan-nilekani-1251752057.jpg?resize=1200,800",
+    "summary": "Nilekani继续作为Fundamentum的锚定投资者，该公司扩展领导团队，并瞄准印度人工智能与金融科技初创企业。",
+    "date": "2026-07-09 14:13",
+    "timestamp": 1783606402.740145
+  },
+  {
     "title": "Lovable reportedly in talks to double its valuation to $13.2B",
     "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "TechCrunch 2026创始人峰会早鸟优惠将于6月26日太平洋时间晚11:59截止，届时票价最高可省190美元，请及时注册锁定席位。",
     "date": "2026-06-25 16:07",
     "timestamp": 1782403651.235317
-  },
-  {
-    "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-    "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-    "summary": "Adobe宣布将把Topaz Labs的工具整合至其全系应用中，以强化图像处理与编辑功能。此举旨在提升用户创作效率与影像质量。",
-    "date": "2026-06-25 16:07",
-    "timestamp": 1782403652.6697593
-  },
-  {
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
-    "summary": "亚马逊近日在印度进行新投资，正值全球科技企业竞相扩展当地AI基础设施。",
-    "date": "2026-06-25 13:04",
-    "timestamp": 1782392647.4640973
-  },
-  {
-    "title": "Europe is pushing back on Washington’s chip war",
-    "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ASML-GettyImages-2258043611.jpg?w=1024",
-    "summary": "ASML CEO指出，中国目前可购买的是约十年前推出的旧款深紫外光刻设备，而《MATCH法案》拟进一步限制此类设备对华出口。",
-    "date": "2026-06-25 01:35",
-    "timestamp": 1782351333.2357728
   }
 ]
