@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "summary": "Meta向用户推广Spark的自动化能力，包括处理大规模代理任务、修复漏洞及代码迁移，满足企业日益依赖AI提供的自动化需求。",
+    "date": "2026-07-09 21:05",
+    "timestamp": 1783631145.0292614
+  },
+  {
     "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
     "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2187615188.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "由前Meta AI研究员创立的AI代理测试初创公司Patronus AI，其投资人表示，市场对其服务的需求几乎无可满足。",
     "date": "2026-06-25 20:34",
     "timestamp": 1782419666.1985245
-  },
-  {
-    "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
-    "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2230437159-1024x648.jpg",
-    "summary": "Notion 宣布全面推行AI代理功能，旨在自动化管理用户的邮件收件箱。此举标志着其从笔记工具向智能办公助手转型，强调通过代理技术提升工作效率。",
-    "date": "2026-06-25 20:34",
-    "timestamp": 1782419668.515177
   }
 ]
