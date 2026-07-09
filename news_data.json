@@ -1,5 +1,29 @@
 [
   {
+    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2187615188.jpg?resize=1200,800",
+    "summary": "新闻出版商指控OpenAI在诉讼中隐藏了可识别ChatGPT输出中受版权保护的新闻内容的数据集和工具，要求法院对其施加制裁。",
+    "date": "2026-07-09 19:11",
+    "timestamp": 1783624302.821312
+  },
+  {
+    "title": "Google will now disclose which ads are made with AI",
+    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "summary": "谷歌虽禁止误导性广告，但允许利用AI生成合成或数字修改内容。此前仅要求选举广告披露，如今政策范围已扩展。",
+    "date": "2026-07-09 19:11",
+    "timestamp": 1783624304.1222103
+  },
+  {
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "该公司正利用资金在湾区设立办公室以争夺人才，从而“巩固其在全球领先AI生态系统核心的地位”。",
+    "date": "2026-07-09 19:11",
+    "timestamp": 1783624305.353456
+  },
+  {
     "title": "Anthropic’s new Claude feature is quietly selling you on AI",
     "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Notion 宣布全面推行AI代理功能，旨在自动化管理用户的邮件收件箱。此举标志着其从笔记工具向智能办公助手转型，强调通过代理技术提升工作效率。",
     "date": "2026-06-25 20:34",
     "timestamp": 1782419668.515177
-  },
-  {
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
-    "summary": "数据显示，尽管ChatGPT在市场中占据领先地位，付费AI用户正越来越多地转向Anthropic的Claude。",
-    "date": "2026-06-25 18:36",
-    "timestamp": 1782412608.5614567
-  },
-  {
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
-    "summary": "General Intuition获3.2亿美元融资，利用数百万小时游戏数据进行AI训练，旨在通过行为数据推动AI更接近人类直觉。",
-    "date": "2026-06-25 18:36",
-    "timestamp": 1782412609.7513204
-  },
-  {
-    "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
-    "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-12.15.52-PM.jpg?resize=1200,615",
-    "summary": "Un-0是一款图像生成系统工具，首次展示了该公司技术如何复制传统AI系统的能力。",
-    "date": "2026-06-25 18:36",
-    "timestamp": 1782412610.824304
   }
 ]
