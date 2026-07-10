@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
+    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+    "summary": "OpenAI新系列模型将继续为微软的办公与生产力应用套件提供支持。",
+    "date": "2026-07-10 01:14",
+    "timestamp": 1783646050.4998531
+  },
+  {
+    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
+    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+    "summary": "OpenAI二号高管Fidji Simo因医疗休假超预期，将辞去全职职务。此举正值公司筹备IPO、追赶Anthropic企业市场的关键节点，形成领导层真空。",
+    "date": "2026-07-10 01:14",
+    "timestamp": 1783646051.8661823
+  },
+  {
     "title": "OpenAI launches its new family of models with GPT-5.6",
     "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
@@ -782,21 +798,5 @@
     "summary": "英伟达长期主导AI芯片市场，但行业正摆脱单一供应商依赖。OpenAI联合博通推出自研推理芯片Jalapeño，加入谷歌、苹果、SpaceX等公司行列，以降低供应链风险。",
     "date": "2026-06-26 18:15",
     "timestamp": 1782497712.1308413
-  },
-  {
-    "title": "It’s not about Anthropic vs. OpenAI anymore",
-    "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/white-house-conklin.jpg?w=1024",
-    "summary": "AI模型的发展已具备实际政治影响，应对其后果需要全球集体行动。",
-    "date": "2026-06-26 18:15",
-    "timestamp": 1782497713.4874754
-  },
-  {
-    "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-    "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "英伟达长期主导AI芯片市场，但这一局面或将改变。OpenAI宣布与博通合作研发定制推理芯片“Jalapeño”，加入谷歌、苹果、SpaceX等企业行列，以降低单一供应商风险。",
-    "date": "2026-06-26 18:15",
-    "timestamp": 1782497715.005274
   }
 ]
