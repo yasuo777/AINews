@@ -1,5 +1,21 @@
 [
   {
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
+    "summary": "Hugging Face CEO表示，开源AI正蓬勃发展，该公司已成为AI领域的“GitHub”，约半数财富500强企业使用其平台共享模型与数据集，且企业重复性使用趋势显著。",
+    "date": "2026-07-10 20:03",
+    "timestamp": 1783713828.4702315
+  },
+  {
+    "title": "Hugging Face’s CEO on why companies are done renting their AI",
+    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
+    "summary": "Hugging Face CEO指出，开源AI正快速发展，其平台已成为AI领域的GitHub，供开发者共享模型与数据集，目前约半数世界500强企业已在使用该平台。",
+    "date": "2026-07-10 20:03",
+    "timestamp": 1783713829.97061
+  },
+  {
     "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
     "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
@@ -782,21 +798,5 @@
     "summary": "据报道，超100家企业和政府机构获授权使用Mythos 5，其非美籍员工亦可使用。",
     "date": "2026-06-27 04:39",
     "timestamp": 1782535145.906072
-  },
-  {
-    "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-    "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
-    "summary": "OpenAI表示，此类政府访问程序不应成为长期默认方式，否则将阻碍用户、开发者、企业及网络安全人员获得关键工具。",
-    "date": "2026-06-26 20:21",
-    "timestamp": 1782505318.5343518
-  },
-  {
-    "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-    "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/openai-india.jpg?resize=1200,800",
-    "summary": "OpenAI加速布局印度市场，通过设立办公室、拓展合作与招聘，进一步扩大其在当地的业务版图。",
-    "date": "2026-06-26 20:22",
-    "timestamp": 1782505320.0315068
   }
 ]
