@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+    "summary": "苹果指控该不当行为由OpenAI高级管理层（包括一名长期前员工）直接授意。",
+    "date": "2026-07-10 21:39",
+    "timestamp": 1783719556.250768
+  },
+  {
     "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
     "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
@@ -790,13 +798,5 @@
     "summary": "美国AI实验室因出口限制失去亚洲市场新机遇：亚洲推出的新模型具备类似Mythos的能力且无禁运风险，美国可能永远无法收复这一巨大市场。",
     "date": "2026-06-27 14:15",
     "timestamp": 1782569747.9045146
-  },
-  {
-    "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
-    "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
-    "summary": "据报道，超100家企业和政府机构获授权使用Mythos 5，其非美籍员工亦可使用。",
-    "date": "2026-06-27 04:39",
-    "timestamp": 1782535145.906072
   }
 ]
