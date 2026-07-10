@@ -1,5 +1,13 @@
 [
   {
+    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
+    "summary": "人工智能芯片热潮催生华尔街里程碑事件，SK海力士与三星被要求在美国建厂。",
+    "date": "2026-07-10 18:10",
+    "timestamp": 1783707026.3941133
+  },
+  {
     "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
     "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
@@ -790,13 +798,5 @@
     "summary": "OpenAI加速布局印度市场，通过设立办公室、拓展合作与招聘，进一步扩大其在当地的业务版图。",
     "date": "2026-06-26 20:22",
     "timestamp": 1782505320.0315068
-  },
-  {
-    "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-    "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "英伟达长期主导AI芯片市场，但行业正摆脱单一供应商依赖。OpenAI联合博通推出自研推理芯片Jalapeño，加入谷歌、苹果、SpaceX等公司行列，以降低供应链风险。",
-    "date": "2026-06-26 18:15",
-    "timestamp": 1782497712.1308413
   }
 ]
