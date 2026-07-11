@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "summary": "根据一则招聘信息，ChatGPT正在招聘专门的产品经理，负责为家庭、看护者及老年人设计产品体验。",
+    "date": "2026-07-11 15:35",
+    "timestamp": 1783784131.743849
+  },
+  {
     "title": "Meta removes controversial AI feature on Instagram after backlash",
     "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "苹果公司负责Vision Pro头显的副总裁Paul Meade据悉将离职，加入OpenAI硬件团队。",
     "date": "2026-06-27 17:43",
     "timestamp": 1782582182.447229
-  },
-  {
-    "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-    "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-26-at-10.22.24-AM.png?resize=1200,683",
-    "summary": "康纳·克里斯图面对癌症时，将血液结果、扫描数据、可穿戴设备输出及日记等所有治疗相关记录输入AI模型Claude中。",
-    "date": "2026-06-27 15:51",
-    "timestamp": 1782575464.3091183
   }
 ]
