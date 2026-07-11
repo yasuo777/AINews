@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta removes controversial AI feature on Instagram after backlash",
+    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
+    "summary": "该公司表示，原意是提供有用的创意工具并赋予用户对其公开内容是否被引用的控制权，但该功能未达预期，现已下架。",
+    "date": "2026-07-11 01:07",
+    "timestamp": 1783732059.9404466
+  },
+  {
     "title": "Apple sues OpenAI over alleged trade secret theft",
     "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "康纳·克里斯图面对癌症时，将血液结果、扫描数据、可穿戴设备输出及日记等所有治疗相关记录输入AI模型Claude中。",
     "date": "2026-06-27 15:51",
     "timestamp": 1782575464.3091183
-  },
-  {
-    "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-    "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "美国AI实验室因出口限制失去亚洲市场新机遇：亚洲推出的新模型具备类似Mythos的能力且无禁运风险，美国可能永远无法收复这一巨大市场。",
-    "date": "2026-06-27 14:15",
-    "timestamp": 1782569747.9045146
   }
 ]
