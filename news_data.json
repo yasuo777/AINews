@@ -1,5 +1,13 @@
 [
   {
+    "title": "Satya Nadella has issued a shocking warning to companies using AI",
+    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+    "summary": "硅谷AI界最担忧的是，大型AI实验室通过销售专有模型，可能像“特洛伊木马”一样带来潜在风险。",
+    "date": "2026-07-13 22:33",
+    "timestamp": 1783982005.4671648
+  },
+  {
     "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
     "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "该初创公司运营着知名的免费AI排行榜，于去年9月刚推出其商业服务。",
     "date": "2026-06-29 19:24",
     "timestamp": 1782761046.2803044
-  },
-  {
-    "title": "Cursor now has a mobile app for guiding your coding agent on the go",
-    "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
-    "summary": "Cursor推出了一款新的移动应用，支持用户远程监控编程代理的运行。该应用旨在提升开发者在移动端对代码任务的管控能力。",
-    "date": "2026-06-29 17:19",
-    "timestamp": 1782753545.4598126
   }
 ]
