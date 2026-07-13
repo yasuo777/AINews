@@ -1,5 +1,21 @@
 [
   {
+    "title": "Waze adds new AI-powered features and customization updates",
+    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
+    "summary": "基于谷歌Gemini AI驱动的新功能已上线Waze，这体现了谷歌将Gemini整合至全线产品、并借此提升Waze与苹果地图等竞品竞争力的战略布局。",
+    "date": "2026-07-13 15:32",
+    "timestamp": 1783956759.856691
+  },
+  {
+    "title": "Now, defenders are embracing the prompt injection, too",
+    "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
+    "summary": "“情境炸弹”技术可诱骗黑客代理提前关闭，从而阻止其造成损害。此方法通过制造虚假环境触发恶意程序自毁，实现主动防御。",
+    "date": "2026-07-13 15:32",
+    "timestamp": 1783956762.0787349
+  },
+  {
     "title": "OpenAI bets on families as ChatGPT goes deeper into households",
     "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "华尔街投资者正寻找类似英伟达的公开AI公司，认为美光科技有望成为下一个赢家。",
     "date": "2026-06-28 15:54",
     "timestamp": 1782662098.356286
-  },
-  {
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800",
-    "summary": "马斯克提议建设轨道数据中心的构想未获广泛认可。尽管其强调低延迟与节能优势，但技术成本、太空碎片及维护难题引发质疑，业界对此持谨慎态度。",
-    "date": "2026-06-27 21:42",
-    "timestamp": 1782596520.035694
-  },
-  {
-    "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
-    "summary": "苹果公司负责Vision Pro头显的副总裁Paul Meade据悉将离职，加入OpenAI硬件团队。",
-    "date": "2026-06-27 17:43",
-    "timestamp": 1782582182.447229
   }
 ]
