@@ -1,5 +1,37 @@
 [
   {
+    "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+    "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
+    "summary": "该新闻指出，某人正向公开市场投资者推销短期太空数据中心概念。",
+    "date": "2026-07-13 17:34",
+    "timestamp": 1783964075.7059264
+  },
+  {
+    "title": "Should AI help you get away with killing your spouse?",
+    "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/07/fullsizerender-2.jpg?resize=1200,900",
+    "summary": "一个完全由用户意图对齐的人工智能世界，意味着AI系统将精准理解并优先执行每位用户的个人需求与偏好，实现高度个性化和无偏差的智能服务。",
+    "date": "2026-07-13 17:34",
+    "timestamp": 1783964077.047233
+  },
+  {
+    "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+    "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "Claude在印度市场开始提供印度卢比计价的订阅套餐，用户已可查看相关价格方案。",
+    "date": "2026-07-13 17:34",
+    "timestamp": 1783964078.2767663
+  },
+  {
+    "title": "Simulating everything, sort of: The promise and limits of world models",
+    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
+    "summary": "专家介绍了其工作原理、现有功能及尚未解决的问题。",
+    "date": "2026-07-13 17:34",
+    "timestamp": 1783964079.968844
+  },
+  {
     "title": "Waze adds new AI-powered features and customization updates",
     "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
@@ -766,37 +798,5 @@
     "summary": "TIDAL新规禁止AI生成音乐在其平台获利，以维护原创内容价值与艺术家权益。",
     "date": "2026-06-29 17:19",
     "timestamp": 1782753547.0260196
-  },
-  {
-    "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-    "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/proception-prohand-proglove-1.jpg?resize=1200,800",
-    "summary": "Proception公司采用独特方式收集训练数据，旨在攻克机器人领域最难问题之一——机械手操控技术。",
-    "date": "2026-06-29 14:37",
-    "timestamp": 1782743841.0203204
-  },
-  {
-    "title": "Omen AI’s plan to optimize data centers is all wet",
-    "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/OmenAI-CEO.Founder_Zach-Laberge.jpg?resize=1200,800",
-    "summary": "Omen AI完成3100万美元A轮融资，用于监测数据中心芯片冷却系统，防止细菌滋生，保障设备安全运行。",
-    "date": "2026-06-29 14:37",
-    "timestamp": 1782743842.4147334
-  },
-  {
-    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-    "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
-    "summary": "错误地认为仅引入人工智能就能产出高质量产品，这一认知已被实践证明是不足的。",
-    "date": "2026-06-28 19:57",
-    "timestamp": 1782676634.491466
-  },
-  {
-    "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-    "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/micron-GettyImages-2225258783.jpg?resize=1200,800",
-    "summary": "华尔街投资者正寻找类似英伟达的公开AI公司，认为美光科技有望成为下一个赢家。",
-    "date": "2026-06-28 15:54",
-    "timestamp": 1782662098.356286
   }
 ]
