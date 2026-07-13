@@ -1,5 +1,13 @@
 [
   {
+    "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+    "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+    "summary": "苹果对OpenAI提起的商业机密诉讼中，指控内容包括员工戏谑非法访问苹果系统，以及要求应聘者自带苹果硬件参加面试等。以下为诉状中最引人注目的几项主张。",
+    "date": "2026-07-13 19:01",
+    "timestamp": 1783969299.0337782
+  },
+  {
     "title": "Sam Altman’s space data center trash talk is what most experts already believe",
     "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Cursor推出了一款新的移动应用，支持用户远程监控编程代理的运行。该应用旨在提升开发者在移动端对代码任务的管控能力。",
     "date": "2026-06-29 17:19",
     "timestamp": 1782753545.4598126
-  },
-  {
-    "title": "TIDAL cracks down on AI music by cutting off monetization",
-    "link": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/tidal-brand.jpg?w=720",
-    "summary": "TIDAL新规禁止AI生成音乐在其平台获利，以维护原创内容价值与艺术家权益。",
-    "date": "2026-06-29 17:19",
-    "timestamp": 1782753547.0260196
   }
 ]
