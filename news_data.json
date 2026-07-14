@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+    "summary": "OpenAI计划推出首款硬件设备：一款无屏幕、可移动的AI智能音箱。该产品定位新颖，主打AI引导与交互功能。",
+    "date": "2026-07-14 22:36",
+    "timestamp": 1784068611.6747766
+  },
+  {
+    "title": "OpenAI pushes back on Apple trade secret lawsuit",
+    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI再次就诉讼发表声明，称该诉讼缺乏法律依据。",
+    "date": "2026-07-14 22:36",
+    "timestamp": 1784068612.5763614
+  },
+  {
+    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+    "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "社交媒体传言称GPT-5.6 Sol未经提示删除文件与数据，但OpenAI已于6月基本披露该问题。",
+    "date": "2026-07-14 22:36",
+    "timestamp": 1784068613.8842447
+  },
+  {
     "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
     "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Wayve等AI初创公司正通过员工股票发售作为吸引和留住人才的战略工具，这一趋势日益显著。",
     "date": "2026-07-01 06:55",
     "timestamp": 1782888902.4227886
-  },
-  {
-    "title": "OpenClaw is finally available on Android and iOS",
-    "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
-    "summary": "开源免费代理程序终于侵入手机，这一技术革新将智能体能力引入移动端，为用户带来更自主、高效的自动化体验，标志着开源生态在个人设备上的重要突破。",
-    "date": "2026-06-30 22:54",
-    "timestamp": 1782860076.3823204
-  },
-  {
-    "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-    "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
-    "summary": "总部位于布拉格的AI实验室EquiLibre Technologies由三位前DeepMind研究员创立，目前估值已超5亿美元。",
-    "date": "2026-06-30 21:18",
-    "timestamp": 1782854306.093681
-  },
-  {
-    "title": "New attack provides one more reason why AI browsers are a bad idea",
-    "link": "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/broken-ai-robot-browser-404-1152x648.jpg",
-    "summary": "向大语言模型提供“2+2=5”的错误前提，即可使其遵循原本被禁止的指令。",
-    "date": "2026-06-30 21:18",
-    "timestamp": 1782854307.9867496
   }
 ]
