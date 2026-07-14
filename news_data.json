@@ -1,5 +1,21 @@
 [
   {
+    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
+    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
+    "summary": "Uber首席产品官Sachin Kansal向TechCrunch阐述了公司在金融服务领域的布局、与Waymo日益复杂的合作关系、新成立的自动驾驶数据实验室，以及人工智能在乘客和司机体验中的实际应用。",
+    "date": "2026-07-14 01:00",
+    "timestamp": 1783990846.238663
+  },
+  {
+    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
+    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
+    "summary": "该公司计划利用这笔资金扩展其世界模型产品，并拓展全球客户市场。",
+    "date": "2026-07-14 01:00",
+    "timestamp": 1783990847.208245
+  },
+  {
     "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
     "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
@@ -782,21 +798,5 @@
     "summary": "Google 正将 Gemini 的个性化 AI 图像生成功能扩展至美国符合条件的免费用户，可根据用户兴趣及关联应用数据生成图像。",
     "date": "2026-06-29 21:11",
     "timestamp": 1782767475.5336814
-  },
-  {
-    "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-    "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "Anthropic与加州深化合作，但因此成为联邦政府的针对目标，这家OpenAI的竞争对手面临敌意。",
-    "date": "2026-06-29 19:24",
-    "timestamp": 1782761043.6912446
-  },
-  {
-    "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-    "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-455242307_8b18ff.jpg?resize=1200,800",
-    "summary": "全球两大内存芯片公司宣布扩建内存实验室工厂，韩国借此强化其人工智能技术强国地位。",
-    "date": "2026-06-29 19:24",
-    "timestamp": 1782761045.1056495
   }
 ]
