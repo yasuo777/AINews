@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+    "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
+    "summary": "Instagram负责人亚当·莫塞里认为，未来企业将需像管理薪资或运营成本一样，管控AI代币支出。他预测，工程师使用AI工具的费用或将很快受到限制。",
+    "date": "2026-07-14 16:49",
+    "timestamp": 1784047751.5735378
+  },
+  {
+    "title": "Google Images gets a Pinterest-like redesign focused on discovery",
+    "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/New-Google-Images-1.png?resize=1200,675",
+    "summary": "谷歌图片搜索新增“为你推荐”功能，用户登录后将看到基于其兴趣和浏览历史定制的图片画廊，提升个性化浏览体验。",
+    "date": "2026-07-14 16:49",
+    "timestamp": 1784047752.7415285
+  },
+  {
+    "title": "New York State halts construction of all new data centers",
+    "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1234626394.jpg?resize=1200,800",
+    "summary": "纽约州成为首个暂停批准大型数据中心的州，州长霍楚尔表示，AI驱动的建设热潮不应以增加电费、耗水和削弱地方控制为代价。",
+    "date": "2026-07-14 16:49",
+    "timestamp": 1784047754.2154315
+  },
+  {
     "title": "Reflection inks $1B compute deal with Nebius",
     "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/03/cash-in-mattress-e1685738668559.jpg?resize=1200,701",
@@ -774,29 +798,5 @@
     "summary": "用户将能够利用AI，根据个人录音自动生成新闻简报。该功能以专业方式提升了内容创作效率。",
     "date": "2026-06-30 17:27",
     "timestamp": 1782840457.7687306
-  },
-  {
-    "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-    "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
-    "summary": "X推出托管MCP服务器，简化开发者将AI应用与公司API对接的流程。",
-    "date": "2026-06-30 15:17",
-    "timestamp": 1782832629.4914937
-  },
-  {
-    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1808364693.jpg?w=1200",
-    "summary": "新团队工程师将入驻企业部署专用智能代理，注重快速落地与客户自主运营能力。",
-    "date": "2026-06-30 15:17",
-    "timestamp": 1782832630.8554378
-  },
-  {
-    "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-    "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/Lumo-by-proton.jpeg?resize=1200,600",
-    "summary": "Proton将于本周推出Lumo 2.0版本，为用户提供更丰富的功能。",
-    "date": "2026-06-30 15:17",
-    "timestamp": 1782832632.1061733
   }
 ]
