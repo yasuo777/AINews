@@ -1,5 +1,29 @@
 [
   {
+    "title": "Reflection inks $1B compute deal with Nebius",
+    "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/cash-in-mattress-e1685738668559.jpg?resize=1200,701",
+    "summary": "Reflection AI与Nebius签署价值10亿美元计算资源协议。该公司成立于2024年，专注于开源AI技术研发。",
+    "date": "2026-07-14 15:09",
+    "timestamp": 1784041783.189554
+  },
+  {
+    "title": "The real AI race may no longer be at the frontier",
+    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "summary": "Hugging Face CEO指出，企业因成本、可及性和所有权优势，日益倾向选择开源模型。若大部分AI生产应用转向开源，前沿模型的重要性或将下降。",
+    "date": "2026-07-14 15:09",
+    "timestamp": 1784041784.741714
+  },
+  {
+    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+    "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
+    "summary": "Spotify为Premium用户推出AI对话功能，支持通过聊天发现音乐、播客及有声书等内容，提升个性化体验。",
+    "date": "2026-07-14 15:09",
+    "timestamp": 1784041786.333912
+  },
+  {
     "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
     "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=1200",
@@ -774,29 +798,5 @@
     "summary": "Proton将于本周推出Lumo 2.0版本，为用户提供更丰富的功能。",
     "date": "2026-06-30 15:17",
     "timestamp": 1782832632.1061733
-  },
-  {
-    "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-    "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/okx-ai.jpg?resize=1200,800",
-    "summary": "OKX正将支付、身份与声誉整合为一个面向AI代理的市场，实现三者融合的一站式服务。",
-    "date": "2026-06-30 11:59",
-    "timestamp": 1782820763.7960289
-  },
-  {
-    "title": "The AI jobs debate just got messier",
-    "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
-    "summary": "最新报告显示，“高强度AI采用者”企业员工总数增长10.2%，其中初级岗位增加12%，反驳了AI替代初级职位的说法。",
-    "date": "2026-06-30 04:49",
-    "timestamp": 1782794949.7259383
-  },
-  {
-    "title": "Vibe coding platform Base44 launches own model as AI startups seek defensibility",
-    "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Maor-Shlomo-headshot-1.jpeg?resize=1200,754",
-    "summary": "Wix旗下代码平台Base44已开始推出自研AI模型，目标是在性能上超越现有前沿模型。",
-    "date": "2026-06-30 04:49",
-    "timestamp": 1782794950.9494438
   }
 ]
