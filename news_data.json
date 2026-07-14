@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google faces another AI training lawsuit from major publishers",
+    "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "summary": "哈切特、圣智、爱思唯尔等出版商指控谷歌未经授权使用其受版权保护的作品训练人工智能模型。",
+    "date": "2026-07-14 18:45",
+    "timestamp": 1784054709.4972484
+  },
+  {
+    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+    "summary": "DeepMind CEO Demis Hassabis提议效仿美国金融业监管局（FINRA）模式，建立AI标准机构，负责测试前沿模型并制定发布最佳实践。",
+    "date": "2026-07-14 18:45",
+    "timestamp": 1784054710.9627004
+  },
+  {
     "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
     "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Anthropic发布Claude Sonnet 5，具备更强代理能力、更低价格与更高安全性，定位为比肩Opus、GPT-5.5及Gemini Pro的经济型替代方案。",
     "date": "2026-06-30 19:23",
     "timestamp": 1782847403.8051775
-  },
-  {
-    "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-    "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
-    "summary": "Anthropic推出Claude Science，为科研人员提供一体化计算研究平台，整合数据库、流程与工具，避免切换系统，提升效率。",
-    "date": "2026-06-30 17:27",
-    "timestamp": 1782840456.4838746
-  },
-  {
-    "title": "Podcasting platform Riverside enters the newsletter publishing game",
-    "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Copy-of-Newsletter-2.jpeg?resize=1200,809",
-    "summary": "用户将能够利用AI，根据个人录音自动生成新闻简报。该功能以专业方式提升了内容创作效率。",
-    "date": "2026-06-30 17:27",
-    "timestamp": 1782840457.7687306
   }
 ]
