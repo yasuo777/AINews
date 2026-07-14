@@ -1,5 +1,13 @@
 [
   {
+    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
+    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=1200",
+    "summary": "他们再次积极投入，似乎既担心错过AI的关键发展阶段，也难抵巨额盈利的诱惑。",
+    "date": "2026-07-14 04:33",
+    "timestamp": 1784003603.4245174
+  },
+  {
     "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
     "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Wix旗下代码平台Base44已开始推出自研AI模型，目标是在性能上超越现有前沿模型。",
     "date": "2026-06-30 04:49",
     "timestamp": 1782794950.9494438
-  },
-  {
-    "title": "Gemini’s personalized AI image generation is now free for US users",
-    "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472.jpg?w=1024",
-    "summary": "Google 正将 Gemini 的个性化 AI 图像生成功能扩展至美国符合条件的免费用户，可根据用户兴趣及关联应用数据生成图像。",
-    "date": "2026-06-29 21:11",
-    "timestamp": 1782767475.5336814
   }
 ]
