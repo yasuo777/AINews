@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
+    "summary": "Anthropic支持的Ode公司正式成立。其核心策略是将前向部署工程师嵌入企业，以加速人工智能在企业端的应用落地。",
+    "date": "2026-07-15 15:10",
+    "timestamp": 1784128200.3358576
+  },
+  {
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?resize=1200,825",
+    "summary": "该应用专为希望制作社交内容但认为传统视频编辑工具过于复杂或耗时的用户设计。",
+    "date": "2026-07-15 15:10",
+    "timestamp": 1784128201.54726
+  },
+  {
+    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+    "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Co-Founders-and-Rafael.jpeg?resize=1200,800",
+    "summary": "Rime每月处理超过1亿通企业通话，支撑多家公司运营，展现其高并发能力和企业级服务稳定性。",
+    "date": "2026-07-15 15:10",
+    "timestamp": 1784128202.8890707
+  },
+  {
     "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
     "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Cloudflare要求AI公司在9月15日前将用于搜索的网络爬虫与用于AI训练及代理的爬虫分离，否则将在多数发布商网站上默认屏蔽其访问。",
     "date": "2026-07-01 19:22",
     "timestamp": 1782933764.8326316
-  },
-  {
-    "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-    "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/gpt-steady-v3.png?w=768",
-    "summary": "Venice AI首席执行官Erik Voorhees表示，该公司已实现盈利，年化收入超过7000万美元。",
-    "date": "2026-07-01 16:57",
-    "timestamp": 1782925033.9113395
-  },
-  {
-    "title": "Gemini Spark, Google’s agentic assistant, is now available on Mac",
-    "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
-    "summary": "谷歌推出24小时智能助手Gemini Spark，现已登陆Mac平台，新增实时追踪及更多应用支持功能，进一步优化用户体验。",
-    "date": "2026-07-01 16:57",
-    "timestamp": 1782925035.3044767
-  },
-  {
-    "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026将重启Builders Stage，汇聚上万名创始人、运营者与投资者，聚焦公司构建与规模化实战经验。立即注册可节省高达330美元。",
-    "date": "2026-07-01 16:57",
-    "timestamp": 1782925036.6076832
   }
 ]
