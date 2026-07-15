@@ -1,5 +1,21 @@
 [
   {
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+    "summary": "该初创公司年化收入达1.2亿美元，付费客户超20万。",
+    "date": "2026-07-15 12:56",
+    "timestamp": 1784120200.4672189
+  },
+  {
+    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+    "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+    "summary": "TCP/IP协议创始人正推动一项新标准，旨在为AI智能体建立可识别的身份标识，以规范其在网络环境中的身份认证与追踪。",
+    "date": "2026-07-15 12:56",
+    "timestamp": 1784120201.7829413
+  },
+  {
     "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
     "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026将重启Builders Stage，汇聚上万名创始人、运营者与投资者，聚焦公司构建与规模化实战经验。立即注册可节省高达330美元。",
     "date": "2026-07-01 16:57",
     "timestamp": 1782925036.6076832
-  },
-  {
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
-    "summary": "Meta正计划推出云基础设施业务，向客户出售AI算力与模型，此举将与亚马逊AWS、谷歌云及微软Azure等主要云服务商展开直接竞争。",
-    "date": "2026-07-01 13:53",
-    "timestamp": 1782914013.1385133
-  },
-  {
-    "title": "The ‘Father of the Internet’ is finally retiring",
-    "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
-    "summary": "互联网协议发明者之一温顿·瑟夫将于下周卸任谷歌首席互联网布道师一职。",
-    "date": "2026-07-01 06:54",
-    "timestamp": 1782888899.6580331
   }
 ]
