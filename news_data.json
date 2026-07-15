@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
+    "summary": "融资讨论显示，投资者对将人工智能应用于生命科学领域以实现突破充满兴趣。",
+    "date": "2026-07-15 00:57",
+    "timestamp": 1784077048.666015
+  },
+  {
     "title": "Lorde says AI glasses are “not sexy”",
     "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2222568145.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "互联网协议发明者之一温顿·瑟夫将于下周卸任谷歌首席互联网布道师一职。",
     "date": "2026-07-01 06:54",
     "timestamp": 1782888899.6580331
-  },
-  {
-    "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
-    "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/anthropic-claude-fable.jpg?resize=1200,798",
-    "summary": "特朗普政府多变的人工智能政策制定方式，使业界企业对未来模型发布的监管规则缺乏清晰认识。",
-    "date": "2026-07-01 06:55",
-    "timestamp": 1782888901.0745027
   }
 ]
