@@ -1,5 +1,29 @@
 [
   {
+    "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+    "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/elon-musk-spacex-ipo-getty.jpg?resize=1200,800",
+    "summary": "该股自IPO后高位持续回落，表明市场对马斯克在上市前后所作承诺正趋于理性。",
+    "date": "2026-07-15 18:43",
+    "timestamp": 1784140991.204447
+  },
+  {
+    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+    "summary": "该公司在过去一年半内低调建设AI基础设施后，首次公开发布成果证明。",
+    "date": "2026-07-15 18:43",
+    "timestamp": 1784140992.2916605
+  },
+  {
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
+    "summary": "黑客利用员工凭证访问源代码，暴露了Suno公司数十年间抓取音频数据的方式。",
+    "date": "2026-07-15 18:43",
+    "timestamp": 1784140993.2704492
+  },
+  {
     "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
     "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
@@ -774,29 +798,5 @@
     "summary": "微软继亚马逊、OpenAI和Anthropic之后，也成立了新的人工智能部署团队。",
     "date": "2026-07-02 14:56",
     "timestamp": 1783004209.6000988
-  },
-  {
-    "title": "Yep, we’re using OpenClaw to date now",
-    "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/openclaw-dating.png?resize=1200,900",
-    "summary": "Ben Guez通过OpenClaw、Claude代码和Instagram测试版编写自动化脚本，成功引来大量潜在国际婚恋对象私信联系。",
-    "date": "2026-07-02 12:30",
-    "timestamp": 1782995458.562248
-  },
-  {
-    "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-    "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1452604857.jpg?resize=1200,751",
-    "summary": "Neo是Bhavin Turakhia的第五次创业，专注企业软件领域，此次以AI技术挑战微软Office和谷歌应用。",
-    "date": "2026-07-02 09:46",
-    "timestamp": 1782985573.3094435
-  },
-  {
-    "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
-    "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "summary": "据报道，SpaceX在上市前向投资者展示了一款“手机式”AI设备，此举或预示其将进一步拓展无线业务。",
-    "date": "2026-07-01 19:22",
-    "timestamp": 1782933761.6209905
   }
 ]
