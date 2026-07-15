@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
+    "summary": "OpenAI在与苹果公司的硬件技术盗窃诉讼期间，发布了一款可发光的键盘，专为其智能编程应用设计。",
+    "date": "2026-07-15 20:39",
+    "timestamp": 1784147975.519584
+  },
+  {
+    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+    "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+    "summary": "该股自IPO后高点持续回落，显示市场对马斯克此前承诺的乐观情绪正逐渐消退。",
+    "date": "2026-07-15 20:39",
+    "timestamp": 1784147977.0994248
+  },
+  {
     "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
     "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/elon-musk-spacex-ipo-getty.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "OpenAI宣布与博通合作开发定制AI芯片约一周后，相关消息进一步推动了行业关注。",
     "date": "2026-07-02 19:01",
     "timestamp": 1783018884.3843532
-  },
-  {
-    "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
-    "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2194584986.jpg?w=1024",
-    "summary": "据报道，OpenAI CEO Sam Altman提议将公司5%的股权分配给美国主权财富基金，重新引发公众分享AI产业增长收益的讨论。",
-    "date": "2026-07-02 17:16",
-    "timestamp": 1783012560.410619
-  },
-  {
-    "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
-    "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/microsoft-logo-office-e1735933827774.jpg?resize=1200,799",
-    "summary": "微软继亚马逊、OpenAI和Anthropic之后，也成立了新的人工智能部署团队。",
-    "date": "2026-07-02 14:56",
-    "timestamp": 1783004209.6000988
   }
 ]
