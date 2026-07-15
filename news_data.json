@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
+    "summary": "微软本月\"补丁星期二\"共修复创纪录的570个安全漏洞，覆盖全线产品，发现得益于人工智能技术。",
+    "date": "2026-07-15 16:53",
+    "timestamp": 1784134416.5568202
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+    "summary": "苹果携手阿里巴巴通过监管审批，将阿里通义千问AI模型引入其操作系统，标志着Apple Intelligence正式进入中国市场。这是苹果在关键市场扩展生成式AI平台的重要举措。",
+    "date": "2026-07-15 16:53",
+    "timestamp": 1784134418.1266978
+  },
+  {
     "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
     "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "据报道，SpaceX在上市前向投资者展示了一款“手机式”AI设备，此举或预示其将进一步拓展无线业务。",
     "date": "2026-07-01 19:22",
     "timestamp": 1782933761.6209905
-  },
-  {
-    "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-    "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800",
-    "summary": "Sound凭借对顶级AI实验室的高集中、高确信押注建立声誉，而Kutcher的新基金则聚焦支撑这些公司的底层基础设施与能源领域。",
-    "date": "2026-07-01 19:22",
-    "timestamp": 1782933763.1865308
-  },
-  {
-    "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-    "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
-    "summary": "Cloudflare要求AI公司在9月15日前将用于搜索的网络爬虫与用于AI训练及代理的爬虫分离，否则将在多数发布商网站上默认屏蔽其访问。",
-    "date": "2026-07-01 19:22",
-    "timestamp": 1782933764.8326316
   }
 ]
