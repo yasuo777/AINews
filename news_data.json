@@ -1,5 +1,13 @@
 [
   {
+    "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+    "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800",
+    "summary": "Applied Computing完成2000万美元A轮融资，用于打造面向油气及石化行业的基础AI模型。",
+    "date": "2026-07-16 07:07",
+    "timestamp": 1784185655.8800042
+  },
+  {
     "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
     "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/05/boxing_gloves_suit-e1650068012177.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "据Jersey Mike's IPO文件显示，这家三明治连锁店竟在业务中提及人工智能，尽管看似与餐饮主业无关。此举反映出AI概念正渗透至传统行业。",
     "date": "2026-07-02 20:44",
     "timestamp": 1783025049.9340863
-  },
-  {
-    "title": "Meta quietly launches vibe-coded gaming app Pocket",
-    "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-    "summary": "Meta低调推出实验性AI应用Pocket，用户可通过文字提示生成并分享互动迷你游戏，主打轻量化创作与社交分享功能。",
-    "date": "2026-07-02 19:01",
-    "timestamp": 1783018883.008839
   }
 ]
