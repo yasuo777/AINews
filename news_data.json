@@ -1,5 +1,29 @@
 [
   {
+    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
+    "summary": "在AI界追逐“超级智能”之际，杨立昆世界模型初创公司AMI Labs的CEO亚历山大·勒布朗却对这一词汇表示否定。",
+    "date": "2026-07-16 15:19",
+    "timestamp": 1784215169.3841307
+  },
+  {
+    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+    "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+    "summary": "据英国《金融时报》报道，Kimi K3将成为中国最大的开源AI模型，参数规模预计达2万亿至3万亿。",
+    "date": "2026-07-16 15:19",
+    "timestamp": 1784215170.671929
+  },
+  {
+    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
+    "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+    "summary": "该协议去年已有传闻，标志着苹果在关键市场推进人工智能布局的重要一步。",
+    "date": "2026-07-16 15:19",
+    "timestamp": 1784215172.0709634
+  },
+  {
     "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
     "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Please-credit-Schmooly-Sam-left-Callum-right.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "人工智能的兴起带来大量新术语和俚语。以下词汇表收录了一些你可能遇到的重要词语和短语的定义。",
     "date": "2026-07-03 22:39",
     "timestamp": 1783118367.439701
-  },
-  {
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-    "summary": "当前有多款新兴浏览器试图挑战Chrome和Safari的主导地位，本文将简要汇总这些值得关注的替代选择。",
-    "date": "2026-07-03 18:48",
-    "timestamp": 1783104526.1011329
-  },
-  {
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
-    "summary": "Meta CEO在内部会议中指出，AI研发进度未达预期，推进速度慢于原定计划。",
-    "date": "2026-07-03 01:14",
-    "timestamp": 1783041285.9614196
-  },
-  {
-    "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-    "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AI-sandwich-hunger.png?resize=1200,960",
-    "summary": "据Jersey Mike's IPO文件显示，这家三明治连锁店竟在业务中提及人工智能，尽管看似与餐饮主业无关。此举反映出AI概念正渗透至传统行业。",
-    "date": "2026-07-02 20:44",
-    "timestamp": 1783025049.9340863
   }
 ]
