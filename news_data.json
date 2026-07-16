@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google’s AI Mode now lets you link and interact with select apps",
+    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+    "summary": "谷歌最新更新将AI模式从单纯回答问题扩展至跨常用应用的自主任务执行，实现更主动的交互体验。",
+    "date": "2026-07-16 16:51",
+    "timestamp": 1784220708.7173803
+  },
+  {
+    "title": "Yes, you can now order DoorDash from the command line",
+    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
+    "summary": "DoorDash推出dd-cli命令行工具测试版，支持开发者及AI代理在终端中搜索店铺、构建购物车并下单，标志着软件设计正从面向人类转向适配AI代理。",
+    "date": "2026-07-16 16:51",
+    "timestamp": 1784220710.2374055
+  },
+  {
+    "title": "Why is OpenAI selling a ChatGPT basketball?",
+    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
+    "summary": "OpenAI于本周发布首款硬件产品，此外还推出了ChatGPT篮球互动设备。",
+    "date": "2026-07-16 16:51",
+    "timestamp": 1784220711.5159144
+  },
+  {
     "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
     "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Midjourney在与三家好莱坞制片厂的法律纠纷中，要求对方公开其自身使用AI技术的具体方式，以推动案件审理。",
     "date": "2026-07-04 19:50",
     "timestamp": 1783194637.499571
-  },
-  {
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "阿里巴巴已将Claude Code列为高风险软件。",
-    "date": "2026-07-04 17:40",
-    "timestamp": 1783186856.6066155
-  },
-  {
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219786590.jpg?w=1024",
-    "summary": "Mistral AI自2023年成立以来，凭借开源AI模型获得大额融资，致力于“让前沿AI普及大众”。",
-    "date": "2026-07-04 17:40",
-    "timestamp": 1783186858.0696273
-  },
-  {
-    "title": "The only AI glossary you’ll need this year",
-    "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
-    "summary": "人工智能的兴起带来大量新术语和俚语。以下词汇表收录了一些你可能遇到的重要词语和短语的定义。",
-    "date": "2026-07-03 22:39",
-    "timestamp": 1783118367.439701
   }
 ]
