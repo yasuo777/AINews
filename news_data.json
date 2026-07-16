@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google Vids now lets you star in your own AI videos",
+    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
+    "summary": "谷歌为Vids应用新增个性化AI虚拟形象功能，用户可生成数字分身制作视频，并借助Gemini Omni工具通过提示词和参考图像完成视频创作与编辑。",
+    "date": "2026-07-16 18:44",
+    "timestamp": 1784227495.3738844
+  },
+  {
+    "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+    "summary": "Roblox推出新功能“Build”，用户仅需输入一条文本指令，即可生成基础游戏。此举旨在降低游戏创作门槛，提升平台内容生成效率。",
+    "date": "2026-07-16 18:44",
+    "timestamp": 1784227496.6236994
+  },
+  {
     "title": "Google’s AI Mode now lets you link and interact with select apps",
     "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "亚马逊旗下众包平台“机械土耳其人”或面临终结，其作为低成本灵活劳动市场的重要地位正受到挑战。",
     "date": "2026-07-05 18:41",
     "timestamp": 1783276912.2099297
-  },
-  {
-    "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-    "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
-    "summary": "美国《独立宣言》签署250周年之际，一则新广告设想：若开国元勋当年可用Google Workspace，历史将如何不同？",
-    "date": "2026-07-04 21:36",
-    "timestamp": 1783201013.4250424
-  },
-  {
-    "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-    "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-    "summary": "Midjourney在与三家好莱坞制片厂的法律纠纷中，要求对方公开其自身使用AI技术的具体方式，以推动案件审理。",
-    "date": "2026-07-04 19:50",
-    "timestamp": 1783194637.499571
   }
 ]
