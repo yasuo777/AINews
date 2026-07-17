@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Zoom hack that says, ‘Don’t record me’",
+    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806",
+    "summary": "若每一场会议、闲谈与约会都被转录总结，究竟谁在真正阅读这些内容？",
+    "date": "2026-07-17 21:29",
+    "timestamp": 1784323746.2632666
+  },
+  {
+    "title": "Agility Robotics plants its flag in Tesla’s backyard",
+    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
+    "summary": "Agility在美国加州弗里蒙特开设了新的Digit机器人培训中心，以支持其人形机器人的部署与操作培训。",
+    "date": "2026-07-17 21:29",
+    "timestamp": 1784323747.3155258
+  },
+  {
+    "title": "AI-driven memory crunch jolts India’s smartphone market",
+    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
+    "summary": "印度智能手机市场放缓，凸显了人工智能热潮正从定价、需求到企业战略等多个维度重塑消费电子行业格局。",
+    "date": "2026-07-17 21:29",
+    "timestamp": 1784323748.3534303
+  },
+  {
     "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
     "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "SK海力士因AI需求实现业务繁荣，预计于本周五在美进行数十亿美元的IPO上市。",
     "date": "2026-07-07 01:21",
     "timestamp": 1783387264.771285
-  },
-  {
-    "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-    "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?resize=1200,800",
-    "summary": "Guillermo Rauch向TechCrunch表示，在生产优化中，需优先考量性价比。",
-    "date": "2026-07-06 21:13",
-    "timestamp": 1783372420.975923
-  },
-  {
-    "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-    "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
-    "summary": "新版控制功能允许用户调节Siri的语速及语音表现力，提升交互灵活性。",
-    "date": "2026-07-06 19:21",
-    "timestamp": 1783365690.476573
-  },
-  {
-    "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-    "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
-    "summary": "以下为今年因AI因素宣布大规模裁员的科技公司概览（按时间倒序排列）。",
-    "date": "2026-07-06 19:21",
-    "timestamp": 1783365691.9864807
   }
 ]
