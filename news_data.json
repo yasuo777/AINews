@@ -1,5 +1,21 @@
 [
   {
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "苹果于上周五对OpenAI提起商业秘密诉讼，指控其存在不当行为，甚至牵涉到首席硬件官，并称有超过400名前苹果员工现任职于OpenAI。OpenAI回应谨慎，而该公司正考虑IPO，时机对其极为不利。",
+    "date": "2026-07-17 18:38",
+    "timestamp": 1784313525.6528156
+  },
+  {
+    "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+    "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "summary": "苹果公司上周五对OpenAI提起商业秘密诉讼，指控其存在不当行为，涉及OpenAI首席硬件官及超过400名前苹果员工。OpenAI回应谨慎，正值其考虑IPO之际，时机对其不利。",
+    "date": "2026-07-17 18:38",
+    "timestamp": 1784313526.9595118
+  },
+  {
     "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
     "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "以下为今年因AI因素宣布大规模裁员的科技公司概览（按时间倒序排列）。",
     "date": "2026-07-06 19:21",
     "timestamp": 1783365691.9864807
-  },
-  {
-    "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
-    "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-    "summary": "谷歌近日更新隐私设置，允许其利用更多用户数据训练AI。用户可通过调整设置选择退出，以保护个人数据不被用于AI训练。",
-    "date": "2026-07-06 19:21",
-    "timestamp": 1783365693.6646795
-  },
-  {
-    "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
-    "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/microsoft-logo.jpg?resize=1200,800",
-    "summary": "微软于周一裁减约4800个岗位（占全球员工2.1%），其中Xbox及商业销售部门受冲击最重。此次裁员加剧了外界对AI替代就业的担忧。",
-    "date": "2026-07-06 16:43",
-    "timestamp": 1783356206.9016767
   }
 ]
