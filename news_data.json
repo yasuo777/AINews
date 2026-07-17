@@ -1,5 +1,13 @@
 [
   {
+    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+    "summary": "Databricks转型为人工智能公司，并发布研究称开放权重AI模型可有效降低编程成本。",
+    "date": "2026-07-17 22:28",
+    "timestamp": 1784327316.640602
+  },
+  {
     "title": "The Zoom hack that says, ‘Don’t record me’",
     "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806",
@@ -790,13 +798,5 @@
     "summary": "AI代理首次实际执行了勒索软件攻击的技术环节，但新细节显示，仍是人类选择目标、搭建基础设施并提供窃取的凭证——这并非上周报道所称的完全自主网络犯罪首例。",
     "date": "2026-07-07 01:21",
     "timestamp": 1783387263.4065864
-  },
-  {
-    "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-    "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-    "summary": "SK海力士因AI需求实现业务繁荣，预计于本周五在美进行数十亿美元的IPO上市。",
-    "date": "2026-07-07 01:21",
-    "timestamp": 1783387264.771285
   }
 ]
