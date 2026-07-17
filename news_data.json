@@ -1,5 +1,13 @@
 [
   {
+    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+    "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
+    "summary": "Patreon与Cloudflare合作，主动拦截未经授权抓取创作者内容训练AI模型的机器人，从依赖robots.txt转向更积极的防御策略。",
+    "date": "2026-07-17 16:44",
+    "timestamp": 1784306643.8578763
+  },
+  {
     "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
     "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "微软于周一裁减约4800个岗位（占全球员工2.1%），其中Xbox及商业销售部门受冲击最重。此次裁员加剧了外界对AI替代就业的担忧。",
     "date": "2026-07-06 16:43",
     "timestamp": 1783356206.9016767
-  },
-  {
-    "title": "Station F ramps up as a launchpad for Europe’s hottest AI startups",
-    "link": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/STATION-F-Master-stage-_-Credits-Patrick-Tourneboeuf.jpg?resize=1200,800",
-    "summary": "法国亿万富翁泽维尔·尼尔创立的巴黎初创企业枢纽Station F即将启动新一期F/ai加速器项目，旨在巩固其作为人工智能初创企业成长平台的地位。",
-    "date": "2026-07-06 13:29",
-    "timestamp": 1783344563.6619925
   }
 ]
