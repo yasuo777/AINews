@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?resize=1200,800",
+    "summary": "一笔4亿美元的芯片抵押贷款标志着新一轮人工智能基础设施交易的到来。",
+    "date": "2026-07-17 12:45",
+    "timestamp": 1784292351.0973768
+  },
+  {
     "title": "Google Vids now lets you star in your own AI videos",
     "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
@@ -790,13 +798,5 @@
     "summary": "法国亿万富翁泽维尔·尼尔创立的巴黎初创企业枢纽Station F即将启动新一期F/ai加速器项目，旨在巩固其作为人工智能初创企业成长平台的地位。",
     "date": "2026-07-06 13:29",
     "timestamp": 1783344563.6619925
-  },
-  {
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840",
-    "summary": "亚马逊旗下众包平台“机械土耳其人”或面临终结，其作为低成本灵活劳动市场的重要地位正受到挑战。",
-    "date": "2026-07-05 18:41",
-    "timestamp": 1783276912.2099297
   }
 ]
