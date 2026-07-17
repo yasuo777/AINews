@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
+    "summary": "Vertu奢华折叠手机的日常体验涵盖了AI工作流、续航表现与安全功能，整体呈现专业科技与高端工艺的融合。",
+    "date": "2026-07-17 23:31",
+    "timestamp": 1784331076.6603584
+  },
+  {
     "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
     "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Forterra has deployed more than 100",
     "date": "2026-07-07 10:08",
     "timestamp": 1783418884.9955614
-  },
-  {
-    "title": "The ‘first’ AI-run ransomware attack still needed a human",
-    "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ransomware-attack.png?resize=1200,686",
-    "summary": "AI代理首次实际执行了勒索软件攻击的技术环节，但新细节显示，仍是人类选择目标、搭建基础设施并提供窃取的凭证——这并非上周报道所称的完全自主网络犯罪首例。",
-    "date": "2026-07-07 01:21",
-    "timestamp": 1783387263.4065864
   }
 ]
