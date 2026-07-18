@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kimi: Threat or menace?",
+    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+    "summary": "中国初创公司月之暗面本周发布新版Kimi模型，引发对“完全AI共产主义”的讨论。",
+    "date": "2026-07-18 19:49",
+    "timestamp": 1784404142.8406734
+  },
+  {
     "title": "Neil Rimer thinks the AI money is coming back out",
     "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
@@ -790,13 +798,5 @@
     "summary": "本次更新后，用户可在桌面端启动任务，通过手机获取状态更新，并在笔记本合盖后随时获取最终输出。",
     "date": "2026-07-07 18:34",
     "timestamp": 1783449263.9748578
-  },
-  {
-    "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-    "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Patrick_and_Ryan_Coughlin-1.jpg?resize=847,1200",
-    "summary": "该公司近日完成700万美元种子轮融资，并计划于周二在iPhone和Android平台同步上线其应用。",
-    "date": "2026-07-07 13:02",
-    "timestamp": 1783429364.5543451
   }
 ]
