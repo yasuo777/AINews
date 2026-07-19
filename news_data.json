@@ -1,5 +1,13 @@
 [
   {
+    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
+    "summary": "\"Everybody knows the Greeks are inside.\"",
+    "date": "2026-07-19 15:35",
+    "timestamp": 1784475307.2519882
+  },
+  {
     "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
     "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
@@ -790,13 +798,5 @@
     "summary": "微软成为最新一家缩减AI支出的硅谷巨头。",
     "date": "2026-07-07 20:30",
     "timestamp": 1783456219.9697912
-  },
-  {
-    "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
-    "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/discord-app-logo.jpg?resize=1200,800",
-    "summary": "公司确认该问题自5月起已影响账户，上周末又有200名用户被封禁，随后团队发现并修复了问题。",
-    "date": "2026-07-07 20:30",
-    "timestamp": 1783456221.003358
   }
 ]
