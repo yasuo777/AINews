@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
+    "summary": "Current AI是一个致力于文化包容的非营利组织，在设备适配、AI对话等领域取得显著进展，推动人工智能不落下任何文化背景。",
+    "date": "2026-07-19 14:09",
+    "timestamp": 1784470191.4865844
+  },
+  {
     "title": "Kimi: Threat or menace?",
     "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "公司确认该问题自5月起已影响账户，上周末又有200名用户被封禁，随后团队发现并修复了问题。",
     "date": "2026-07-07 20:30",
     "timestamp": 1783456221.003358
-  },
-  {
-    "title": "Claude Cowork expands to mobile and web",
-    "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Cowork-Web-Mobile-Press-alt-Claude-logo-1920x1080-1.png?resize=1200,675",
-    "summary": "本次更新后，用户可在桌面端启动任务，通过手机获取状态更新，并在笔记本合盖后随时获取最终输出。",
-    "date": "2026-07-07 18:34",
-    "timestamp": 1783449263.9748578
   }
 ]
