@@ -1,5 +1,13 @@
 [
   {
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
+    "summary": "苹果对OpenAI提起的诉讼可能影响其硬件布局与上市计划，引发业界对其前景的讨论。",
+    "date": "2026-07-19 19:51",
+    "timestamp": 1784490684.8242998
+  },
+  {
     "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
     "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "开源模型与前沿实验室并非此消彼长，而是分别对应同一生命周期的两个阶段。",
     "date": "2026-07-07 20:30",
     "timestamp": 1783456219.06456
-  },
-  {
-    "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
-    "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
-    "summary": "微软成为最新一家缩减AI支出的硅谷巨头。",
-    "date": "2026-07-07 20:30",
-    "timestamp": 1783456219.9697912
   }
 ]
