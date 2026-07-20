@@ -1,5 +1,13 @@
 [
   {
+    "title": "YouTube clarifies policies around AI slop and upsetting videos",
+    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?resize=1200,674",
+    "summary": "YouTube更新了变现政策，更明确界定AI生成及低质量内容无法获取广告收入，旨在提升内容质量与平台透明度。",
+    "date": "2026-07-20 15:31",
+    "timestamp": 1784561472.7449727
+  },
+  {
     "title": "Beyond grep: The case for a context-rich AI coding harness",
     "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
@@ -790,13 +798,5 @@
     "summary": "AI芯片公司SambaNova以110亿美元估值完成新一轮融资，数月前英特尔曾有意以约16亿美元收购该公司。",
     "date": "2026-07-08 07:57",
     "timestamp": 1783497424.2570076
-  },
-  {
-    "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
-    "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-1152x648.jpg",
-    "summary": "“HalluSquatting”利用大语言模型无法回答“不知道”的缺陷，通过诱导模型生成虚假信息，实施网络欺诈或传播错误内容，是一种新型安全威胁。",
-    "date": "2026-07-08 07:57",
-    "timestamp": 1783497427.030028
   }
 ]
