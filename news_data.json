@@ -1,5 +1,13 @@
 [
   {
+    "title": "Beyond grep: The case for a context-rich AI coding harness",
+    "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
+    "summary": "Augment Code的Vinay Perneti讨论了模型、工具链与上下文管理，强调三者协同对提升AI编程效率的关键作用。",
+    "date": "2026-07-20 11:26",
+    "timestamp": 1784546773.852326
+  },
+  {
     "title": "What to watch for after Jensen Huang’s Japan visit",
     "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/01/getty-japan-flag-distance.jpg?resize=1200,827",
@@ -790,13 +798,5 @@
     "summary": "“HalluSquatting”利用大语言模型无法回答“不知道”的缺陷，通过诱导模型生成虚假信息，实施网络欺诈或传播错误内容，是一种新型安全威胁。",
     "date": "2026-07-08 07:57",
     "timestamp": 1783497427.030028
-  },
-  {
-    "title": "Meta rolls out Muse, a new AI image generator",
-    "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-1.27.24-PM.png?resize=1200,930",
-    "summary": "该新型图像生成模型可应用于广告、装饰及创意孵化等多个专业领域，具备广泛的商业化前景。",
-    "date": "2026-07-07 23:33",
-    "timestamp": 1783467223.7186399
   }
 ]
