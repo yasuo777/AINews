@@ -1,5 +1,21 @@
 [
   {
+    "title": "Trump’s latest AI czar has already resigned",
+    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "自David Sacks离任后，人工智能标准与创新中心（CAISI）主任一职频繁更迭，已沦为“旋转门”岗位。",
+    "date": "2026-07-20 22:35",
+    "timestamp": 1784586906.1885798
+  },
+  {
+    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+    "summary": "据报道，谷歌母公司Alphabet正研发新芯片，旨在大幅提升其Gemini模型的运行效率。",
+    "date": "2026-07-20 22:35",
+    "timestamp": 1784586907.3393574
+  },
+  {
     "title": "AI’s most important protocol is getting a little bit easier to use",
     "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Meta为其AI眼镜新增反秘密录制功能，防止用户未经许可拍摄他人，但同时继续扩大AI产品对个人数据的收集与使用范围。",
     "date": "2026-07-08 18:04",
     "timestamp": 1783533883.8485615
-  },
-  {
-    "title": "OpenAI releases new voice models for more natural live conversations",
-    "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
-    "summary": "OpenAI宣布其新语音模式可实现同时听说，这一关键能力将支持实时翻译功能。",
-    "date": "2026-07-08 18:04",
-    "timestamp": 1783533885.393749
-  },
-  {
-    "title": "These AI startups are growing  revenue at faster and faster rates",
-    "link": "https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-177218217.jpg?resize=1200,776",
-    "summary": "多家快速增长的AI初创公司中，部分企业增速更为迅猛。",
-    "date": "2026-07-08 15:52",
-    "timestamp": 1783525952.1248238
   }
 ]
