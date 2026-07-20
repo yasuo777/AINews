@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI’s most important protocol is getting a little bit easier to use",
+    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
+    "summary": "模型上下文协议（MCP）是AI互操作性的基础组件，为AI模型提供安全访问外部数据与服务的标准方式，使聊天机器人可调用日历、数据库等工具，无需为每个连接定制开发接口。",
+    "date": "2026-07-20 20:51",
+    "timestamp": 1784580689.4348803
+  },
+  {
+    "title": "X relaunches a rebuilt Android app after year-long effort",
+    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+    "summary": "X宣布其Android应用的重构版本现已全球上线。（字数：18）",
+    "date": "2026-07-20 20:51",
+    "timestamp": 1784580690.7313075
+  },
+  {
+    "title": "OpenAI is scared of open-weight models. Should the US be?",
+    "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+    "summary": "关于禁止中国开源大语言模型的讨论，凸显了将AI商业化的困境。",
+    "date": "2026-07-20 20:51",
+    "timestamp": 1784580691.7735436
+  },
+  {
     "title": "YouTube clarifies policies around AI slop and upsetting videos",
     "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?resize=1200,674",
@@ -774,29 +798,5 @@
     "summary": "多家快速增长的AI初创公司中，部分企业增速更为迅猛。",
     "date": "2026-07-08 15:52",
     "timestamp": 1783525952.1248238
-  },
-  {
-    "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-    "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/kw_2019-1.jpg?resize=1198,1200",
-    "summary": "凯文·韦尔出任斯托克太空新职，表明可重复使用火箭正成为硅谷的新热点。",
-    "date": "2026-07-08 13:13",
-    "timestamp": 1783516420.3186345
-  },
-  {
-    "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
-    "link": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/ZML-founder-Steeve-Morin.jpg?resize=1200,800",
-    "summary": "ZML，这家获图灵奖得主Yann LeCun支持的法国AI初创公司，近日发布ZML/LLMD软件，可降低AI运行成本。",
-    "date": "2026-07-08 10:47",
-    "timestamp": 1783507646.5282056
-  },
-  {
-    "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
-    "link": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/chip__1_.png?w=940",
-    "summary": "AI芯片公司SambaNova以110亿美元估值完成新一轮融资，数月前英特尔曾有意以约16亿美元收购该公司。",
-    "date": "2026-07-08 07:57",
-    "timestamp": 1783497424.2570076
   }
 ]
