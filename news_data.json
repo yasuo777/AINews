@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "最终批准解决了个案，但并未根本解决使用受版权保护作品训练AI模型的更广泛问题。",
+    "date": "2026-07-21 01:05",
+    "timestamp": 1784595947.3517323
+  },
+  {
     "title": "Trump’s latest AI czar has already resigned",
     "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "大型语言模型（如ChatGPT、Claude）在文本处理上表现出色，但缺乏对空间和时间中物体运动的理解能力，而这正是实现通用人工智能（AGI）的关键。游戏数据可能弥补这一缺口，这也是初创公司General Intuition的核心策略。",
     "date": "2026-07-08 18:04",
     "timestamp": 1783533882.1624577
-  },
-  {
-    "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-    "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
-    "summary": "Meta为其AI眼镜新增反秘密录制功能，防止用户未经许可拍摄他人，但同时继续扩大AI产品对个人数据的收集与使用范围。",
-    "date": "2026-07-08 18:04",
-    "timestamp": 1783533883.8485615
   }
 ]
