@@ -1,5 +1,21 @@
 [
   {
+    "title": "Data centers expected to use 4x more electricity by 2035",
+    "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
+    "summary": "到2033年新建的数据中心可能消耗相当于当前印度全国的用电量。",
+    "date": "2026-07-21 18:52",
+    "timestamp": 1784659934.9097764
+  },
+  {
+    "title": "Google releases three new Gemini models — but no 3.5 Pro",
+    "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及Flash Cyber，但3.5 Pro的持续缺失引发对其AI战略的新质疑。",
+    "date": "2026-07-21 18:52",
+    "timestamp": 1784659936.169681
+  },
+  {
     "title": "US threatens sanctions against Chinese AI models over IP theft",
     "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1322017304.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "本周早些时候，一张显示肯塔基州参议员米奇·麦康奈尔在医院病床上插满管子的图片被证实为AI生成的虚假内容。",
     "date": "2026-07-08 21:46",
     "timestamp": 1783547200.353135
-  },
-  {
-    "title": "\"We cannot choose to become idiots\": The AI cheating scandal roiling Brown University",
-    "link": "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2261090247-1152x648.jpg",
-    "summary": "教授警告：依赖AI作弊将导致“失败社会”。",
-    "date": "2026-07-08 21:46",
-    "timestamp": 1783547201.8836133
-  },
-  {
-    "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-    "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
-    "summary": "埃隆·马斯克旗下科技公司于周三发布最新版Grok，称其较其他强大AI模型更廉价高效。",
-    "date": "2026-07-08 20:07",
-    "timestamp": 1783541231.8183212
   }
 ]
