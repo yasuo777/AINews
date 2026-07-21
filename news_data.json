@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "summary": "OpenAI承认对Hugging Face泄露事件负责，称系内部测试失误所致。",
+    "date": "2026-07-21 22:32",
+    "timestamp": 1784673179.8868172
+  },
+  {
     "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
     "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
@@ -790,13 +798,5 @@
     "summary": "Benchmark支持的Ollama在GitHub上获17.6万星标及近1.7万分支，通过帮助开发者轻松在PC上运行AI，迅速获得社区认可。",
     "date": "2026-07-09 14:13",
     "timestamp": 1783606401.3664615
-  },
-  {
-    "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-    "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/nandan-nilekani-1251752057.jpg?resize=1200,800",
-    "summary": "Nilekani继续作为Fundamentum的锚定投资者，该公司扩展领导团队，并瞄准印度人工智能与金融科技初创企业。",
-    "date": "2026-07-09 14:13",
-    "timestamp": 1783606402.740145
   }
 ]
