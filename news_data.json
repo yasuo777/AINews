@@ -1,5 +1,13 @@
 [
   {
+    "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
+    "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/gritt-machine-3.jpg?resize=1200,675",
+    "summary": "Gritt完成3400万美元融资，计划通过自动化技术攻克建筑工地最复杂工序，以专业方案推动行业升级。",
+    "date": "2026-07-21 10:47",
+    "timestamp": 1784630851.6433132
+  },
+  {
     "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
     "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "该功能可对视频进行电影级补光、替换背景或添加艺术风格，提升画面效果。",
     "date": "2026-07-08 20:07",
     "timestamp": 1783541234.5682914
-  },
-  {
-    "title": "Why this CEO thinks video games make better training data than the internet",
-    "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
-    "summary": "大型语言模型（如ChatGPT、Claude）在文本处理上表现出色，但缺乏对空间和时间中物体运动的理解能力，而这正是实现通用人工智能（AGI）的关键。游戏数据可能弥补这一缺口，这也是初创公司General Intuition的核心策略。",
-    "date": "2026-07-08 18:04",
-    "timestamp": 1783533882.1624577
   }
 ]
