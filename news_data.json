@@ -1,5 +1,13 @@
 [
   {
+    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+    "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Deezer-AIdetection.png?w=1200",
+    "summary": "Deezer 6月数据显示，该平台每日新增AI生成曲目超9万首，凸显人工智能内容在音乐流媒体领域的快速增长趋势。",
+    "date": "2026-07-21 15:23",
+    "timestamp": 1784647433.6619997
+  },
+  {
     "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
     "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/gritt-machine-3.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "通用直觉公司正投入数百万小时的游戏数据，用于训练物理AI的基础模型，从而通过最少真实世界数据构建更智能的机器人。",
     "date": "2026-07-08 20:07",
     "timestamp": 1783541233.2299879
-  },
-  {
-    "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-    "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
-    "summary": "该功能可对视频进行电影级补光、替换背景或添加艺术风格，提升画面效果。",
-    "date": "2026-07-08 20:07",
-    "timestamp": 1783541234.5682914
   }
 ]
