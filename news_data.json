@@ -1,5 +1,13 @@
 [
   {
+    "title": "US threatens sanctions against Chinese AI models over IP theft",
+    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1322017304.jpg?resize=1200,675",
+    "summary": "美国财政部长斯科特·贝森特表示，美方可能以所谓知识产权盗窃为由，制裁中国的开源AI模型，以进一步遏制中国人工智能发展。",
+    "date": "2026-07-21 16:59",
+    "timestamp": 1784653184.6122787
+  },
+  {
     "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
     "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/Deezer-AIdetection.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "埃隆·马斯克旗下科技公司于周三发布最新版Grok，称其较其他强大AI模型更廉价高效。",
     "date": "2026-07-08 20:07",
     "timestamp": 1783541231.8183212
-  },
-  {
-    "title": "This startup thinks robotics is about to have its ChatGPT moment",
-    "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
-    "summary": "通用直觉公司正投入数百万小时的游戏数据，用于训练物理AI的基础模型，从而通过最少真实世界数据构建更智能的机器人。",
-    "date": "2026-07-08 20:07",
-    "timestamp": 1783541233.2299879
   }
 ]
