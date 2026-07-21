@@ -1,5 +1,21 @@
 [
   {
+    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+    "summary": "Buzz是一款职场群聊平台，支持人类与AI智能体同场对话，整合协作沟通与智能交互功能。",
+    "date": "2026-07-21 20:47",
+    "timestamp": 1784666840.2779481
+  },
+  {
+    "title": "AI and the rise of the universal entertainment app",
+    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
+    "summary": "过去十年，流媒体平台以音乐、视频、播客等单一格式竞争。如今，随着AI简化内容创作与推荐，这些界限逐渐模糊，促使Spotify、Netflix、YouTube及TikTok转型为全能型娱乐平台。",
+    "date": "2026-07-21 20:47",
+    "timestamp": 1784666841.8437862
+  },
+  {
     "title": "Data centers expected to use 4x more electricity by 2035",
     "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Nilekani继续作为Fundamentum的锚定投资者，该公司扩展领导团队，并瞄准印度人工智能与金融科技初创企业。",
     "date": "2026-07-09 14:13",
     "timestamp": 1783606402.740145
-  },
-  {
-    "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-    "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
-    "summary": "据Sifted报道，本轮3亿美元融资预计由Menlo Ventures领投。",
-    "date": "2026-07-08 23:42",
-    "timestamp": 1783554134.3643718
-  },
-  {
-    "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-    "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
-    "summary": "本周早些时候，一张显示肯塔基州参议员米奇·麦康奈尔在医院病床上插满管子的图片被证实为AI生成的虚假内容。",
-    "date": "2026-07-08 21:46",
-    "timestamp": 1783547200.353135
   }
 ]
