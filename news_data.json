@@ -1,5 +1,13 @@
 [
   {
+    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
+    "summary": "以下为当前市面上部分旨在挑战Chrome与Safari的顶级替代浏览器概述。",
+    "date": "2026-07-22 15:21",
+    "timestamp": 1784733687.029073
+  },
+  {
     "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
     "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta向用户推广Spark的自动化能力，包括处理大规模代理任务、修复漏洞及代码迁移，满足企业日益依赖AI提供的自动化需求。",
     "date": "2026-07-09 21:05",
     "timestamp": 1783631145.0292614
-  },
-  {
-    "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
-    "link": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2187615188.jpg?resize=1200,800",
-    "summary": "新闻出版商指控OpenAI在诉讼中隐藏了可识别ChatGPT输出中受版权保护的新闻内容的数据集和工具，要求法院对其施加制裁。",
-    "date": "2026-07-09 19:11",
-    "timestamp": 1783624302.821312
   }
 ]
