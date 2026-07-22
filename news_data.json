@@ -1,5 +1,21 @@
 [
   {
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
+    "summary": "Glow 正致力于应对企业内部因AI智能体与开发者工具快速普及而产生的新型端点风险。",
+    "date": "2026-07-22 10:49",
+    "timestamp": 1784717367.799452
+  },
+  {
+    "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+    "link": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roleplay-Sessions_Press-Kit_Product_01.png?resize=1200,675",
+    "summary": "Synthesia推出AI角色扮演训练平台，员工可通过AI化身练习职场对话，系统提供反馈、评分与分析，助力企业量化培训效果。",
+    "date": "2026-07-22 10:49",
+    "timestamp": 1784717368.9879963
+  },
+  {
     "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
     "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/whisper.png?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "谷歌虽禁止误导性广告，但允许利用AI生成合成或数字修改内容。此前仅要求选举广告披露，如今政策范围已扩展。",
     "date": "2026-07-09 19:11",
     "timestamp": 1783624304.1222103
-  },
-  {
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "link": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "该公司正利用资金在湾区设立办公室以争夺人才，从而“巩固其在全球领先AI生态系统核心的地位”。",
-    "date": "2026-07-09 19:11",
-    "timestamp": 1783624305.353456
-  },
-  {
-    "title": "Anthropic’s new Claude feature is quietly selling you on AI",
-    "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "summary": "Claude新推出的Reflect仪表板不仅可视化你的AI使用习惯，也在潜移默化中强化了你日常工作对Anthropic聊天机器人的依赖程度。",
-    "date": "2026-07-09 17:04",
-    "timestamp": 1783616646.821275
   }
 ]
