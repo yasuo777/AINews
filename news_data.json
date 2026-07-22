@@ -1,5 +1,13 @@
 [
   {
+    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
+    "summary": "德国初创公司Passionfroot完成1500万美元A轮融资，由Insight Partners领投。该公司致力于打造连接B2B创作者与品牌的市场平台。",
+    "date": "2026-07-22 13:08",
+    "timestamp": 1784725684.577437
+  },
+  {
     "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
     "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "新闻出版商指控OpenAI在诉讼中隐藏了可识别ChatGPT输出中受版权保护的新闻内容的数据集和工具，要求法院对其施加制裁。",
     "date": "2026-07-09 19:11",
     "timestamp": 1783624302.821312
-  },
-  {
-    "title": "Google will now disclose which ads are made with AI",
-    "link": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-    "summary": "谷歌虽禁止误导性广告，但允许利用AI生成合成或数字修改内容。此前仅要求选举广告披露，如今政策范围已扩展。",
-    "date": "2026-07-09 19:11",
-    "timestamp": 1783624304.1222103
   }
 ]
