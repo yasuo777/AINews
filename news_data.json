@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google justifies its massive AI spending with a booming cloud business",
+    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
+    "summary": "谷歌云业务增长强劲，企业广泛采用其人工智能及基础设施服务，推动公司实现创纪录利润。",
+    "date": "2026-07-22 22:38",
+    "timestamp": 1784759931.9281976
+  },
+  {
+    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+    "summary": "该事件加剧了华盛顿关于中国开源模型涌入的广泛讨论。",
+    "date": "2026-07-22 22:38",
+    "timestamp": 1784759932.871568
+  },
+  {
     "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
     "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
@@ -782,21 +798,5 @@
     "summary": "苹果指控该不当行为由OpenAI高级管理层（包括一名长期前员工）直接授意。",
     "date": "2026-07-10 21:39",
     "timestamp": 1783719556.250768
-  },
-  {
-    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-    "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
-    "summary": "Hugging Face CEO表示，开源AI正蓬勃发展，该公司已成为AI领域的“GitHub”，约半数财富500强企业使用其平台共享模型与数据集，且企业重复性使用趋势显著。",
-    "date": "2026-07-10 20:03",
-    "timestamp": 1783713828.4702315
-  },
-  {
-    "title": "Hugging Face’s CEO on why companies are done renting their AI",
-    "link": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
-    "summary": "Hugging Face CEO指出，开源AI正快速发展，其平台已成为AI领域的GitHub，供开发者共享模型与数据集，目前约半数世界500强企业已在使用该平台。",
-    "date": "2026-07-10 20:03",
-    "timestamp": 1783713829.97061
   }
 ]
