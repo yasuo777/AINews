@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta is testing an AI bedtime story app for people with no imagination",
+    "link": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2248543137.jpg?resize=1200,840",
+    "summary": "一家科技公司终于找到了一种方式，将人类最古老的消遣——运用想象力——外包出去。",
+    "date": "2026-07-22 01:05",
+    "timestamp": 1784682339.8444839
+  },
+  {
+    "title": "OpenAI says Hugging Face was breached by its pre-release models",
+    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "summary": "OpenAI承认Hugging Face入侵事件系其内部测试失误所致，并为此承担责任。",
+    "date": "2026-07-22 01:05",
+    "timestamp": 1784682341.2375803
+  },
+  {
     "title": "OpenAI says Hugging Face was breached by its own pre-release models",
     "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "三起大型AI企业IPO将创造的价值，超过2000年以来美国所有风投支持的企业退出价值总和。",
     "date": "2026-07-09 17:04",
     "timestamp": 1783616648.2751994
-  },
-  {
-    "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
-    "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/c.ai-Series-1.jpg?resize=1200,675",
-    "summary": "用户可与剧中角色互动、提问甚至演绎不同剧情，这一创新利用了公司的核心产品。",
-    "date": "2026-07-09 14:13",
-    "timestamp": 1783606399.9615986
-  },
-  {
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
-    "summary": "Benchmark支持的Ollama在GitHub上获17.6万星标及近1.7万分支，通过帮助开发者轻松在PC上运行AI，迅速获得社区认可。",
-    "date": "2026-07-09 14:13",
-    "timestamp": 1783606401.3664615
   }
 ]
