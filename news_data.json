@@ -1,5 +1,21 @@
 [
   {
+    "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+    "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
+    "summary": "Yope，一款聚焦亲友私密群组的社交应用，完成1230万美元种子轮融资。该平台不追逐创作者与算法推荐，而是押注于通过消息、照片分享及AI功能强化现实关系的小型私密社群。",
+    "date": "2026-07-22 18:45",
+    "timestamp": 1784745940.7153845
+  },
+  {
+    "title": "Monday.com lays off hundreds to focus on AI",
+    "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2259521127.jpg?w=1024",
+    "summary": "该公司宣布裁员20%（约630人），以推行更精简、专注的运营模式，并聚焦其AI工作平台的发展。",
+    "date": "2026-07-22 18:45",
+    "timestamp": 1784745941.7685535
+  },
+  {
     "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
     "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297448481.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "OpenAI新系列模型将继续为微软的办公与生产力应用套件提供支持。",
     "date": "2026-07-10 01:14",
     "timestamp": 1783646050.4998531
-  },
-  {
-    "title": "Fidji Simo steps down from OpenAI’s no. 2 role",
-    "link": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
-    "summary": "OpenAI二号高管Fidji Simo因医疗休假超预期，将辞去全职职务。此举正值公司筹备IPO、追赶Anthropic企业市场的关键节点，形成领导层真空。",
-    "date": "2026-07-10 01:14",
-    "timestamp": 1783646051.8661823
-  },
-  {
-    "title": "OpenAI launches its new family of models with GPT-5.6",
-    "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
-    "summary": "OpenAI最新模型系列在网络安全等多领域实现性能提升。",
-    "date": "2026-07-09 22:53",
-    "timestamp": 1783637581.7298903
   }
 ]
