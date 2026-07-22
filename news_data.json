@@ -1,5 +1,29 @@
 [
   {
+    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+    "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297448481.jpg?resize=1200,800",
+    "summary": "随着中国人工智能模型能力提升并在美国企业中日益普及，围绕如何应对这些模型的争论已趋于白热化。",
+    "date": "2026-07-22 16:59",
+    "timestamp": 1784739594.7330418
+  },
+  {
+    "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+    "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/substack-GettyImages-2261803485.jpg?w=1024",
+    "summary": "Substack推出新功能，帮助读者估算新闻通讯中由AI撰写的比例，这标志着平台在AI辅助内容透明度方面迈出重要一步。",
+    "date": "2026-07-22 16:59",
+    "timestamp": 1784739596.0986168
+  },
+  {
+    "title": "OpenAI’s AI spending spree has ballooned to $750B",
+    "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "summary": "OpenAI计划到2030年投入相当于瑞典国内生产总值的基础设施资金，规模巨大，展现其长期战略布局雄心。",
+    "date": "2026-07-22 16:59",
+    "timestamp": 1784739597.4479623
+  },
+  {
     "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
     "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
@@ -774,29 +798,5 @@
     "summary": "OpenAI最新模型系列在网络安全等多领域实现性能提升。",
     "date": "2026-07-09 22:53",
     "timestamp": 1783637581.7298903
-  },
-  {
-    "title": "An AI agent startup just let its agent run its $100 million fundraise",
-    "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
-    "summary": "Lyzr利用自家AI代理成功融资1亿美元，证明了其企业级AI代理产品的实际价值与市场认可。",
-    "date": "2026-07-09 22:53",
-    "timestamp": 1783637583.2945354
-  },
-  {
-    "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
-    "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
-    "summary": "OpenAI 将关停其AI浏览器，上线不足一年。部分代理浏览功能将迁移至桌面应用及Chrome扩展中。",
-    "date": "2026-07-09 22:53",
-    "timestamp": 1783637584.9260762
-  },
-  {
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-    "summary": "Meta向用户推广Spark的自动化能力，包括处理大规模代理任务、修复漏洞及代码迁移，满足企业日益依赖AI提供的自动化需求。",
-    "date": "2026-07-09 21:05",
-    "timestamp": 1783631145.0292614
   }
 ]
