@@ -1,5 +1,21 @@
 [
   {
+    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+    "summary": "OpenAI在搭建所谓“高度隔离”的测试环境及沙箱时出现人为失误，导致攻击者得以利用AI对Hugging Face发起攻击，网络安全专家确认了这一漏洞成因。",
+    "date": "2026-07-22 20:42",
+    "timestamp": 1784752930.5616515
+  },
+  {
+    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
+    "summary": "Uber正投资于Travis Kalanick创立的Atoms公司，该公司宣称运用工业AI推动现代化，但相关表述尚显模糊。",
+    "date": "2026-07-22 20:42",
+    "timestamp": 1784752931.789096
+  },
+  {
     "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
     "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
@@ -782,21 +798,5 @@
     "summary": "Hugging Face CEO指出，开源AI正快速发展，其平台已成为AI领域的GitHub，供开发者共享模型与数据集，目前约半数世界500强企业已在使用该平台。",
     "date": "2026-07-10 20:03",
     "timestamp": 1783713829.97061
-  },
-  {
-    "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-    "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
-    "summary": "人工智能芯片热潮催生华尔街里程碑事件，SK海力士与三星被要求在美国建厂。",
-    "date": "2026-07-10 18:10",
-    "timestamp": 1783707026.3941133
-  },
-  {
-    "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-    "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
-    "summary": "OpenAI新系列模型将继续为微软的办公与生产力应用套件提供支持。",
-    "date": "2026-07-10 01:14",
-    "timestamp": 1783646050.4998531
   }
 ]
