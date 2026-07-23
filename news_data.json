@@ -1,5 +1,21 @@
 [
   {
+    "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
+    "summary": "AMD将于今年晚些时候向客户出货全新机架级系统，以此挑战其芯片制造商竞争对手。该系统定位高端计算领域，旨在提升性能与能效。",
+    "date": "2026-07-23 20:39",
+    "timestamp": 1784839196.983781
+  },
+  {
+    "title": "Anthropic updates Claude voice mode with more capable models",
+    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
+    "summary": "Claude推出新语音模型，用户可通过语音指令重新安排会议或撰写邮件，提升了交互效率与工作便捷性。",
+    "date": "2026-07-23 20:39",
+    "timestamp": 1784839198.4150903
+  },
+  {
     "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
     "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "该公司计划利用这笔资金扩展其世界模型产品，并拓展全球客户市场。",
     "date": "2026-07-14 01:00",
     "timestamp": 1783990847.208245
-  },
-  {
-    "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-    "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
-    "summary": "该公司正筹集至少7500万美元，由Robot领投，USV及其他知名投资者参与，融资进展顺利。",
-    "date": "2026-07-13 23:31",
-    "timestamp": 1783985514.0731728
-  },
-  {
-    "title": "Satya Nadella has issued a shocking warning to companies using AI",
-    "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-    "summary": "硅谷AI界最担忧的是，大型AI实验室通过销售专有模型，可能像“特洛伊木马”一样带来潜在风险。",
-    "date": "2026-07-13 22:33",
-    "timestamp": 1783982005.4671648
   }
 ]
