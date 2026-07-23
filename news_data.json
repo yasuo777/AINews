@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+    "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+    "summary": "用户可将来自Apple Health、Function、MyFitnessPal等服务的个人数据整合使用。",
+    "date": "2026-07-23 17:02",
+    "timestamp": 1784826178.2474682
+  },
+  {
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "link": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
+    "summary": "Meta在一则广告中使用了David Bowie的歌曲《Five Years》，该歌曲讲述人类得知世界末日将至、仅剩五年寿命的故事。此举引发争议。",
+    "date": "2026-07-23 17:02",
+    "timestamp": 1784826179.4628167
+  },
+  {
+    "title": "Nvidia is sending GPUs to the moon",
+    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/MAPP-Testing.jpeg?w=640",
+    "summary": "英伟达正将GPU送往宇宙中任何缺少该设备的角落。",
+    "date": "2026-07-23 17:03",
+    "timestamp": 1784826180.6508477
+  },
+  {
     "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
     "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Claude在印度市场开始提供印度卢比计价的订阅套餐，用户已可查看相关价格方案。",
     "date": "2026-07-13 17:34",
     "timestamp": 1783964078.2767663
-  },
-  {
-    "title": "Simulating everything, sort of: The promise and limits of world models",
-    "link": "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/cracking-open-world-model-1152x648.jpg",
-    "summary": "专家介绍了其工作原理、现有功能及尚未解决的问题。",
-    "date": "2026-07-13 17:34",
-    "timestamp": 1783964079.968844
-  },
-  {
-    "title": "Waze adds new AI-powered features and customization updates",
-    "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
-    "summary": "基于谷歌Gemini AI驱动的新功能已上线Waze，这体现了谷歌将Gemini整合至全线产品、并借此提升Waze与苹果地图等竞品竞争力的战略布局。",
-    "date": "2026-07-13 15:32",
-    "timestamp": 1783956759.856691
-  },
-  {
-    "title": "Now, defenders are embracing the prompt injection, too",
-    "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-    "summary": "“情境炸弹”技术可诱骗黑客代理提前关闭，从而阻止其造成损害。此方法通过制造虚假环境触发恶意程序自毁，实现主动防御。",
-    "date": "2026-07-13 15:32",
-    "timestamp": 1783956762.0787349
   }
 ]
