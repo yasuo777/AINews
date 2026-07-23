@@ -1,5 +1,13 @@
 [
   {
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
+    "summary": "ServiceNow投资为BusinessNext提供了战略合作伙伴，助其将AI驱动的银行软件推向全球市场。",
+    "date": "2026-07-23 07:15",
+    "timestamp": 1784790928.1059303
+  },
+  {
     "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
     "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
@@ -790,13 +798,5 @@
     "summary": "根据一则招聘信息，ChatGPT正在招聘专门的产品经理，负责为家庭、看护者及老年人设计产品体验。",
     "date": "2026-07-11 15:35",
     "timestamp": 1783784131.743849
-  },
-  {
-    "title": "Meta removes controversial AI feature on Instagram after backlash",
-    "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/instagram-header.jpg?resize=1200,800",
-    "summary": "该公司表示，原意是提供有用的创意工具并赋予用户对其公开内容是否被引用的控制权，但该功能未达预期，现已下架。",
-    "date": "2026-07-11 01:07",
-    "timestamp": 1783732059.9404466
   }
 ]
