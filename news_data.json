@@ -1,5 +1,13 @@
 [
   {
+    "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+    "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
+    "summary": "上周IBM因大型机销售疲软预警导致股价暴跌，首席执行官解释称，人工智能暂时扰乱了企业硬件预算。",
+    "date": "2026-07-23 03:58",
+    "timestamp": 1784779083.9607134
+  },
+  {
     "title": "Google justifies its massive AI spending with a booming cloud business",
     "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该公司表示，原意是提供有用的创意工具并赋予用户对其公开内容是否被引用的控制权，但该功能未达预期，现已下架。",
     "date": "2026-07-11 01:07",
     "timestamp": 1783732059.9404466
-  },
-  {
-    "title": "Apple sues OpenAI over alleged trade secret theft",
-    "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-    "summary": "苹果指控该不当行为由OpenAI高级管理层（包括一名长期前员工）直接授意。",
-    "date": "2026-07-10 21:39",
-    "timestamp": 1783719556.250768
   }
 ]
