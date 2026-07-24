@@ -1,5 +1,13 @@
 [
   {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's bigges...",
+    "date": "2026-07-24 23:40",
+    "timestamp": 1784936412.9738846
+  },
+  {
     "title": "Canadian legislator reads out apparent LLM response in floor speech",
     "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
@@ -790,13 +798,5 @@
     "summary": "哈切特、圣智、爱思唯尔等出版商指控谷歌未经授权使用其受版权保护的作品训练人工智能模型。",
     "date": "2026-07-14 18:45",
     "timestamp": 1784054709.4972484
-  },
-  {
-    "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-    "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
-    "summary": "DeepMind CEO Demis Hassabis提议效仿美国金融业监管局（FINRA）模式，建立AI标准机构，负责测试前沿模型并制定发布最佳实践。",
-    "date": "2026-07-14 18:45",
-    "timestamp": 1784054710.9627004
   }
 ]
