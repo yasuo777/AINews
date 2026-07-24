@@ -1,5 +1,13 @@
 [
   {
+    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
+    "summary": "与多位网络安全研究人员交流后获悉，OpenAI和Anthropic的安全护栏对其挖掘未知漏洞及开发利用工具的工作产生了影响。",
+    "date": "2026-07-24 04:52",
+    "timestamp": 1784868778.7829957
+  },
+  {
     "title": "AMD takes on Nvidia with its Helios AI rack scale system",
     "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Uber首席产品官Sachin Kansal向TechCrunch阐述了公司在金融服务领域的布局、与Waymo日益复杂的合作关系、新成立的自动驾驶数据实验室，以及人工智能在乘客和司机体验中的实际应用。",
     "date": "2026-07-14 01:00",
     "timestamp": 1783990846.238663
-  },
-  {
-    "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-    "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/69c14912d8f2b4b74d7b13ba_Copy-of-Red-Yellow-Retro-Vibrant-2025-Monthly-Calendar-1280-x-720-px-1200-x-630-px-8.jpeg?w=1200",
-    "summary": "该公司计划利用这笔资金扩展其世界模型产品，并拓展全球客户市场。",
-    "date": "2026-07-14 01:00",
-    "timestamp": 1783990847.208245
   }
 ]
