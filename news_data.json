@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+    "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "ChatGPT桌面版语音功能现已支持与ChatGPT Work及Codex协同，完成各类任务并操控智能代理。",
+    "date": "2026-07-24 14:23",
+    "timestamp": 1784903024.1371922
+  },
+  {
+    "title": "AI firms want more data centers; Trump's EPA may give neighbors less say",
+    "link": "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-2113285214-1152x648.jpg",
+    "summary": "美国拟出台新规，允许各州自行决定公众参与环境保护的程度（甚至可以完全取消公众意见征询环节）。该规则旨在削弱联邦监督，赋予州政府更大自主权。",
+    "date": "2026-07-24 14:23",
+    "timestamp": 1784903026.1318383
+  },
+  {
     "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
     "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Spotify为Premium用户推出AI对话功能，支持通过聊天发现音乐、播客及有声书等内容，提升个性化体验。",
     "date": "2026-07-14 15:09",
     "timestamp": 1784041786.333912
-  },
-  {
-    "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-    "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/53679979052_da1066fe91_o.jpg?w=1200",
-    "summary": "他们再次积极投入，似乎既担心错过AI的关键发展阶段，也难抵巨额盈利的诱惑。",
-    "date": "2026-07-14 04:33",
-    "timestamp": 1784003603.4245174
-  },
-  {
-    "title": "Uber’s product chief on hotels, robotaxis, and why the company doesn’t want to be “everything for everyone”",
-    "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Sachin-Kansal.jpg?w=1024",
-    "summary": "Uber首席产品官Sachin Kansal向TechCrunch阐述了公司在金融服务领域的布局、与Waymo日益复杂的合作关系、新成立的自动驾驶数据实验室，以及人工智能在乘客和司机体验中的实际应用。",
-    "date": "2026-07-14 01:00",
-    "timestamp": 1783990846.238663
   }
 ]
