@@ -1,5 +1,37 @@
 [
   {
+    "title": "Anthropic launches Opus 5",
+    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
+    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use...",
+    "date": "2026-07-24 18:03",
+    "timestamp": 1784916238.871301
+  },
+  {
+    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
+    "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-we...",
+    "date": "2026-07-24 18:03",
+    "timestamp": 1784916239.35395
+  },
+  {
+    "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+    "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/attie-logo.webp?w=1200",
+    "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on...",
+    "date": "2026-07-24 18:03",
+    "timestamp": 1784916239.893168
+  },
+  {
+    "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
+    "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2239702658-1152x648.jpg",
+    "summary": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes....",
+    "date": "2026-07-24 18:04",
+    "timestamp": 1784916241.3254435
+  },
+  {
     "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
     "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
@@ -766,37 +798,5 @@
     "summary": "谷歌图片搜索新增“为你推荐”功能，用户登录后将看到基于其兴趣和浏览历史定制的图片画廊，提升个性化浏览体验。",
     "date": "2026-07-14 16:49",
     "timestamp": 1784047752.7415285
-  },
-  {
-    "title": "New York State halts construction of all new data centers",
-    "link": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-1234626394.jpg?resize=1200,800",
-    "summary": "纽约州成为首个暂停批准大型数据中心的州，州长霍楚尔表示，AI驱动的建设热潮不应以增加电费、耗水和削弱地方控制为代价。",
-    "date": "2026-07-14 16:49",
-    "timestamp": 1784047754.2154315
-  },
-  {
-    "title": "Reflection inks $1B compute deal with Nebius",
-    "link": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/03/cash-in-mattress-e1685738668559.jpg?resize=1200,701",
-    "summary": "Reflection AI与Nebius签署价值10亿美元计算资源协议。该公司成立于2024年，专注于开源AI技术研发。",
-    "date": "2026-07-14 15:09",
-    "timestamp": 1784041783.189554
-  },
-  {
-    "title": "The real AI race may no longer be at the frontier",
-    "link": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-    "summary": "Hugging Face CEO指出，企业因成本、可及性和所有权优势，日益倾向选择开源模型。若大部分AI生产应用转向开源，前沿模型的重要性或将下降。",
-    "date": "2026-07-14 15:09",
-    "timestamp": 1784041784.741714
-  },
-  {
-    "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-    "link": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/You-can-now-talk-to-Spotify_FTR-blog-header.png?resize=1200,489",
-    "summary": "Spotify为Premium用户推出AI对话功能，支持通过聊天发现音乐、播客及有声书等内容，提升个性化体验。",
-    "date": "2026-07-14 15:09",
-    "timestamp": 1784041786.333912
   }
 ]
