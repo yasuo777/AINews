@@ -1,5 +1,13 @@
 [
   {
+    "title": "Canadian legislator reads out apparent LLM response in floor speech",
+    "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
+    "summary": "\"Here’s a more natural, flowing version of that section...\"...",
+    "date": "2026-07-24 21:42",
+    "timestamp": 1784929347.4450321
+  },
+  {
     "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
     "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
@@ -790,13 +798,5 @@
     "summary": "DeepMind CEO Demis Hassabis提议效仿美国金融业监管局（FINRA）模式，建立AI标准机构，负责测试前沿模型并制定发布最佳实践。",
     "date": "2026-07-14 18:45",
     "timestamp": 1784054710.9627004
-  },
-  {
-    "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
-    "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
-    "summary": "Instagram负责人亚当·莫塞里认为，未来企业将需像管理薪资或运营成本一样，管控AI代币支出。他预测，工程师使用AI工具的费用或将很快受到限制。",
-    "date": "2026-07-14 16:49",
-    "timestamp": 1784047751.5735378
   }
 ]
