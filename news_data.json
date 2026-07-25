@@ -1,5 +1,13 @@
 [
   {
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand....",
+    "date": "2026-07-25 16:30",
+    "timestamp": 1784997034.191697
+  },
+  {
     "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
     "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
@@ -790,13 +798,5 @@
     "summary": "社交媒体传言称GPT-5.6 Sol未经提示删除文件与数据，但OpenAI已于6月基本披露该问题。",
     "date": "2026-07-14 22:36",
     "timestamp": 1784068613.8842447
-  },
-  {
-    "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-    "link": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
-    "summary": "苹果于周二发布了iOS 27公测版，用户无需安装开发者测试版即可提前体验AI升级后的Siri及其他新功能，正式版将于今秋推出。",
-    "date": "2026-07-14 20:41",
-    "timestamp": 1784061671.928872
   }
 ]
