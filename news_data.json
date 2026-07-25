@@ -1,5 +1,13 @@
 [
   {
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions....",
+    "date": "2026-07-25 14:48",
+    "timestamp": 1784990901.2412202
+  },
+  {
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "苹果于周二发布了iOS 27公测版，用户无需安装开发者测试版即可提前体验AI升级后的Siri及其他新功能，正式版将于今秋推出。",
     "date": "2026-07-14 20:41",
     "timestamp": 1784061671.928872
-  },
-  {
-    "title": "Anthropic’s newest ad is creeping people out",
-    "link": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "Anthropic持续塑造自身为AI行业的道德标杆，其最新营销策略借批评AI来凸显企业责任感，本质上与以往做法无异。",
-    "date": "2026-07-14 20:41",
-    "timestamp": 1784061673.2675948
   }
 ]
