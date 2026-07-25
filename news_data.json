@@ -1,5 +1,21 @@
 [
   {
+    "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+    "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Micro.webp?resize=1200,800",
+    "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going...",
+    "date": "2026-07-25 01:10",
+    "timestamp": 1784941834.6022725
+  },
+  {
+    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
+    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's bigges...",
+    "date": "2026-07-25 01:10",
+    "timestamp": 1784941835.0777361
+  },
+  {
     "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
     "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
@@ -782,21 +798,5 @@
     "summary": "Anthropic持续塑造自身为AI行业的道德标杆，其最新营销策略借批评AI来凸显企业责任感，本质上与以往做法无异。",
     "date": "2026-07-14 20:41",
     "timestamp": 1784061673.2675948
-  },
-  {
-    "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-    "link": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-960137688.jpg?resize=1200,600",
-    "summary": "Overtone自称“由AI驱动的语音与音频服务，提供高度精选的人脉介绍”，专注于语音交互与专业匹配。",
-    "date": "2026-07-14 20:41",
-    "timestamp": 1784061674.5498884
-  },
-  {
-    "title": "Google faces another AI training lawsuit from major publishers",
-    "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "summary": "哈切特、圣智、爱思唯尔等出版商指控谷歌未经授权使用其受版权保护的作品训练人工智能模型。",
-    "date": "2026-07-14 18:45",
-    "timestamp": 1784054709.4972484
   }
 ]
