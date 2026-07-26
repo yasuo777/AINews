@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+    "summary": "首例自主智能体网络攻击事件史无前例，需采取前所未有的应对措施。",
+    "date": "2026-07-26 17:40",
+    "timestamp": 1785087642.691443
+  },
+  {
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI计划推出首款硬件设备：一款无屏幕、可移动的AI智能音箱。该产品定位新颖，主打AI引导与交互功能。",
     "date": "2026-07-14 22:36",
     "timestamp": 1784068611.6747766
-  },
-  {
-    "title": "OpenAI pushes back on Apple trade secret lawsuit",
-    "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "OpenAI再次就诉讼发表声明，称该诉讼缺乏法律依据。",
-    "date": "2026-07-14 22:36",
-    "timestamp": 1784068612.5763614
   }
 ]
