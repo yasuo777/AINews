@@ -1,5 +1,13 @@
 [
   {
+    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced s...",
+    "date": "2026-07-26 05:02",
+    "timestamp": 1785042179.4682992
+  },
+  {
     "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
     "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
@@ -790,13 +798,5 @@
     "summary": "OpenAI再次就诉讼发表声明，称该诉讼缺乏法律依据。",
     "date": "2026-07-14 22:36",
     "timestamp": 1784068612.5763614
-  },
-  {
-    "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-    "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "社交媒体传言称GPT-5.6 Sol未经提示删除文件与数据，但OpenAI已于6月基本披露该问题。",
-    "date": "2026-07-14 22:36",
-    "timestamp": 1784068613.8842447
   }
 ]
