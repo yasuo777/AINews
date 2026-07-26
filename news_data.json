@@ -1,5 +1,13 @@
 [
   {
+    "title": "Making sense of the panic over Chinese AI",
+    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+    "summary": "在最新一期《Equity》节目中，我们探讨了为何月之暗面的Kimi引发了硅谷与华尔街的恐慌情绪。",
+    "date": "2026-07-26 19:50",
+    "timestamp": 1785095415.8134634
+  },
+  {
     "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
     "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "歌手Lorde在演出时表示：“如今在这个世界，辨别真伪正变得越来越困难。”",
     "date": "2026-07-14 23:31",
     "timestamp": 1784071886.8988354
-  },
-  {
-    "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-    "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
-    "summary": "OpenAI计划推出首款硬件设备：一款无屏幕、可移动的AI智能音箱。该产品定位新颖，主打AI引导与交互功能。",
-    "date": "2026-07-14 22:36",
-    "timestamp": 1784068611.6747766
   }
 ]
