@@ -1,5 +1,29 @@
 [
   {
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
+    "summary": "这款售价9美元的NFC钥匙需通过物理扫描才能解锁手机上的干扰应用，以强制用户减少无意识刷手机的行为。",
+    "date": "2026-07-27 15:29",
+    "timestamp": 1785166173.0930536
+  },
+  {
+    "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+    "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/ilyausutskever-GettyImages.jpg?resize=1200,800",
+    "summary": "Safe Superintelligence在隐身两年后宣布与英伟达达成长期合作，准备进入下一发展阶段。",
+    "date": "2026-07-27 15:29",
+    "timestamp": 1785166174.2433968
+  },
+  {
+    "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+    "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Enigma-Founders-Natasha-Zeriker-1.jpg?resize=1200,801",
+    "summary": "该种子轮融资由Index Ventures和Ribbit Capital领投，Sarah Guo的Conviction Partners参投，金额巨大。",
+    "date": "2026-07-27 15:29",
+    "timestamp": 1785166175.5063007
+  },
+  {
     "title": "Are brain waves the next unlock for physical AI?",
     "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
@@ -774,29 +798,5 @@
     "summary": "Rime每月处理超过1亿通企业通话，支撑多家公司运营，展现其高并发能力和企业级服务稳定性。",
     "date": "2026-07-15 15:10",
     "timestamp": 1784128202.8890707
-  },
-  {
-    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-    "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
-    "summary": "该初创公司年化收入达1.2亿美元，付费客户超20万。",
-    "date": "2026-07-15 12:56",
-    "timestamp": 1784120200.4672189
-  },
-  {
-    "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-    "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
-    "summary": "TCP/IP协议创始人正推动一项新标准，旨在为AI智能体建立可识别的身份标识，以规范其在网络环境中的身份认证与追踪。",
-    "date": "2026-07-15 12:56",
-    "timestamp": 1784120201.7829413
-  },
-  {
-    "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-    "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/10/biotech-header.jpg?resize=1200,807",
-    "summary": "融资讨论显示，投资者对将人工智能应用于生命科学领域以实现突破充满兴趣。",
-    "date": "2026-07-15 00:57",
-    "timestamp": 1784077048.666015
   }
 ]
