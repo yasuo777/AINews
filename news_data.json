@@ -1,5 +1,13 @@
 [
   {
+    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/facepalm-statue.jpg?resize=1200,688",
+    "summary": "该问题源于Claude的“分享对话”功能，该功能允许用户生成链接，使任何获得链接的人均可查看相关对话或项目内容。",
+    "date": "2026-07-27 20:51",
+    "timestamp": 1785185519.5627553
+  },
+  {
     "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
     "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "该公司在过去一年半内低调建设AI基础设施后，首次公开发布成果证明。",
     "date": "2026-07-15 18:43",
     "timestamp": 1784140992.2916605
-  },
-  {
-    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-    "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
-    "summary": "黑客利用员工凭证访问源代码，暴露了Suno公司数十年间抓取音频数据的方式。",
-    "date": "2026-07-15 18:43",
-    "timestamp": 1784140993.2704492
   }
 ]
