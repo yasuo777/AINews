@@ -1,5 +1,21 @@
 [
   {
+    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
+    "summary": "纳德拉指出，缺乏自研模型或AI网关层（用于隔离提示与模型）的企业将面临困境。",
+    "date": "2026-07-27 22:39",
+    "timestamp": 1785191979.0410411
+  },
+  {
+    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
+    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
+    "summary": "微软表示，其工具成本低于竞品，性能表现更优。",
+    "date": "2026-07-27 22:39",
+    "timestamp": 1785191980.604398
+  },
+  {
     "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
     "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/facepalm-statue.jpg?resize=1200,688",
@@ -782,21 +798,5 @@
     "summary": "该股自IPO后高点持续回落，显示市场对马斯克此前承诺的乐观情绪正逐渐消退。",
     "date": "2026-07-15 20:39",
     "timestamp": 1784147977.0994248
-  },
-  {
-    "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-    "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/elon-musk-spacex-ipo-getty.jpg?resize=1200,800",
-    "summary": "该股自IPO后高位持续回落，表明市场对马斯克在上市前后所作承诺正趋于理性。",
-    "date": "2026-07-15 18:43",
-    "timestamp": 1784140991.204447
-  },
-  {
-    "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-    "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
-    "summary": "该公司在过去一年半内低调建设AI基础设施后，首次公开发布成果证明。",
-    "date": "2026-07-15 18:43",
-    "timestamp": 1784140992.2916605
   }
 ]
