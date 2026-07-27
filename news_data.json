@@ -1,5 +1,29 @@
 [
   {
+    "title": "Threads users can now chat with Meta AI in their DMs",
+    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
+    "summary": "Meta于周一宣布，已在Threads私信中推出Meta AI聊天机器人，用户可直接与AI助手进行对话。",
+    "date": "2026-07-27 17:20",
+    "timestamp": 1785172807.7577226
+  },
+  {
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/Sundar-AI-Overviews-IO-2024.png?resize=1200,698",
+    "summary": "Google的AI概览现出现在43%的搜索中，表明AI生成答案正快速成为用户在线获取信息的默认方式。",
+    "date": "2026-07-27 17:20",
+    "timestamp": 1785172808.700973
+  },
+  {
+    "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-smart-systems-stage.jpg?w=1200",
+    "summary": "在2026年TechCrunch Disrupt大会的智能系统专场中，将聚焦能源、基础设施与技术的交汇，涵盖核聚变突破及AI对经济电网带来的压力。",
+    "date": "2026-07-27 17:20",
+    "timestamp": 1785172810.0713027
+  },
+  {
     "title": "This $9 key physically locks your most addictive apps",
     "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
@@ -774,29 +798,5 @@
     "summary": "苹果携手阿里巴巴通过监管审批，将阿里通义千问AI模型引入其操作系统，标志着Apple Intelligence正式进入中国市场。这是苹果在关键市场扩展生成式AI平台的重要举措。",
     "date": "2026-07-15 16:53",
     "timestamp": 1784134418.1266978
-  },
-  {
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
-    "summary": "Anthropic支持的Ode公司正式成立。其核心策略是将前向部署工程师嵌入企业，以加速人工智能在企业端的应用落地。",
-    "date": "2026-07-15 15:10",
-    "timestamp": 1784128200.3358576
-  },
-  {
-    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?resize=1200,825",
-    "summary": "该应用专为希望制作社交内容但认为传统视频编辑工具过于复杂或耗时的用户设计。",
-    "date": "2026-07-15 15:10",
-    "timestamp": 1784128201.54726
-  },
-  {
-    "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-    "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Co-Founders-and-Rafael.jpeg?resize=1200,800",
-    "summary": "Rime每月处理超过1亿通企业通话，支撑多家公司运营，展现其高并发能力和企业级服务稳定性。",
-    "date": "2026-07-15 15:10",
-    "timestamp": 1784128202.8890707
   }
 ]
