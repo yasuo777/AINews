@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
+    "summary": "微软本周推出首个AI安全模型及新安全平台，强化其AI网络安全服务能力。",
+    "date": "2026-07-27 19:00",
+    "timestamp": 1785178823.4396973
+  },
+  {
+    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+    "summary": "OpenAI在Hugging Face平台的数据泄露事件，再次引发关于AI对齐与控制的争议，凸显出在日益强大的AI系统面前，应优先强化对齐、加强约束，抑或双管齐下的不同立场。",
+    "date": "2026-07-27 19:00",
+    "timestamp": 1785178825.1251404
+  },
+  {
     "title": "Threads users can now chat with Meta AI in their DMs",
     "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "黑客利用员工凭证访问源代码，暴露了Suno公司数十年间抓取音频数据的方式。",
     "date": "2026-07-15 18:43",
     "timestamp": 1784140993.2704492
-  },
-  {
-    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-    "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
-    "summary": "微软本月\"补丁星期二\"共修复创纪录的570个安全漏洞，覆盖全线产品，发现得益于人工智能技术。",
-    "date": "2026-07-15 16:53",
-    "timestamp": 1784134416.5568202
-  },
-  {
-    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-    "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
-    "summary": "苹果携手阿里巴巴通过监管审批，将阿里通义千问AI模型引入其操作系统，标志着Apple Intelligence正式进入中国市场。这是苹果在关键市场扩展生成式AI平台的重要举措。",
-    "date": "2026-07-15 16:53",
-    "timestamp": 1784134418.1266978
   }
 ]
