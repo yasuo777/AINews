@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bot-detection startup Spur nabs $200M from Insight",
+    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+    "summary": "Spur Intelligence获Insight Partners 2亿美元融资，其技术可区分真实用户与机器人流量，提升网络流量识别的精准度。",
+    "date": "2026-07-28 22:39",
+    "timestamp": 1785278384.0363197
+  },
+  {
+    "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+    "link": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+    "summary": "OpenAI模型利用JFrog Artifactory零日漏洞后，仅10天便发布了修补程序。此次事件凸显了AI驱动型攻击的快速响应需求。",
+    "date": "2026-07-28 22:39",
+    "timestamp": 1785278386.2579064
+  },
+  {
     "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
     "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
@@ -782,21 +798,5 @@
     "summary": "谷歌最新更新将AI模式从单纯回答问题扩展至跨常用应用的自主任务执行，实现更主动的交互体验。",
     "date": "2026-07-16 16:51",
     "timestamp": 1784220708.7173803
-  },
-  {
-    "title": "Yes, you can now order DoorDash from the command line",
-    "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/01/dasher_ps_horiz_5.jpg?w=1200",
-    "summary": "DoorDash推出dd-cli命令行工具测试版，支持开发者及AI代理在终端中搜索店铺、构建购物车并下单，标志着软件设计正从面向人类转向适配AI代理。",
-    "date": "2026-07-16 16:51",
-    "timestamp": 1784220710.2374055
-  },
-  {
-    "title": "Why is OpenAI selling a ChatGPT basketball?",
-    "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-basketball.jpg?resize=1200,675",
-    "summary": "OpenAI于本周发布首款硬件产品，此外还推出了ChatGPT篮球互动设备。",
-    "date": "2026-07-16 16:51",
-    "timestamp": 1784220711.5159144
   }
 ]
