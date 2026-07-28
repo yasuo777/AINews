@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
+    "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "summary": "Anthropic创始人兼CEO Dario Amodei明确表达了对开源权重模型及中国AI能力崛起的看法。",
+    "date": "2026-07-28 03:50",
+    "timestamp": 1785210637.1086447
+  },
+  {
     "title": "Satya Nadella says companies that trust one AI for everything may not survive",
     "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "OpenAI在与苹果公司的硬件技术盗窃诉讼期间，发布了一款可发光的键盘，专为其智能编程应用设计。",
     "date": "2026-07-15 20:39",
     "timestamp": 1784147975.519584
-  },
-  {
-    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-    "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
-    "summary": "该股自IPO后高点持续回落，显示市场对马斯克此前承诺的乐观情绪正逐渐消退。",
-    "date": "2026-07-15 20:39",
-    "timestamp": 1784147977.0994248
   }
 ]
