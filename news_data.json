@@ -1,5 +1,21 @@
 [
   {
+    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
+    "summary": "Runlayer起诉Rippling，指控后者在评估其MCP网关产品后，选择自行开发同类产品。",
+    "date": "2026-07-28 20:47",
+    "timestamp": 1785271627.7061265
+  },
+  {
+    "title": "Sam Altman is ready to decelerate",
+    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
+    "summary": "他的立场转变源于“我首次切身感受到的安全事件”，语气专业。",
+    "date": "2026-07-28 20:47",
+    "timestamp": 1785271629.152982
+  },
+  {
     "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
     "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-173791238.jpg?resize=1200,797",
@@ -782,21 +798,5 @@
     "summary": "OpenAI于本周发布首款硬件产品，此外还推出了ChatGPT篮球互动设备。",
     "date": "2026-07-16 16:51",
     "timestamp": 1784220711.5159144
-  },
-  {
-    "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
-    "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OFF08112.jpg?resize=1200,800",
-    "summary": "在AI界追逐“超级智能”之际，杨立昆世界模型初创公司AMI Labs的CEO亚历山大·勒布朗却对这一词汇表示否定。",
-    "date": "2026-07-16 15:19",
-    "timestamp": 1784215169.3841307
-  },
-  {
-    "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
-    "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-    "summary": "据英国《金融时报》报道，Kimi K3将成为中国最大的开源AI模型，参数规模预计达2万亿至3万亿。",
-    "date": "2026-07-16 15:19",
-    "timestamp": 1784215170.671929
   }
 ]
