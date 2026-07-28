@@ -1,5 +1,13 @@
 [
   {
+    "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+    "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-173791238.jpg?resize=1200,797",
+    "summary": "该决定出台之际，数据中心建设的高速发展正迫使电网运营商紧急增加发电能力。",
+    "date": "2026-07-28 17:06",
+    "timestamp": 1785258379.7730563
+  },
+  {
     "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
     "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fish-Audio-CoFounders.jpeg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "据英国《金融时报》报道，Kimi K3将成为中国最大的开源AI模型，参数规模预计达2万亿至3万亿。",
     "date": "2026-07-16 15:19",
     "timestamp": 1784215170.671929
-  },
-  {
-    "title": "Apple Intelligence approved for launch in China with Alibaba and Baidu",
-    "link": "https://techcrunch.com/2026/07/16/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
-    "summary": "该协议去年已有传闻，标志着苹果在关键市场推进人工智能布局的重要一步。",
-    "date": "2026-07-16 15:19",
-    "timestamp": 1784215172.0709634
   }
 ]
