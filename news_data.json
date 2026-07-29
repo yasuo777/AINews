@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "The deal is Cyera's third acquisition this year.",
+    "date": "2026-07-29 03:54",
+    "timestamp": 1785297243.40676
+  },
+  {
     "title": "Bot-detection startup Spur nabs $200M from Insight",
     "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
@@ -790,13 +798,5 @@
     "summary": "Roblox推出新功能“Build”，用户仅需输入一条文本指令，即可生成基础游戏。此举旨在降低游戏创作门槛，提升平台内容生成效率。",
     "date": "2026-07-16 18:44",
     "timestamp": 1784227496.6236994
-  },
-  {
-    "title": "Google’s AI Mode now lets you link and interact with select apps",
-    "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-    "summary": "谷歌最新更新将AI模式从单纯回答问题扩展至跨常用应用的自主任务执行，实现更主动的交互体验。",
-    "date": "2026-07-16 16:51",
-    "timestamp": 1784220708.7173803
   }
 ]
