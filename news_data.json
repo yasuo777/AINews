@@ -1,5 +1,21 @@
 [
   {
+    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
+    "summary": "Meta正投入巨资布局AI基础设施与智能体，扎克伯格努力向投资者证明其高额投入将带来丰厚回报。",
+    "date": "2026-07-29 23:39",
+    "timestamp": 1785368362.1017435
+  },
+  {
+    "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+    "summary": "微软在2026财年第四季度（截至6月30日）财报中，透露了其对两大竞争性AI实验室的投资表现，相关细节虽简短但引人关注。",
+    "date": "2026-07-29 23:39",
+    "timestamp": 1785368363.2464948
+  },
+  {
     "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
     "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Vertu奢华折叠手机的日常体验涵盖了AI工作流、续航表现与安全功能，整体呈现专业科技与高端工艺的融合。",
     "date": "2026-07-17 23:31",
     "timestamp": 1784331076.6603584
-  },
-  {
-    "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-    "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
-    "summary": "Databricks转型为人工智能公司，并发布研究称开放权重AI模型可有效降低编程成本。",
-    "date": "2026-07-17 22:28",
-    "timestamp": 1784327316.640602
-  },
-  {
-    "title": "The Zoom hack that says, ‘Don’t record me’",
-    "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806",
-    "summary": "若每一场会议、闲谈与约会都被转录总结，究竟谁在真正阅读这些内容？",
-    "date": "2026-07-17 21:29",
-    "timestamp": 1784323746.2632666
   }
 ]
