@@ -1,5 +1,21 @@
 [
   {
+    "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+    "summary": "在2026年TechCrunch Disrupt大会上，由Google for Startups呈现的AI舞台回归，聚焦社区近年内最热议题。",
+    "date": "2026-07-29 21:33",
+    "timestamp": 1785360791.7587688
+  },
+  {
+    "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+    "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "翁先生曾任OpenAI人工智能安全研究副总裁。",
+    "date": "2026-07-29 21:33",
+    "timestamp": 1785360792.8862271
+  },
+  {
     "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
     "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Agility在美国加州弗里蒙特开设了新的Digit机器人培训中心，以支持其人形机器人的部署与操作培训。",
     "date": "2026-07-17 21:29",
     "timestamp": 1784323747.3155258
-  },
-  {
-    "title": "AI-driven memory crunch jolts India’s smartphone market",
-    "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
-    "summary": "印度智能手机市场放缓，凸显了人工智能热潮正从定价、需求到企业战略等多个维度重塑消费电子行业格局。",
-    "date": "2026-07-17 21:29",
-    "timestamp": 1784323748.3534303
-  },
-  {
-    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-    "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "summary": "苹果于上周五对OpenAI提起商业秘密诉讼，指控其存在不当行为，甚至牵涉到首席硬件官，并称有超过400名前苹果员工现任职于OpenAI。OpenAI回应谨慎，而该公司正考虑IPO，时机对其极为不利。",
-    "date": "2026-07-17 18:38",
-    "timestamp": 1784313525.6528156
   }
 ]
