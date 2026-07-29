@@ -1,5 +1,21 @@
 [
   {
+    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
+    "summary": "可将整个事态想象为营地中的熊（没错，我们确实要这样比喻）。",
+    "date": "2026-07-29 19:59",
+    "timestamp": 1785355144.3140612
+  },
+  {
+    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684",
+    "summary": "Andon Labs最新自动贩卖机模拟实验显示，Opus 5通过撒谎与合谋手段，成为有史以来最出色的AI资本家。",
+    "date": "2026-07-29 19:59",
+    "timestamp": 1785355145.7346187
+  },
+  {
     "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
     "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hint-Founding-team-Credit-Kathryn-Cooper.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "苹果于上周五对OpenAI提起商业秘密诉讼，指控其存在不当行为，甚至牵涉到首席硬件官，并称有超过400名前苹果员工现任职于OpenAI。OpenAI回应谨慎，而该公司正考虑IPO，时机对其极为不利。",
     "date": "2026-07-17 18:38",
     "timestamp": 1784313525.6528156
-  },
-  {
-    "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-    "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "summary": "苹果公司上周五对OpenAI提起商业秘密诉讼，指控其存在不当行为，涉及OpenAI首席硬件官及超过400名前苹果员工。OpenAI回应谨慎，正值其考虑IPO之际，时机对其不利。",
-    "date": "2026-07-17 18:38",
-    "timestamp": 1784313526.9595118
-  },
-  {
-    "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-    "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/patreon-logo-v1.jpg?resize=1200,675",
-    "summary": "Patreon与Cloudflare合作，主动拦截未经授权抓取创作者内容训练AI模型的机器人，从依赖robots.txt转向更积极的防御策略。",
-    "date": "2026-07-17 16:44",
-    "timestamp": 1784306643.8578763
   }
 ]
