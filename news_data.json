@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hint-Founding-team-Credit-Kathryn-Cooper.jpg?resize=1200,800",
+    "summary": "由玛莎·斯图尔特联合创立的AI家居管理初创公司Hint，致力于打造“家居AI”应用，整合房产记录、维护计划、房屋文档及AI助手，实现一站式智能管理。",
+    "date": "2026-07-29 16:54",
+    "timestamp": 1785344089.5486434
+  },
+  {
     "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
     "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/ENCORE-0321a.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Patreon与Cloudflare合作，主动拦截未经授权抓取创作者内容训练AI模型的机器人，从依赖robots.txt转向更积极的防御策略。",
     "date": "2026-07-17 16:44",
     "timestamp": 1784306643.8578763
-  },
-  {
-    "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-    "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/General-Compute-Billboard.jpg?resize=1200,800",
-    "summary": "一笔4亿美元的芯片抵押贷款标志着新一轮人工智能基础设施交易的到来。",
-    "date": "2026-07-17 12:45",
-    "timestamp": 1784292351.0973768
   }
 ]
