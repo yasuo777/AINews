@@ -1,5 +1,13 @@
 [
   {
+    "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+    "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+    "summary": "Pangram获900万美元融资，用于扩展其AI检测软件。同时，公司发布了新AI文本检测模型Pangram 4及AI图像检测研究预览版。",
+    "date": "2026-07-29 12:32",
+    "timestamp": 1785328365.9614398
+  },
+  {
     "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
     "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "谷歌为Vids应用新增个性化AI虚拟形象功能，用户可生成数字分身制作视频，并借助Gemini Omni工具通过提示词和参考图像完成视频创作与编辑。",
     "date": "2026-07-16 18:44",
     "timestamp": 1784227495.3738844
-  },
-  {
-    "title": "Roblox launches an AI-powered game creation feature in its mobile app",
-    "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
-    "summary": "Roblox推出新功能“Build”，用户仅需输入一条文本指令，即可生成基础游戏。此举旨在降低游戏创作门槛，提升平台内容生成效率。",
-    "date": "2026-07-16 18:44",
-    "timestamp": 1784227496.6236994
   }
 ]
