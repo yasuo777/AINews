@@ -1,5 +1,13 @@
 [
   {
+    "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+    "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024",
+    "summary": "Meta公司CEO马克·扎克伯格在第二季度财报电话会议上表示，Meta看到了涵盖AI智能体、API、计算及内部软件在内的“大型企业机遇”。",
+    "date": "2026-07-29 22:36",
+    "timestamp": 1785364575.0097601
+  },
+  {
     "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
@@ -790,13 +798,5 @@
     "summary": "若每一场会议、闲谈与约会都被转录总结，究竟谁在真正阅读这些内容？",
     "date": "2026-07-17 21:29",
     "timestamp": 1784323746.2632666
-  },
-  {
-    "title": "Agility Robotics plants its flag in Tesla’s backyard",
-    "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
-    "summary": "Agility在美国加州弗里蒙特开设了新的Digit机器人培训中心，以支持其人形机器人的部署与操作培训。",
-    "date": "2026-07-17 21:29",
-    "timestamp": 1784323747.3155258
   }
 ]
