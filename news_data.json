@@ -1,5 +1,13 @@
 [
   {
+    "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+    "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/ENCORE-0321a.jpg?resize=1200,800",
+    "summary": "该初创公司通过分析通话、消息及CRM数据，提炼高效销售技巧，并将其转化为适用于AI代理的标准化操作手册。",
+    "date": "2026-07-29 14:56",
+    "timestamp": 1785336977.4803889
+  },
+  {
     "title": "As AI content floods the internet, Pangram raises $9M to detect it",
     "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "一笔4亿美元的芯片抵押贷款标志着新一轮人工智能基础设施交易的到来。",
     "date": "2026-07-17 12:45",
     "timestamp": 1784292351.0973768
-  },
-  {
-    "title": "Google Vids now lets you star in your own AI videos",
-    "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
-    "summary": "谷歌为Vids应用新增个性化AI虚拟形象功能，用户可生成数字分身制作视频，并借助Gemini Omni工具通过提示词和参考图像完成视频创作与编辑。",
-    "date": "2026-07-16 18:44",
-    "timestamp": 1784227495.3738844
   }
 ]
