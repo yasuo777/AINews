@@ -1,5 +1,13 @@
 [
   {
+    "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+    "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+    "summary": "微软周三向华尔街展示其自研AI模型、工具链及竞品方案，表示计划持续增长。",
+    "date": "2026-07-30 01:01",
+    "timestamp": 1785373305.4481952
+  },
+  {
     "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
     "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "Index Ventures联合创始人、风投家Neil Rimer预测，硅谷人工智能创造的巨额财富将被迫或主动进行再分配。",
     "date": "2026-07-18 06:31",
     "timestamp": 1784356301.1362877
-  },
-  {
-    "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-    "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
-    "summary": "Vertu奢华折叠手机的日常体验涵盖了AI工作流、续航表现与安全功能，整体呈现专业科技与高端工艺的融合。",
-    "date": "2026-07-17 23:31",
-    "timestamp": 1784331076.6603584
   }
 ]
