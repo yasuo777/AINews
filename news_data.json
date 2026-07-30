@@ -1,5 +1,13 @@
 [
   {
+    "title": "Investors love AI, as long as you’re a cloud host",
+    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
+    "summary": "亚马逊持续加大数据中心投资力度，但投资者对此并未表现出明显担忧。",
+    "date": "2026-07-30 22:44",
+    "timestamp": 1785451450.3089633
+  },
+  {
     "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
     "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
@@ -790,13 +798,5 @@
     "summary": "自David Sacks离任后，人工智能标准与创新中心（CAISI）主任一职频繁更迭，已沦为“旋转门”岗位。",
     "date": "2026-07-20 22:35",
     "timestamp": 1784586906.1885798
-  },
-  {
-    "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-    "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
-    "summary": "据报道，谷歌母公司Alphabet正研发新芯片，旨在大幅提升其Gemini模型的运行效率。",
-    "date": "2026-07-20 22:35",
-    "timestamp": 1784586907.3393574
   }
 ]
