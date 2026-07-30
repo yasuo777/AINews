@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800",
+    "summary": "专家警告已持续两年：微软、谷歌等公司因使用大语言模型及AI工具，正发现并修复产品中呈指数级增长的漏洞。",
+    "date": "2026-07-30 18:59",
+    "timestamp": 1785437950.3709235
+  },
+  {
+    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+    "summary": "领英推出新措施减少低质量AI生成内容，包括新增“疑似AI垃圾”举报选项，并以校对工具替代原有的AI写作功能。",
+    "date": "2026-07-30 18:59",
+    "timestamp": 1785437951.3604398
+  },
+  {
     "title": "Okta buys AI security startup Permiso; source says for about $200M",
     "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
@@ -782,21 +798,5 @@
     "summary": "X宣布其Android应用的重构版本现已全球上线。（字数：18）",
     "date": "2026-07-20 20:51",
     "timestamp": 1784580690.7313075
-  },
-  {
-    "title": "OpenAI is scared of open-weight models. Should the US be?",
-    "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
-    "summary": "关于禁止中国开源大语言模型的讨论，凸显了将AI商业化的困境。",
-    "date": "2026-07-20 20:51",
-    "timestamp": 1784580691.7735436
-  },
-  {
-    "title": "YouTube clarifies policies around AI slop and upsetting videos",
-    "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/youtube-ios-app.jpg?resize=1200,674",
-    "summary": "YouTube更新了变现政策，更明确界定AI生成及低质量内容无法获取广告收入，旨在提升内容质量与平台透明度。",
-    "date": "2026-07-20 15:31",
-    "timestamp": 1784561472.7449727
   }
 ]
