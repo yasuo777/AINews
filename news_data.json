@@ -1,5 +1,37 @@
 [
   {
+    "title": "Okta buys AI security startup Permiso; source says for about $200M",
+    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
+    "summary": "Okta通过此项收购获得身份威胁检测能力，满足企业在云环境中保护AI代理及非人类身份的安全需求。",
+    "date": "2026-07-30 17:07",
+    "timestamp": 1785431225.3548117
+  },
+  {
+    "title": "Meta says AI is making it easier to build new apps — and more are coming",
+    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "summary": "Meta表示，AI正显著简化新消费应用的开发与发布。CEO扎克伯格向投资者透露，继Facebook群组、Marketplace卖家、Instagram及游戏等新品发布后，公司还将推出更多消费产品。",
+    "date": "2026-07-30 17:07",
+    "timestamp": 1785431226.8555942
+  },
+  {
+    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+    "summary": "英国AI云服务商Nscale收购软件初创公司Anyscale，后者助力企业跨数据中心与服务器扩展AI工作负载。",
+    "date": "2026-07-30 17:07",
+    "timestamp": 1785431227.867578
+  },
+  {
+    "title": "New MCP specification addresses the main barrier to enterprise adoption",
+    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
+    "summary": "此外，AI协议新增政策，确保功能不会突然移除。",
+    "date": "2026-07-30 17:07",
+    "timestamp": 1785431229.594719
+  },
+  {
     "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
     "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
@@ -766,37 +798,5 @@
     "summary": "YouTube更新了变现政策，更明确界定AI生成及低质量内容无法获取广告收入，旨在提升内容质量与平台透明度。",
     "date": "2026-07-20 15:31",
     "timestamp": 1784561472.7449727
-  },
-  {
-    "title": "Beyond grep: The case for a context-rich AI coding harness",
-    "link": "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Vinay-Perneti-1152x648.jpg",
-    "summary": "Augment Code的Vinay Perneti讨论了模型、工具链与上下文管理，强调三者协同对提升AI编程效率的关键作用。",
-    "date": "2026-07-20 11:26",
-    "timestamp": 1784546773.852326
-  },
-  {
-    "title": "What to watch for after Jensen Huang’s Japan visit",
-    "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/getty-japan-flag-distance.jpg?resize=1200,827",
-    "summary": "黄仁勋结束访日行程，期间达成覆盖日本全技术生态的多项合作。",
-    "date": "2026-07-19 21:31",
-    "timestamp": 1784496690.3684993
-  },
-  {
-    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/portrait.jpg?w=1000",
-    "summary": "苹果对OpenAI提起的诉讼可能影响其硬件布局与上市计划，引发业界对其前景的讨论。",
-    "date": "2026-07-19 19:51",
-    "timestamp": 1784490684.8242998
-  },
-  {
-    "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-    "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2285660756.jpg?w=1024",
-    "summary": "\"Everybody knows the Greeks are inside.\"",
-    "date": "2026-07-19 15:35",
-    "timestamp": 1784475307.2519882
   }
 ]
