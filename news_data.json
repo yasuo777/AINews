@@ -1,5 +1,21 @@
 [
   {
+    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+    "summary": "联邦法官指出，特朗普政府未能提供充分证据证明将Anthropic列为供应链风险的合理性，因此对其AI技术禁令的合法性存疑。",
+    "date": "2026-07-30 20:45",
+    "timestamp": 1785444319.640368
+  },
+  {
+    "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+    "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=523",
+    "summary": "Friend人工智能可穿戴设备推出语音对话功能，但使用该服务需支付更高费用。",
+    "date": "2026-07-30 20:45",
+    "timestamp": 1785444321.0483654
+  },
+  {
     "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
     "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "据报道，谷歌母公司Alphabet正研发新芯片，旨在大幅提升其Gemini模型的运行效率。",
     "date": "2026-07-20 22:35",
     "timestamp": 1784586907.3393574
-  },
-  {
-    "title": "AI’s most important protocol is getting a little bit easier to use",
-    "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
-    "summary": "模型上下文协议（MCP）是AI互操作性的基础组件，为AI模型提供安全访问外部数据与服务的标准方式，使聊天机器人可调用日历、数据库等工具，无需为每个连接定制开发接口。",
-    "date": "2026-07-20 20:51",
-    "timestamp": 1784580689.4348803
-  },
-  {
-    "title": "X relaunches a rebuilt Android app after year-long effort",
-    "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
-    "summary": "X宣布其Android应用的重构版本现已全球上线。（字数：18）",
-    "date": "2026-07-20 20:51",
-    "timestamp": 1784580690.7313075
   }
 ]
