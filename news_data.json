@@ -1,5 +1,29 @@
 [
   {
+    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
+    "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
+    "summary": "网络安全专家向TechCrunch指出，OpenAI攻击HuggingFace事件的最大教训并非关乎人工智能本身，而是传统网络安全防御的重要性。",
+    "date": "2026-07-30 14:53",
+    "timestamp": 1785423226.729472
+  },
+  {
+    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
+    "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/54889342155_4479997650_4k.jpg?resize=1200,800",
+    "summary": "在科技领域最具影响力的“Disrupt Stage”已走过十余年历程，这里曾孕育并推动了诸多重大技术对话与行业变革。",
+    "date": "2026-07-30 14:53",
+    "timestamp": 1785423228.1589582
+  },
+  {
+    "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+    "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "summary": "Khosla Ventures领投了本轮A轮融资，Allianz、Rebel Fund、Brick and Mortar Ventures的Darren Bechtel以及Y Combinator的Garry Tan跟投。",
+    "date": "2026-07-30 14:53",
+    "timestamp": 1785423229.2001286
+  },
+  {
     "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
     "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "\"Everybody knows the Greeks are inside.\"",
     "date": "2026-07-19 15:35",
     "timestamp": 1784475307.2519882
-  },
-  {
-    "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-    "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1370479417.jpg?resize=1200,806",
-    "summary": "Current AI是一个致力于文化包容的非营利组织，在设备适配、AI对话等领域取得显著进展，推动人工智能不落下任何文化背景。",
-    "date": "2026-07-19 14:09",
-    "timestamp": 1784470191.4865844
-  },
-  {
-    "title": "Kimi: Threat or menace?",
-    "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-    "summary": "中国初创公司月之暗面本周发布新版Kimi模型，引发对“完全AI共产主义”的讨论。",
-    "date": "2026-07-18 19:49",
-    "timestamp": 1784404142.8406734
-  },
-  {
-    "title": "Neil Rimer thinks the AI money is coming back out",
-    "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-17-at-9.20.56-PM.png?resize=1200,739",
-    "summary": "Index Ventures联合创始人、风投家Neil Rimer预测，硅谷人工智能创造的巨额财富将被迫或主动进行再分配。",
-    "date": "2026-07-18 06:31",
-    "timestamp": 1784356301.1362877
   }
 ]
