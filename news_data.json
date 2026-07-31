@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic says its own AI models breached three companies during security tests",
+    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "OpenAI模型入侵Hugging Face后，Anthropic自查发现三起类似事件。",
+    "date": "2026-07-31 01:10",
+    "timestamp": 1785460249.4749653
+  },
+  {
+    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
+    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
+    "summary": "前OpenAI研究员的对冲基金因杠杆公开市场投资暴跌被迫平仓，但他仍有应对策略。",
+    "date": "2026-07-31 01:10",
+    "timestamp": 1785460250.506875
+  },
+  {
+    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
+    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
+    "summary": "Reddit财务表现良好，但市场对其与谷歌合作及AI化网络前景的不确定性引发担忧。",
+    "date": "2026-07-31 01:10",
+    "timestamp": 1785460251.5571506
+  },
+  {
     "title": "Investors love AI, as long as you’re a cloud host",
     "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Deezer 6月数据显示，该平台每日新增AI生成曲目超9万首，凸显人工智能内容在音乐流媒体领域的快速增长趋势。",
     "date": "2026-07-21 15:23",
     "timestamp": 1784647433.6619997
-  },
-  {
-    "title": "Gritt exits stealth with $34 million for robots to build solar plants—then, everything else",
-    "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/gritt-machine-3.jpg?resize=1200,675",
-    "summary": "Gritt完成3400万美元融资，计划通过自动化技术攻克建筑工地最复杂工序，以专业方案推动行业升级。",
-    "date": "2026-07-21 10:47",
-    "timestamp": 1784630851.6433132
-  },
-  {
-    "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "summary": "最终批准解决了个案，但并未根本解决使用受版权保护作品训练AI模型的更广泛问题。",
-    "date": "2026-07-21 01:05",
-    "timestamp": 1784595947.3517323
-  },
-  {
-    "title": "Trump’s latest AI czar has already resigned",
-    "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "自David Sacks离任后，人工智能标准与创新中心（CAISI）主任一职频繁更迭，已沦为“旋转门”岗位。",
-    "date": "2026-07-20 22:35",
-    "timestamp": 1784586906.1885798
   }
 ]
