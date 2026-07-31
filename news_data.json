@@ -1,5 +1,13 @@
 [
   {
+    "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+    "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-2560x1440.jpg",
+    "summary": "一场争议考试、不可靠的检测工具，及一份迟交的Apple Pages文件，引发专业质疑。",
+    "date": "2026-07-31 11:09",
+    "timestamp": 1785496199.5586944
+  },
+  {
     "title": "Anthropic says its own AI models breached three companies during security tests",
     "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
@@ -790,13 +798,5 @@
     "summary": "美国财政部长斯科特·贝森特表示，美方可能以所谓知识产权盗窃为由，制裁中国的开源AI模型，以进一步遏制中国人工智能发展。",
     "date": "2026-07-21 16:59",
     "timestamp": 1784653184.6122787
-  },
-  {
-    "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-    "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/Deezer-AIdetection.png?w=1200",
-    "summary": "Deezer 6月数据显示，该平台每日新增AI生成曲目超9万首，凸显人工智能内容在音乐流媒体领域的快速增长趋势。",
-    "date": "2026-07-21 15:23",
-    "timestamp": 1784647433.6619997
   }
 ]
