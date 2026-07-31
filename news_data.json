@@ -1,5 +1,21 @@
 [
   {
+    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "SpaceX正在为xAI的Colossus数据中心新建发电厂，但现有未获许可的涡轮机仍需数月才能移除。新电厂旨在提升供电能力，而旧设备拆除工作将延后，期间或影响当地环保合规审查。",
+    "date": "2026-07-31 15:47",
+    "timestamp": 1785512857.1325357
+  },
+  {
+    "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+    "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Smallest-AI-Founders.jpg?resize=1200,927",
+    "summary": "该初创公司正研发能通过图灵测试的AI语音模型，旨在让电话通话中的AI表现与真人难以区分，提升交互真实性与自然度。",
+    "date": "2026-07-31 15:47",
+    "timestamp": 1785512858.457465
+  },
+  {
     "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
     "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-610869530-2560x1440.jpg",
@@ -782,21 +798,5 @@
     "summary": "到2033年新建的数据中心可能消耗相当于当前印度全国的用电量。",
     "date": "2026-07-21 18:52",
     "timestamp": 1784659934.9097764
-  },
-  {
-    "title": "Google releases three new Gemini models — but no 3.5 Pro",
-    "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "谷歌发布Gemini 3.6 Flash、3.5 Flash-Lite及Flash Cyber，但3.5 Pro的持续缺失引发对其AI战略的新质疑。",
-    "date": "2026-07-21 18:52",
-    "timestamp": 1784659936.169681
-  },
-  {
-    "title": "US threatens sanctions against Chinese AI models over IP theft",
-    "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1322017304.jpg?resize=1200,675",
-    "summary": "美国财政部长斯科特·贝森特表示，美方可能以所谓知识产权盗窃为由，制裁中国的开源AI模型，以进一步遏制中国人工智能发展。",
-    "date": "2026-07-21 16:59",
-    "timestamp": 1784653184.6122787
   }
 ]
