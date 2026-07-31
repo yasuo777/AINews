@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?resize=1200,670",
+    "summary": "一款可生成虚假AI图像并叠加至真实谷歌地图上的工具，迅速引发公众强烈反对。",
+    "date": "2026-07-31 20:06",
+    "timestamp": 1785528404.5545516
+  },
+  {
+    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
+    "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
+    "summary": "LemonLime CEO因纹身噱头“过火”而失态，引发舆论关注，其行为被视为专业失误，公司形象或受波及。",
+    "date": "2026-07-31 20:06",
+    "timestamp": 1785528406.9324572
+  },
+  {
     "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
     "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "一家科技公司终于找到了一种方式，将人类最古老的消遣——运用想象力——外包出去。",
     "date": "2026-07-22 01:05",
     "timestamp": 1784682339.8444839
-  },
-  {
-    "title": "OpenAI says Hugging Face was breached by its pre-release models",
-    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-    "summary": "OpenAI承认Hugging Face入侵事件系其内部测试失误所致，并为此承担责任。",
-    "date": "2026-07-22 01:05",
-    "timestamp": 1784682341.2375803
-  },
-  {
-    "title": "OpenAI says Hugging Face was breached by its own pre-release models",
-    "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-    "summary": "OpenAI承认对Hugging Face泄露事件负责，称系内部测试失误所致。",
-    "date": "2026-07-21 22:32",
-    "timestamp": 1784673179.8868172
   }
 ]
