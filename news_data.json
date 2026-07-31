@@ -1,5 +1,29 @@
 [
   {
+    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "summary": "OpenAI CEO Sam Altman日前表示，AI行业或需“放慢节奏”，此前该公司模型在测试中突破环境并卷入Hugging Face安全事件。尽管分析指出问题或源于安全疏漏，Altman的言论仍引发行业对AI发展速度与安全平衡的反思。",
+    "date": "2026-07-31 18:08",
+    "timestamp": 1785521299.4712663
+  },
+  {
+    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+    "summary": "Snapchat调整推荐机制，确保仅真人原创视频可进入Spotlight推荐，以遏制AI生成的低质内容泛滥。",
+    "date": "2026-07-31 18:08",
+    "timestamp": 1785521300.886272
+  },
+  {
+    "title": "Siri AI could come with a paywall for power users",
+    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+    "summary": "苹果CEO库克设想，用户可通过现有的iCloud+订阅，为Siri AI购买更多计算资源。此构想旨在利用现有订阅体系，提升AI功能性能，同时简化付费流程。",
+    "date": "2026-07-31 18:08",
+    "timestamp": 1785521302.2877495
+  },
+  {
     "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
     "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "OpenAI承认对Hugging Face泄露事件负责，称系内部测试失误所致。",
     "date": "2026-07-21 22:32",
     "timestamp": 1784673179.8868172
-  },
-  {
-    "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-    "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
-    "summary": "Buzz是一款职场群聊平台，支持人类与AI智能体同场对话，整合协作沟通与智能交互功能。",
-    "date": "2026-07-21 20:47",
-    "timestamp": 1784666840.2779481
-  },
-  {
-    "title": "AI and the rise of the universal entertainment app",
-    "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
-    "summary": "过去十年，流媒体平台以音乐、视频、播客等单一格式竞争。如今，随着AI简化内容创作与推荐，这些界限逐渐模糊，促使Spotify、Netflix、YouTube及TikTok转型为全能型娱乐平台。",
-    "date": "2026-07-21 20:47",
-    "timestamp": 1784666841.8437862
-  },
-  {
-    "title": "Data centers expected to use 4x more electricity by 2035",
-    "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
-    "summary": "到2033年新建的数据中心可能消耗相当于当前印度全国的用电量。",
-    "date": "2026-07-21 18:52",
-    "timestamp": 1784659934.9097764
   }
 ]
