@@ -1,5 +1,13 @@
 [
   {
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
+    "summary": "Reddit正考虑终止与谷歌的授权合作，目前仍处于评估阶段，尚未最终决定。此举或影响其搜索内容共享及AI训练数据供应，行业关注后续动向。",
+    "date": "2026-08-01 14:09",
+    "timestamp": 1785593373.7442205
+  },
+  {
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "德国初创公司Passionfroot完成1500万美元A轮融资，由Insight Partners领投。该公司致力于打造连接B2B创作者与品牌的市场平台。",
     "date": "2026-07-22 13:08",
     "timestamp": 1784725684.577437
-  },
-  {
-    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-    "link": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
-    "summary": "Glow 正致力于应对企业内部因AI智能体与开发者工具快速普及而产生的新型端点风险。",
-    "date": "2026-07-22 10:49",
-    "timestamp": 1784717367.799452
   }
 ]
