@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sam Altman is still making the case for parenting via ChatGPT",
+    "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "OpenAI CEO分享了一个面向家长的实用案例，语气积极，展现该技术在育儿场景中的创新应用潜力。",
+    "date": "2026-08-01 17:39",
+    "timestamp": 1785605980.541147
+  },
+  {
+    "title": "This $9 key physically locks your most addictive apps",
+    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
+    "summary": "这款9美元的NFC钥匙需物理扫描才能解锁手机上的干扰应用，旨在通过强制动作减少刷屏时间，提升专注力。",
+    "date": "2026-08-01 17:39",
+    "timestamp": 1785605981.9375217
+  },
+  {
     "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
     "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "OpenAI计划到2030年投入相当于瑞典国内生产总值的基础设施资金，规模巨大，展现其长期战略布局雄心。",
     "date": "2026-07-22 16:59",
     "timestamp": 1784739597.4479623
-  },
-  {
-    "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
-    "link": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/search-engine.jpg?resize=1200,700",
-    "summary": "以下为当前市面上部分旨在挑战Chrome与Safari的顶级替代浏览器概述。",
-    "date": "2026-07-22 15:21",
-    "timestamp": 1784733687.029073
-  },
-  {
-    "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
-    "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
-    "summary": "德国初创公司Passionfroot完成1500万美元A轮融资，由Insight Partners领投。该公司致力于打造连接B2B创作者与品牌的市场平台。",
-    "date": "2026-07-22 13:08",
-    "timestamp": 1784725684.577437
   }
 ]
