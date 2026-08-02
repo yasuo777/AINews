@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sam Altman and AI’s decel debate",
+    "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "在最新一期《Equity》节目中，讨论了Sam Altman呼吁业界“放缓AI发展速度”的原因，强调需谨慎控制技术演进节奏。",
+    "date": "2026-08-02 21:33",
+    "timestamp": 1785706386.154529
+  },
+  {
     "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
     "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "该公司宣布裁员20%（约630人），以推行更精简、专注的运营模式，并聚焦其AI工作平台的发展。",
     "date": "2026-07-22 18:45",
     "timestamp": 1784745941.7685535
-  },
-  {
-    "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-    "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297448481.jpg?resize=1200,800",
-    "summary": "随着中国人工智能模型能力提升并在美国企业中日益普及，围绕如何应对这些模型的争论已趋于白热化。",
-    "date": "2026-07-22 16:59",
-    "timestamp": 1784739594.7330418
   }
 ]
