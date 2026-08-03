@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
+    "summary": "June今日亮相，获2000万美元种子前融资，旨在简化AI应用落地，帮助企业更便捷地采用人工智能技术。",
+    "date": "2026-08-03 12:44",
+    "timestamp": 1785761042.9955046
+  },
+  {
     "title": "Sam Altman and AI’s decel debate",
     "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
@@ -790,13 +798,5 @@
     "summary": "Yope，一款聚焦亲友私密群组的社交应用，完成1230万美元种子轮融资。该平台不追逐创作者与算法推荐，而是押注于通过消息、照片分享及AI功能强化现实关系的小型私密社群。",
     "date": "2026-07-22 18:45",
     "timestamp": 1784745940.7153845
-  },
-  {
-    "title": "Monday.com lays off hundreds to focus on AI",
-    "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2259521127.jpg?w=1024",
-    "summary": "该公司宣布裁员20%（约630人），以推行更精简、专注的运营模式，并聚焦其AI工作平台的发展。",
-    "date": "2026-07-22 18:45",
-    "timestamp": 1784745941.7685535
   }
 ]
