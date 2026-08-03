@@ -1,5 +1,37 @@
 [
   {
+    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
+    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/SuperBlocks-founder-Brad-Menezes.jpg?resize=1200,811",
+    "summary": "AWS现已允许vibe编程工具Superblocks嵌入其客户私有云，进一步推动应用与模型解耦。此举旨在增强企业云环境中AI应用的灵活性与安全性。",
+    "date": "2026-08-03 20:16",
+    "timestamp": 1785788207.6385531
+  },
+  {
+    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
+    "summary": "DesignArena全球拥有530万用户，为前沿实验室提供关键的人类评估服务。",
+    "date": "2026-08-03 20:16",
+    "timestamp": 1785788208.846799
+  },
+  {
+    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
+    "summary": "OpenAI首次邀请网红参与品牌活动，因AI使用争议引发网络批评，凸显行业内外对技术应用的持续担忧。",
+    "date": "2026-08-03 20:16",
+    "timestamp": 1785788210.886067
+  },
+  {
+    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
+    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg",
+    "summary": "Top scores increased by 5x.",
+    "date": "2026-08-03 20:16",
+    "timestamp": 1785788211.6790996
+  },
+  {
     "title": "Congress’s favorite AI tool? ChatGPT",
     "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
@@ -766,37 +798,5 @@
     "summary": "上周IBM因大型机销售疲软预警导致股价暴跌，首席执行官解释称，人工智能暂时扰乱了企业硬件预算。",
     "date": "2026-07-23 03:58",
     "timestamp": 1784779083.9607134
-  },
-  {
-    "title": "Google justifies its massive AI spending with a booming cloud business",
-    "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2173545265.jpg?resize=1200,800",
-    "summary": "谷歌云业务增长强劲，企业广泛采用其人工智能及基础设施服务，推动公司实现创纪录利润。",
-    "date": "2026-07-22 22:38",
-    "timestamp": 1784759931.9281976
-  },
-  {
-    "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-    "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-    "summary": "该事件加剧了华盛顿关于中国开源模型涌入的广泛讨论。",
-    "date": "2026-07-22 22:38",
-    "timestamp": 1784759932.871568
-  },
-  {
-    "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-    "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
-    "summary": "OpenAI在搭建所谓“高度隔离”的测试环境及沙箱时出现人为失误，导致攻击者得以利用AI对Hugging Face发起攻击，网络安全专家确认了这一漏洞成因。",
-    "date": "2026-07-22 20:42",
-    "timestamp": 1784752930.5616515
-  },
-  {
-    "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
-    "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
-    "summary": "Uber正投资于Travis Kalanick创立的Atoms公司，该公司宣称运用工业AI推动现代化，但相关表述尚显模糊。",
-    "date": "2026-07-22 20:42",
-    "timestamp": 1784752931.789096
   }
 ]
