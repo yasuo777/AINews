@@ -1,5 +1,29 @@
 [
   {
+    "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+    "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
+    "summary": "SaferAI最新报告指出，Z.ai开源模型GLM-5.2性能接近前沿水平，但缺乏关键安全措施，引发对强大开源模型超越治理与防护的担忧。",
+    "date": "2026-08-04 20:52",
+    "timestamp": 1785876771.4270232
+  },
+  {
+    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "Anthropic近期加速云合作，据报道拟以100亿美元投资AI云初创公司Volta，进一步扩大其云生态布局。",
+    "date": "2026-08-04 20:52",
+    "timestamp": 1785876773.1055834
+  },
+  {
+    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
+    "summary": "Wrinkles是一款覆盖iOS和Android的AI语音导览应用，通过音频揭示城市隐藏历史与本地故事，提供专业沉浸式文化体验。",
+    "date": "2026-08-04 20:52",
+    "timestamp": 1785876774.71472
+  },
+  {
     "title": "Spotify expands AI remix and covers project with Merlin partnership",
     "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Claude推出新语音模型，用户可通过语音指令重新安排会议或撰写邮件，提升了交互效率与工作便捷性。",
     "date": "2026-07-23 20:39",
     "timestamp": 1784839198.4150903
-  },
-  {
-    "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-    "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/aegisai-co-founders.jpg?resize=1200,800",
-    "summary": "AegisAI完成由Battery Ventures领投的A轮融资，累计融资额达4900万美元。",
-    "date": "2026-07-23 18:48",
-    "timestamp": 1784832491.4717658
-  },
-  {
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-    "summary": "Media Router是一款工具，可根据开发者对质量、速度或成本的优先级，自动为请求选择最佳的图像、视频或音频生成模型。",
-    "date": "2026-07-23 18:48",
-    "timestamp": 1784832492.7043478
-  },
-  {
-    "title": "Now, defenders are embracing the prompt injection, too",
-    "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail-1152x648.jpg",
-    "summary": "“上下文炸弹”技术可诱使黑客代理提前关闭，从而在造成损害前阻止其攻击行为。",
-    "date": "2026-07-23 18:48",
-    "timestamp": 1784832495.184833
   }
 ]
