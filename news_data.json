@@ -1,5 +1,21 @@
 [
   {
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+    "summary": "苹果在最新法庭文件中称，对OpenAI的商业机密调查已扩大，指控更多前员工可能保留或接触了其机密信息。",
+    "date": "2026-08-04 15:07",
+    "timestamp": 1785856073.1129942
+  },
+  {
+    "title": "Is the future of data centers portable? Runware builds a pod to find out",
+    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200",
+    "summary": "AI基础设施公司Runware于周二宣布推出自研模块化数据中心Sonic Inference Pod，旨在提升算力部署效率与灵活性。该产品采用模块化设计，可快速扩展，满足AI推理需求，体现其在AI基础设施领域的进一步布局。",
+    "date": "2026-08-04 15:07",
+    "timestamp": 1785856074.737014
+  },
+  {
     "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
     "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/EON-Co-Founders_Horizontal_Philip-Cheung.jpg?resize=1200,898",
@@ -782,21 +798,5 @@
     "summary": "Meta在一则广告中使用了David Bowie的歌曲《Five Years》，该歌曲讲述人类得知世界末日将至、仅剩五年寿命的故事。此举引发争议。",
     "date": "2026-07-23 17:02",
     "timestamp": 1784826179.4628167
-  },
-  {
-    "title": "Nvidia is sending GPUs to the moon",
-    "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/MAPP-Testing.jpeg?w=640",
-    "summary": "英伟达正将GPU送往宇宙中任何缺少该设备的角落。",
-    "date": "2026-07-23 17:03",
-    "timestamp": 1784826180.6508477
-  },
-  {
-    "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
-    "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "summary": "一位专家向TechCrunch表示，在Fable仅进行蒸馏的情况下，不可能如此迅速获得如此强大的模型。",
-    "date": "2026-07-23 12:12",
-    "timestamp": 1784808742.1312563
   }
 ]
