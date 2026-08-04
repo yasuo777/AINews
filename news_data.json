@@ -1,5 +1,13 @@
 [
   {
+    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?resize=1200,800",
+    "summary": "此次收购凸显了马斯克旗下各公司间的高度关联性。",
+    "date": "2026-08-04 22:41",
+    "timestamp": 1785883309.1895716
+  },
+  {
     "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
     "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
@@ -790,13 +798,5 @@
     "summary": "AMD将于今年晚些时候向客户出货全新机架级系统，以此挑战其芯片制造商竞争对手。该系统定位高端计算领域，旨在提升性能与能效。",
     "date": "2026-07-23 20:39",
     "timestamp": 1784839196.983781
-  },
-  {
-    "title": "Anthropic updates Claude voice mode with more capable models",
-    "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
-    "summary": "Claude推出新语音模型，用户可通过语音指令重新安排会议或撰写邮件，提升了交互效率与工作便捷性。",
-    "date": "2026-07-23 20:39",
-    "timestamp": 1784839198.4150903
   }
 ]
