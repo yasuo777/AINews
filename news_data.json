@@ -1,5 +1,13 @@
 [
   {
+    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/EON-Co-Founders_Horizontal_Philip-Cheung.jpg?resize=1200,898",
+    "summary": "奋进光网络公司计划发射迄今最快的空间激光通信系统。该系统将大幅提升数据传输速度，有望为深空探测及卫星通信带来革命性突破，其技术指标与部署计划尚未完全公布。",
+    "date": "2026-08-04 12:28",
+    "timestamp": 1785846482.6508384
+  },
+  {
     "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
     "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
@@ -790,13 +798,5 @@
     "summary": "一位专家向TechCrunch表示，在Fable仅进行蒸馏的情况下，不可能如此迅速获得如此强大的模型。",
     "date": "2026-07-23 12:12",
     "timestamp": 1784808742.1312563
-  },
-  {
-    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
-    "summary": "ServiceNow投资为BusinessNext提供了战略合作伙伴，助其将AI驱动的银行软件推向全球市场。",
-    "date": "2026-07-23 07:15",
-    "timestamp": 1784790928.1059303
   }
 ]
