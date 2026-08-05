@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta launches Muse Code, an AI agent for large code bases",
+    "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+    "summary": "Meta推出全新AI编程代理，宣称能处理复杂软件任务，进一步扩展其AI编码工具矩阵，以提升开发效率与自动化水平。",
+    "date": "2026-08-05 21:52",
+    "timestamp": 1785966738.0523863
+  },
+  {
     "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
     "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?resize=1200,868",
@@ -790,13 +798,5 @@
     "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's bigges...",
     "date": "2026-07-25 01:10",
     "timestamp": 1784941835.0777361
-  },
-  {
-    "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-    "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1258942056.jpg?resize=1200,799",
-    "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's bigges...",
-    "date": "2026-07-24 23:40",
-    "timestamp": 1784936412.9738846
   }
 ]
