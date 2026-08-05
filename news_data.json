@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/6a1cc23a5fed8844a94b28ba_weather-params.jpg?resize=1200,722",
+    "summary": "WindBorne Systems完成3700万美元B轮融资，将用于扩大气象气球部署及AI预测能力，以提升天气预报精准度并拓展商业化应用。",
+    "date": "2026-08-05 11:03",
+    "timestamp": 1785927835.7242503
+  },
+  {
     "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
     "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "与多位网络安全研究人员交流后获悉，OpenAI和Anthropic的安全护栏对其挖掘未知漏洞及开发利用工具的工作产生了影响。",
     "date": "2026-07-24 04:52",
     "timestamp": 1784868778.7829957
-  },
-  {
-    "title": "AMD takes on Nvidia with its Helios AI rack scale system",
-    "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
-    "summary": "AMD将于今年晚些时候向客户出货全新机架级系统，以此挑战其芯片制造商竞争对手。该系统定位高端计算领域，旨在提升性能与能效。",
-    "date": "2026-07-23 20:39",
-    "timestamp": 1784839196.983781
   }
 ]
