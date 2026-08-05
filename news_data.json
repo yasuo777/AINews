@@ -1,5 +1,13 @@
 [
   {
+    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+    "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/MacPaw-x-Liquid-AI.png?resize=1200,675",
+    "summary": "MacPaw正利用Liquid AI的模型，开发其AI助手Eney的本地化版本。此举旨在提升数据隐私与响应速度，同时减少对外部云服务的依赖，强化产品在离线环境下的可用性。",
+    "date": "2026-08-05 13:19",
+    "timestamp": 1785935961.3131912
+  },
+  {
     "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
     "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/6a1cc23a5fed8844a94b28ba_weather-params.jpg?resize=1200,722",
@@ -790,13 +798,5 @@
     "summary": "美国拟出台新规，允许各州自行决定公众参与环境保护的程度（甚至可以完全取消公众意见征询环节）。该规则旨在削弱联邦监督，赋予州政府更大自主权。",
     "date": "2026-07-24 14:23",
     "timestamp": 1784903026.1318383
-  },
-  {
-    "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-    "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-    "summary": "与多位网络安全研究人员交流后获悉，OpenAI和Anthropic的安全护栏对其挖掘未知漏洞及开发利用工具的工作产生了影响。",
-    "date": "2026-07-24 04:52",
-    "timestamp": 1784868778.7829957
   }
 ]
