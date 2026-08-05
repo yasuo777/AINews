@@ -1,5 +1,37 @@
 [
   {
+    "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+    "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?resize=1200,868",
+    "summary": "连续创业家加入该电商公司任首席产品官，将主导AI智能体业务发展。",
+    "date": "2026-08-05 20:12",
+    "timestamp": 1785960760.8787925
+  },
+  {
+    "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+    "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1197130647.jpg?resize=1200,800",
+    "summary": "传奇谷歌高管联合其他离职高管，共同致力于利用人工智能推动科学发现进程。",
+    "date": "2026-08-05 20:12",
+    "timestamp": 1785960762.2846732
+  },
+  {
+    "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
+    "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
+    "summary": "Reddit表示，其深受喜爱的平台存在部分“不良行为”，并对此予以承认。",
+    "date": "2026-08-05 20:12",
+    "timestamp": 1785960764.3755326
+  },
+  {
+    "title": "Hank Green found the AI problem that YouTube labels can’t catch",
+    "link": "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2194534888-1152x648.jpeg",
+    "summary": "\"Slop\" isn't the only problem.",
+    "date": "2026-08-05 20:12",
+    "timestamp": 1785960764.873701
+  },
+  {
     "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
     "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
@@ -766,37 +798,5 @@
     "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's bigges...",
     "date": "2026-07-24 23:40",
     "timestamp": 1784936412.9738846
-  },
-  {
-    "title": "Canadian legislator reads out apparent LLM response in floor speech",
-    "link": "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-1152x648-1784927041.jpg",
-    "summary": "\"Here’s a more natural, flowing version of that section...\"...",
-    "date": "2026-07-24 21:42",
-    "timestamp": 1784929347.4450321
-  },
-  {
-    "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-    "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.56.23-PM.jpg?resize=1200,610",
-    "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal va...",
-    "date": "2026-07-24 19:59",
-    "timestamp": 1784923192.9563785
-  },
-  {
-    "title": "Anthropic launches Opus 5",
-    "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-24-at-12.47.38-PM.jpg?w=1166",
-    "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use...",
-    "date": "2026-07-24 18:03",
-    "timestamp": 1784916238.871301
-  },
-  {
-    "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-    "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205211212-1.jpg?resize=1200,800",
-    "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-we...",
-    "date": "2026-07-24 18:03",
-    "timestamp": 1784916239.35395
   }
 ]
