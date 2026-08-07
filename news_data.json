@@ -1,5 +1,13 @@
 [
   {
+    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
+    "summary": "Rippling推出AI支出管理控制台，可追踪员工个人及团队AI开销，此产品源于其自身在AI使用上的警示，旨在提升企业AI成本透明化管理。",
+    "date": "2026-08-07 22:16",
+    "timestamp": 1786140970.0636265
+  },
+  {
     "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
     "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2181827335.jpg?resize=1200,703",
@@ -790,13 +798,5 @@
     "summary": "OpenAI在Hugging Face平台的数据泄露事件，再次引发关于AI对齐与控制的争议，凸显出在日益强大的AI系统面前，应优先强化对齐、加强约束，抑或双管齐下的不同立场。",
     "date": "2026-07-27 19:00",
     "timestamp": 1785178825.1251404
-  },
-  {
-    "title": "Threads users can now chat with Meta AI in their DMs",
-    "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/threads-finger-GettyImages-2232887912.jpg?w=1024",
-    "summary": "Meta于周一宣布，已在Threads私信中推出Meta AI聊天机器人，用户可直接与AI助手进行对话。",
-    "date": "2026-07-27 17:20",
-    "timestamp": 1785172807.7577226
   }
 ]
