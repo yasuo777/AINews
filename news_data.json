@@ -1,5 +1,37 @@
 [
   {
+    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "summary": "OpenAI神秘新AI设备细节曝光，或为高端智能音箱，定价不菲，功能定位尚不明确。",
+    "date": "2026-08-07 00:28",
+    "timestamp": 1786062529.7279482
+  },
+  {
+    "title": "ChatGPT brings unlimited text chats to free users",
+    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+    "summary": "OpenAI宣布，ChatGPT免费版及Go用户也将新增“思考”按钮，用于处理复杂查询，进一步提升解答质量与专业性。",
+    "date": "2026-08-07 00:28",
+    "timestamp": 1786062531.1504514
+  },
+  {
+    "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+    "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+    "summary": "Naïve公司声称其基础设施可进一步自动化企业设立与运营的大部分工作，将“氛围编码”推向新高度，旨在简化商业管理流程，提升效率。",
+    "date": "2026-08-07 00:28",
+    "timestamp": 1786062532.7298732
+  },
+  {
+    "title": "Large genome models used to design new viruses",
+    "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
+    "summary": "该AI系统能生成遗传上差异显著的噬菌体变异版本，用于高效杀灭细菌，为抗感染治疗提供新途径。",
+    "date": "2026-08-07 00:28",
+    "timestamp": 1786062535.023376
+  },
+  {
     "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
     "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Malachyte.jpg?w=1200",
@@ -766,37 +798,5 @@
     "summary": "该种子轮融资由Index Ventures和Ribbit Capital领投，Sarah Guo的Conviction Partners参投，金额巨大。",
     "date": "2026-07-27 15:29",
     "timestamp": 1785166175.5063007
-  },
-  {
-    "title": "Are brain waves the next unlock for physical AI?",
-    "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
-    "summary": "前沿物理AI模型不再依赖视频，而需多视角摄像头、密集标注，并即将引入脑电波数据。",
-    "date": "2026-07-27 04:26",
-    "timestamp": 1785126395.0559697
-  },
-  {
-    "title": "Making sense of the panic over Chinese AI",
-    "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
-    "summary": "在最新一期《Equity》节目中，我们探讨了为何月之暗面的Kimi引发了硅谷与华尔街的恐慌情绪。",
-    "date": "2026-07-26 19:50",
-    "timestamp": 1785095415.8134634
-  },
-  {
-    "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
-    "summary": "首例自主智能体网络攻击事件史无前例，需采取前所未有的应对措施。",
-    "date": "2026-07-26 17:40",
-    "timestamp": 1785087642.691443
-  },
-  {
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
-    "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced s...",
-    "date": "2026-07-26 05:02",
-    "timestamp": 1785042179.4682992
   }
 ]
