@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI says it slowed Astra model development over security concerns",
+    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "summary": "OpenAI称，因担忧即将推出的Astra模型在网络安全方面的能力，已暂停其部分研发工作。",
+    "date": "2026-08-07 23:15",
+    "timestamp": 1786144539.0562449
+  },
+  {
     "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
     "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
@@ -790,13 +798,5 @@
     "summary": "微软本周推出首个AI安全模型及新安全平台，强化其AI网络安全服务能力。",
     "date": "2026-07-27 19:00",
     "timestamp": 1785178823.4396973
-  },
-  {
-    "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
-    "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
-    "summary": "OpenAI在Hugging Face平台的数据泄露事件，再次引发关于AI对齐与控制的争议，凸显出在日益强大的AI系统面前，应优先强化对齐、加强约束，抑或双管齐下的不同立场。",
-    "date": "2026-07-27 19:00",
-    "timestamp": 1785178825.1251404
   }
 ]
