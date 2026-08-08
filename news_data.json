@@ -1,5 +1,13 @@
 [
   {
+    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
+    "summary": "亚马逊计划在得州数据中心现场建设自备电厂，可能成为全美最大气候污染源，引发环保担忧。",
+    "date": "2026-08-08 22:00",
+    "timestamp": 1786226405.8256805
+  },
+  {
     "title": "OpenAI acquires presentation startup NextSlide",
     "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
@@ -790,13 +798,5 @@
     "summary": "微软表示，其工具成本低于竞品，性能表现更优。",
     "date": "2026-07-27 22:39",
     "timestamp": 1785191980.604398
-  },
-  {
-    "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-    "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/facepalm-statue.jpg?resize=1200,688",
-    "summary": "该问题源于Claude的“分享对话”功能，该功能允许用户生成链接，使任何获得链接的人均可查看相关对话或项目内容。",
-    "date": "2026-07-27 20:51",
-    "timestamp": 1785185519.5627553
   }
 ]
