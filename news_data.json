@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI acquires presentation startup NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
+    "summary": "NextSlide公司表示，其团队成员目前正参与ChatGPT相关的工作。",
+    "date": "2026-08-08 19:59",
+    "timestamp": 1786219148.946571
+  },
+  {
     "title": "OpenAI says it slowed Astra model development over security concerns",
     "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "该问题源于Claude的“分享对话”功能，该功能允许用户生成链接，使任何获得链接的人均可查看相关对话或项目内容。",
     "date": "2026-07-27 20:51",
     "timestamp": 1785185519.5627553
-  },
-  {
-    "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-    "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
-    "summary": "微软本周推出首个AI安全模型及新安全平台，强化其AI网络安全服务能力。",
-    "date": "2026-07-27 19:00",
-    "timestamp": 1785178823.4396973
   }
 ]
