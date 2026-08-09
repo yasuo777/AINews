@@ -1,5 +1,21 @@
 [
   {
+    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
+    "summary": "在最新一期《Equity》节目中，我们与吉尔·勒波尔探讨了“机器治国”现象，并指出马斯克对科幻的误读——他忽视了反乌托邦叙事中对权力集中与人性丧失的警示。",
+    "date": "2026-08-09 15:04",
+    "timestamp": 1786287879.3628533
+  },
+  {
+    "title": "The AI safety test is becoming a safety risk",
+    "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+    "summary": "AI代理正从网络安全测试环境进入真实系统，引发对其安全基础设施、行业标准及监管能否跟上模型快速发展的质疑。",
+    "date": "2026-08-09 15:04",
+    "timestamp": 1786287881.128888
+  },
+  {
     "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
     "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Anthropic创始人兼CEO Dario Amodei明确表达了对开源权重模型及中国AI能力崛起的看法。",
     "date": "2026-07-28 03:50",
     "timestamp": 1785210637.1086447
-  },
-  {
-    "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-    "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706501.jpg?resize=1200,675",
-    "summary": "纳德拉指出，缺乏自研模型或AI网关层（用于隔离提示与模型）的企业将面临困境。",
-    "date": "2026-07-27 22:39",
-    "timestamp": 1785191979.0410411
-  },
-  {
-    "title": "Microsoft unveils AI security tools it says outperform competing platforms",
-    "link": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-1024x648.jpg",
-    "summary": "微软表示，其工具成本低于竞品，性能表现更优。",
-    "date": "2026-07-27 22:39",
-    "timestamp": 1785191980.604398
   }
 ]
