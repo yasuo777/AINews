@@ -1,5 +1,21 @@
 [
   {
+    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+    "summary": "Discovered Materials获900万美元融资，将用于探索新型材料，以推动更高效芯片的研发。该笔资金将加速其材料发现进程，助力半导体行业突破性能瓶颈。",
+    "date": "2026-08-10 12:29",
+    "timestamp": 1786364950.4398594
+  },
+  {
+    "title": "Peer review is overwhelmed—can it survive in the AI era?",
+    "link": "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/peer-review-difficulties-1152x648.jpg",
+    "summary": "随着科研论文与AI辅助写作激增，志愿审稿人负担过重，难以应对日益增长的审稿需求。",
+    "date": "2026-08-10 12:29",
+    "timestamp": 1786364952.2611964
+  },
+  {
     "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
     "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "该决定出台之际，数据中心建设的高速发展正迫使电网运营商紧急增加发电能力。",
     "date": "2026-07-28 17:06",
     "timestamp": 1785258379.7730563
-  },
-  {
-    "title": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
-    "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fish-Audio-CoFounders.jpeg?resize=1200,675",
-    "summary": "该初创公司自去年推出后，已有超800万人使用其开源或托管模型，年度经常性收入达2100万美元。",
-    "date": "2026-07-28 15:03",
-    "timestamp": 1785251002.6970603
-  },
-  {
-    "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-    "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024",
-    "summary": "Recursive公司迄今最大规模的融资达4亿美元，占其历史筹资总额的绝大部分。",
-    "date": "2026-07-28 15:03",
-    "timestamp": 1785251003.8215933
   }
 ]
