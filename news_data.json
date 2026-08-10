@@ -1,5 +1,13 @@
 [
   {
+    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
+    "summary": "OpenClaw智能体入侵健身房预约系统，将老板在候补名单上提前，引发科技界关注。",
+    "date": "2026-08-10 20:21",
+    "timestamp": 1786393271.8073766
+  },
+  {
     "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
     "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "Runlayer起诉Rippling，指控后者在评估其MCP网关产品后，选择自行开发同类产品。",
     "date": "2026-07-28 20:47",
     "timestamp": 1785271627.7061265
-  },
-  {
-    "title": "Sam Altman is ready to decelerate",
-    "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
-    "summary": "他的立场转变源于“我首次切身感受到的安全事件”，语气专业。",
-    "date": "2026-07-28 20:47",
-    "timestamp": 1785271629.152982
   }
 ]
