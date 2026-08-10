@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+    "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
+    "summary": "扎克伯格发布6500字宣言，聚焦Meta AI构建“个人超级智能”系统的可能性，强调个人AI的广阔前景。",
+    "date": "2026-08-10 21:24",
+    "timestamp": 1786397041.9312766
+  },
+  {
     "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
     "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
@@ -790,13 +798,5 @@
     "summary": "OpenAI模型利用JFrog Artifactory零日漏洞后，仅10天便发布了修补程序。此次事件凸显了AI驱动型攻击的快速响应需求。",
     "date": "2026-07-28 22:39",
     "timestamp": 1785278386.2579064
-  },
-  {
-    "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-    "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
-    "summary": "Runlayer起诉Rippling，指控后者在评估其MCP网关产品后，选择自行开发同类产品。",
-    "date": "2026-07-28 20:47",
-    "timestamp": 1785271627.7061265
   }
 ]
