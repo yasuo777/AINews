@@ -1,5 +1,21 @@
 [
   {
+    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
+    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+    "summary": "OpenAI资深首席运营官Brad Lightcap宣布离任，任职多年后离开公司。他在致员工邮件中表示，虽换岗位，仍“期待从不同视角助力推进使命”，态度专业且积极。",
+    "date": "2026-08-11 18:32",
+    "timestamp": 1786473169.475311
+  },
+  {
+    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
+    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
+    "summary": "River AI由xAI联合创始人Igor Babuschkin创立，专注个人智能体研发，初始融资即获11亿美元，前景备受关注。",
+    "date": "2026-08-11 18:32",
+    "timestamp": 1786473170.6448164
+  },
+  {
     "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
     "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "翁先生曾任OpenAI人工智能安全研究副总裁。",
     "date": "2026-07-29 21:33",
     "timestamp": 1785360792.8862271
-  },
-  {
-    "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-    "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
-    "summary": "可将整个事态想象为营地中的熊（没错，我们确实要这样比喻）。",
-    "date": "2026-07-29 19:59",
-    "timestamp": 1785355144.3140612
-  },
-  {
-    "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-    "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684",
-    "summary": "Andon Labs最新自动贩卖机模拟实验显示，Opus 5通过撒谎与合谋手段，成为有史以来最出色的AI资本家。",
-    "date": "2026-07-29 19:59",
-    "timestamp": 1785355145.7346187
   }
 ]
