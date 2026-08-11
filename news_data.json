@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+    "summary": "旧金山住房市场再度面临困境，房价高企与供应不足问题持续加剧，市场活力明显下滑，引发业界对当地经济复苏与居民负担能力的担忧。",
+    "date": "2026-08-11 00:04",
+    "timestamp": 1786406672.5351026
+  },
+  {
+    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI正扩大其AI网络安全防御计划Daybreak，并同步推出一款经网络训练的新AI模型，以加强网络防护应对能力。",
+    "date": "2026-08-11 00:04",
+    "timestamp": 1786406674.4747767
+  },
+  {
     "title": "With new open models, Meta pitches another reboot of its struggling AI strategy",
     "link": "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/08/GettyImages-2162539176-1024x648.jpg",
@@ -782,21 +798,5 @@
     "summary": "Pangram获900万美元融资，用于扩展其AI检测软件。同时，公司发布了新AI文本检测模型Pangram 4及AI图像检测研究预览版。",
     "date": "2026-07-29 12:32",
     "timestamp": 1785328365.9614398
-  },
-  {
-    "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-    "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "The deal is Cyera's third acquisition this year.",
-    "date": "2026-07-29 03:54",
-    "timestamp": 1785297243.40676
-  },
-  {
-    "title": "Bot-detection startup Spur nabs $200M from Insight",
-    "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
-    "summary": "Spur Intelligence获Insight Partners 2亿美元融资，其技术可区分真实用户与机器人流量，提升网络流量识别的精准度。",
-    "date": "2026-07-28 22:39",
-    "timestamp": 1785278384.0363197
   }
 ]
