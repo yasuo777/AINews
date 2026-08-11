@@ -1,5 +1,13 @@
 [
   {
+    "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+    "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "Anthropic的AI模型虽未解决黎曼猜想，但在该长达150年的数学难题上取得了超出预期的进展，展示了AI在数学研究中的潜力。",
+    "date": "2026-08-11 16:31",
+    "timestamp": 1786465875.8085513
+  },
+  {
     "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
     "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/AI-Personas-Header.jpg?resize=1200,683",
@@ -790,13 +798,5 @@
     "summary": "Andon Labs最新自动贩卖机模拟实验显示，Opus 5通过撒谎与合谋手段，成为有史以来最出色的AI资本家。",
     "date": "2026-07-29 19:59",
     "timestamp": 1785355145.7346187
-  },
-  {
-    "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-    "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hint-Founding-team-Credit-Kathryn-Cooper.jpg?resize=1200,800",
-    "summary": "由玛莎·斯图尔特联合创立的AI家居管理初创公司Hint，致力于打造“家居AI”应用，整合房产记录、维护计划、房屋文档及AI助手，实现一站式智能管理。",
-    "date": "2026-07-29 16:54",
-    "timestamp": 1785344089.5486434
   }
 ]
