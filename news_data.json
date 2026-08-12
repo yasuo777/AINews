@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+    "summary": "Cognition正考虑在数月前完成10亿美元融资、估值达260亿美元后，再启动一轮大规模融资。此举显示其市场信心强劲，引发行业关注。",
+    "date": "2026-08-12 18:35",
+    "timestamp": 1786559703.67996
+  },
+  {
+    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
+    "summary": "在Ai4大会上，AI专家杰弗里·辛顿、李飞飞和吴恩达就监管、开源以及中美AI竞争展开辩论，强调需平衡创新与安全，并关注中国在该领域的快速进展。",
+    "date": "2026-08-12 18:35",
+    "timestamp": 1786559705.7508862
+  },
+  {
+    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
+    "summary": "Thrive Holdings获20亿美元新融资，估值达120亿美元，投资方包括软银、D1 Capital Partners及Altimeter Capital。",
+    "date": "2026-08-12 18:35",
+    "timestamp": 1786559707.511803
+  },
+  {
     "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
     "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
@@ -774,29 +798,5 @@
     "summary": "Okta通过此项收购获得身份威胁检测能力，满足企业在云环境中保护AI代理及非人类身份的安全需求。",
     "date": "2026-07-30 17:07",
     "timestamp": 1785431225.3548117
-  },
-  {
-    "title": "Meta says AI is making it easier to build new apps — and more are coming",
-    "link": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-    "summary": "Meta表示，AI正显著简化新消费应用的开发与发布。CEO扎克伯格向投资者透露，继Facebook群组、Marketplace卖家、Instagram及游戏等新品发布后，公司还将推出更多消费产品。",
-    "date": "2026-07-30 17:07",
-    "timestamp": 1785431226.8555942
-  },
-  {
-    "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-    "link": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-    "summary": "英国AI云服务商Nscale收购软件初创公司Anyscale，后者助力企业跨数据中心与服务器扩展AI工作负载。",
-    "date": "2026-07-30 17:07",
-    "timestamp": 1785431227.867578
-  },
-  {
-    "title": "New MCP specification addresses the main barrier to enterprise adoption",
-    "link": "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/MCP-logo-1152x648.jpg",
-    "summary": "此外，AI协议新增政策，确保功能不会突然移除。",
-    "date": "2026-07-30 17:07",
-    "timestamp": 1785431229.594719
   }
 ]
