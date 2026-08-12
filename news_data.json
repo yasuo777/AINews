@@ -1,5 +1,21 @@
 [
   {
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
+    "summary": "Automattic旗下AI联系人管理应用Mesh现已推出安卓版，旨在通过智能化关系管理优化用户的社交联络体验。",
+    "date": "2026-08-12 17:37",
+    "timestamp": 1786556256.9981124
+  },
+  {
+    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
+    "summary": "近年来，AI笔记硬件市场快速扩张，从卡片设备、吊坠到转录耳机，均主打会议记录与摘要功能。如今，以智能戒指为代表的新一代可穿戴设备，正致力于让用户随时捕捉零散想法，实现同等便捷的语音转文字体验。",
+    "date": "2026-08-12 17:37",
+    "timestamp": 1786556258.6369154
+  },
+  {
     "title": "Lovable confirms new $13.3B valuation, raises another $400M",
     "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
@@ -782,21 +798,5 @@
     "summary": "此外，AI协议新增政策，确保功能不会突然移除。",
     "date": "2026-07-30 17:07",
     "timestamp": 1785431229.594719
-  },
-  {
-    "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-    "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
-    "summary": "网络安全专家向TechCrunch指出，OpenAI攻击HuggingFace事件的最大教训并非关乎人工智能本身，而是传统网络安全防御的重要性。",
-    "date": "2026-07-30 14:53",
-    "timestamp": 1785423226.729472
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/54889342155_4479997650_4k.jpg?resize=1200,800",
-    "summary": "在科技领域最具影响力的“Disrupt Stage”已走过十余年历程，这里曾孕育并推动了诸多重大技术对话与行业变革。",
-    "date": "2026-07-30 14:53",
-    "timestamp": 1785423228.1589582
   }
 ]
