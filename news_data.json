@@ -1,5 +1,13 @@
 [
   {
+    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
+    "summary": "谷歌2026年新品发布会亮点：Pixel 11系列手机亮相，新增AirTag竞品，另有多款产品发布，全面丰富生态布局。",
+    "date": "2026-08-12 15:33",
+    "timestamp": 1786548826.5771563
+  },
+  {
     "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
     "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "微软周三向华尔街展示其自研AI模型、工具链及竞品方案，表示计划持续增长。",
     "date": "2026-07-30 01:01",
     "timestamp": 1785373305.4481952
-  },
-  {
-    "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
-    "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
-    "summary": "Meta正投入巨资布局AI基础设施与智能体，扎克伯格努力向投资者证明其高额投入将带来丰厚回报。",
-    "date": "2026-07-29 23:39",
-    "timestamp": 1785368362.1017435
   }
 ]
