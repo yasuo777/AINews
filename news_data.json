@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
+    "summary": "Twitch首席产品官Mike Minton在直播中回应用户反馈时坦言，若该功能为“自愿参与”，根本无人会主动选择，这番直白表态引发关注。",
+    "date": "2026-08-12 21:25",
+    "timestamp": 1786569914.7173262
+  },
+  {
+    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+    "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
+    "summary": "流媒体平台表示，用户生成内容“可能用于未来生成式AI模型的改进”。",
+    "date": "2026-08-12 21:25",
+    "timestamp": 1786569916.694944
+  },
+  {
     "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
     "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
@@ -782,21 +798,5 @@
     "summary": "专家警告已持续两年：微软、谷歌等公司因使用大语言模型及AI工具，正发现并修复产品中呈指数级增长的漏洞。",
     "date": "2026-07-30 18:59",
     "timestamp": 1785437950.3709235
-  },
-  {
-    "title": "LinkedIn adds a button to report AI-generated ‘slop’",
-    "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
-    "summary": "领英推出新措施减少低质量AI生成内容，包括新增“疑似AI垃圾”举报选项，并以校对工具替代原有的AI写作功能。",
-    "date": "2026-07-30 18:59",
-    "timestamp": 1785437951.3604398
-  },
-  {
-    "title": "Okta buys AI security startup Permiso; source says for about $200M",
-    "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Okta-lobby.jpg?resize=1200,816",
-    "summary": "Okta通过此项收购获得身份威胁检测能力，满足企业在云环境中保护AI代理及非人类身份的安全需求。",
-    "date": "2026-07-30 17:07",
-    "timestamp": 1785431225.3548117
   }
 ]
