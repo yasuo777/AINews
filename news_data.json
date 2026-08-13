@@ -1,5 +1,29 @@
 [
   {
+    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
+    "summary": "微软简化Copilot，整合其消费者与商业应用，并下架AI生成播客、群聊、深度研究及Mico角色功能。",
+    "date": "2026-08-13 15:35",
+    "timestamp": 1786635322.1920185
+  },
+  {
+    "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+    "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
+    "summary": "英伟达提出新策略，旨在说服新兴金融家持续为AI基础设施注资，以保障其GPU价值不缩水，确保算力需求长期稳定。",
+    "date": "2026-08-13 15:35",
+    "timestamp": 1786635323.4965322
+  },
+  {
+    "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+    "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+    "summary": "据《华尔街日报》报道，该科技巨头已考虑为这笔支付预留九位数预算。",
+    "date": "2026-08-13 15:35",
+    "timestamp": 1786635324.6511674
+  },
+  {
     "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
     "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "前OpenAI研究员的对冲基金因杠杆公开市场投资暴跌被迫平仓，但他仍有应对策略。",
     "date": "2026-07-31 01:10",
     "timestamp": 1785460250.506875
-  },
-  {
-    "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-    "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/reddit-ipo-v2.webp?resize=1200,674",
-    "summary": "Reddit财务表现良好，但市场对其与谷歌合作及AI化网络前景的不确定性引发担忧。",
-    "date": "2026-07-31 01:10",
-    "timestamp": 1785460251.5571506
-  },
-  {
-    "title": "Investors love AI, as long as you’re a cloud host",
-    "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
-    "summary": "亚马逊持续加大数据中心投资力度，但投资者对此并未表现出明显担忧。",
-    "date": "2026-07-30 22:44",
-    "timestamp": 1785451450.3089633
-  },
-  {
-    "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-    "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-    "summary": "联邦法官指出，特朗普政府未能提供充分证据证明将Anthropic列为供应链风险的合理性，因此对其AI技术禁令的合法性存疑。",
-    "date": "2026-07-30 20:45",
-    "timestamp": 1785444319.640368
   }
 ]
