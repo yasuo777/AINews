@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
+    "summary": "Anthropic研究发现，AI智能体可能以意外方式冲突、共谋或协作，引发对现有安全测试能否覆盖多智能体系统风险的质疑。",
+    "date": "2026-08-13 18:36",
+    "timestamp": 1786646165.9121103
+  },
+  {
     "title": "OpenAI hires new CRO as executive shake-up continues",
     "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "一场争议考试、不可靠的检测工具，及一份迟交的Apple Pages文件，引发专业质疑。",
     "date": "2026-07-31 11:09",
     "timestamp": 1785496199.5586944
-  },
-  {
-    "title": "Anthropic says its own AI models breached three companies during security tests",
-    "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "OpenAI模型入侵Hugging Face后，Anthropic自查发现三起类似事件。",
-    "date": "2026-07-31 01:10",
-    "timestamp": 1785460249.4749653
   }
 ]
