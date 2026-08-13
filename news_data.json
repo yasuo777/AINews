@@ -1,5 +1,21 @@
 [
   {
+    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
+    "summary": "Writer基于Z.ai开源模型GLM-5.2推出后训练版本，宣称新系统以更低价格提供即时部署能力。",
+    "date": "2026-08-13 21:26",
+    "timestamp": 1786656401.6901069
+  },
+  {
+    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
+    "summary": "AI成本高昂，但Databricks CEO阿里·戈迪西表示，因投资者需求旺盛，他超计划完成了最新融资轮次。",
+    "date": "2026-08-13 21:26",
+    "timestamp": 1786656402.9195921
+  },
+  {
     "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
     "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Snapchat调整推荐机制，确保仅真人原创视频可进入Spotlight推荐，以遏制AI生成的低质内容泛滥。",
     "date": "2026-07-31 18:08",
     "timestamp": 1785521300.886272
-  },
-  {
-    "title": "Siri AI could come with a paywall for power users",
-    "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
-    "summary": "苹果CEO库克设想，用户可通过现有的iCloud+订阅，为Siri AI购买更多计算资源。此构想旨在利用现有订阅体系，提升AI功能性能，同时简化付费流程。",
-    "date": "2026-07-31 18:08",
-    "timestamp": 1785521302.2877495
-  },
-  {
-    "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-    "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
-    "summary": "SpaceX正在为xAI的Colossus数据中心新建发电厂，但现有未获许可的涡轮机仍需数月才能移除。新电厂旨在提升供电能力，而旧设备拆除工作将延后，期间或影响当地环保合规审查。",
-    "date": "2026-07-31 15:47",
-    "timestamp": 1785512857.1325357
   }
 ]
