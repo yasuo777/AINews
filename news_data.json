@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI hires new CRO as executive shake-up continues",
+    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
+    "summary": "达利·拉吉奇将出任OpenAI销售主管，负责领导全球销售团队，推动商业化增长。此举旨在强化公司市场拓展与客户关系，助力AI产品更广泛落地。",
+    "date": "2026-08-13 17:37",
+    "timestamp": 1786642647.062999
+  },
+  {
     "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
     "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "OpenAI模型入侵Hugging Face后，Anthropic自查发现三起类似事件。",
     "date": "2026-07-31 01:10",
     "timestamp": 1785460249.4749653
-  },
-  {
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
-    "summary": "前OpenAI研究员的对冲基金因杠杆公开市场投资暴跌被迫平仓，但他仍有应对策略。",
-    "date": "2026-07-31 01:10",
-    "timestamp": 1785460250.506875
   }
 ]
