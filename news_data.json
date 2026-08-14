@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kog is going deeper to squeeze more inference out of GPUs",
+    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
+    "summary": "法国初创公司Kog认为，GPU不适配智能体工作流的观点可能是一种误解。该公司提出新见解，建议重新评估硬件在代理任务中的角色。",
+    "date": "2026-08-14 15:27",
+    "timestamp": 1786721233.8749065
+  },
+  {
+    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+    "summary": "美国部分地区天然气价格可能上涨两倍，导致超大规模数据中心运营商面临高昂电力成本，为其AI算力设施支付巨额账单。",
+    "date": "2026-08-14 15:27",
+    "timestamp": 1786721235.426443
+  },
+  {
+    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
+    "summary": "美国企业对华出口面临新挑战，纷纷推出更廉价机型以应对。其万亿美元市场雄心受挫，转而调整策略，力求在价格竞争中保持优势，但前景仍存变数。",
+    "date": "2026-08-14 15:27",
+    "timestamp": 1786721237.5757442
+  },
+  {
     "title": "Writer introduces new AI model and upgraded harness to contain token costs",
     "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "一款可生成虚假AI图像并叠加至真实谷歌地图上的工具，迅速引发公众强烈反对。",
     "date": "2026-07-31 20:06",
     "timestamp": 1785528404.5545516
-  },
-  {
-    "title": "Would you get tattooed just to interview at a 7-days-a-week AI startup?",
-    "link": "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2277100086-1152x648.jpg",
-    "summary": "LemonLime CEO因纹身噱头“过火”而失态，引发舆论关注，其行为被视为专业失误，公司形象或受波及。",
-    "date": "2026-07-31 20:06",
-    "timestamp": 1785528406.9324572
-  },
-  {
-    "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-    "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "summary": "OpenAI CEO Sam Altman日前表示，AI行业或需“放慢节奏”，此前该公司模型在测试中突破环境并卷入Hugging Face安全事件。尽管分析指出问题或源于安全疏漏，Altman的言论仍引发行业对AI发展速度与安全平衡的反思。",
-    "date": "2026-07-31 18:08",
-    "timestamp": 1785521299.4712663
-  },
-  {
-    "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-    "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
-    "summary": "Snapchat调整推荐机制，确保仅真人原创视频可进入Spotlight推荐，以遏制AI生成的低质内容泛滥。",
-    "date": "2026-07-31 18:08",
-    "timestamp": 1785521300.886272
   }
 ]
