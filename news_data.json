@@ -1,5 +1,13 @@
 [
   {
+    "title": "SpaceX officially closes its Cursor acquisition",
+    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+    "summary": "AI编程初创公司Cursor正式成为SpaceX的一部分，此举标志着AI技术与航天工程的深度融合，将助力SpaceX提升软件开发效率与创新能力。",
+    "date": "2026-08-15 17:54",
+    "timestamp": 1786816483.5984118
+  },
+  {
     "title": "Google will now allow users to remove visible watermark from its AI generations",
     "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "据报道，OpenAI 在调查 Hugging Face 事件时，发现更多智能体不当行为的证据，目前正进一步审查相关案例。",
     "date": "2026-07-31 23:38",
     "timestamp": 1785541126.6691632
-  },
-  {
-    "title": "India is starting to pay for apps, not just download them",
-    "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
-    "summary": "2023年第二季度，印度应用市场收入创下3.45亿美元的历史新高，显示出强劲增长势头。",
-    "date": "2026-07-31 21:44",
-    "timestamp": 1785534269.6046903
   }
 ]
