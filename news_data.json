@@ -1,5 +1,13 @@
 [
   {
+    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+    "summary": "该女性声称，AI工具正将日常生活转化为儿童性虐待内容。",
+    "date": "2026-08-15 21:53",
+    "timestamp": 1786830834.7002273
+  },
+  {
     "title": "Anthropic shares more details about how Claude’s new watermarks will work",
     "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
@@ -790,13 +798,5 @@
     "summary": "这款9美元的NFC钥匙需物理扫描才能解锁手机上的干扰应用，旨在通过强制动作减少刷屏时间，提升专注力。",
     "date": "2026-08-01 17:39",
     "timestamp": 1785605981.9375217
-  },
-  {
-    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-    "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2018/04/GettyImages-893877316-1152x648.jpg",
-    "summary": "Reddit正考虑终止与谷歌的授权合作，目前仍处于评估阶段，尚未最终决定。此举或影响其搜索内容共享及AI训练数据供应，行业关注后续动向。",
-    "date": "2026-08-01 14:09",
-    "timestamp": 1785593373.7442205
   }
 ]
