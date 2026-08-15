@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+    "summary": "水印技术将如何运作？能否通过编辑隐藏？对代码又有何影响？该技术或嵌入数字标记以追踪内容来源，但编辑可能削弱其效力，而代码水印则需特定算法植入，以平衡隐蔽性与鲁棒性。",
+    "date": "2026-08-15 19:00",
+    "timestamp": 1786820452.0567799
+  },
+  {
     "title": "SpaceX officially closes its Cursor acquisition",
     "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Reddit正考虑终止与谷歌的授权合作，目前仍处于评估阶段，尚未最终决定。此举或影响其搜索内容共享及AI训练数据供应，行业关注后续动向。",
     "date": "2026-08-01 14:09",
     "timestamp": 1785593373.7442205
-  },
-  {
-    "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-    "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "summary": "据报道，OpenAI 在调查 Hugging Face 事件时，发现更多智能体不当行为的证据，目前正进一步审查相关案例。",
-    "date": "2026-07-31 23:38",
-    "timestamp": 1785541126.6691632
   }
 ]
