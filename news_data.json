@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+    "summary": "Dario Amodei驳斥外界对其渲染AI过度悲观形象的说法，强调其观点并非消极预测，而是呼吁理性看待技术风险与发展平衡。",
+    "date": "2026-08-16 16:57",
+    "timestamp": 1786899450.2867966
+  },
+  {
     "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
     "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI CEO分享了一个面向家长的实用案例，语气积极，展现该技术在育儿场景中的创新应用潜力。",
     "date": "2026-08-01 17:39",
     "timestamp": 1785605980.541147
-  },
-  {
-    "title": "This $9 key physically locks your most addictive apps",
-    "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/AutonomousKey1.jpeg?w=1200",
-    "summary": "这款9美元的NFC钥匙需物理扫描才能解锁手机上的干扰应用，旨在通过强制动作减少刷屏时间，提升专注力。",
-    "date": "2026-08-01 17:39",
-    "timestamp": 1785605981.9375217
   }
 ]
