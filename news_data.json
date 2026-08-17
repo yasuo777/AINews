@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
+    "summary": "Relay创始人兼CEO Jacob Bank表示，公司正计划借助Chrome浏览器中的AI技术，帮助用户更高效地完成任务，具体细节将于近期公布。",
+    "date": "2026-08-17 21:56",
+    "timestamp": 1787003812.8137002
+  },
+  {
     "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
     "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI首次邀请网红参与品牌活动，因AI使用争议引发网络批评，凸显行业内外对技术应用的持续担忧。",
     "date": "2026-08-03 20:16",
     "timestamp": 1785788210.886067
-  },
-  {
-    "title": "An AI-supervised remote exam went so badly that 58,000 students must retake it",
-    "link": "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-82955454-1152x648.jpg",
-    "summary": "Top scores increased by 5x.",
-    "date": "2026-08-03 20:16",
-    "timestamp": 1785788211.6790996
   }
 ]
