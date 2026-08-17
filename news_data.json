@@ -1,5 +1,13 @@
 [
   {
+    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
+    "summary": "Wispr’s total funding is now over $361 million.",
+    "date": "2026-08-17 13:24",
+    "timestamp": 1786973061.3804529
+  },
+  {
     "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
     "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
@@ -790,13 +798,5 @@
     "summary": "在最新一期《Equity》节目中，讨论了Sam Altman呼吁业界“放缓AI发展速度”的原因，强调需谨慎控制技术演进节奏。",
     "date": "2026-08-02 21:33",
     "timestamp": 1785706386.154529
-  },
-  {
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-    "summary": "尽管xAI提起诉讼，明尼苏达州针对“脱衣”类图像处理应用的禁令仍可继续实施。",
-    "date": "2026-08-01 20:30",
-    "timestamp": 1785616225.6717498
   }
 ]
