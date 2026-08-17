@@ -1,5 +1,21 @@
 [
   {
+    "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
+    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
+    "summary": "稀有书籍对训练大语言模型（LLM）价值极高，因模型已学习过网络公开资源，而稀有书籍提供独特、未公开的高质量数据，可显著提升模型性能与知识广度。",
+    "date": "2026-08-17 16:59",
+    "timestamp": 1786985998.8879652
+  },
+  {
+    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
+    "summary": "Groq完成3.5亿美元融资，估值达35亿美元，从AI芯片制造转向新型云服务，并扩大基于英伟达芯片的数据中心布局。",
+    "date": "2026-08-17 17:00",
+    "timestamp": 1786986000.9559
+  },
+  {
     "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
     "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
@@ -782,21 +798,5 @@
     "summary": "Top scores increased by 5x.",
     "date": "2026-08-03 20:16",
     "timestamp": 1785788211.6790996
-  },
-  {
-    "title": "Congress’s favorite AI tool? ChatGPT",
-    "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-    "summary": "国会披露的支出记录显示，OpenAI的ChatGPT是国会山使用最广泛的付费AI工具，各办公室依赖其起草备忘录、汇总立法并协助选民沟通。",
-    "date": "2026-08-03 18:23",
-    "timestamp": 1785781419.6383548
-  },
-  {
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "link": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
-    "summary": "June今日亮相，获2000万美元种子前融资，旨在简化AI应用落地，帮助企业更便捷地采用人工智能技术。",
-    "date": "2026-08-03 12:44",
-    "timestamp": 1785761042.9955046
   }
 ]
