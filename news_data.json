@@ -1,5 +1,13 @@
 [
   {
+    "title": "Etched’s valuation doubles to $21B in a month",
+    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+    "summary": "量化交易公司Jane Street已部署Etched首套AI集群系统，并对其表现印象深刻，因而牵头完成了新一轮大规模融资。",
+    "date": "2026-08-18 17:58",
+    "timestamp": 1787075938.431692
+  },
+  {
     "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
     "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
@@ -790,13 +798,5 @@
     "summary": "苹果在最新法庭文件中称，对OpenAI的商业机密调查已扩大，指控更多前员工可能保留或接触了其机密信息。",
     "date": "2026-08-04 15:07",
     "timestamp": 1785856073.1129942
-  },
-  {
-    "title": "Is the future of data centers portable? Runware builds a pod to find out",
-    "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200",
-    "summary": "AI基础设施公司Runware于周二宣布推出自研模块化数据中心Sonic Inference Pod，旨在提升算力部署效率与灵活性。该产品采用模块化设计，可快速扩展，满足AI推理需求，体现其在AI基础设施领域的进一步布局。",
-    "date": "2026-08-04 15:07",
-    "timestamp": 1785856074.737014
   }
 ]
