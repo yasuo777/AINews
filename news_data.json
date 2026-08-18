@@ -1,5 +1,29 @@
 [
   {
+    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
+    "summary": "周二，Warp推出新基础设施系统Warp Factories，旨在简化AI软件工厂的构建流程，使其尽可能便捷。",
+    "date": "2026-08-18 14:15",
+    "timestamp": 1787062532.7605798
+  },
+  {
+    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
+    "summary": "ChatGPT推出青少年版，新增适龄安全措施、家长控制及学习工具，旨在引导青少年远离有害内容，并防止其利用AI完成作业作弊。",
+    "date": "2026-08-18 14:15",
+    "timestamp": 1787062534.0010977
+  },
+  {
+    "title": "Perplexity’s free AI offer left it with millions more users in India",
+    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800",
+    "summary": "Perplexity与Airtel合作结束后，新用户虽减少，但其印度营收逆势增长约60%，显示变现效率显著提升。",
+    "date": "2026-08-18 14:15",
+    "timestamp": 1787062535.1703355
+  },
+  {
     "title": "Anthropic’s annualized revenue surges to $65B",
     "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
@@ -774,29 +798,5 @@
     "summary": "奋进光网络公司计划发射迄今最快的空间激光通信系统。该系统将大幅提升数据传输速度，有望为深空探测及卫星通信带来革命性突破，其技术指标与部署计划尚未完全公布。",
     "date": "2026-08-04 12:28",
     "timestamp": 1785846482.6508384
-  },
-  {
-    "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-    "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
-    "summary": "Palantir季度利润达10亿美元，CEO卡普再度警示，前沿AI实验室对企业而言信任度不足。",
-    "date": "2026-08-03 23:44",
-    "timestamp": 1785800652.5228403
-  },
-  {
-    "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-    "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/SuperBlocks-founder-Brad-Menezes.jpg?resize=1200,811",
-    "summary": "AWS现已允许vibe编程工具Superblocks嵌入其客户私有云，进一步推动应用与模型解耦。此举旨在增强企业云环境中AI应用的灵活性与安全性。",
-    "date": "2026-08-03 20:16",
-    "timestamp": 1785788207.6385531
-  },
-  {
-    "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-    "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-03-at-12.31.35-PM.jpg?resize=1200,739",
-    "summary": "DesignArena全球拥有530万用户，为前沿实验室提供关键的人类评估服务。",
-    "date": "2026-08-03 20:16",
-    "timestamp": 1785788208.846799
   }
 ]
