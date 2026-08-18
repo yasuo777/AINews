@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI institutes new safeguards after Hugging Face breach",
+    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+    "summary": "新保障措施包括：开发过程中更详细的模型监测，以及在后训练阶段更强调对齐与安全性。",
+    "date": "2026-08-18 19:14",
+    "timestamp": 1787080467.9514017
+  },
+  {
     "title": "Etched’s valuation doubles to $21B in a month",
     "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
@@ -790,13 +798,5 @@
     "summary": "分析显示，过去七年特斯拉财报电话会议中，马斯克对汽车业务关注甚少，精力更多投向其他领域，反映出其战略重心的转移。",
     "date": "2026-08-04 17:16",
     "timestamp": 1785863814.1089892
-  },
-  {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-    "summary": "苹果在最新法庭文件中称，对OpenAI的商业机密调查已扩大，指控更多前员工可能保留或接触了其机密信息。",
-    "date": "2026-08-04 15:07",
-    "timestamp": 1785856073.1129942
   }
 ]
