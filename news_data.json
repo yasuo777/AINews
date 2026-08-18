@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s annualized revenue surges to $65B",
+    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "该模型制造商在两个月内新增年化收入180亿美元，业绩增长显著，展现强劲市场表现与商业扩张势头。",
+    "date": "2026-08-18 02:03",
+    "timestamp": 1787018627.821892
+  },
+  {
     "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
     "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
@@ -790,13 +798,5 @@
     "summary": "DesignArena全球拥有530万用户，为前沿实验室提供关键的人类评估服务。",
     "date": "2026-08-03 20:16",
     "timestamp": 1785788208.846799
-  },
-  {
-    "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1502799666.jpg?resize=1200,633",
-    "summary": "OpenAI首次邀请网红参与品牌活动，因AI使用争议引发网络批评，凸显行业内外对技术应用的持续担忧。",
-    "date": "2026-08-03 20:16",
-    "timestamp": 1785788210.886067
   }
 ]
