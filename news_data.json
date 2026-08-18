@@ -1,5 +1,13 @@
 [
   {
+    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
+    "summary": "苹果疑似泄露的带摄像头AirPods为规避AI穿戴设备隐私风险，将限制用户拍摄照片或视频功能，以专业方式平衡创新与隐私保护。",
+    "date": "2026-08-18 17:01",
+    "timestamp": 1787072500.1469045
+  },
+  {
     "title": "Warp’s new system is an out-of-the-box software factory for AI development",
     "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
@@ -790,13 +798,5 @@
     "summary": "AI基础设施公司Runware于周二宣布推出自研模块化数据中心Sonic Inference Pod，旨在提升算力部署效率与灵活性。该产品采用模块化设计，可快速扩展，满足AI推理需求，体现其在AI基础设施领域的进一步布局。",
     "date": "2026-08-04 15:07",
     "timestamp": 1785856074.737014
-  },
-  {
-    "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-    "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/EON-Co-Founders_Horizontal_Philip-Cheung.jpg?resize=1200,898",
-    "summary": "奋进光网络公司计划发射迄今最快的空间激光通信系统。该系统将大幅提升数据传输速度，有望为深空探测及卫星通信带来革命性突破，其技术指标与部署计划尚未完全公布。",
-    "date": "2026-08-04 12:28",
-    "timestamp": 1785846482.6508384
   }
 ]
