@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
+    "summary": "Cursor近日推出新的代码托管平台，直接对标GitHub，旨在凭借AI编辑器优势争夺开发者市场，挑战其长期主导地位。",
+    "date": "2026-08-18 22:57",
+    "timestamp": 1787093847.9784787
+  },
+  {
     "title": "OpenAI institutes new safeguards after Hugging Face breach",
     "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "得克萨斯州因监管宽松、电力充足吸引科技公司建设数据中心，但需求激增已使该州电网承压至极限。",
     "date": "2026-08-04 17:16",
     "timestamp": 1785863812.4099927
-  },
-  {
-    "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-    "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2171035708.jpg?resize=1200,800",
-    "summary": "分析显示，过去七年特斯拉财报电话会议中，马斯克对汽车业务关注甚少，精力更多投向其他领域，反映出其战略重心的转移。",
-    "date": "2026-08-04 17:16",
-    "timestamp": 1785863814.1089892
   }
 ]
