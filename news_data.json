@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI was supposed to win people over by now — it hasn’t",
+    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "summary": "随着人工智能日益普及，消费者对其警惕性上升。硅谷发现，广泛采用并不等同于广泛接受，技术推广面临信任挑战。",
+    "date": "2026-08-19 19:56",
+    "timestamp": 1787169364.2529194
+  },
+  {
     "title": "Google launches new study tools for students across Search and Gemini",
     "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "我们将聚焦数字与物理世界的交汇，探讨二者日益融合的趋势及其在各领域的实际应用。",
     "date": "2026-08-05 15:49",
     "timestamp": 1785944942.1530452
-  },
-  {
-    "title": "Anthropic is hiring an AI chip design team",
-    "link": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1484622878.jpeg?resize=1200,800",
-    "summary": "Anthropic正组建团队自研AI芯片，将与模型协同设计，以提升运行速度与效率，推动技术性能优化。",
-    "date": "2026-08-05 15:49",
-    "timestamp": 1785944943.3668823
   }
 ]
