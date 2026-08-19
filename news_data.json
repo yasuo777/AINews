@@ -1,5 +1,13 @@
 [
   {
+    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
+    "summary": "Relativity Networks采用空芯光纤技术，其传输速度较传统光纤快30%。该技术目前部署尚少，公司专注于这一前沿领域，以推动更高效的数据传输。",
+    "date": "2026-08-19 10:02",
+    "timestamp": 1787133756.916308
+  },
+  {
     "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
     "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Spotify宣布，代表超3万家独立厂牌和发行商的Merlin已与环球音乐集团共同支持其即将推出的AI混音与翻唱产品。该付费工具允许粉丝创作AI生成的翻唱和混音，艺术家可选择参与、获得署名和报酬。",
     "date": "2026-08-04 17:16",
     "timestamp": 1785863810.8536658
-  },
-  {
-    "title": "Texas halts new data centers as governor calls for audits",
-    "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2205417979.jpg?w=1024",
-    "summary": "得克萨斯州因监管宽松、电力充足吸引科技公司建设数据中心，但需求激增已使该州电网承压至极限。",
-    "date": "2026-08-04 17:16",
-    "timestamp": 1785863812.4099927
   }
 ]
