@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+    "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+    "summary": "OpenAI与Anthropic正竞相为企客户提供更优数据隐私保护，双方在安全协议与合规方案上展开较量，以争夺企业市场信任。",
+    "date": "2026-08-19 22:57",
+    "timestamp": 1787180254.8291895
+  },
+  {
     "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
     "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Shopify Q2报告显示，AI驱动流量和订单同比增两倍，未如出版商般侵蚀搜索流量，业务反受提振，凸显AI对电商的正向赋能作用。",
     "date": "2026-08-05 18:08",
     "timestamp": 1785953335.9895313
-  },
-  {
-    "title": "Hark previews its browser use agent for completing tasks",
-    "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.10.59-PM.jpg?resize=1200,596",
-    "summary": "Hark称其浏览器代理在速度和成本上均优于竞品，旨在提供更高效、更经济的解决方案。",
-    "date": "2026-08-05 15:49",
-    "timestamp": 1785944940.9929686
   }
 ]
