@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
+    "summary": "It's the data, stupid.",
+    "date": "2026-08-19 13:28",
+    "timestamp": 1787146109.3889043
+  },
+  {
     "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
     "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
@@ -790,13 +798,5 @@
     "summary": "Wrinkles是一款覆盖iOS和Android的AI语音导览应用，通过音频揭示城市隐藏历史与本地故事，提供专业沉浸式文化体验。",
     "date": "2026-08-04 20:52",
     "timestamp": 1785876774.71472
-  },
-  {
-    "title": "Spotify expands AI remix and covers project with Merlin partnership",
-    "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/spotify-logo-phone-GettyImages-2236404299.jpg?w=1024",
-    "summary": "Spotify宣布，代表超3万家独立厂牌和发行商的Merlin已与环球音乐集团共同支持其即将推出的AI混音与翻唱产品。该付费工具允许粉丝创作AI生成的翻唱和混音，艺术家可选择参与、获得署名和报酬。",
-    "date": "2026-08-04 17:16",
-    "timestamp": 1785863810.8536658
   }
 ]
