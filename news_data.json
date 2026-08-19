@@ -1,5 +1,13 @@
 [
   {
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+    "summary": "SpaceX正洽谈收购AI编程初创公司Cognition，此前已收购Cursor，加快追赶OpenAI和Anthropic在企业AI领域的步伐。",
+    "date": "2026-08-19 21:57",
+    "timestamp": 1787176660.0963068
+  },
+  {
     "title": "AI was supposed to win people over by now — it hasn’t",
     "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Hark称其浏览器代理在速度和成本上均优于竞品，旨在提供更高效、更经济的解决方案。",
     "date": "2026-08-05 15:49",
     "timestamp": 1785944940.9929686
-  },
-  {
-    "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
-    "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Real-World-AI-Promo.png?w=1200",
-    "summary": "我们将聚焦数字与物理世界的交汇，探讨二者日益融合的趋势及其在各领域的实际应用。",
-    "date": "2026-08-05 15:49",
-    "timestamp": 1785944942.1530452
   }
 ]
