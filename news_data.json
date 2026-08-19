@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meet the startup helping Wall Street put a price on AI compute",
+    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+    "summary": "数据中心和GPU年投入达数千亿美元，算力已成为AI产品最大成本，但行业仍缺乏明确定价机制，企业难以对冲价格波动风险。",
+    "date": "2026-08-19 17:56",
+    "timestamp": 1787162200.9818342
+  },
+  {
     "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
     "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "WindBorne Systems完成3700万美元B轮融资，将用于扩大气象气球部署及AI预测能力，以提升天气预报精准度并拓展商业化应用。",
     "date": "2026-08-05 11:03",
     "timestamp": 1785927835.7242503
-  },
-  {
-    "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
-    "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?resize=1200,800",
-    "summary": "此次收购凸显了马斯克旗下各公司间的高度关联性。",
-    "date": "2026-08-04 22:41",
-    "timestamp": 1785883309.1895716
   }
 ]
