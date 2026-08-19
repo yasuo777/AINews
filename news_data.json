@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google launches new study tools for students across Search and Gemini",
+    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "summary": "谷歌推出新学习功能，旨在将Gemini打造成学生首选AI助手，与OpenAI等对手竞争，强化其在教育领域的布局。",
+    "date": "2026-08-19 19:05",
+    "timestamp": 1787166341.868374
+  },
+  {
+    "title": "Researchers say OpenAI revoked their access to limited cyber program",
+    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+    "summary": "多家网络安全研究机构突然失去OpenAI“可信网络访问”（TAC）项目权限。该项目此前向通过审核的用户提供限制较少的模型，供安全研究使用。目前OpenAI未说明原因，引发业内对合作稳定性及研究连续性的担忧。",
+    "date": "2026-08-19 19:05",
+    "timestamp": 1787166343.876864
+  },
+  {
     "title": "Meet the startup helping Wall Street put a price on AI compute",
     "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Anthropic正组建团队自研AI芯片，将与模型协同设计，以提升运行速度与效率，推动技术性能优化。",
     "date": "2026-08-05 15:49",
     "timestamp": 1785944943.3668823
-  },
-  {
-    "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-    "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/MacPaw-x-Liquid-AI.png?resize=1200,675",
-    "summary": "MacPaw正利用Liquid AI的模型，开发其AI助手Eney的本地化版本。此举旨在提升数据隐私与响应速度，同时减少对外部云服务的依赖，强化产品在离线环境下的可用性。",
-    "date": "2026-08-05 13:19",
-    "timestamp": 1785935961.3131912
-  },
-  {
-    "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-    "link": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/6a1cc23a5fed8844a94b28ba_weather-params.jpg?resize=1200,722",
-    "summary": "WindBorne Systems完成3700万美元B轮融资，将用于扩大气象气球部署及AI预测能力，以提升天气预报精准度并拓展商业化应用。",
-    "date": "2026-08-05 11:03",
-    "timestamp": 1785927835.7242503
   }
 ]
