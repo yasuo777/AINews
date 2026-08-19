@@ -1,5 +1,13 @@
 [
   {
+    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
+    "summary": "亚马逊宣布，其AI助手Alexa+将免费预装于美国所有兼容Fire TV设备，无需Prime订阅即可使用，用户将自动获得升级。",
+    "date": "2026-08-19 15:05",
+    "timestamp": 1787151908.218247
+  },
+  {
     "title": "Calendly throws its hat into meeting note-taker circus",
     "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "SaferAI最新报告指出，Z.ai开源模型GLM-5.2性能接近前沿水平，但缺乏关键安全措施，引发对强大开源模型超越治理与防护的担忧。",
     "date": "2026-08-04 20:52",
     "timestamp": 1785876771.4270232
-  },
-  {
-    "title": "Anthropic signs $10B deal with AI cloud startup Volta",
-    "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "summary": "Anthropic近期加速云合作，据报道拟以100亿美元投资AI云初创公司Volta，进一步扩大其云生态布局。",
-    "date": "2026-08-04 20:52",
-    "timestamp": 1785876773.1055834
   }
 ]
