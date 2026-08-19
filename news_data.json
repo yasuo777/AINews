@@ -1,5 +1,13 @@
 [
   {
+    "title": "Calendly throws its hat into meeting note-taker circus",
+    "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675",
+    "summary": "Calendly推出名为Callie的智能会议排程助手，旨在简化会议安排流程，提升用户日程管理效率。",
+    "date": "2026-08-19 14:15",
+    "timestamp": 1787148952.3704908
+  },
+  {
     "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
     "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
@@ -790,13 +798,5 @@
     "summary": "Anthropic近期加速云合作，据报道拟以100亿美元投资AI云初创公司Volta，进一步扩大其云生态布局。",
     "date": "2026-08-04 20:52",
     "timestamp": 1785876773.1055834
-  },
-  {
-    "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
-    "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
-    "summary": "Wrinkles是一款覆盖iOS和Android的AI语音导览应用，通过音频揭示城市隐藏历史与本地故事，提供专业沉浸式文化体验。",
-    "date": "2026-08-04 20:52",
-    "timestamp": 1785876774.71472
   }
 ]
