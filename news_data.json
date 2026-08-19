@@ -1,5 +1,13 @@
 [
   {
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
+    "summary": "支付巨头Stripe收购AI模型路由初创公司，表面称因“奇点”，实则瞄准更实际需求：优化AI推理成本与效率，为其支付基础设施构建智能调度能力。",
+    "date": "2026-08-19 23:55",
+    "timestamp": 1787183744.0890882
+  },
+  {
     "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
     "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "\"Slop\" isn't the only problem.",
     "date": "2026-08-05 20:12",
     "timestamp": 1785960764.873701
-  },
-  {
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/ShopifyIPO2-e1683204509217.jpg?resize=1200,675",
-    "summary": "Shopify Q2报告显示，AI驱动流量和订单同比增两倍，未如出版商般侵蚀搜索流量，业务反受提振，凸显AI对电商的正向赋能作用。",
-    "date": "2026-08-05 18:08",
-    "timestamp": 1785953335.9895313
   }
 ]
