@@ -1,5 +1,21 @@
 [
   {
+    "title": "Grok keeps sending gibberish responses to users",
+    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
+    "summary": "部分Grok Lite用户从周三早间起发现服务异常，并向TechCrunch反映。目前具体影响范围及原因尚不明确，相关方暂未回应。",
+    "date": "2026-08-20 18:00",
+    "timestamp": 1787248809.6660833
+  },
+  {
+    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+    "summary": "ChatGPT等AI模型正日益成为互联网新内容的主要创作者与编辑者，深刻改变着网络信息的生成方式。",
+    "date": "2026-08-20 18:00",
+    "timestamp": 1787248811.200869
+  },
+  {
     "title": "Ramp launches its own AI model router, called Router",
     "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Mirendil与Google Cloud签署超1亿美元合作协议，扩展其计算基础设施，用于研究自我改进型AI系统，以加速科学发现与AI发展。",
     "date": "2026-08-06 13:15",
     "timestamp": 1786022128.8820584
-  },
-  {
-    "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-    "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2202707012.jpg?resize=1200,800",
-    "summary": "Google正将地图从导航工具升级为现实任务助理，新功能旨在帮助用户完成实际生活中的操作，体现其战略转型意图。",
-    "date": "2026-08-06 13:15",
-    "timestamp": 1786022130.0154133
-  },
-  {
-    "title": "AI isn’t enough to protect social media communities from AI",
-    "link": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2259634870-1152x648.jpg",
-    "summary": "Why humans need to moderate humans.",
-    "date": "2026-08-06 11:05",
-    "timestamp": 1786014316.6131167
   }
 ]
