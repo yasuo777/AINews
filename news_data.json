@@ -1,5 +1,13 @@
 [
   {
+    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
+    "summary": "谷歌为出版商新增按钮，用户可将其设为搜索、发现及新闻中的首选来源，有望在AI搜索减少网页点击的背景下提升其流量。",
+    "date": "2026-08-20 19:59",
+    "timestamp": 1787255983.5671415
+  },
+  {
     "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
     "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/10/TechCrunch-Disrupt-Haje-Kamps-828.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Naïve公司声称其基础设施可进一步自动化企业设立与运营的大部分工作，将“氛围编码”推向新高度，旨在简化商业管理流程，提升效率。",
     "date": "2026-08-07 00:28",
     "timestamp": 1786062532.7298732
-  },
-  {
-    "title": "Large genome models used to design new viruses",
-    "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2152061685-1152x648.jpg",
-    "summary": "该AI系统能生成遗传上差异显著的噬菌体变异版本，用于高效杀灭细菌，为抗感染治疗提供新途径。",
-    "date": "2026-08-07 00:28",
-    "timestamp": 1786062535.023376
   }
 ]
