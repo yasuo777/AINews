@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "summary": "企业随着各大实验室发布新模型而反复摇摆，这种波动性应让两家公司的投资者警惕企业AI支出的“粘性”究竟如何。",
+    "date": "2026-08-20 22:59",
+    "timestamp": 1787266781.6949453
+  },
+  {
+    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
+    "summary": "苹果将ChatGPT集成至Messages应用中，用户可将其作为自动文本代笔。该功能允许用户委托AI撰写回复，提升消息处理效率。",
+    "date": "2026-08-20 22:59",
+    "timestamp": 1787266783.0250626
+  },
+  {
     "title": "Ok, can we actually cool data centers with our pee?",
     "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
@@ -782,21 +798,5 @@
     "summary": "Meta因违规处理数据，累计被罚9.42亿美元，处罚金额创新高，凸显监管机构对科技企业数据合规的严格态度。",
     "date": "2026-08-07 12:26",
     "timestamp": 1786105563.6455812
-  },
-  {
-    "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
-    "link": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "summary": "OpenAI神秘新AI设备细节曝光，或为高端智能音箱，定价不菲，功能定位尚不明确。",
-    "date": "2026-08-07 00:28",
-    "timestamp": 1786062529.7279482
-  },
-  {
-    "title": "ChatGPT brings unlimited text chats to free users",
-    "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-    "summary": "OpenAI宣布，ChatGPT免费版及Go用户也将新增“思考”按钮，用于处理复杂查询，进一步提升解答质量与专业性。",
-    "date": "2026-08-07 00:28",
-    "timestamp": 1786062531.1504514
   }
 ]
