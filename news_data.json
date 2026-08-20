@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta AI’s new Mac app wants you to talk to your apps",
+    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "summary": "Meta表示，其Muse Spark模型已用于支持语音听写功能。",
+    "date": "2026-08-20 13:31",
+    "timestamp": 1787232668.9349873
+  },
+  {
     "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
     "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/07/gettyimages-1239052293-594x594-1.jpg?w=594",
@@ -790,13 +798,5 @@
     "summary": "传奇谷歌高管联合其他离职高管，共同致力于利用人工智能推动科学发现进程。",
     "date": "2026-08-05 20:12",
     "timestamp": 1785960762.2846732
-  },
-  {
-    "title": "Reddit signals ominous upcoming \"changes” for old.reddit.com",
-    "link": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2256966963-1152x648-1785958066.jpg",
-    "summary": "Reddit表示，其深受喜爱的平台存在部分“不良行为”，并对此予以承认。",
-    "date": "2026-08-05 20:12",
-    "timestamp": 1785960764.3755326
   }
 ]
