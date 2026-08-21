@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia partners with data center developer Cloverleaf",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "summary": "英伟达持续加码数据中心建设，而AI数据中心正为其带来丰厚回报，形成资金投入与营收增长的良性循环。",
+    "date": "2026-08-21 22:57",
+    "timestamp": 1787353051.2191079
+  },
+  {
     "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
     "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
@@ -790,13 +798,5 @@
     "summary": "Rippling推出AI支出管理控制台，可追踪员工个人及团队AI开销，此产品源于其自身在AI使用上的警示，旨在提升企业AI成本透明化管理。",
     "date": "2026-08-07 22:16",
     "timestamp": 1786140970.0636265
-  },
-  {
-    "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-    "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2181827335.jpg?resize=1200,703",
-    "summary": "历史学家吉尔·莱波尔在新书《人工智能国家的兴衰》中指出，科技公司常以宏大语言描述产品，仿佛在构建新政府，这一现象折射出硅谷的野心，但并非光彩照人。",
-    "date": "2026-08-07 18:27",
-    "timestamp": 1786127250.197184
   }
 ]
