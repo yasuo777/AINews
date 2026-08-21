@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s Opus 4.6 is a smut-machine",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
+    "summary": "Anthropic禁止其Claude模型生成露骨色情内容，但TechCrunch测试发现，用简单提示词即可绕过该限制，说明其安全防护存在漏洞。",
+    "date": "2026-08-21 23:56",
+    "timestamp": 1787356599.2375467
+  },
+  {
     "title": "Nvidia partners with data center developer Cloverleaf",
     "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
@@ -790,13 +798,5 @@
     "summary": "OpenAI称，因担忧即将推出的Astra模型在网络安全方面的能力，已暂停其部分研发工作。",
     "date": "2026-08-07 23:15",
     "timestamp": 1786144539.0562449
-  },
-  {
-    "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-    "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Rippling-AI-Spend-Console.png?resize=1200,717",
-    "summary": "Rippling推出AI支出管理控制台，可追踪员工个人及团队AI开销，此产品源于其自身在AI使用上的警示，旨在提升企业AI成本透明化管理。",
-    "date": "2026-08-07 22:16",
-    "timestamp": 1786140970.0636265
   }
 ]
