@@ -1,5 +1,13 @@
 [
   {
+    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+    "summary": "据外媒报道，知名风投公司Andreessen Horowitz的两名合伙人分任Databricks与Fivetran两家竞争公司董事，引发美国司法部依据一部有112年历史的反垄断法进行近一年的调查。该法极少用于风投机构，董事会冲突虽非新鲜事，但此次仍引发关注。",
+    "date": "2026-08-21 16:02",
+    "timestamp": 1787328152.4563198
+  },
+  {
     "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
     "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
@@ -790,13 +798,5 @@
     "summary": "据Gurman报道，OpenAI确认其智能音箱并非抄袭苹果产品，强调设计独立，功能侧重AI交互，而非复制现有生态。",
     "date": "2026-08-07 18:27",
     "timestamp": 1786127252.3078895
-  },
-  {
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
-    "summary": "Cloudflare发布云端浏览器Kitesurf，专为AI智能体而非人类设计，宣称其算力消耗低于Chromium，可高效支持开发者构建基于浏览器的AI代理。",
-    "date": "2026-08-07 16:30",
-    "timestamp": 1786120243.03854
   }
 ]
