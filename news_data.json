@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+    "summary": "英伟达研究显示，通过微调，AI代理即使在基础模型能力一般的情况下，也能表现良好且不会失控。这为提升AI可靠性提供了有效路径，降低了模型性能门槛。",
+    "date": "2026-08-21 19:54",
+    "timestamp": 1787342047.4141412
+  },
+  {
     "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
     "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "历史学家吉尔·莱波尔在新书《人工智能国家的兴衰》中指出，科技公司常以宏大语言描述产品，仿佛在构建新政府，这一现象折射出硅谷的野心，但并非光彩照人。",
     "date": "2026-08-07 18:27",
     "timestamp": 1786127250.197184
-  },
-  {
-    "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-    "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/openai-logo-1152x648-1784833184.jpg",
-    "summary": "据Gurman报道，OpenAI确认其智能音箱并非抄袭苹果产品，强调设计独立，功能侧重AI交互，而非复制现有生态。",
-    "date": "2026-08-07 18:27",
-    "timestamp": 1786127252.3078895
   }
 ]
