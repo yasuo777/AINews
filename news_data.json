@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "summary": "OpenAI呼吁加州强化其此前反对的AI安全法案SB 53，建议增加对前沿模型的安全要求，同时保持灵活性，以平衡创新与风险管控。",
+    "date": "2026-08-22 16:57",
+    "timestamp": 1787417823.1746895
+  },
+  {
+    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
+    "summary": "最新研究显示，主要AI实验室缺乏公开的失控模型应对方案，引发对其防范能力的担忧。随着AI系统意外及危险行为增多，此类准备不足问题日益凸显。",
+    "date": "2026-08-22 16:57",
+    "timestamp": 1787417824.7024643
+  },
+  {
     "title": "Anthropic’s Opus 4.6 is a smut-machine",
     "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
@@ -782,21 +798,5 @@
     "summary": "亚马逊计划在得州数据中心现场建设自备电厂，可能成为全美最大气候污染源，引发环保担忧。",
     "date": "2026-08-08 22:00",
     "timestamp": 1786226405.8256805
-  },
-  {
-    "title": "OpenAI acquires presentation startup NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2259148891.jpg?resize=1200,686",
-    "summary": "NextSlide公司表示，其团队成员目前正参与ChatGPT相关的工作。",
-    "date": "2026-08-08 19:59",
-    "timestamp": 1786219148.946571
-  },
-  {
-    "title": "OpenAI says it slowed Astra model development over security concerns",
-    "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "summary": "OpenAI称，因担忧即将推出的Astra模型在网络安全方面的能力，已暂停其部分研发工作。",
-    "date": "2026-08-07 23:15",
-    "timestamp": 1786144539.0562449
   }
 ]
