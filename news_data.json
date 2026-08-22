@@ -1,5 +1,13 @@
 [
   {
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+    "summary": "英国AI实验室Inherent（由DeepMind校友创立）发布智能体Faraday，可复现科学论文，助力科研创新，被视为加速发现的潜在基石。",
+    "date": "2026-08-22 19:01",
+    "timestamp": 1787425297.4885736
+  },
+  {
     "title": "OpenAI says California should strengthen its AI safety bill",
     "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "AI代理正从网络安全测试环境进入真实系统，引发对其安全基础设施、行业标准及监管能否跟上模型快速发展的质疑。",
     "date": "2026-08-09 15:04",
     "timestamp": 1786287881.128888
-  },
-  {
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
-    "summary": "亚马逊计划在得州数据中心现场建设自备电厂，可能成为全美最大气候污染源，引发环保担忧。",
-    "date": "2026-08-08 22:00",
-    "timestamp": 1786226405.8256805
   }
 ]
