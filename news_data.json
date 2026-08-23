@@ -1,5 +1,21 @@
 [
   {
+    "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+    "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+    "summary": "Flock Safety因监控技术可能被滥用的担忧，正面临日益高涨的公众抗议。",
+    "date": "2026-08-23 15:55",
+    "timestamp": 1787500527.553755
+  },
+  {
+    "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+    "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1303811813.jpg?resize=1200,749",
+    "summary": "大多数已出版作者在不知情或未同意的情况下，其作品被用于训练威胁其生计的AI工具，这一行为看似违法。",
+    "date": "2026-08-23 15:55",
+    "timestamp": 1787500528.7236106
+  },
+  {
     "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
     "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2169079907_27e720-e1734690817769.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "该对冲基金专注人工智能领域，仍在大举押注，保持重大投资布局。",
     "date": "2026-08-09 21:06",
     "timestamp": 1786309570.42648
-  },
-  {
-    "title": "Anthropic is turning Claude Code’s auto mode on by default",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
-    "summary": "Claude Code编程将实现更高自动化，减少人工监督需求，提升开发效率与独立性。",
-    "date": "2026-08-09 20:01",
-    "timestamp": 1786305703.8208795
-  },
-  {
-    "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-    "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
-    "summary": "在最新一期《Equity》节目中，我们与吉尔·勒波尔探讨了“机器治国”现象，并指出马斯克对科幻的误读——他忽视了反乌托邦叙事中对权力集中与人性丧失的警示。",
-    "date": "2026-08-09 15:04",
-    "timestamp": 1786287879.3628533
   }
 ]
