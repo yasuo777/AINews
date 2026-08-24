@@ -1,5 +1,21 @@
 [
   {
+    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800",
+    "summary": "总统在股价位于150美元中段时买入，而SpaceX周一收盘回落至135美元的发行价。",
+    "date": "2026-08-24 21:58",
+    "timestamp": 1787608699.2119484
+  },
+  {
+    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
+    "summary": "受AI影响的领域，年轻人就业率较抗AI职业下降19%。这一趋势凸显AI对就业结构的显著冲击，亟需关注技能转型与政策应对。",
+    "date": "2026-08-24 21:58",
+    "timestamp": 1787608701.345497
+  },
+  {
     "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
@@ -782,21 +798,5 @@
     "summary": "Anthropic宣布将水印技术扩展至旧版AI模型，以持续追踪和标识AI生成内容。此举旨在提升内容透明度与可追溯性，回应业界对AI安全及来源验证的关切。",
     "date": "2026-08-11 12:26",
     "timestamp": 1786451217.4058356
-  },
-  {
-    "title": "OpenAI reportedly completed a $7 billion employee tender offer",
-    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "summary": "旧金山住房市场再度面临困境，房价高企与供应不足问题持续加剧，市场活力明显下滑，引发业界对当地经济复苏与居民负担能力的担忧。",
-    "date": "2026-08-11 00:04",
-    "timestamp": 1786406672.5351026
-  },
-  {
-    "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
-    "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "OpenAI正扩大其AI网络安全防御计划Daybreak，并同步推出一款经网络训练的新AI模型，以加强网络防护应对能力。",
-    "date": "2026-08-11 00:04",
-    "timestamp": 1786406674.4747767
   }
 ]
