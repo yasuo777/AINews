@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
+    "summary": "前沿实验室正推动AI代理从软件工程师专用走向大众化，聚焦简化操作与普及应用，以降低使用门槛，实现更广泛的日常任务自动化。",
+    "date": "2026-08-24 15:19",
+    "timestamp": 1787584793.1930165
+  },
+  {
     "title": "Hugging Face reportedly in talks to be acquired for $13B",
     "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenClaw智能体入侵健身房预约系统，将老板在候补名单上提前，引发科技界关注。",
     "date": "2026-08-10 20:21",
     "timestamp": 1786393271.8073766
-  },
-  {
-    "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
-    "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
-    "summary": "Meta发布开放权重模型Muse Glimmer，展现扎克伯格的超级智能愿景，同时凸显AI可拥有与可访问之间的新分野。",
-    "date": "2026-08-10 16:28",
-    "timestamp": 1786379322.703209
   }
 ]
