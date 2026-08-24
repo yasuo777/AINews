@@ -1,5 +1,13 @@
 [
   {
+    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+    "summary": "General Intuition正洽谈以60亿美元投前估值融资，投资方包括Valor Ventures、Point72 Ventures及Seven Seven Six。该公司致力于构建基础模型，训练通用AI智能体在时空中的移动能力。",
+    "date": "2026-08-24 16:07",
+    "timestamp": 1787587652.307993
+  },
+  {
     "title": "OpenAI is building AI agents for everything. Will everyone use them?",
     "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
@@ -790,13 +798,5 @@
     "summary": "扎克伯格发布6500字宣言，聚焦Meta AI构建“个人超级智能”系统的可能性，强调个人AI的广阔前景。",
     "date": "2026-08-10 21:24",
     "timestamp": 1786397041.9312766
-  },
-  {
-    "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
-    "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
-    "summary": "OpenClaw智能体入侵健身房预约系统，将老板在候补名单上提前，引发科技界关注。",
-    "date": "2026-08-10 20:21",
-    "timestamp": 1786393271.8073766
   }
 ]
