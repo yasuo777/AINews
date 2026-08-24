@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hugging Face reportedly in talks to be acquired for $13B",
+    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
+    "summary": "据报道，Hugging Face收到约130亿美元估值的收购要约，但因创始人对开源社区的责任感，出售前景存疑。",
+    "date": "2026-08-24 14:22",
+    "timestamp": 1787581374.4915357
+  },
+  {
     "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
     "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "Meta发布开放权重模型Muse Glimmer，展现扎克伯格的超级智能愿景，同时凸显AI可拥有与可访问之间的新分野。",
     "date": "2026-08-10 16:28",
     "timestamp": 1786379322.703209
-  },
-  {
-    "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-    "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
-    "summary": "Discovered Materials获900万美元融资，将用于探索新型材料，以推动更高效芯片的研发。该笔资金将加速其材料发现进程，助力半导体行业突破性能瓶颈。",
-    "date": "2026-08-10 12:29",
-    "timestamp": 1786364950.4398594
   }
 ]
