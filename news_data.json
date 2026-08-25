@@ -1,5 +1,21 @@
 [
   {
+    "title": "Gamma acquires Accel-backed design startup Lica",
+    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
+    "summary": "Lica联合创始人将加入Gamma新研究团队，专注相关研发工作。",
+    "date": "2026-08-25 15:25",
+    "timestamp": 1787671534.1678674
+  },
+  {
+    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-151062148-1024x648.jpg",
+    "summary": "一位AI先驱曾预言电脑将取代放射科医生，但这一预测并未成真。",
+    "date": "2026-08-25 15:25",
+    "timestamp": 1787671536.112987
+  },
+  {
     "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
     "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "OpenAI即将推出ChatGPT Linux桌面应用，进一步完善其跨平台支持。该版本将提供与Windows、macOS版相近的功能，方便Linux用户更便捷使用AI助手。",
     "date": "2026-08-11 19:42",
     "timestamp": 1786477352.725336
-  },
-  {
-    "title": "Google’s Gemini app surges to one billion users",
-    "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "summary": "谷歌旗下Gemini月活跃用户数已与OpenAI的ChatGPT持平，后者于6月突破10亿月活用户。两家公司的AI助手在用户规模上并驾齐驱，竞争态势持续加剧。",
-    "date": "2026-08-11 19:42",
-    "timestamp": 1786477353.981722
-  },
-  {
-    "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-    "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
-    "summary": "OpenAI资深首席运营官Brad Lightcap宣布离任，任职多年后离开公司。他在致员工邮件中表示，虽换岗位，仍“期待从不同视角助力推进使命”，态度专业且积极。",
-    "date": "2026-08-11 18:32",
-    "timestamp": 1786473169.475311
   }
 ]
