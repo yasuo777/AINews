@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
+    "summary": "在Semianalysis的InferenceX基准测试中，Jalapeño在每用户token数和每千瓦吞吐量上均超过现有最先进水平。",
+    "date": "2026-08-25 14:24",
+    "timestamp": 1787667899.7628384
+  },
+  {
     "title": "Accel-backed Keenable is indexing the web for AI agents",
     "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200",
@@ -790,13 +798,5 @@
     "summary": "OpenAI资深首席运营官Brad Lightcap宣布离任，任职多年后离开公司。他在致员工邮件中表示，虽换岗位，仍“期待从不同视角助力推进使命”，态度专业且积极。",
     "date": "2026-08-11 18:32",
     "timestamp": 1786473169.475311
-  },
-  {
-    "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-    "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/River-AI-Igor-Babuschkin.jpeg?resize=1197,1200",
-    "summary": "River AI由xAI联合创始人Igor Babuschkin创立，专注个人智能体研发，初始融资即获11亿美元，前景备受关注。",
-    "date": "2026-08-11 18:32",
-    "timestamp": 1786473170.6448164
   }
 ]
