@@ -1,5 +1,13 @@
 [
   {
+    "title": "Claude Cowork finally remembers what you told the app in chat",
+    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+    "summary": "Anthropic推出Claude跨聊天和Cowork的共享记忆功能，用户无需重复交代项目、偏好等背景信息。",
+    "date": "2026-08-25 18:01",
+    "timestamp": 1787680876.1753583
+  },
+  {
     "title": "Gamma acquires Accel-backed design startup Lica",
     "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
@@ -790,13 +798,5 @@
     "summary": "美国风投公司此前6.5亿美元的印度基金尚有超过55%资金可部署。",
     "date": "2026-08-11 22:22",
     "timestamp": 1786486964.519544
-  },
-  {
-    "title": "OpenAI launches ChatGPT desktop app for Linux",
-    "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-    "summary": "OpenAI即将推出ChatGPT Linux桌面应用，进一步完善其跨平台支持。该版本将提供与Windows、macOS版相近的功能，方便Linux用户更便捷使用AI助手。",
-    "date": "2026-08-11 19:42",
-    "timestamp": 1786477352.725336
   }
 ]
