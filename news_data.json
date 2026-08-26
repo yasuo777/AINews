@@ -1,5 +1,21 @@
 [
   {
+    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+    "summary": "该物理AI初创公司数月前估值达20亿美元，近日再获2亿美元追加融资。资金将用于扩展技术研发与市场布局，凸显资本对其前景的持续看好。",
+    "date": "2026-08-26 02:12",
+    "timestamp": 1787710344.4349554
+  },
+  {
+    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "summary": "OpenAI已调整基础设施部门架构，将Malone的汇报线从总裁Greg Brockman转至副总裁Sachin Katti，并在Malone离职前完成重组，以加强该领域管理。",
+    "date": "2026-08-26 02:12",
+    "timestamp": 1787710346.0112274
+  },
+  {
     "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
     "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
@@ -782,21 +798,5 @@
     "summary": "投资者仍在等待2.5亿美元回报的分成，VideoVerse联合创始人Vinayak Shrivastav目前身陷多起法律诉讼。",
     "date": "2026-08-12 16:32",
     "timestamp": 1786552338.27501
-  },
-  {
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "link": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
-    "summary": "谷歌2026年新品发布会亮点：Pixel 11系列手机亮相，新增AirTag竞品，另有多款产品发布，全面丰富生态布局。",
-    "date": "2026-08-12 15:33",
-    "timestamp": 1786548826.5771563
-  },
-  {
-    "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
-    "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
-    "summary": "Blacksmith称，过去一年营收增长超过十倍。",
-    "date": "2026-08-12 12:29",
-    "timestamp": 1786537764.774411
   }
 ]
