@@ -1,5 +1,29 @@
 [
   {
+    "title": "QueryStory wants you to believe what AI is telling you",
+    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
+    "summary": "一家初创公司携600万美元种子资金亮相，计划结合大语言模型与网络安全技术，提升AI查询的连贯性。",
+    "date": "2026-08-26 13:38",
+    "timestamp": 1787751502.8748853
+  },
+  {
+    "title": "Arga Labs is building a better way to train enterprise AI agents",
+    "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200",
+    "summary": "Arga获1000万美元种子轮融资，由General Catalyst领投，Box Group、Emergence、Gradient及SV Angel参投。",
+    "date": "2026-08-26 13:38",
+    "timestamp": 1787751503.876007
+  },
+  {
+    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751",
+    "summary": "Legato Frames眼镜将公司专利助听技术集成至镜腿中，实现听力辅助与日常佩戴的巧妙融合。",
+    "date": "2026-08-26 13:38",
+    "timestamp": 1787751505.419282
+  },
+  {
     "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
     "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "在Ai4大会上，AI专家杰弗里·辛顿、李飞飞和吴恩达就监管、开源以及中美AI竞争展开辩论，强调需平衡创新与安全，并关注中国在该领域的快速进展。",
     "date": "2026-08-12 18:35",
     "timestamp": 1786559705.7508862
-  },
-  {
-    "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-    "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
-    "summary": "Thrive Holdings获20亿美元新融资，估值达120亿美元，投资方包括软银、D1 Capital Partners及Altimeter Capital。",
-    "date": "2026-08-12 18:35",
-    "timestamp": 1786559707.511803
-  },
-  {
-    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
-    "summary": "Automattic旗下AI联系人管理应用Mesh现已推出安卓版，旨在通过智能化关系管理优化用户的社交联络体验。",
-    "date": "2026-08-12 17:37",
-    "timestamp": 1786556256.9981124
-  },
-  {
-    "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
-    "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
-    "summary": "近年来，AI笔记硬件市场快速扩张，从卡片设备、吊坠到转录耳机，均主打会议记录与摘要功能。如今，以智能戒指为代表的新一代可穿戴设备，正致力于让用户随时捕捉零散想法，实现同等便捷的语音转文字体验。",
-    "date": "2026-08-12 17:37",
-    "timestamp": 1786556258.6369154
   }
 ]
