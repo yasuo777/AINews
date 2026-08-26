@@ -1,5 +1,21 @@
 [
   {
+    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
+    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
+    "summary": "Z.ai确认其开源模型Ox Alpha为近期登顶多项基准测试的神秘AI模型，并宣布将于近期发布模型权重。此举有望推动开源AI生态发展，引发业界广泛关注。",
+    "date": "2026-08-26 14:24",
+    "timestamp": 1787754283.6333513
+  },
+  {
+    "title": "Robot brain builders are pushing out of their GPT-2 era",
+    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "summary": "机器人本体正等待其人工智能大脑迎头赶上。当前硬件发展领先于软件，智能赋能仍待突破。",
+    "date": "2026-08-26 14:24",
+    "timestamp": 1787754284.714806
+  },
+  {
     "title": "QueryStory wants you to believe what AI is telling you",
     "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
@@ -782,21 +798,5 @@
     "summary": "流媒体平台表示，用户生成内容“可能用于未来生成式AI模型的改进”。",
     "date": "2026-08-12 21:25",
     "timestamp": 1786569916.694944
-  },
-  {
-    "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-    "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
-    "summary": "Cognition正考虑在数月前完成10亿美元融资、估值达260亿美元后，再启动一轮大规模融资。此举显示其市场信心强劲，引发行业关注。",
-    "date": "2026-08-12 18:35",
-    "timestamp": 1786559703.67996
-  },
-  {
-    "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-    "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
-    "summary": "在Ai4大会上，AI专家杰弗里·辛顿、李飞飞和吴恩达就监管、开源以及中美AI竞争展开辩论，强调需平衡创新与安全，并关注中国在该领域的快速进展。",
-    "date": "2026-08-12 18:35",
-    "timestamp": 1786559705.7508862
   }
 ]
