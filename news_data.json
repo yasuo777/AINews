@@ -1,5 +1,29 @@
 [
   {
+    "title": "Radar makes podcasts searchable — and usable by AI agents",
+    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
+    "summary": "Particle推出播客智能平台，可转录并分析超13万档播客，使其对话内容可在网页搜索，并通过API和MCP向AI智能体开放。",
+    "date": "2026-08-26 16:03",
+    "timestamp": 1787760226.8072183
+  },
+  {
+    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
+    "summary": "Perceptron推出AI模型，旨在帮助机器实现世界导航，同时提供深度视觉智能。该技术兼顾环境感知与细节识别，推动机器人在复杂场景中的自主决策能力提升。",
+    "date": "2026-08-26 16:03",
+    "timestamp": 1787760228.828231
+  },
+  {
+    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
+    "summary": "盖茨大体属“负责任AI”阵营，但此番提出几个新观点：警告AI能耗巨大或成气候挑战，建议政府强制监管高风险系统，并预测未来AI将重塑劳动力市场，催生“AI税”等新政策工具。",
+    "date": "2026-08-26 16:03",
+    "timestamp": 1787760231.1661122
+  },
+  {
     "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
     "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Anthropic新推出的水印系统引发社交媒体争议，部分用户批评其设计不佳。该系统旨在标记AI生成内容，但用户认为其影响使用体验且效果存疑。整体评价褒贬不一，专业界尚在观察其实际效用与影响。",
     "date": "2026-08-12 23:21",
     "timestamp": 1786576861.3869996
-  },
-  {
-    "title": "Terabytes of credentials leaked in massive supply-chain attack",
-    "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach.jpeg",
-    "summary": "恶意攻击者通过篡改AI软件包，窃取了2500名用户的数据并外泄。该事件涉及供应链安全漏洞，提醒行业需加强第三方组件风险管控。",
-    "date": "2026-08-12 22:22",
-    "timestamp": 1786573357.8045192
-  },
-  {
-    "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-    "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
-    "summary": "Twitch首席产品官Mike Minton在直播中回应用户反馈时坦言，若该功能为“自愿参与”，根本无人会主动选择，这番直白表态引发关注。",
-    "date": "2026-08-12 21:25",
-    "timestamp": 1786569914.7173262
-  },
-  {
-    "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-    "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2286491305-1024x648.jpg",
-    "summary": "流媒体平台表示，用户生成内容“可能用于未来生成式AI模型的改进”。",
-    "date": "2026-08-12 21:25",
-    "timestamp": 1786569916.694944
   }
 ]
