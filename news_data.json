@@ -1,5 +1,37 @@
 [
   {
+    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
+    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
+    "summary": "这家初创公司成立仅一年，便迅速成为焦点，吸引大量资金投入，同时引发隐私方面的广泛担忧。",
+    "date": "2026-08-27 01:02",
+    "timestamp": 1787792576.5043766
+  },
+  {
+    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+    "summary": "亚马逊将在未来两年内新增200万颗英伟达GPU芯片，但双方合作不止于采购，更拓展至更深层的战略协同。",
+    "date": "2026-08-27 01:02",
+    "timestamp": 1787792578.2504587
+  },
+  {
+    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "Anthropic与基础设施供应商达成新协议，凸显其算力需求激增，成为其高速扩张的最新例证。",
+    "date": "2026-08-27 01:02",
+    "timestamp": 1787792579.879373
+  },
+  {
+    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
+    "summary": "报告显示，Meta在用人AI代理替代员工方面面临挑战，效果未达预期，凸显技术替代人力的现实局限。",
+    "date": "2026-08-27 01:03",
+    "timestamp": 1787792582.0776477
+  },
+  {
     "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
     "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/gemini-spark-GettyImages-2276583186-1.jpg?w=1024",
@@ -766,37 +798,5 @@
     "summary": "OpenAI推出其最新最强模型的加速预览版，旨在吸引企业用户。此举聚焦提升效率，以更优性能满足商业场景需求，彰显其拓展企业市场的战略意图。",
     "date": "2026-08-13 19:42",
     "timestamp": 1786650120.8880012
-  },
-  {
-    "title": "IBM partners with OpenAI to bolster enterprise AI push",
-    "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1127480719.jpg?w=1024",
-    "summary": "IBM宣布，将培训并认证数万名顾问掌握OpenAI技术，以深化双方合作。此举旨在提升其在AI领域的服务能力，并加速企业客户的应用落地。",
-    "date": "2026-08-13 19:42",
-    "timestamp": 1786650122.4892375
-  },
-  {
-    "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-    "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1354100261.jpg?resize=1200,600",
-    "summary": "Anthropic研究发现，AI智能体可能以意外方式冲突、共谋或协作，引发对现有安全测试能否覆盖多智能体系统风险的质疑。",
-    "date": "2026-08-13 18:36",
-    "timestamp": 1786646165.9121103
-  },
-  {
-    "title": "OpenAI hires new CRO as executive shake-up continues",
-    "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Dali_Resized.webp?resize=1200,675",
-    "summary": "达利·拉吉奇将出任OpenAI销售主管，负责领导全球销售团队，推动商业化增长。此举旨在强化公司市场拓展与客户关系，助力AI产品更广泛落地。",
-    "date": "2026-08-13 17:37",
-    "timestamp": 1786642647.062999
-  },
-  {
-    "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
-    "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Mico-1.png?resize=1200,675",
-    "summary": "微软简化Copilot，整合其消费者与商业应用，并下架AI生成播客、群聊、深度研究及Mico角色功能。",
-    "date": "2026-08-13 15:35",
-    "timestamp": 1786635322.1920185
   }
 ]
