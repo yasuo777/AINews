@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "summary": "OpenAI在印度的ChatGPT周活跃用户已超1亿，其中多数使用免费或低价Go套餐，显示出其在印度市场的庞大用户基础与分层付费结构。",
+    "date": "2026-08-27 12:00",
+    "timestamp": 1787832027.8796377
+  },
+  {
+    "title": "Nvidia closes in on Hugging Face acquisition",
+    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
+    "summary": "英伟达据报道将以129亿美元收购开源AI平台Hugging Face，此举既巩固其芯片主导地位，又重返云计算市场。交易尚待确认，但标志着AI基础设施竞争加剧。",
+    "date": "2026-08-27 12:00",
+    "timestamp": 1787832029.24742
+  },
+  {
     "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
     "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
@@ -782,21 +798,5 @@
     "summary": "Writer基于Z.ai开源模型GLM-5.2推出后训练版本，宣称新系统以更低价格提供即时部署能力。",
     "date": "2026-08-13 21:26",
     "timestamp": 1786656401.6901069
-  },
-  {
-    "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-    "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/04/Ali_Ghodsi.jpg?resize=1200,1200",
-    "summary": "AI成本高昂，但Databricks CEO阿里·戈迪西表示，因投资者需求旺盛，他超计划完成了最新融资轮次。",
-    "date": "2026-08-13 21:26",
-    "timestamp": 1786656402.9195921
-  },
-  {
-    "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
-    "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
-    "summary": "OpenAI推出其最新最强模型的加速预览版，旨在吸引企业用户。此举聚焦提升效率，以更优性能满足商业场景需求，彰显其拓展企业市场的战略意图。",
-    "date": "2026-08-13 19:42",
-    "timestamp": 1786650120.8880012
   }
 ]
