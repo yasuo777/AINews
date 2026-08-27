@@ -1,5 +1,37 @@
 [
   {
+    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+    "summary": "Zoph曾任Thinking Machines Lab联合创始人兼CTO，短暂任职OpenAI后，现已加入谷歌。",
+    "date": "2026-08-27 22:34",
+    "timestamp": 1787870068.104339
+  },
+  {
+    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "summary": "多家全球顶级科技公司与AI初创企业联合批评当前网络安全状况，并推出一项新方案，宣称可抵御新一代网络威胁。",
+    "date": "2026-08-27 22:34",
+    "timestamp": 1787870069.5096257
+  },
+  {
+    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+    "summary": "谷歌正将AI模式定位为AI旅行代理，不再仅提供信息，而是直接参与行程规划与预订环节，推动AI从查询工具向任务执行者转型。",
+    "date": "2026-08-27 22:34",
+    "timestamp": 1787870070.788107
+  },
+  {
+    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
+    "summary": "标准化驱动接口旨在让设备与AI及彼此间实现通信，以统一协议提升互操作性，为智能系统的高效协同提供基础支持。",
+    "date": "2026-08-27 22:34",
+    "timestamp": 1787870072.9073014
+  },
+  {
     "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
     "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
@@ -766,37 +798,5 @@
     "summary": "Meta本周发布开源权重AI模型Glimmer，供用户自由下载运行，与之相对的是更强大但封闭的Muse Spark。扎克伯格同步发文主张AI应“普惠大众”，而非由少数实验室掌控。",
     "date": "2026-08-14 16:29",
     "timestamp": 1786724947.1697936
-  },
-  {
-    "title": "Kog is going deeper to squeeze more inference out of GPUs",
-    "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Kog-CEO-Gael-Dellalleau-at-AMD-AI-DevDay.jpg?resize=1200,800",
-    "summary": "法国初创公司Kog认为，GPU不适配智能体工作流的观点可能是一种误解。该公司提出新见解，建议重新评估硬件在代理任务中的角色。",
-    "date": "2026-08-14 15:27",
-    "timestamp": 1786721233.8749065
-  },
-  {
-    "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-    "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
-    "summary": "美国部分地区天然气价格可能上涨两倍，导致超大规模数据中心运营商面临高昂电力成本，为其AI算力设施支付巨额账单。",
-    "date": "2026-08-14 15:27",
-    "timestamp": 1786721235.426443
-  },
-  {
-    "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-    "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-1152x648.jpg",
-    "summary": "美国企业对华出口面临新挑战，纷纷推出更廉价机型以应对。其万亿美元市场雄心受挫，转而调整策略，力求在价格竞争中保持优势，但前景仍存变数。",
-    "date": "2026-08-14 15:27",
-    "timestamp": 1786721237.5757442
-  },
-  {
-    "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-    "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/09/May-Habib-Disrupt-2023.jpg?resize=1200,800",
-    "summary": "Writer基于Z.ai开源模型GLM-5.2推出后训练版本，宣称新系统以更低价格提供即时部署能力。",
-    "date": "2026-08-13 21:26",
-    "timestamp": 1786656401.6901069
   }
 ]
