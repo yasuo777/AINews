@@ -1,5 +1,29 @@
 [
   {
+    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+    "summary": "大量资本正涌入“免费提供模型”这一商业模式。该领域吸引了显著投资，反映出业界通过开放策略争夺市场份额与生态布局的新趋势。",
+    "date": "2026-08-28 18:59",
+    "timestamp": 1787943588.2248604
+  },
+  {
+    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "美国联邦法官裁定，特朗普政府将AI公司Anthropic列为供应链风险属非法行为，该公司胜诉。目前其第二起针对五角大楼的诉讼仍在华盛顿审理中。",
+    "date": "2026-08-28 18:59",
+    "timestamp": 1787943589.5620365
+  },
+  {
+    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+    "summary": "桑迪娅·德瓦纳森将履新，负责OpenAI在东南亚及澳大利亚的部分运营事务。",
+    "date": "2026-08-28 18:59",
+    "timestamp": 1787943590.4204268
+  },
+  {
     "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
@@ -774,29 +798,5 @@
     "summary": "该女性声称，AI工具正将日常生活转化为儿童性虐待内容。",
     "date": "2026-08-15 21:53",
     "timestamp": 1786830834.7002273
-  },
-  {
-    "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-    "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
-    "summary": "水印技术将如何运作？能否通过编辑隐藏？对代码又有何影响？该技术或嵌入数字标记以追踪内容来源，但编辑可能削弱其效力，而代码水印则需特定算法植入，以平衡隐蔽性与鲁棒性。",
-    "date": "2026-08-15 19:00",
-    "timestamp": 1786820452.0567799
-  },
-  {
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-    "summary": "AI编程初创公司Cursor正式成为SpaceX的一部分，此举标志着AI技术与航天工程的深度融合，将助力SpaceX提升软件开发效率与创新能力。",
-    "date": "2026-08-15 17:54",
-    "timestamp": 1786816483.5984118
-  },
-  {
-    "title": "Google will now allow users to remove visible watermark from its AI generations",
-    "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "summary": "关闭该设置不会影响用于识别AI生成文件的隐形基准。",
-    "date": "2026-08-14 16:29",
-    "timestamp": 1786724945.505621
   }
 ]
