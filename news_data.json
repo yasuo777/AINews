@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+    "summary": "TechCrunch Disrupt 2026将重启AI专场，聚焦近年的热点议题，由Google for Startups呈现，探讨AI领域的前沿趋势与创业生态。",
+    "date": "2026-08-28 06:19",
+    "timestamp": 1787897989.2378488
+  },
+  {
     "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
     "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "关闭该设置不会影响用于识别AI生成文件的隐形基准。",
     "date": "2026-08-14 16:29",
     "timestamp": 1786724945.505621
-  },
-  {
-    "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-    "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-    "summary": "Meta本周发布开源权重AI模型Glimmer，供用户自由下载运行，与之相对的是更强大但封闭的Muse Spark。扎克伯格同步发文主张AI应“普惠大众”，而非由少数实验室掌控。",
-    "date": "2026-08-14 16:29",
-    "timestamp": 1786724947.1697936
   }
 ]
