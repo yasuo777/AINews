@@ -1,5 +1,21 @@
 [
   {
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+    "summary": "这起最新诉讼涉及范围广泛，重点指控非法盗版行为。",
+    "date": "2026-08-29 18:49",
+    "timestamp": 1788029399.5544
+  },
+  {
+    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
+    "summary": "Vijay Pande离开a16z生物技术部门后创立AI原生风投VZVC，指出生物学正从“发现”转向“工程”科学，临床试验成本仍高昂，他认为开放共享数据集而非封闭数据才能真正推动AI变革医学。",
+    "date": "2026-08-29 18:50",
+    "timestamp": 1788029401.0949748
+  },
+  {
     "title": "Nvidia’s AI advantage is moving beyond the GPU",
     "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "英伟达投资软银数据中心开发商，将确保其芯片为OpenAI数据中心提供算力支持。该合作强化了英伟达在AI基础设施领域的战略布局。",
     "date": "2026-08-17 15:56",
     "timestamp": 1786982188.6207771
-  },
-  {
-    "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-    "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/Wispr-Flow-Android-hero.jpg?resize=1200,718",
-    "summary": "Wispr’s total funding is now over $361 million.",
-    "date": "2026-08-17 13:24",
-    "timestamp": 1786973061.3804529
-  },
-  {
-    "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
-    "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
-    "summary": "OpenRouter CEO近日将该公司定位为“AI领域的Stripe”，强调其旨在为开发者提供统一的AI模型接入与支付API，简化多模型调用与计费流程，以专业化基础设施角色加速AI应用落地。",
-    "date": "2026-08-16 21:53",
-    "timestamp": 1786917191.319683
   }
 ]
