@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+    "summary": "新一代数据中心系统通过智能流量调度提升效率，而非单纯依赖处理器算力增强。此举优化资源利用，降低能耗，标志着数据中心管理向更高效、可持续的方向发展。",
+    "date": "2026-08-29 14:41",
+    "timestamp": 1788014460.5691042
+  },
+  {
     "title": "Neocloud Lambda secures $1B in debt to buy more chips",
     "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
@@ -790,13 +798,5 @@
     "summary": "OpenRouter CEO近日将该公司定位为“AI领域的Stripe”，强调其旨在为开发者提供统一的AI模型接入与支付API，简化多模型调用与计费流程，以专业化基础设施角色加速AI应用落地。",
     "date": "2026-08-16 21:53",
     "timestamp": 1786917191.319683
-  },
-  {
-    "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-    "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
-    "summary": "在最新一期Equity播客中，我们探讨了为何并非所有人都认同扎克伯格愿景的原因。",
-    "date": "2026-08-16 20:55",
-    "timestamp": 1786913734.1920016
   }
 ]
