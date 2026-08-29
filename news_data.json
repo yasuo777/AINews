@@ -1,5 +1,21 @@
 [
   {
+    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+    "summary": "Lambda公司融资10亿美元购买英伟达AI芯片，并租赁给微软，此举凸显AI热潮的高昂成本，成为此类贷款的最新案例。",
+    "date": "2026-08-29 02:26",
+    "timestamp": 1787970381.5691557
+  },
+  {
+    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+    "summary": "基于10项特定不当行为的基准测试，自动化系统在每项上均提升了性能，且未损害整体表现。",
+    "date": "2026-08-29 02:26",
+    "timestamp": 1787970382.5694664
+  },
+  {
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "在最新一期Equity播客中，我们探讨了为何并非所有人都认同扎克伯格愿景的原因。",
     "date": "2026-08-16 20:55",
     "timestamp": 1786913734.1920016
-  },
-  {
-    "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-    "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-    "summary": "Dario Amodei驳斥外界对其渲染AI过度悲观形象的说法，强调其观点并非消极预测，而是呼吁理性看待技术风险与发展平衡。",
-    "date": "2026-08-16 16:57",
-    "timestamp": 1786899450.2867966
-  },
-  {
-    "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-    "summary": "该女性声称，AI工具正将日常生活转化为儿童性虐待内容。",
-    "date": "2026-08-15 21:53",
-    "timestamp": 1786830834.7002273
   }
 ]
