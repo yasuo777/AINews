@@ -1,5 +1,21 @@
 [
   {
+    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
+    "summary": "马斯克称，SpaceX秘密铸造厂将自产燃气轮机叶片，使天然气发电上线提速18个月。但此举押注的燃料已在多地带引发诉讼与健康研究，前景存疑。",
+    "date": "2026-08-30 17:45",
+    "timestamp": 1788111919.7789886
+  },
+  {
+    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
+    "summary": "卡特彼勒将数十年矿区自动驾驶经验应用于AI部署，推动自主机器在偏远矿场的高效运作，以专业方式向工业智能化转型。",
+    "date": "2026-08-30 17:45",
+    "timestamp": 1788111921.085158
+  },
+  {
     "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
     "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "稀有书籍对训练大语言模型（LLM）价值极高，因模型已学习过网络公开资源，而稀有书籍提供独特、未公开的高质量数据，可显著提升模型性能与知识广度。",
     "date": "2026-08-17 16:59",
     "timestamp": 1786985998.8879652
-  },
-  {
-    "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-    "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-529313685.jpg?resize=1200,1200",
-    "summary": "Groq完成3.5亿美元融资，估值达35亿美元，从AI芯片制造转向新型云服务，并扩大基于英伟达芯片的数据中心布局。",
-    "date": "2026-08-17 17:00",
-    "timestamp": 1786986000.9559
-  },
-  {
-    "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-    "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "英伟达投资软银数据中心开发商，将确保其芯片为OpenAI数据中心提供算力支持。该合作强化了英伟达在AI基础设施领域的战略布局。",
-    "date": "2026-08-17 15:56",
-    "timestamp": 1786982188.6207771
   }
 ]
