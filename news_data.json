@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
+    "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg?resize=1200,737",
+    "summary": "Circleback推出新定价方案，月费起价14美元。",
+    "date": "2026-08-31 14:23",
+    "timestamp": 1788186221.1252677
+  },
+  {
+    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+    "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
+    "summary": "Meta平台上的互动式移动小工具易于制作，但难以在平台外分享，其封闭生态限制了传播范围。",
+    "date": "2026-08-31 14:23",
+    "timestamp": 1788186223.5875266
+  },
+  {
     "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
     "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
@@ -782,21 +798,5 @@
     "summary": "Perplexity与Airtel合作结束后，新用户虽减少，但其印度营收逆势增长约60%，显示变现效率显著提升。",
     "date": "2026-08-18 14:15",
     "timestamp": 1787062535.1703355
-  },
-  {
-    "title": "Anthropic’s annualized revenue surges to $65B",
-    "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "该模型制造商在两个月内新增年化收入180亿美元，业绩增长显著，展现强劲市场表现与商业扩张势头。",
-    "date": "2026-08-18 02:03",
-    "timestamp": 1787018627.821892
-  },
-  {
-    "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
-    "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/10/JacobBank_founder_headshot-e1665566816221.jpg?resize=1200,674",
-    "summary": "Relay创始人兼CEO Jacob Bank表示，公司正计划借助Chrome浏览器中的AI技术，帮助用户更高效地完成任务，具体细节将于近期公布。",
-    "date": "2026-08-17 21:56",
-    "timestamp": 1787003812.8137002
   }
 ]
