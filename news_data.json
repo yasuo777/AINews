@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Pentagon now has its own version of ChatGPT and Grok",
+    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "summary": "OpenAI的ChatGPT及SpaceXAI的Grok将入驻美国五角大楼AI工具中央门户，与谷歌Gemini并列，供国防部门使用。",
+    "date": "2026-08-31 20:21",
+    "timestamp": 1788207705.1932611
+  },
+  {
+    "title": "Instagram puts new limits on undisclosed AI profiles",
+    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
+    "summary": "随着对AI网红的反感加剧，Instagram开始限制未标明身份的AI账号的曝光度。",
+    "date": "2026-08-31 20:21",
+    "timestamp": 1788207706.8704517
+  },
+  {
+    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
+    "summary": "Blue Voice基于部门特定法律、地方法规及指南训练，这些内容通用AI无法通过公开网络获取。",
+    "date": "2026-08-31 20:21",
+    "timestamp": 1788207707.7465544
+  },
+  {
     "title": "Meeting notetaker Circleback adds a free tier to attract more customers",
     "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/Circleback-Home.jpeg?resize=1200,737",
@@ -774,29 +798,5 @@
     "summary": "苹果疑似泄露的带摄像头AirPods为规避AI穿戴设备隐私风险，将限制用户拍摄照片或视频功能，以专业方式平衡创新与隐私保护。",
     "date": "2026-08-18 17:01",
     "timestamp": 1787072500.1469045
-  },
-  {
-    "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-    "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Warp-Factories-3.png?resize=1200,750",
-    "summary": "周二，Warp推出新基础设施系统Warp Factories，旨在简化AI软件工厂的构建流程，使其尽可能便捷。",
-    "date": "2026-08-18 14:15",
-    "timestamp": 1787062532.7605798
-  },
-  {
-    "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-    "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Still-04-HomeworkReminder__1_.webp?resize=1200,675",
-    "summary": "ChatGPT推出青少年版，新增适龄安全措施、家长控制及学习工具，旨在引导青少年远离有害内容，并防止其利用AI完成作业作弊。",
-    "date": "2026-08-18 14:15",
-    "timestamp": 1787062534.0010977
-  },
-  {
-    "title": "Perplexity’s free AI offer left it with millions more users in India",
-    "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/perplexity-app.jpg?resize=1200,800",
-    "summary": "Perplexity与Airtel合作结束后，新用户虽减少，但其印度营收逆势增长约60%，显示变现效率显著提升。",
-    "date": "2026-08-18 14:15",
-    "timestamp": 1787062535.1703355
   }
 ]
