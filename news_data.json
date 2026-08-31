@@ -1,5 +1,13 @@
 [
   {
+    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
+    "summary": "美国正进一步限制外国无人机和机器人进口，但中国庞大的产能意味着全球竞争可能转移至其他地区。",
+    "date": "2026-08-31 06:06",
+    "timestamp": 1788156413.7112336
+  },
+  {
     "title": "Musk’s faster path to more gas turbines comes with pollution problem",
     "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Relay创始人兼CEO Jacob Bank表示，公司正计划借助Chrome浏览器中的AI技术，帮助用户更高效地完成任务，具体细节将于近期公布。",
     "date": "2026-08-17 21:56",
     "timestamp": 1787003812.8137002
-  },
-  {
-    "title": "Amazon, once an online bookseller, is destroying rare books to train AI models",
-    "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-601797365.jpg?resize=1200,800",
-    "summary": "稀有书籍对训练大语言模型（LLM）价值极高，因模型已学习过网络公开资源，而稀有书籍提供独特、未公开的高质量数据，可显著提升模型性能与知识广度。",
-    "date": "2026-08-17 16:59",
-    "timestamp": 1786985998.8879652
   }
 ]
