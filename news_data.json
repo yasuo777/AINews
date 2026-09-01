@@ -1,5 +1,29 @@
 [
   {
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+    "summary": "谷歌推出Pics，以AI为先导进军创意软件市场，与Canva和Adobe竞争。该产品彰显谷歌在生成式AI领域的深度布局，旨在以差异化策略抢占份额。",
+    "date": "2026-09-01 18:48",
+    "timestamp": 1788288528.8302727
+  },
+  {
+    "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+    "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+    "summary": "OpenAI宣布其技术将集成至医疗系统，为临床医生提供健康记录的只读访问权限，以提升诊疗效率与信息安全性。",
+    "date": "2026-09-01 18:48",
+    "timestamp": 1788288530.4175668
+  },
+  {
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
+    "summary": "该初创公司希望像Cursor变革软件工程那样，彻底革新IT基础设施领域。",
+    "date": "2026-09-01 18:48",
+    "timestamp": 1788288531.5397592
+  },
+  {
     "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
     "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Relativity Networks采用空芯光纤技术，其传输速度较传统光纤快30%。该技术目前部署尚少，公司专注于这一前沿领域，以推动更高效的数据传输。",
     "date": "2026-08-19 10:02",
     "timestamp": 1787133756.916308
-  },
-  {
-    "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
-    "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/cursor.jpg?resize=1200,800",
-    "summary": "Cursor近日推出新的代码托管平台，直接对标GitHub，旨在凭借AI编辑器优势争夺开发者市场，挑战其长期主导地位。",
-    "date": "2026-08-18 22:57",
-    "timestamp": 1787093847.9784787
-  },
-  {
-    "title": "OpenAI institutes new safeguards after Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "summary": "新保障措施包括：开发过程中更详细的模型监测，以及在后训练阶段更强调对齐与安全性。",
-    "date": "2026-08-18 19:14",
-    "timestamp": 1787080467.9514017
-  },
-  {
-    "title": "Etched’s valuation doubles to $21B in a month",
-    "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-    "summary": "量化交易公司Jane Street已部署Etched首套AI集群系统，并对其表现印象深刻，因而牵头完成了新一轮大规模融资。",
-    "date": "2026-08-18 17:58",
-    "timestamp": 1787075938.431692
   }
 ]
