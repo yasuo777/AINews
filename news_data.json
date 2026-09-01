@@ -1,5 +1,13 @@
 [
   {
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+    "summary": "苹果公司称，有证据表明一名前雇员在得知自己受调查后，销毁了数据盗窃的证据。",
+    "date": "2026-09-01 05:38",
+    "timestamp": 1788241116.04638
+  },
+  {
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "量化交易公司Jane Street已部署Etched首套AI集群系统，并对其表现印象深刻，因而牵头完成了新一轮大规模融资。",
     "date": "2026-08-18 17:58",
     "timestamp": 1787075938.431692
-  },
-  {
-    "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-    "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/airpods-with-cameras.jpeg?w=1000",
-    "summary": "苹果疑似泄露的带摄像头AirPods为规避AI穿戴设备隐私风险，将限制用户拍摄照片或视频功能，以专业方式平衡创新与隐私保护。",
-    "date": "2026-08-18 17:01",
-    "timestamp": 1787072500.1469045
   }
 ]
