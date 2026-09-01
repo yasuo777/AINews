@@ -1,5 +1,29 @@
 [
   {
+    "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI在发布其最新关键大模型Astra前，预演了相关防护措施，以应对网络安全等风险，确保模型安全可控。",
+    "date": "2026-09-01 22:00",
+    "timestamp": 1788300010.1748483
+  },
+  {
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
+    "summary": "谷歌发布新手机及安卓系统更新，部分功能追赶苹果，另一些则利用Gemini模型提升体验。",
+    "date": "2026-09-01 22:00",
+    "timestamp": 1788300012.218895
+  },
+  {
+    "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+    "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+    "summary": "Fable 5.1更新旨在降低模型的令牌成本，并减少安全机制引发的误报限制，以提升运行效率与准确性。该版本针对性能及内容限制进行了优化调整。",
+    "date": "2026-09-01 22:00",
+    "timestamp": 1788300014.333914
+  },
+  {
     "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
     "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "亚马逊宣布，其AI助手Alexa+将免费预装于美国所有兼容Fire TV设备，无需Prime订阅即可使用，用户将自动获得升级。",
     "date": "2026-08-19 15:05",
     "timestamp": 1787151908.218247
-  },
-  {
-    "title": "Calendly throws its hat into meeting note-taker circus",
-    "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Callie-email-experience.jpeg?resize=1200,675",
-    "summary": "Calendly推出名为Callie的智能会议排程助手，旨在简化会议安排流程，提升用户日程管理效率。",
-    "date": "2026-08-19 14:15",
-    "timestamp": 1787148952.3704908
-  },
-  {
-    "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-    "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/IMG_0110-rotated.jpg?resize=900,1200",
-    "summary": "It's the data, stupid.",
-    "date": "2026-08-19 13:28",
-    "timestamp": 1787146109.3889043
-  },
-  {
-    "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-    "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-5.17.16-PM.jpg?resize=1200,772",
-    "summary": "Relativity Networks采用空芯光纤技术，其传输速度较传统光纤快30%。该技术目前部署尚少，公司专注于这一前沿领域，以推动更高效的数据传输。",
-    "date": "2026-08-19 10:02",
-    "timestamp": 1787133756.916308
   }
 ]
