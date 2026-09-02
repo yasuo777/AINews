@@ -1,5 +1,13 @@
 [
   {
+    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+    "summary": "AI模型训练初创公司AfterQuery在4月以3亿美元估值完成3000万美元A轮融资后，仅五个月估值即飙升至32亿美元，最新融资轮已确认。",
+    "date": "2026-09-02 00:30",
+    "timestamp": 1788309050.6816094
+  },
+  {
     "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
     "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
@@ -790,13 +798,5 @@
     "summary": "TerraPower的核电站项目在争取数据中心客户时具有显著战略优势，相较于竞争对手更受青睐，有望在快速增长的AI能源需求市场中抢占先机。",
     "date": "2026-08-19 16:01",
     "timestamp": 1787155297.5548067
-  },
-  {
-    "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-    "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Fire-TV-Alexa-2.png?resize=1200,675",
-    "summary": "亚马逊宣布，其AI助手Alexa+将免费预装于美国所有兼容Fire TV设备，无需Prime订阅即可使用，用户将自动获得升级。",
-    "date": "2026-08-19 15:05",
-    "timestamp": 1787151908.218247
   }
 ]
