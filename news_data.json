@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+    "summary": "互联网正面临信任危机，AI生成的文本和图像已渗入求职申请、产品评论乃至保险理赔中，真假难辨。多家初创公司应运而生，帮助平台和用户鉴别AI内容，以应对这一挑战。",
+    "date": "2026-09-02 18:56",
+    "timestamp": 1788375392.852525
+  },
+  {
+    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Max-Headshot.png?resize=1200,675",
+    "summary": "互联网正面临信任危机，AI生成的文字和图像已渗入求职、产品评论乃至保险理赔，真假难辨。多家初创公司应运而生，致力于开发鉴别AI内容的工具，帮助平台和用户应对这一挑战。",
+    "date": "2026-09-02 18:56",
+    "timestamp": 1788375394.9880896
+  },
+  {
+    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+    "summary": "美国表示，其强烈希望继续发展强健且具竞争力的AI产业，以制定全球AI应用标准与规范。",
+    "date": "2026-09-02 18:56",
+    "timestamp": 1788375397.0130684
+  },
+  {
     "title": "Adobe acquires Indian market intelligence startup Rilo",
     "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "SpaceX正洽谈收购AI编程初创公司Cognition，此前已收购Cursor，加快追赶OpenAI和Anthropic在企业AI领域的步伐。",
     "date": "2026-08-19 21:57",
     "timestamp": 1787176660.0963068
-  },
-  {
-    "title": "AI was supposed to win people over by now — it hasn’t",
-    "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-    "summary": "随着人工智能日益普及，消费者对其警惕性上升。硅谷发现，广泛采用并不等同于广泛接受，技术推广面临信任挑战。",
-    "date": "2026-08-19 19:56",
-    "timestamp": 1787169364.2529194
-  },
-  {
-    "title": "Google launches new study tools for students across Search and Gemini",
-    "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
-    "summary": "谷歌推出新学习功能，旨在将Gemini打造成学生首选AI助手，与OpenAI等对手竞争，强化其在教育领域的布局。",
-    "date": "2026-08-19 19:05",
-    "timestamp": 1787166341.868374
-  },
-  {
-    "title": "Researchers say OpenAI revoked their access to limited cyber program",
-    "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
-    "summary": "多家网络安全研究机构突然失去OpenAI“可信网络访问”（TAC）项目权限。该项目此前向通过审核的用户提供限制较少的模型，供安全研究使用。目前OpenAI未说明原因，引发业内对合作稳定性及研究连续性的担忧。",
-    "date": "2026-08-19 19:05",
-    "timestamp": 1787166343.876864
   }
 ]
