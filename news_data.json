@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+    "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "summary": "OpenAI新模型Astra采用“循环深度”技术，打破传统推理模型的顺序思维限制，实现更高效的非线性处理能力，提升复杂任务表现。",
+    "date": "2026-09-02 21:57",
+    "timestamp": 1788386277.791223
+  },
+  {
     "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
     "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "OpenAI与Anthropic正竞相为企客户提供更优数据隐私保护，双方在安全协议与合规方案上展开较量，以争夺企业市场信任。",
     "date": "2026-08-19 22:57",
     "timestamp": 1787180254.8291895
-  },
-  {
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-    "summary": "SpaceX正洽谈收购AI编程初创公司Cognition，此前已收购Cursor，加快追赶OpenAI和Anthropic在企业AI领域的步伐。",
-    "date": "2026-08-19 21:57",
-    "timestamp": 1787176660.0963068
   }
 ]
