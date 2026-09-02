@@ -1,5 +1,21 @@
 [
   {
+    "title": "Adobe acquires Indian market intelligence startup Rilo",
+    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+    "summary": "Adobe继2023年收购Rephrase.ai后，再次在印度完成第二笔收购。此次交易延续其扩展AI与创意工具版图的战略，但具体标的及条款未披露。此举显示Adobe持续加码印度技术生态布局。",
+    "date": "2026-09-02 14:41",
+    "timestamp": 1788360071.2079544
+  },
+  {
+    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+    "summary": "Edelson PC就Tumbler Ridge枪击案对OpenAI新增30起诉讼，升级指控至“协助教唆”，并将Chris Lehane列为被告，但相关证据尚未证实。",
+    "date": "2026-09-02 14:41",
+    "timestamp": 1788360072.552276
+  },
+  {
     "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
     "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "多家网络安全研究机构突然失去OpenAI“可信网络访问”（TAC）项目权限。该项目此前向通过审核的用户提供限制较少的模型，供安全研究使用。目前OpenAI未说明原因，引发业内对合作稳定性及研究连续性的担忧。",
     "date": "2026-08-19 19:05",
     "timestamp": 1787166343.876864
-  },
-  {
-    "title": "Meet the startup helping Wall Street put a price on AI compute",
-    "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
-    "summary": "数据中心和GPU年投入达数千亿美元，算力已成为AI产品最大成本，但行业仍缺乏明确定价机制，企业难以对冲价格波动风险。",
-    "date": "2026-08-19 17:56",
-    "timestamp": 1787162200.9818342
-  },
-  {
-    "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
-    "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
-    "summary": "TerraPower的核电站项目在争取数据中心客户时具有显著战略优势，相较于竞争对手更受青睐，有望在快速增长的AI能源需求市场中抢占先机。",
-    "date": "2026-08-19 16:01",
-    "timestamp": 1787155297.5548067
   }
 ]
