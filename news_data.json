@@ -1,5 +1,13 @@
 [
   {
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+    "summary": "该高知名度初创公司年度收入运行率已突破1亿美元。",
+    "date": "2026-09-03 21:52",
+    "timestamp": 1788472364.2192335
+  },
+  {
     "title": "Abliteration.ai is making a business out of removing AI guardrails",
     "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
@@ -790,13 +798,5 @@
     "summary": "部分Grok Lite用户从周三早间起发现服务异常，并向TechCrunch反映。目前具体影响范围及原因尚不明确，相关方暂未回应。",
     "date": "2026-08-20 18:00",
     "timestamp": 1787248809.6660833
-  },
-  {
-    "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
-    "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
-    "summary": "ChatGPT等AI模型正日益成为互联网新内容的主要创作者与编辑者，深刻改变着网络信息的生成方式。",
-    "date": "2026-08-20 18:00",
-    "timestamp": 1787248811.200869
   }
 ]
