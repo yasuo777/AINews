@@ -1,5 +1,29 @@
 [
   {
+    "title": "Abliteration.ai is making a business out of removing AI guardrails",
+    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
+    "summary": "Abliteration.AI主张开放无护栏的AI模型，认为让防御者与攻击者拥有同等工具，反而能强化网络安全。此举降低了强大AI的获取门槛，旨在通过攻防平衡提升整体防御能力。",
+    "date": "2026-09-03 18:51",
+    "timestamp": 1788461509.380776
+  },
+  {
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "summary": "Meta为其新AI模型Muse Spark推出付费选退机制：用户若同意共享使用数据以优化模型，可享受约平均折扣。此举将隐私选择商业化，开创AI收费新模式。",
+    "date": "2026-09-03 18:51",
+    "timestamp": 1788461510.63221
+  },
+  {
+    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+    "summary": "OpenAI称Astra开创电脑与浏览器使用新前沿，能以卓越速度、精准度和安全性处理任务，标志着智能代理技术的重大突破。",
+    "date": "2026-09-03 18:51",
+    "timestamp": 1788461511.613509
+  },
+  {
     "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
     "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "ChatGPT等AI模型正日益成为互联网新内容的主要创作者与编辑者，深刻改变着网络信息的生成方式。",
     "date": "2026-08-20 18:00",
     "timestamp": 1787248811.200869
-  },
-  {
-    "title": "Ramp launches its own AI model router, called Router",
-    "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
-    "summary": "Ramp推出AI模型路由服务Router，用户及企业可通过API灵活调用、切换多种大型语言模型。",
-    "date": "2026-08-20 17:04",
-    "timestamp": 1787245464.352308
-  },
-  {
-    "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
-    "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
-    "summary": "Meta宣布其实验性AI互动游戏创作应用Pocket，在巴西测试后正式面向美国用户推出。该应用主打创建与分享交互式游戏体验，标志着Meta在AI娱乐领域的进一步拓展。",
-    "date": "2026-08-20 17:04",
-    "timestamp": 1787245466.0651016
-  },
-  {
-    "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
-    "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/08/nif-1209-18047.jpg?resize=1200,927",
-    "summary": "惯性企业公司将聚变燃料填充时间从一周缩短至数小时，但该技术仍需克服10项关键挑战，方能建成盈利电厂。",
-    "date": "2026-08-20 17:04",
-    "timestamp": 1787245467.82392
   }
 ]
