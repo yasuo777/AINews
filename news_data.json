@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675",
+    "summary": "英伟达表示，Hugging Face平台托管超300万个模型，拥有逾1800万开发者用户。",
+    "date": "2026-09-03 14:43",
+    "timestamp": 1788446591.8736703
+  },
+  {
     "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "惯性企业公司将聚变燃料填充时间从一周缩短至数小时，但该技术仍需克服10项关键挑战，方能建成盈利电厂。",
     "date": "2026-08-20 17:04",
     "timestamp": 1787245467.82392
-  },
-  {
-    "title": "Meta AI’s new Mac app wants you to talk to your apps",
-    "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-    "summary": "Meta表示，其Muse Spark模型已用于支持语音听写功能。",
-    "date": "2026-08-20 13:31",
-    "timestamp": 1787232668.9349873
   }
 ]
