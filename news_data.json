@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "summary": "OpenAI最新智能体集群事件引发关注，外界呼吁进行独立调查。研究者和立法者质疑，AI实验室不应自行界定安全审查范围。",
+    "date": "2026-09-04 23:17",
+    "timestamp": 1788563876.4150236
+  },
+  {
+    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+    "summary": "Nscale近期与Anthropic达成450亿美元合作，现正洽谈新一轮融资，为即将到来的IPO做准备。此举凸显其扩张势头与市场信心。",
+    "date": "2026-09-04 23:17",
+    "timestamp": 1788563877.3491454
+  },
+  {
     "title": "What will Apple’s John Ternus era look like?",
     "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "太空资源争夺战即将上演，各方围绕太空准入权展开激烈竞争。此举关乎国家安全、商业利益与技术主导地位，未来数年国际太空规则或面临重塑。",
     "date": "2026-08-21 14:17",
     "timestamp": 1787321840.4709747
-  },
-  {
-    "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-    "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/IMG_2686.jpeg?resize=1200,957",
-    "summary": "AI训练数据需求激增，推动该初创公司及其竞争对手业务快速增长，行业迎来高速发展期。",
-    "date": "2026-08-21 02:11",
-    "timestamp": 1787278289.5076106
-  },
-  {
-    "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-    "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
-    "summary": "企业随着各大实验室发布新模型而反复摇摆，这种波动性应让两家公司的投资者警惕企业AI支出的“粘性”究竟如何。",
-    "date": "2026-08-20 22:59",
-    "timestamp": 1787266781.6949453
   }
 ]
