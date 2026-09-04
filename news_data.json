@@ -1,5 +1,21 @@
 [
   {
+    "title": "The sameness problem behind those unappetizing AI-generated menus",
+    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
+    "summary": "餐厅老板或想借生成式AI美化菜单，但顾客能直觉感到菜品有异。AI虽可快速优化文字，却难掩食物真实品质的缺失，专业提示：科技辅助需以品质为本。",
+    "date": "2026-09-04 05:04",
+    "timestamp": 1788498269.1579907
+  },
+  {
+    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
+    "summary": "数据中心开发商据报获得Jane Street 130亿美元合同后，完成新一轮融资。",
+    "date": "2026-09-04 05:04",
+    "timestamp": 1788498270.2237659
+  },
+  {
     "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
     "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "Runlayer与Rippling已撤销诉讼，双方未支付任何款项。Rippling随即发布竞品以示庆祝，事件平息。",
     "date": "2026-08-20 19:17",
     "timestamp": 1787253439.9675717
-  },
-  {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
-    "summary": "Linkdaze智能数字日历以无付费墙为亮点，所有功能免费开放，其中包含AI餐食规划工具，在同类产品中脱颖而出。",
-    "date": "2026-08-20 19:17",
-    "timestamp": 1787253441.2345197
-  },
-  {
-    "title": "Grok keeps sending gibberish responses to users",
-    "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
-    "summary": "部分Grok Lite用户从周三早间起发现服务异常，并向TechCrunch反映。目前具体影响范围及原因尚不明确，相关方暂未回应。",
-    "date": "2026-08-20 18:00",
-    "timestamp": 1787248809.6660833
   }
 ]
