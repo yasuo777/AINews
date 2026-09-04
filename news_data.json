@@ -1,5 +1,29 @@
 [
   {
+    "title": "What will Apple’s John Ternus era look like?",
+    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
+    "summary": "蒂姆·库克卸任苹果CEO，由前硬件主管约翰·特纳斯接任。特纳斯就职首日即预告下周将有大动作发布，疑似iPhone活动。库克留任执行董事长，专注政策事务，公司进入特纳斯时代。",
+    "date": "2026-09-04 17:46",
+    "timestamp": 1788544010.0137556
+  },
+  {
+    "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-04-at-8.49.39-AM-e1788537064907.png?w=839",
+    "summary": "这是OpenAI内部监控与安全系统的最新一次失守。",
+    "date": "2026-09-04 17:46",
+    "timestamp": 1788544010.855474
+  },
+  {
+    "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
+    "link": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2264179980.jpg?resize=1200,800",
+    "summary": "苹果公司本周迎来“特努斯时代”：蒂姆·库克卸任CEO，由前硬件主管约翰·特努斯接任。特努斯在首份备忘录中预告下周将有重磅发布，或为iPhone新品活动。库克留任执行董事长，专注政策事务。",
+    "date": "2026-09-04 17:46",
+    "timestamp": 1788544012.0001073
+  },
+  {
     "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
     "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/06/After-Hours-_-group.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "企业随着各大实验室发布新模型而反复摇摆，这种波动性应让两家公司的投资者警惕企业AI支出的“粘性”究竟如何。",
     "date": "2026-08-20 22:59",
     "timestamp": 1787266781.6949453
-  },
-  {
-    "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-    "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1831275897.jpg?resize=1200,800",
-    "summary": "苹果将ChatGPT集成至Messages应用中，用户可将其作为自动文本代笔。该功能允许用户委托AI撰写回复，提升消息处理效率。",
-    "date": "2026-08-20 22:59",
-    "timestamp": 1787266783.0250626
-  },
-  {
-    "title": "Ok, can we actually cool data centers with our pee?",
-    "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2270767933.jpg?resize=1200,686",
-    "summary": "杰森·凯尔西调侃称，数据中心应用尿液而非饮用水冷却，此提议虽显诙谐，却并非全无道理。",
-    "date": "2026-08-20 21:01",
-    "timestamp": 1787259681.805282
-  },
-  {
-    "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-    "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/01-ps-button-Family_resized.width-2000.format-webp.webp?resize=1200,675",
-    "summary": "谷歌为出版商新增按钮，用户可将其设为搜索、发现及新闻中的首选来源，有望在AI搜索减少网页点击的背景下提升其流量。",
-    "date": "2026-08-20 19:59",
-    "timestamp": 1787255983.5671415
   }
 ]
