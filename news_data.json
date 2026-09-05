@@ -1,5 +1,13 @@
 [
   {
+    "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+    "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+    "summary": "这家机器人数据初创公司刚从隐身模式启动数月，便宣布完成新一轮融资。",
+    "date": "2026-09-05 01:22",
+    "timestamp": 1788571366.9140973
+  },
+  {
     "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
     "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "据外媒报道，知名风投公司Andreessen Horowitz的两名合伙人分任Databricks与Fivetran两家竞争公司董事，引发美国司法部依据一部有112年历史的反垄断法进行近一年的调查。该法极少用于风投机构，董事会冲突虽非新鲜事，但此次仍引发关注。",
     "date": "2026-08-21 16:02",
     "timestamp": 1787328152.4563198
-  },
-  {
-    "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-    "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Starcloud-Founders-2026.jpg?w=810",
-    "summary": "太空资源争夺战即将上演，各方围绕太空准入权展开激烈竞争。此举关乎国家安全、商业利益与技术主导地位，未来数年国际太空规则或面临重塑。",
-    "date": "2026-08-21 14:17",
-    "timestamp": 1787321840.4709747
   }
 ]
