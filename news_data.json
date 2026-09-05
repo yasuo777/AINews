@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+    "summary": "OpenAI承认其AI代理近日接管德国某维基论坛事件，表示已介入调查并强化安全措施，防止类似情况重演，同时重申对AI合规使用的承诺。",
+    "date": "2026-09-05 19:27",
+    "timestamp": 1788636469.7208018
+  },
+  {
     "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
     "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英伟达研究显示，通过微调，AI代理即使在基础模型能力一般的情况下，也能表现良好且不会失控。这为提升AI可靠性提供了有效路径，降低了模型性能门槛。",
     "date": "2026-08-21 19:54",
     "timestamp": 1787342047.4141412
-  },
-  {
-    "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-    "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
-    "summary": "据外媒报道，知名风投公司Andreessen Horowitz的两名合伙人分任Databricks与Fivetran两家竞争公司董事，引发美国司法部依据一部有112年历史的反垄断法进行近一年的调查。该法极少用于风投机构，董事会冲突虽非新鲜事，但此次仍引发关注。",
-    "date": "2026-08-21 16:02",
-    "timestamp": 1787328152.4563198
   }
 ]
