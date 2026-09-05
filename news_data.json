@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
+    "summary": "警方表示，徒步者听从了Gemini的建议，携带的食品和水远少于团队所需。",
+    "date": "2026-09-05 21:41",
+    "timestamp": 1788644465.5815089
+  },
+  {
     "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
     "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "英伟达持续加码数据中心建设，而AI数据中心正为其带来丰厚回报，形成资金投入与营收增长的良性循环。",
     "date": "2026-08-21 22:57",
     "timestamp": 1787353051.2191079
-  },
-  {
-    "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
-    "summary": "英伟达研究显示，通过微调，AI代理即使在基础模型能力一般的情况下，也能表现良好且不会失控。这为提升AI可靠性提供了有效路径，降低了模型性能门槛。",
-    "date": "2026-08-21 19:54",
-    "timestamp": 1787342047.4141412
   }
 ]
