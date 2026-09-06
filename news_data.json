@@ -1,5 +1,13 @@
 [
   {
+    "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+    "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
+    "summary": "两家新闻机构起诉OpenAI及微软，指控其未经授权使用其新闻内容训练AI模型。这是继此前多起诉讼后，针对AI训练数据版权问题的最新法律挑战。",
+    "date": "2026-09-06 00:11",
+    "timestamp": 1788653508.4957378
+  },
+  {
     "title": "Hikers rescued after using Google Gemini for planning",
     "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
@@ -790,13 +798,5 @@
     "summary": "Anthropic禁止其Claude模型生成露骨色情内容，但TechCrunch测试发现，用简单提示词即可绕过该限制，说明其安全防护存在漏洞。",
     "date": "2026-08-21 23:56",
     "timestamp": 1787356599.2375467
-  },
-  {
-    "title": "Nvidia partners with data center developer Cloverleaf",
-    "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "英伟达持续加码数据中心建设，而AI数据中心正为其带来丰厚回报，形成资金投入与营收增长的良性循环。",
-    "date": "2026-08-21 22:57",
-    "timestamp": 1787353051.2191079
   }
 ]
