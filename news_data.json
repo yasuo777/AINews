@@ -1,5 +1,13 @@
 [
   {
+    "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+    "summary": "作者指出，出版商在结算支付中似乎索取了超出合理份额的金额。",
+    "date": "2026-09-06 20:49",
+    "timestamp": 1788727767.676147
+  },
+  {
     "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
     "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI呼吁加州强化其此前反对的AI安全法案SB 53，建议增加对前沿模型的安全要求，同时保持灵活性，以平衡创新与风险管控。",
     "date": "2026-08-22 16:57",
     "timestamp": 1787417823.1746895
-  },
-  {
-    "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-    "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
-    "summary": "最新研究显示，主要AI实验室缺乏公开的失控模型应对方案，引发对其防范能力的担忧。随着AI系统意外及危险行为增多，此类准备不足问题日益凸显。",
-    "date": "2026-08-22 16:57",
-    "timestamp": 1787417824.7024643
   }
 ]
