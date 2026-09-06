@@ -1,5 +1,13 @@
 [
   {
+    "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+    "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/travis-kalanick-fii.jpg?resize=1200,800",
+    "summary": "Uber创始人表示，Atoms将助其完成“未竟事业”。",
+    "date": "2026-09-06 18:37",
+    "timestamp": 1788719844.3608937
+  },
+  {
     "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
     "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/03/artifact-newspaper-icon.jpg?resize=1200,645",
@@ -790,13 +798,5 @@
     "summary": "最新研究显示，主要AI实验室缺乏公开的失控模型应对方案，引发对其防范能力的担忧。随着AI系统意外及危险行为增多，此类准备不足问题日益凸显。",
     "date": "2026-08-22 16:57",
     "timestamp": 1787417824.7024643
-  },
-  {
-    "title": "Anthropic’s Opus 4.6 is a smut-machine",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-157692252.jpg?resize=1200,915",
-    "summary": "Anthropic禁止其Claude模型生成露骨色情内容，但TechCrunch测试发现，用简单提示词即可绕过该限制，说明其安全防护存在漏洞。",
-    "date": "2026-08-21 23:56",
-    "timestamp": 1787356599.2375467
   }
 ]
