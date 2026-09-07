@@ -1,5 +1,13 @@
 [
   {
+    "title": "Opaque recurrence, and other AI terms that you should probably know",
+    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
+    "summary": "人工智能的兴起带来了大量新术语和俚语。以下是一份词汇表，收录你可能遇到的重要词汇和短语及其定义。",
+    "date": "2026-09-07 21:45",
+    "timestamp": 1788817557.6625369
+  },
+  {
     "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
     "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "英国AI实验室Inherent（由DeepMind校友创立）发布智能体Faraday，可复现科学论文，助力科研创新，被视为加速发现的潜在基石。",
     "date": "2026-08-22 19:01",
     "timestamp": 1787425297.4885736
-  },
-  {
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-    "summary": "OpenAI呼吁加州强化其此前反对的AI安全法案SB 53，建议增加对前沿模型的安全要求，同时保持灵活性，以平衡创新与风险管控。",
-    "date": "2026-08-22 16:57",
-    "timestamp": 1787417823.1746895
   }
 ]
