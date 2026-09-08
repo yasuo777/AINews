@@ -1,5 +1,37 @@
 [
   {
+    "title": "Hackers are stealing Claude tokens from subscribers",
+    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "Anthropic提醒用户注意账户安全，此前有用户发现账号在未使用时仍消耗token，疑似遭黑客入侵。",
+    "date": "2026-09-08 22:00",
+    "timestamp": 1788904847.761373
+  },
+  {
+    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+    "summary": "Cognition估值倍数高于Cursor被SpaceX收购前的水平，反映市场对其技术或前景给予更高溢价，但需关注高估值下的风险与可持续性。",
+    "date": "2026-09-08 22:00",
+    "timestamp": 1788904849.1278744
+  },
+  {
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
+    "summary": "Meta推出个人AI代理Muse，需获取用户邮件、日历、支付及健康服务等数据，成为其最大消费者AI押注，也考验用户对Meta数据信任度。",
+    "date": "2026-09-08 22:00",
+    "timestamp": 1788904850.0405269
+  },
+  {
+    "title": "Why this month's Microsoft patch release is a doozy",
+    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
+    "summary": "安全专家正加紧发布补丁，以应对预期中由AI辅助发起的大规模攻击浪潮。",
+    "date": "2026-09-08 22:00",
+    "timestamp": 1788904851.9699078
+  },
+  {
     "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
     "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
     "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
@@ -766,37 +798,5 @@
     "summary": "General Intuition正洽谈以60亿美元投前估值融资，投资方包括Valor Ventures、Point72 Ventures及Seven Seven Six。该公司致力于构建基础模型，训练通用AI智能体在时空中的移动能力。",
     "date": "2026-08-24 16:07",
     "timestamp": 1787587652.307993
-  },
-  {
-    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
-    "summary": "前沿实验室正推动AI代理从软件工程师专用走向大众化，聚焦简化操作与普及应用，以降低使用门槛，实现更广泛的日常任务自动化。",
-    "date": "2026-08-24 15:19",
-    "timestamp": 1787584793.1930165
-  },
-  {
-    "title": "Hugging Face reportedly in talks to be acquired for $13B",
-    "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
-    "summary": "据报道，Hugging Face收到约130亿美元估值的收购要约，但因创始人对开源社区的责任感，出售前景存疑。",
-    "date": "2026-08-24 14:22",
-    "timestamp": 1787581374.4915357
-  },
-  {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
-    "summary": "一款名为Ox Alpha的神秘新AI模型引发互联网部分社区热议，外界对其功能与背景猜测纷纷，但官方未予回应，目前真相未知。",
-    "date": "2026-08-23 20:56",
-    "timestamp": 1787518570.3400023
-  },
-  {
-    "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-    "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
-    "summary": "Linkdaze智能数字日历凭借其AI餐食规划等全部功能免费开放、无付费墙限制而脱颖而出。",
-    "date": "2026-08-23 19:52",
-    "timestamp": 1787514770.3506498
   }
 ]
