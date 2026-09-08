@@ -1,5 +1,13 @@
 [
   {
+    "title": "Mistral raises €3B as sovereign AI becomes big business",
+    "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+    "summary": "法国AI实验室完成30亿欧元D轮融资，估值达210亿欧元，由三星、Scaleup Europe和PSG Equity领投。",
+    "date": "2026-09-08 14:45",
+    "timestamp": 1788878749.321646
+  },
+  {
     "title": "Opaque recurrence, and other AI terms that you should probably know",
     "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "在HBS Foundry项目中，AI化身在练习路演和董事会会议期间提供反馈，帮助学员优化表达与决策能力。",
     "date": "2026-08-22 21:54",
     "timestamp": 1787435698.8044667
-  },
-  {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
-    "summary": "英国AI实验室Inherent（由DeepMind校友创立）发布智能体Faraday，可复现科学论文，助力科研创新，被视为加速发现的潜在基石。",
-    "date": "2026-08-22 19:01",
-    "timestamp": 1787425297.4885736
   }
 ]
