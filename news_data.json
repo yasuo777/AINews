@@ -1,5 +1,37 @@
 [
   {
+    "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+    "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727",
+    "summary": "苹果发布健康数据更新，利用Apple Intelligence提升数据分析能力，帮助用户更智能地理解自身健康状况。",
+    "date": "2026-09-09 18:50",
+    "timestamp": 1788979818.4114883
+  },
+  {
+    "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+    "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
+    "summary": "苹果推出Apple Reference Image工具，帮助用户识别照片是否经过编辑，包括AI改动，旨在提升图片真实性的验证能力，语气专业简练。",
+    "date": "2026-09-09 18:50",
+    "timestamp": 1788979819.5125918
+  },
+  {
+    "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+    "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ternus-2.jpg?resize=1200,672",
+    "summary": "该公司还表示，其设备端模型能为消费者提供更高隐私保护。",
+    "date": "2026-09-09 18:50",
+    "timestamp": 1788979820.536124
+  },
+  {
+    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+    "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-1152x648-1788971374.jpg",
+    "summary": "我们郑重相信，人工智能可能终结全人类。",
+    "date": "2026-09-09 18:50",
+    "timestamp": 1788979822.732973
+  },
+  {
     "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
     "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-7.03.40-AM.png?w=458",
@@ -766,37 +798,5 @@
     "summary": "Keenable近日完成2600万美元种子轮融资，正式推出面向AI代理的庞大网络搜索索引，旨在为智能体提供高效检索支持。",
     "date": "2026-08-25 13:32",
     "timestamp": 1787664745.559559
-  },
-  {
-    "title": "‘The world seems to be ready’: An interview with OpenAI head of product Thibault Sottiaux",
-    "link": "https://techcrunch.com/2026/08/25/the-world-seems-to-be-ready-an-interview-with-openai-head-of-product-thibault-sottiaux/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Thibault-headshot.jpg?resize=1200,750",
-    "summary": "OpenAI产品主管与Greg Brockman探讨代理、用户体验及汇报机制，TechCrunch报道聚焦AI产品设计中的交互优化与组织管理。",
-    "date": "2026-08-25 13:32",
-    "timestamp": 1787664747.003017
-  },
-  {
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-    "summary": "AI对冲基金从华尔街热议迅速沦为联邦传票对象，速度之快远超投资组合多元化反应，凸显行业风险与监管关注。",
-    "date": "2026-08-25 02:06",
-    "timestamp": 1787623597.508286
-  },
-  {
-    "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
-    "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800",
-    "summary": "总统在股价位于150美元中段时买入，而SpaceX周一收盘回落至135美元的发行价。",
-    "date": "2026-08-24 21:58",
-    "timestamp": 1787608699.2119484
-  },
-  {
-    "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-    "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2211086231-1152x648.jpg",
-    "summary": "受AI影响的领域，年轻人就业率较抗AI职业下降19%。这一趋势凸显AI对就业结构的显著冲击，亟需关注技能转型与政策应对。",
-    "date": "2026-08-24 21:58",
-    "timestamp": 1787608701.345497
   }
 ]
