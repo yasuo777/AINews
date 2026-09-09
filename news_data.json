@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+    "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-7.03.40-AM.png?w=458",
+    "summary": "AI普及未达超大规模云厂商预期：代币成本下降、模型更廉价、单员工支出减少，企业投入更趋谨慎，增长动能低于设想。",
+    "date": "2026-09-09 14:47",
+    "timestamp": 1788965248.7284482
+  },
+  {
+    "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+    "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/cymphony-founders.jpg?resize=1200,800",
+    "summary": "Cymphony完成2500万美元A轮融资，估值超1亿美元，由红杉与SMBC Fin Atlas Beyond Fund联合领投。",
+    "date": "2026-09-09 14:47",
+    "timestamp": 1788965249.71278
+  },
+  {
+    "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+    "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/instacart-logo.jpg?resize=1200,800",
+    "summary": "Instacart在其平台中集成了对话式AI助手，成为最新采用该技术的应用。此举旨在通过智能交互提升用户购物体验，简化下单流程。",
+    "date": "2026-09-09 14:47",
+    "timestamp": 1788965250.8742921
+  },
+  {
     "title": "Hackers are stealing Claude tokens from subscribers",
     "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
@@ -774,29 +798,5 @@
     "summary": "受AI影响的领域，年轻人就业率较抗AI职业下降19%。这一趋势凸显AI对就业结构的显著冲击，亟需关注技能转型与政策应对。",
     "date": "2026-08-24 21:58",
     "timestamp": 1787608701.345497
-  },
-  {
-    "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
-    "summary": "在TechCrunch Disrupt 2026上，Replit CEO Amjad Masad将分享他对编程未来的见解，及Replit在此发展中的关键作用。",
-    "date": "2026-08-24 19:59",
-    "timestamp": 1787601574.99547
-  },
-  {
-    "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
-    "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
-    "summary": "早期测试者盛赞Instinct的功能，但有人指出，该AI助手权限广泛、条款宽泛且能代用户操作，这些便利伴随令人不安的权衡。",
-    "date": "2026-08-24 19:15",
-    "timestamp": 1787598949.844218
-  },
-  {
-    "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-    "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
-    "summary": "General Intuition正洽谈以60亿美元投前估值融资，投资方包括Valor Ventures、Point72 Ventures及Seven Seven Six。该公司致力于构建基础模型，训练通用AI智能体在时空中的移动能力。",
-    "date": "2026-08-24 16:07",
-    "timestamp": 1787587652.307993
   }
 ]
