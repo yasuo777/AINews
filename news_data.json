@@ -1,5 +1,29 @@
 [
   {
+    "title": "Massachusetts hits data centers with new clean power rules",
+    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
+    "summary": "马萨诸塞州成为三个月内第三个对数据中心开发施加新限制的州。",
+    "date": "2026-09-09 21:56",
+    "timestamp": 1788991000.2681172
+  },
+  {
+    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679",
+    "summary": "苹果新表不保存原始音频，但能转录近期对话并总结周围交谈，引发对知情同意与隐私的新质疑，也改变人们自知可能被记录时的行为方式。",
+    "date": "2026-09-09 21:56",
+    "timestamp": 1788991001.3067925
+  },
+  {
+    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730",
+    "summary": "科技巨头发布首款折叠屏手机iPhone Duo，成发布会焦点。该设备融合创新铰链与双屏设计，主打多任务处理与便携体验，标志着其在折叠屏市场正式发力。",
+    "date": "2026-09-09 21:56",
+    "timestamp": 1788991002.568204
+  },
+  {
     "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
     "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727",
@@ -774,29 +798,5 @@
     "summary": "Lica联合创始人将加入Gamma新研究团队，专注相关研发工作。",
     "date": "2026-08-25 15:25",
     "timestamp": 1787671534.1678674
-  },
-  {
-    "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-    "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-151062148-1024x648.jpg",
-    "summary": "一位AI先驱曾预言电脑将取代放射科医生，但这一预测并未成真。",
-    "date": "2026-08-25 15:25",
-    "timestamp": 1787671536.112987
-  },
-  {
-    "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-    "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Jalapeno-chip-final.jpeg?resize=1200,900",
-    "summary": "在Semianalysis的InferenceX基准测试中，Jalapeño在每用户token数和每千瓦吞吐量上均超过现有最先进水平。",
-    "date": "2026-08-25 14:24",
-    "timestamp": 1787667899.7628384
-  },
-  {
-    "title": "Accel-backed Keenable is indexing the web for AI agents",
-    "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Matthias-Petri-and-Andrey-Styskin-Keenable.jpg?w=1200",
-    "summary": "Keenable近日完成2600万美元种子轮融资，正式推出面向AI代理的庞大网络搜索索引，旨在为智能体提供高效检索支持。",
-    "date": "2026-08-25 13:32",
-    "timestamp": 1787664745.559559
   }
 ]
