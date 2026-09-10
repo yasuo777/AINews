@@ -1,5 +1,21 @@
 [
   {
+    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+    "summary": "黄仁勋表示，英伟达业务布局广泛，预计未来一年仍将丰收，但他强调公司各项交易并非循环交易。",
+    "date": "2026-09-10 23:23",
+    "timestamp": 1789082581.9302938
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+    "summary": "马克·沃尔伯格将携手Bruce K. Lee亮相Disrupt大会，围绕投资、创业、医疗健康及商业构建等话题展开对谈。",
+    "date": "2026-09-10 23:23",
+    "timestamp": 1789082583.3315687
+  },
+  {
     "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
     "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "机器人本体正等待其人工智能大脑迎头赶上。当前硬件发展领先于软件，智能赋能仍待突破。",
     "date": "2026-08-26 14:24",
     "timestamp": 1787754284.714806
-  },
-  {
-    "title": "QueryStory wants you to believe what AI is telling you",
-    "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/QueryStory-Groups-8-1.jpg?resize=1200,799",
-    "summary": "一家初创公司携600万美元种子资金亮相，计划结合大语言模型与网络安全技术，提升AI查询的连贯性。",
-    "date": "2026-08-26 13:38",
-    "timestamp": 1787751502.8748853
-  },
-  {
-    "title": "Arga Labs is building a better way to train enterprise AI agents",
-    "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Arga-Headshots.jpg?resize=1099,1200",
-    "summary": "Arga获1000万美元种子轮融资，由General Catalyst领投，Box Group、Emergence、Gradient及SV Angel参投。",
-    "date": "2026-08-26 13:38",
-    "timestamp": 1787751503.876007
   }
 ]
