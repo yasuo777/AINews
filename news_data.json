@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "公司表示，专业版订阅对其系统造成的压力最大，因此暂停新用户注册，同时扩充容量。",
+    "date": "2026-09-10 21:10",
+    "timestamp": 1789074657.1317093
+  },
+  {
+    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
+    "summary": "Anthropic周四发布新报告，指称中国AI公司持续对其发动“蒸馏攻击”，且近几个月随着行业竞争加剧，此类攻击愈发频繁。",
+    "date": "2026-09-10 21:10",
+    "timestamp": 1789074658.3884182
+  },
+  {
+    "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+    "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "summary": "Meta最新应用Muse起步表现不及旗下其他产品，如Meta AI和Threads。",
+    "date": "2026-09-10 21:10",
+    "timestamp": 1789074659.5119736
+  },
+  {
     "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
     "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Arga获1000万美元种子轮融资，由General Catalyst领投，Box Group、Emergence、Gradient及SV Angel参投。",
     "date": "2026-08-26 13:38",
     "timestamp": 1787751503.876007
-  },
-  {
-    "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-    "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/legato.png?resize=1200,751",
-    "summary": "Legato Frames眼镜将公司专利助听技术集成至镜腿中，实现听力辅助与日常佩戴的巧妙融合。",
-    "date": "2026-08-26 13:38",
-    "timestamp": 1787751505.419282
-  },
-  {
-    "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
-    "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/runable-co-founders-umesh-saksham.jpg?resize=1200,800",
-    "summary": "Runable称，过去90天超1万亿token用量中，60%–70%来自付费客户，显示其商业化进展显著。",
-    "date": "2026-08-26 12:00",
-    "timestamp": 1787745624.5845327
-  },
-  {
-    "title": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
-    "link": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Ringg-Founder-Kali-CV-Siddharth-Tripathi-Utkarsh-Shukla.jpg?resize=1200,675",
-    "summary": "Ringg宣布获得Peak XV投资的1000万美元，作为其A轮融资的扩展部分。",
-    "date": "2026-08-26 03:36",
-    "timestamp": 1787715413.4086921
   }
 ]
