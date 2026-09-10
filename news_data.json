@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+    "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2221463618.jpg?resize=1200,800",
+    "summary": "消息称，Listen Labs 已放弃 Menlo Ventures 已签署的 C 轮投资条款书。",
+    "date": "2026-09-10 00:33",
+    "timestamp": 1789000424.0642698
+  },
+  {
+    "title": "OpenAI adds a prominent AI doomer to its board of directors",
+    "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "AI对齐领域知名研究员Paul Christiano将加入OpenAI基金会董事会。",
+    "date": "2026-09-10 00:33",
+    "timestamp": 1789000425.1240458
+  },
+  {
     "title": "Massachusetts hits data centers with new clean power rules",
     "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "该公司新融资总额已达2.32亿美元，资金实力进一步增强，为后续业务拓展提供有力支撑。",
     "date": "2026-08-25 19:15",
     "timestamp": 1787685357.2257104
-  },
-  {
-    "title": "Claude Cowork finally remembers what you told the app in chat",
-    "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-    "summary": "Anthropic推出Claude跨聊天和Cowork的共享记忆功能，用户无需重复交代项目、偏好等背景信息。",
-    "date": "2026-08-25 18:01",
-    "timestamp": 1787680876.1753583
-  },
-  {
-    "title": "Gamma acquires Accel-backed design startup Lica",
-    "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/R6II0507.jpg?resize=1200,960",
-    "summary": "Lica联合创始人将加入Gamma新研究团队，专注相关研发工作。",
-    "date": "2026-08-25 15:25",
-    "timestamp": 1787671534.1678674
   }
 ]
