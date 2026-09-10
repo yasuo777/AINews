@@ -1,5 +1,21 @@
 [
   {
+    "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+    "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/pocket-fm.jpg?resize=1200,800",
+    "summary": "Pocket FM借助AI技术，其99%的新内容均由AI生成，使内容制作成本降低约80倍。",
+    "date": "2026-09-10 17:52",
+    "timestamp": 1789062759.0140343
+  },
+  {
+    "title": "AI agents are flooding public services with new requests",
+    "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2264911748.jpg?resize=1200,705",
+    "summary": "研究人员向TechCrunch表示，绝大多数案例中，当事人是在就自己有权申领的事项进行申领。",
+    "date": "2026-09-10 17:52",
+    "timestamp": 1789062760.606996
+  },
+  {
     "title": "Maven Robotics wants to steal your robot deployment deal",
     "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Hamza-Khalid-2-1.jpg?resize=800,1200",
@@ -782,21 +798,5 @@
     "summary": "Ringg宣布获得Peak XV投资的1000万美元，作为其A轮融资的扩展部分。",
     "date": "2026-08-26 03:36",
     "timestamp": 1787715413.4086921
-  },
-  {
-    "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-    "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
-    "summary": "该物理AI初创公司数月前估值达20亿美元，近日再获2亿美元追加融资。资金将用于扩展技术研发与市场布局，凸显资本对其前景的持续看好。",
-    "date": "2026-08-26 02:12",
-    "timestamp": 1787710344.4349554
-  },
-  {
-    "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-    "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-    "summary": "OpenAI已调整基础设施部门架构，将Malone的汇报线从总裁Greg Brockman转至副总裁Sachin Katti，并在Malone离职前完成重组，以加强该领域管理。",
-    "date": "2026-08-26 02:12",
-    "timestamp": 1787710346.0112274
   }
 ]
