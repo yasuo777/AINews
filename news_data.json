@@ -1,5 +1,29 @@
 [
   {
+    "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
+    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
+    "summary": "尽管K3近期使用量略有下降，但OpenRouter数据显示，K3模型在该系统上每日生成的token量仍高达3000亿。",
+    "date": "2026-09-11 20:00",
+    "timestamp": 1789156854.5317867
+  },
+  {
+    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+    "summary": "Anthropic一名研究员本周辞职，并在X平台警告公司正“直奔自我进化的超级智能，拿我们的生命赌博”，其对齐负责人亦联署该声明。此番警告在业界并非首次，但恰逢Anthropic筹备IPO之际，时机令其影响不同以往。",
+    "date": "2026-09-11 20:00",
+    "timestamp": 1789156856.0465844
+  },
+  {
+    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
+    "summary": "OpenAI二号高管曾于2023年带领Instacart完成IPO。",
+    "date": "2026-09-11 20:00",
+    "timestamp": 1789156857.9821022
+  },
+  {
     "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
     "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
@@ -774,29 +798,5 @@
     "summary": "Perceptron推出AI模型，旨在帮助机器实现世界导航，同时提供深度视觉智能。该技术兼顾环境感知与细节识别，推动机器人在复杂场景中的自主决策能力提升。",
     "date": "2026-08-26 16:03",
     "timestamp": 1787760228.828231
-  },
-  {
-    "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-    "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/52149453535_5cfc2ec394_k.jpg?resize=1200,800",
-    "summary": "盖茨大体属“负责任AI”阵营，但此番提出几个新观点：警告AI能耗巨大或成气候挑战，建议政府强制监管高风险系统，并预测未来AI将重塑劳动力市场，催生“AI税”等新政策工具。",
-    "date": "2026-08-26 16:03",
-    "timestamp": 1787760231.1661122
-  },
-  {
-    "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-    "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2221390508.jpg?w=1024",
-    "summary": "Z.ai确认其开源模型Ox Alpha为近期登顶多项基准测试的神秘AI模型，并宣布将于近期发布模型权重。此举有望推动开源AI生态发展，引发业界广泛关注。",
-    "date": "2026-08-26 14:24",
-    "timestamp": 1787754283.6333513
-  },
-  {
-    "title": "Robot brain builders are pushing out of their GPT-2 era",
-    "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-    "summary": "机器人本体正等待其人工智能大脑迎头赶上。当前硬件发展领先于软件，智能赋能仍待突破。",
-    "date": "2026-08-26 14:24",
-    "timestamp": 1787754284.714806
   }
 ]
