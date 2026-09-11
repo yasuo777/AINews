@@ -1,5 +1,29 @@
 [
   {
+    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+    "summary": "Tan希望美国小型开放权重AI实验室采用与美国前沿AI实验室相同的训练技术，从而为美国提供更多非中国来源的开放权重模型选择。",
+    "date": "2026-09-11 22:46",
+    "timestamp": 1789166804.5858982
+  },
+  {
+    "title": "OpenAI’s feud with mathematicians is only escalating",
+    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "25位顶尖数学家联名发表公开信，指称AI实验室正对其智力成果构成威胁。",
+    "date": "2026-09-11 22:46",
+    "timestamp": 1789166805.518312
+  },
+  {
+    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
+    "summary": "仅剩一周预订展位，数量有限，或将于9月18日截止前售罄，请尽快确认。",
+    "date": "2026-09-11 22:46",
+    "timestamp": 1789166806.3068058
+  },
+  {
     "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
     "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Was Greg Brockman the right executive all along?",
     "date": "2026-08-26 21:12",
     "timestamp": 1787778736.9039383
-  },
-  {
-    "title": "OpenAI releases its official report on the Hugging Face breach",
-    "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "该报告涵盖了多起独立网络安全入侵事件，是对此次事件迄今最全面的阐述。",
-    "date": "2026-08-26 21:12",
-    "timestamp": 1787778737.8213508
-  },
-  {
-    "title": "Radar makes podcasts searchable — and usable by AI agents",
-    "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/05/pexels-magda-ehlers-1054713.jpg?resize=1200,800",
-    "summary": "Particle推出播客智能平台，可转录并分析超13万档播客，使其对话内容可在网页搜索，并通过API和MCP向AI智能体开放。",
-    "date": "2026-08-26 16:03",
-    "timestamp": 1787760226.8072183
-  },
-  {
-    "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
-    "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Perceptron-Team-Photo.jpg?resize=1200,800",
-    "summary": "Perceptron推出AI模型，旨在帮助机器实现世界导航，同时提供深度视觉智能。该技术兼顾环境感知与细节识别，推动机器人在复杂场景中的自主决策能力提升。",
-    "date": "2026-08-26 16:03",
-    "timestamp": 1787760228.828231
   }
 ]
