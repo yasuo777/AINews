@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+    "summary": "OpenAI已秘密提交IPO申请，但CEO Sam Altman表示公司今年不会上市。",
+    "date": "2026-09-12 21:39",
+    "timestamp": 1789249154.8843455
+  },
+  {
     "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
     "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Anthropic与基础设施供应商达成新协议，凸显其算力需求激增，成为其高速扩张的最新例证。",
     "date": "2026-08-27 01:02",
     "timestamp": 1787792579.879373
-  },
-  {
-    "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-    "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-1152x648.jpg",
-    "summary": "报告显示，Meta在用人AI代理替代员工方面面临挑战，效果未达预期，凸显技术替代人力的现实局限。",
-    "date": "2026-08-27 01:03",
-    "timestamp": 1787792582.0776477
   }
 ]
