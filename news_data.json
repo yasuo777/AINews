@@ -1,5 +1,13 @@
 [
   {
+    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
+    "summary": "奥巴马近日表示，民主党需将人工智能列为“核心议程”之一，并“制定清晰计划”，以应对该技术在经济影响和安全方面的担忧。",
+    "date": "2026-09-13 17:03",
+    "timestamp": 1789318984.2558668
+  },
+  {
     "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
     "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "亚马逊将在未来两年内新增200万颗英伟达GPU芯片，但双方合作不止于采购，更拓展至更深层的战略协同。",
     "date": "2026-08-27 01:02",
     "timestamp": 1787792578.2504587
-  },
-  {
-    "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-    "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "summary": "Anthropic与基础设施供应商达成新协议，凸显其算力需求激增，成为其高速扩张的最新例证。",
-    "date": "2026-08-27 01:02",
-    "timestamp": 1787792579.879373
   }
 ]
