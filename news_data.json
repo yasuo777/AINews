@@ -1,5 +1,13 @@
 [
   {
+    "title": "What’s behind the AI industry’s latest warnings of doom?",
+    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+    "summary": "关于Equity的讨论中，我们探讨了AI行业最新争论：人工智能是否对人类构成生存威胁。",
+    "date": "2026-09-13 19:45",
+    "timestamp": 1789328741.2691672
+  },
+  {
     "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
     "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "这家初创公司成立仅一年，便迅速成为焦点，吸引大量资金投入，同时引发隐私方面的广泛担忧。",
     "date": "2026-08-27 01:02",
     "timestamp": 1787792576.5043766
-  },
-  {
-    "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-    "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-    "summary": "亚马逊将在未来两年内新增200万颗英伟达GPU芯片，但双方合作不止于采购，更拓展至更深层的战略协同。",
-    "date": "2026-08-27 01:02",
-    "timestamp": 1787792578.2504587
   }
 ]
