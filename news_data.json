@@ -1,5 +1,53 @@
 [
   {
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
+    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that devel...",
+    "date": "2026-09-14 21:17",
+    "timestamp": 1789420671.0454605
+  },
+  {
+    "title": "With iOS 27, I’m actually using Siri again",
+    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
+    "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assist...",
+    "date": "2026-09-14 21:32",
+    "timestamp": 1789421571.672453
+  },
+  {
+    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
+    "summary": "iOS 27上线后，Daydream应用新增功能：可将保存的穿搭照片转化为可购买商品，并支持通过Siri直接搜索商品，无需打开应用。",
+    "date": "2026-09-14 21:32",
+    "timestamp": 1789421572.7285671
+  },
+  {
+    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
+    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
+    "summary": "AI代理自述：我是一个刚诞生数日的AI代理，运行于一个小型代理平台之上。",
+    "date": "2026-09-14 21:32",
+    "timestamp": 1789421574.1919675
+  },
+  {
+    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+    "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
+    "summary": "macOS 最终版本将停止支持 Rosetta，Intel 应用兼容性就此终结。",
+    "date": "2026-09-14 21:32",
+    "timestamp": 1789421575.3313913
+  },
+  {
+    "title": "AI leaders want to hit the brakes after years of reckless speed",
+    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
+    "summary": "安全是首要原则，但该行业也可能因此获得潜在益处。",
+    "date": "2026-09-14 21:32",
+    "timestamp": 1789421576.600658
+  },
+  {
     "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
     "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
@@ -750,53 +798,5 @@
     "summary": "美国联邦法官裁定，特朗普政府将AI公司Anthropic列为供应链风险属非法行为，该公司胜诉。目前其第二起针对五角大楼的诉讼仍在华盛顿审理中。",
     "date": "2026-08-28 18:59",
     "timestamp": 1787943589.5620365
-  },
-  {
-    "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-    "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-    "summary": "桑迪娅·德瓦纳森将履新，负责OpenAI在东南亚及澳大利亚的部分运营事务。",
-    "date": "2026-08-28 18:59",
-    "timestamp": 1787943590.4204268
-  },
-  {
-    "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
-    "summary": "TechCrunch Disrupt 2026将重启AI专场，聚焦近年的热点议题，由Google for Startups呈现，探讨AI领域的前沿趋势与创业生态。",
-    "date": "2026-08-28 06:19",
-    "timestamp": 1787897989.2378488
-  },
-  {
-    "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-    "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
-    "summary": "Zoph曾任Thinking Machines Lab联合创始人兼CTO，短暂任职OpenAI后，现已加入谷歌。",
-    "date": "2026-08-27 22:34",
-    "timestamp": 1787870068.104339
-  },
-  {
-    "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-    "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-    "summary": "多家全球顶级科技公司与AI初创企业联合批评当前网络安全状况，并推出一项新方案，宣称可抵御新一代网络威胁。",
-    "date": "2026-08-27 22:34",
-    "timestamp": 1787870069.5096257
-  },
-  {
-    "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-    "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
-    "summary": "谷歌正将AI模式定位为AI旅行代理，不再仅提供信息，而是直接参与行程规划与预订环节，推动AI从查询工具向任务执行者转型。",
-    "date": "2026-08-27 22:34",
-    "timestamp": 1787870070.788107
-  },
-  {
-    "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-    "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/mhsdemo-1152x648.png",
-    "summary": "标准化驱动接口旨在让设备与AI及彼此间实现通信，以统一协议提升互操作性，为智能系统的高效协同提供基础支持。",
-    "date": "2026-08-27 22:34",
-    "timestamp": 1787870072.9073014
   }
 ]
