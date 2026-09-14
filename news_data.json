@@ -1,5 +1,29 @@
 [
   {
+    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
+    "summary": "微软发布AI行为准则，确立支持而非取代人类、促进人类福祉等基本原则，并制定具体安全约束以落实这些原则。",
+    "date": "2026-09-14 17:02",
+    "timestamp": 1789405373.3962734
+  },
+  {
+    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
+    "summary": "在TechCrunch Disrupt 2026的Builders Stage上，一场互动会议将探讨AI公司在基础模型持续演进中如何持续创造价值。",
+    "date": "2026-09-14 17:02",
+    "timestamp": 1789405374.7016196
+  },
+  {
+    "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+    "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/fathom_product-graphic_my-calls.jpeg?resize=1200,675",
+    "summary": "Fathom宣布其月活跃用户已超过40万。",
+    "date": "2026-09-14 17:02",
+    "timestamp": 1789405375.9016078
+  },
+  {
     "title": "What’s behind the AI industry’s latest warnings of doom?",
     "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
@@ -774,29 +798,5 @@
     "summary": "标准化驱动接口旨在让设备与AI及彼此间实现通信，以统一协议提升互操作性，为智能系统的高效协同提供基础支持。",
     "date": "2026-08-27 22:34",
     "timestamp": 1787870072.9073014
-  },
-  {
-    "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-    "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-india-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "summary": "OpenAI在印度的ChatGPT周活跃用户已超1亿，其中多数使用免费或低价Go套餐，显示出其在印度市场的庞大用户基础与分层付费结构。",
-    "date": "2026-08-27 12:00",
-    "timestamp": 1787832027.8796377
-  },
-  {
-    "title": "Nvidia closes in on Hugging Face acquisition",
-    "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2192223928.jpg?resize=1200,801",
-    "summary": "英伟达据报道将以129亿美元收购开源AI平台Hugging Face，此举既巩固其芯片主导地位，又重返云计算市场。交易尚待确认，但标志着AI基础设施竞争加剧。",
-    "date": "2026-08-27 12:00",
-    "timestamp": 1787832029.24742
-  },
-  {
-    "title": "Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation",
-    "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2255991416.jpg?resize=1200,795",
-    "summary": "这家初创公司成立仅一年，便迅速成为焦点，吸引大量资金投入，同时引发隐私方面的广泛担忧。",
-    "date": "2026-08-27 01:02",
-    "timestamp": 1787792576.5043766
   }
 ]
