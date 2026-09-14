@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+    "summary": "尽管马斯克和奥特曼支持阿莫迪放缓AI开发步伐的呼吁，黄仁勋似乎持不同看法。",
+    "date": "2026-09-14 23:58",
+    "timestamp": 1789430310.9528258
+  },
+  {
     "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
     "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
@@ -790,13 +798,5 @@
     "summary": "大量资本正涌入“免费提供模型”这一商业模式。该领域吸引了显著投资，反映出业界通过开放策略争夺市场份额与生态布局的新趋势。",
     "date": "2026-08-28 18:59",
     "timestamp": 1787943588.2248604
-  },
-  {
-    "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-    "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "美国联邦法官裁定，特朗普政府将AI公司Anthropic列为供应链风险属非法行为，该公司胜诉。目前其第二起针对五角大楼的诉讼仍在华盛顿审理中。",
-    "date": "2026-08-28 18:59",
-    "timestamp": 1787943589.5620365
   }
 ]
