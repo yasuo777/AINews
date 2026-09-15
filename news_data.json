@@ -1,5 +1,29 @@
 [
   {
+    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+    "summary": "从苹果屡次延期的Siri AI到OpenAI混乱的“超级应用”发布，多个人工智能项目或关停或未达预期。",
+    "date": "2026-09-15 19:11",
+    "timestamp": 1789499476.9490516
+  },
+  {
+    "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+    "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+    "summary": "AI热潮或将推动美国数据中心成为全球最大的天然气消费主体之一。",
+    "date": "2026-09-15 19:11",
+    "timestamp": 1789499478.0433772
+  },
+  {
+    "title": "AI agents now have a place to snitch",
+    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+    "summary": "AI联系热线旨在为目击不当行为的AI代理提供一个隐秘渠道，使其能够向有关部门举报。",
+    "date": "2026-09-15 19:11",
+    "timestamp": 1789499478.9778047
+  },
+  {
     "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
     "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
@@ -774,29 +798,5 @@
     "summary": "马斯克称，SpaceX秘密铸造厂将自产燃气轮机叶片，使天然气发电上线提速18个月。但此举押注的燃料已在多地带引发诉讼与健康研究，前景存疑。",
     "date": "2026-08-30 17:45",
     "timestamp": 1788111919.7789886
-  },
-  {
-    "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-    "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/caterpillar-lidar-booth.jpg?resize=1200,800",
-    "summary": "卡特彼勒将数十年矿区自动驾驶经验应用于AI部署，推动自主机器在偏远矿场的高效运作，以专业方式向工业智能化转型。",
-    "date": "2026-08-30 17:45",
-    "timestamp": 1788111921.085158
-  },
-  {
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-    "summary": "这起最新诉讼涉及范围广泛，重点指控非法盗版行为。",
-    "date": "2026-08-29 18:49",
-    "timestamp": 1788029399.5544
-  },
-  {
-    "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-    "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Vijay-Pande.png?resize=1200,800",
-    "summary": "Vijay Pande离开a16z生物技术部门后创立AI原生风投VZVC，指出生物学正从“发现”转向“工程”科学，临床试验成本仍高昂，他认为开放共享数据集而非封闭数据才能真正推动AI变革医学。",
-    "date": "2026-08-29 18:50",
-    "timestamp": 1788029401.0949748
   }
 ]
