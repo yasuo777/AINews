@@ -1,5 +1,29 @@
 [
   {
+    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
+    "summary": "Superpose是一款相机应用，通过AI分析自拍或照片，生成四种潜在姿势。",
+    "date": "2026-09-15 15:15",
+    "timestamp": 1789485337.712071
+  },
+  {
+    "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-MacNeil-Sofman-Mackey-16x9-Dark.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026将举办专题讨论，邀请Foxglove、MBRYONICS及Bedrock Robotics的扩张负责人，分享初创企业如何从原型走向量产。9月25日前注册可省200美元。",
+    "date": "2026-09-15 15:15",
+    "timestamp": 1789485338.8951182
+  },
+  {
+    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?resize=1200,800",
+    "summary": "Disrupt参展申请将于9月18日截止，仅剩4天。入选初创企业可于10月13日至15日面向超万名创始人、投资人及科技领袖展示。",
+    "date": "2026-09-15 15:15",
+    "timestamp": 1789485339.8853943
+  },
+  {
     "title": "Jensen Huang took a call from Trump, and showed off something else, too",
     "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Vijay Pande离开a16z生物技术部门后创立AI原生风投VZVC，指出生物学正从“发现”转向“工程”科学，临床试验成本仍高昂，他认为开放共享数据集而非封闭数据才能真正推动AI变革医学。",
     "date": "2026-08-29 18:50",
     "timestamp": 1788029401.0949748
-  },
-  {
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-    "summary": "新一代数据中心系统通过智能流量调度提升效率，而非单纯依赖处理器算力增强。此举优化资源利用，降低能耗，标志着数据中心管理向更高效、可持续的方向发展。",
-    "date": "2026-08-29 14:41",
-    "timestamp": 1788014460.5691042
-  },
-  {
-    "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
-    "summary": "Lambda公司融资10亿美元购买英伟达AI芯片，并租赁给微软，此举凸显AI热潮的高昂成本，成为此类贷款的最新案例。",
-    "date": "2026-08-29 02:26",
-    "timestamp": 1787970381.5691557
-  },
-  {
-    "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-    "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-    "summary": "基于10项特定不当行为的基准测试，自动化系统在每项上均提升了性能，且未损害整体表现。",
-    "date": "2026-08-29 02:26",
-    "timestamp": 1787970382.5694664
   }
 ]
