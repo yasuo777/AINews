@@ -1,5 +1,21 @@
 [
   {
+    "title": "The AI data center boom is colliding with cities scarred by big industry",
+    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
+    "summary": "美国数据中心建设引发的公众反对已蔓延至费城。官员提议在当地一处曾受已关闭炼油厂影响的社区进行建设，此举引发民众担忧。",
+    "date": "2026-09-15 22:25",
+    "timestamp": 1789511145.6365588
+  },
+  {
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+    "summary": "全新WhatsApp Business MCP服务器上线，支持Claude、Cursor、Codex和ChatGPT等AI编程代理，可自动完成配置、消息模板管理、测试及故障排查。",
+    "date": "2026-09-15 22:25",
+    "timestamp": 1789511146.9335258
+  },
+  {
     "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
     "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
@@ -782,21 +798,5 @@
     "summary": "Meta平台上的互动式移动小工具易于制作，但难以在平台外分享，其封闭生态限制了传播范围。",
     "date": "2026-08-31 14:23",
     "timestamp": 1788186223.5875266
-  },
-  {
-    "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-    "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/03/gettyimages-507054668.jpg?resize=1200,801",
-    "summary": "美国正进一步限制外国无人机和机器人进口，但中国庞大的产能意味着全球竞争可能转移至其他地区。",
-    "date": "2026-08-31 06:06",
-    "timestamp": 1788156413.7112336
-  },
-  {
-    "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-    "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Elon-Musk.jpg?w=1024",
-    "summary": "马斯克称，SpaceX秘密铸造厂将自产燃气轮机叶片，使天然气发电上线提速18个月。但此举押注的燃料已在多地带引发诉讼与健康研究，前景存疑。",
-    "date": "2026-08-30 17:45",
-    "timestamp": 1788111919.7789886
   }
 ]
