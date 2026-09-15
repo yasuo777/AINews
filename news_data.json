@@ -1,5 +1,13 @@
 [
   {
+    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
+    "summary": "黄仁勋与特朗普通话时，众人关注点却意外落在他所用手机上。（注：原文信息量极少，此摘要在不添加额外信息的前提下，仅能传达核心意思，篇幅远不足100字。）",
+    "date": "2026-09-15 05:19",
+    "timestamp": 1789449545.3943746
+  },
+  {
     "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
     "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "基于10项特定不当行为的基准测试，自动化系统在每项上均提升了性能，且未损害整体表现。",
     "date": "2026-08-29 02:26",
     "timestamp": 1787970382.5694664
-  },
-  {
-    "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-    "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
-    "summary": "大量资本正涌入“免费提供模型”这一商业模式。该领域吸引了显著投资，反映出业界通过开放策略争夺市场份额与生态布局的新趋势。",
-    "date": "2026-08-28 18:59",
-    "timestamp": 1787943588.2248604
   }
 ]
