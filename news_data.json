@@ -1,5 +1,13 @@
 [
   {
+    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "summary": "黄仁勋认为，AI并非某种全新的“外星心智”，而只是硬件与软件的组合，因此每家AI产品制造商都能通过工程手段保障其安全性。",
+    "date": "2026-09-16 00:46",
+    "timestamp": 1789519599.0229053
+  },
+  {
     "title": "The AI data center boom is colliding with cities scarred by big industry",
     "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Circleback推出新定价方案，月费起价14美元。",
     "date": "2026-08-31 14:23",
     "timestamp": 1788186221.1252677
-  },
-  {
-    "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-    "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/pocketsling-1152x648-1787932298.png",
-    "summary": "Meta平台上的互动式移动小工具易于制作，但难以在平台外分享，其封闭生态限制了传播范围。",
-    "date": "2026-08-31 14:23",
-    "timestamp": 1788186223.5875266
   }
 ]
