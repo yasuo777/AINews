@@ -1,5 +1,29 @@
 [
   {
+    "title": "Your AI agents can now control your Google Home devices",
+    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
+    "summary": "谷歌推出Google Home MCP服务器早期访问，允许Claude、ChatGPT等AI代理通过自然语言控制智能家居设备、查看摄像头摘要及访问活动记录。",
+    "date": "2026-09-16 17:44",
+    "timestamp": 1789580644.1540663
+  },
+  {
+    "title": "Anthropic merges Claude chat and Cowork in one interface",
+    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675",
+    "summary": "Anthropic 最初将向 Pro 和 Max 套餐订阅用户推出这些功能。",
+    "date": "2026-09-16 17:44",
+    "timestamp": 1789580645.4754758
+  },
+  {
+    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "summary": "英伟达的Les Karpas在TechCrunch Disrupt 2026上解释了机器人行业为何仍未融入日常生活。9月25日前注册可节省最高200美元门票费用。",
+    "date": "2026-09-16 17:44",
+    "timestamp": 1789580646.6078086
+  },
+  {
     "title": "Amazon launches Alexa+ in India with Hindi support",
     "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "苹果公司称，有证据表明一名前雇员在得知自己受调查后，销毁了数据盗窃的证据。",
     "date": "2026-09-01 05:38",
     "timestamp": 1788241116.04638
-  },
-  {
-    "title": "The Pentagon now has its own version of ChatGPT and Grok",
-    "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-    "summary": "OpenAI的ChatGPT及SpaceXAI的Grok将入驻美国五角大楼AI工具中央门户，与谷歌Gemini并列，供国防部门使用。",
-    "date": "2026-08-31 20:21",
-    "timestamp": 1788207705.1932611
-  },
-  {
-    "title": "Instagram puts new limits on undisclosed AI profiles",
-    "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Instagram-label-.png?w=1200",
-    "summary": "随着对AI网红的反感加剧，Instagram开始限制未标明身份的AI账号的曝光度。",
-    "date": "2026-08-31 20:21",
-    "timestamp": 1788207706.8704517
-  },
-  {
-    "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-    "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/BlueVoice_Founders.png?resize=1200,600",
-    "summary": "Blue Voice基于部门特定法律、地方法规及指南训练，这些内容通用AI无法通过公开网络获取。",
-    "date": "2026-08-31 20:21",
-    "timestamp": 1788207707.7465544
   }
 ]
