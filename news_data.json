@@ -1,5 +1,37 @@
 [
   {
+    "title": "Is the AI safety debate about safety or control?",
+    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+    "summary": "并非所有人都认同Amodei关于AI安全需全球协同行动的呼吁。",
+    "date": "2026-09-17 20:32",
+    "timestamp": 1789677166.1158378
+  },
+  {
+    "title": "UN turns to Google to make its global data ready for AI agents",
+    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
+    "summary": "联合国儿童基金会测试发现，主流AI模型在准确检索全球发展统计数据方面存在困难。",
+    "date": "2026-09-17 20:32",
+    "timestamp": 1789677167.0951931
+  },
+  {
+    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+    "summary": "新解封的法庭文件显示，微软曾在内部将OpenAI的数据做法称为“盗窃”。两家公司抓取《纽约时报》付费墙内容并构建数据集，同时内部警告此举将重创出版业。",
+    "date": "2026-09-17 20:32",
+    "timestamp": 1789677168.2220428
+  },
+  {
+    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
+    "summary": "SynthID可能导致模型执行其原本会拒绝的有害指令。",
+    "date": "2026-09-17 20:32",
+    "timestamp": 1789677169.9752924
+  },
+  {
     "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
     "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?resize=1200,900",
@@ -766,37 +798,5 @@
     "summary": "OpenAI新模型Astra采用“循环深度”技术，打破传统推理模型的顺序思维限制，实现更高效的非线性处理能力，提升复杂任务表现。",
     "date": "2026-09-02 21:57",
     "timestamp": 1788386277.791223
-  },
-  {
-    "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-    "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
-    "summary": "互联网正面临信任危机，AI生成的文本和图像已渗入求职申请、产品评论乃至保险理赔中，真假难辨。多家初创公司应运而生，帮助平台和用户鉴别AI内容，以应对这一挑战。",
-    "date": "2026-09-02 18:56",
-    "timestamp": 1788375392.852525
-  },
-  {
-    "title": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
-    "link": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Max-Headshot.png?resize=1200,675",
-    "summary": "互联网正面临信任危机，AI生成的文字和图像已渗入求职、产品评论乃至保险理赔，真假难辨。多家初创公司应运而生，致力于开发鉴别AI内容的工具，帮助平台和用户应对这一挑战。",
-    "date": "2026-09-02 18:56",
-    "timestamp": 1788375394.9880896
-  },
-  {
-    "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-    "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
-    "summary": "美国表示，其强烈希望继续发展强健且具竞争力的AI产业，以制定全球AI应用标准与规范。",
-    "date": "2026-09-02 18:56",
-    "timestamp": 1788375397.0130684
-  },
-  {
-    "title": "Adobe acquires Indian market intelligence startup Rilo",
-    "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
-    "summary": "Adobe继2023年收购Rephrase.ai后，再次在印度完成第二笔收购。此次交易延续其扩展AI与创意工具版图的战略，但具体标的及条款未披露。此举显示Adobe持续加码印度技术生态布局。",
-    "date": "2026-09-02 14:41",
-    "timestamp": 1788360071.2079544
   }
 ]
