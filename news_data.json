@@ -1,5 +1,29 @@
 [
   {
+    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?resize=1200,900",
+    "summary": "华为正加速推出新一代昇腾960DT人工智能芯片，以对标英伟达，并缩小中国在AI算力领域与美国的差距。",
+    "date": "2026-09-17 17:15",
+    "timestamp": 1789665315.295435
+  },
+  {
+    "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/08/Disrupt-2024-Exhibitors.jpg?resize=1200,800",
+    "summary": "Disrupt参展报名即将截止，9月18日为最后期限，仅剩两天。活动将于10月13日至15日举行，届时可将您的初创企业展示给超过10,000名创始人、投资者、运营者及科技领袖。",
+    "date": "2026-09-17 17:15",
+    "timestamp": 1789665316.408765
+  },
+  {
+    "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+    "link": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-937980652.jpg?resize=1200,801",
+    "summary": "用户可利用此类助手完成餐厅预订及取消订阅等操作。",
+    "date": "2026-09-17 17:15",
+    "timestamp": 1789665317.1138046
+  },
+  {
     "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
     "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Treble-Physical-AI-PR-image_no-brand-1.jpeg?resize=1200,670",
@@ -774,29 +798,5 @@
     "summary": "Adobe继2023年收购Rephrase.ai后，再次在印度完成第二笔收购。此次交易延续其扩展AI与创意工具版图的战略，但具体标的及条款未披露。此举显示Adobe持续加码印度技术生态布局。",
     "date": "2026-09-02 14:41",
     "timestamp": 1788360071.2079544
-  },
-  {
-    "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-    "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
-    "summary": "Edelson PC就Tumbler Ridge枪击案对OpenAI新增30起诉讼，升级指控至“协助教唆”，并将Chris Lehane列为被告，但相关证据尚未证实。",
-    "date": "2026-09-02 14:41",
-    "timestamp": 1788360072.552276
-  },
-  {
-    "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-    "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
-    "summary": "AI模型训练初创公司AfterQuery在4月以3亿美元估值完成3000万美元A轮融资后，仅五个月估值即飙升至32亿美元，最新融资轮已确认。",
-    "date": "2026-09-02 00:30",
-    "timestamp": 1788309050.6816094
-  },
-  {
-    "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
-    "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "OpenAI在发布其最新关键大模型Astra前，预演了相关防护措施，以应对网络安全等风险，确保模型安全可控。",
-    "date": "2026-09-01 22:00",
-    "timestamp": 1788300010.1748483
   }
 ]
