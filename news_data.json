@@ -1,5 +1,29 @@
 [
   {
+    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+    "summary": "新型AI模型Jev为开发者提供了更经济、更高效的软件智能化路径。",
+    "date": "2026-09-18 19:56",
+    "timestamp": 1789761383.9802558
+  },
+  {
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "summary": "Character.AI前CEO将出任迪士尼首任首席技术官。迪士尼此前曾向该公司发出停止侵权函。",
+    "date": "2026-09-18 19:56",
+    "timestamp": 1789761384.9137938
+  },
+  {
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+    "summary": "谷歌重新定位其CC AI代理，聚焦家庭协作场景，允许家庭成员共享邮件、日程与任务，由AI统筹管理日历、填写表单、生成购物清单及规划膳食等。",
+    "date": "2026-09-18 19:56",
+    "timestamp": 1789761386.0000527
+  },
+  {
     "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
     "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "距TechCrunch Disrupt 2026边会申请截止不足24小时，有意在硅谷扩大影响力的团队需于今夜太平洋时间午夜前提交申请，逾期不候。",
     "date": "2026-09-04 14:31",
     "timestamp": 1788532315.7813966
-  },
-  {
-    "title": "The sameness problem behind those unappetizing AI-generated menus",
-    "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Cheeseburger-stack.png?resize=1200,800",
-    "summary": "餐厅老板或想借生成式AI美化菜单，但顾客能直觉感到菜品有异。AI虽可快速优化文字，却难掩食物真实品质的缺失，专业提示：科技辅助需以品质为本。",
-    "date": "2026-09-04 05:04",
-    "timestamp": 1788498269.1579907
-  },
-  {
-    "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-    "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2245923419.jpg?resize=1200,800",
-    "summary": "数据中心开发商据报获得Jane Street 130亿美元合同后，完成新一轮融资。",
-    "date": "2026-09-04 05:04",
-    "timestamp": 1788498270.2237659
-  },
-  {
-    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-    "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
-    "summary": "该高知名度初创公司年度收入运行率已突破1亿美元。",
-    "date": "2026-09-03 21:52",
-    "timestamp": 1788472364.2192335
   }
 ]
