@@ -1,5 +1,21 @@
 [
   {
+    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+    "summary": "数据中心巨头完成新一轮融资，估值达309亿美元。",
+    "date": "2026-09-18 01:27",
+    "timestamp": 1789694849.1582825
+  },
+  {
+    "title": "Google DeepMind launches institute to widen the AGI debate",
+    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
+    "summary": "谷歌成立新机构，旨在呈现谷歌、谷歌DeepMind与全球研究界在AGI问题上的分歧。各方观点未必一致，且随前沿领域数据与信息快速更新，立场也可能变化。",
+    "date": "2026-09-18 01:27",
+    "timestamp": 1789694850.2776635
+  },
+  {
     "title": "PrismML hopes its tiny LLM will change how we all use AI",
     "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
@@ -782,21 +798,5 @@
     "summary": "OpenAI称Astra开创电脑与浏览器使用新前沿，能以卓越速度、精准度和安全性处理任务，标志着智能代理技术的重大突破。",
     "date": "2026-09-03 18:51",
     "timestamp": 1788461511.613509
-  },
-  {
-    "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-    "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.jpeg?resize=1200,675",
-    "summary": "英伟达表示，Hugging Face平台托管超300万个模型，拥有逾1800万开发者用户。",
-    "date": "2026-09-03 14:43",
-    "timestamp": 1788446591.8736703
-  },
-  {
-    "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
-    "summary": "Builders Stage将重返TechCrunch Disrupt，汇聚创始人、运营者与投资人，围绕创业与规模化实战展开务实对话。",
-    "date": "2026-09-03 00:37",
-    "timestamp": 1788395875.2410657
   }
 ]
