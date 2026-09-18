@@ -1,5 +1,29 @@
 [
   {
+    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
+    "summary": "Manus今年早些时候终止与Meta的合并后，正洽谈以40亿美元估值融资5亿美元。",
+    "date": "2026-09-18 16:42",
+    "timestamp": 1789749747.4156058
+  },
+  {
+    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
+    "summary": "在TechCrunch Disrupt 2026的Builders Stage上，英伟达的Nader Khalil与Sydney Sykes探讨了塑造下一代初创企业的关键决策之一。",
+    "date": "2026-09-18 16:42",
+    "timestamp": 1789749748.4479012
+  },
+  {
+    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159",
+    "summary": "Muse现已登陆Mac平台，可与用户文件及应用协同工作，代为执行操作。",
+    "date": "2026-09-18 16:42",
+    "timestamp": 1789749749.408754
+  },
+  {
     "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
     "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "该高知名度初创公司年度收入运行率已突破1亿美元。",
     "date": "2026-09-03 21:52",
     "timestamp": 1788472364.2192335
-  },
-  {
-    "title": "Abliteration.ai is making a business out of removing AI guardrails",
-    "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/09/vpn-privacy-cybersecurity-red-bright.jpg?resize=1200,831",
-    "summary": "Abliteration.AI主张开放无护栏的AI模型，认为让防御者与攻击者拥有同等工具，反而能强化网络安全。此举降低了强大AI的获取门槛，旨在通过攻防平衡提升整体防御能力。",
-    "date": "2026-09-03 18:51",
-    "timestamp": 1788461509.380776
-  },
-  {
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-    "summary": "Meta为其新AI模型Muse Spark推出付费选退机制：用户若同意共享使用数据以优化模型，可享受约平均折扣。此举将隐私选择商业化，开创AI收费新模式。",
-    "date": "2026-09-03 18:51",
-    "timestamp": 1788461510.63221
-  },
-  {
-    "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-    "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
-    "summary": "OpenAI称Astra开创电脑与浏览器使用新前沿，能以卓越速度、精准度和安全性处理任务，标志着智能代理技术的重大突破。",
-    "date": "2026-09-03 18:51",
-    "timestamp": 1788461511.613509
   }
 ]
