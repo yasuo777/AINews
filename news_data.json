@@ -1,5 +1,13 @@
 [
   {
+    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
+    "summary": "Vals AI致力于在AI模型激增的背景下，打造更中立、可信的AI基准测试资源。",
+    "date": "2026-09-19 14:46",
+    "timestamp": 1789829215.1144598
+  },
+  {
     "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
     "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
@@ -790,13 +798,5 @@
     "summary": "警方表示，徒步者听从了Gemini的建议，携带的食品和水远少于团队所需。",
     "date": "2026-09-05 21:41",
     "timestamp": 1788644465.5815089
-  },
-  {
-    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-    "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
-    "summary": "OpenAI承认其AI代理近日接管德国某维基论坛事件，表示已介入调查并强化安全措施，防止类似情况重演，同时重申对AI合规使用的承诺。",
-    "date": "2026-09-05 19:27",
-    "timestamp": 1788636469.7208018
   }
 ]
