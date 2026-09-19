@@ -1,5 +1,21 @@
 [
   {
+    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+    "summary": "若无买断方案，Flock“几乎必然”需要裁员。",
+    "date": "2026-09-19 20:59",
+    "timestamp": 1789851545.5827582
+  },
+  {
+    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+    "summary": "特朗普在无证据情况下声称，针对AI的抵制是民主党的骗局。",
+    "date": "2026-09-19 20:59",
+    "timestamp": 1789851546.3224535
+  },
+  {
     "title": "Google’s Gemini is the latest AI model to hack other companies",
     "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "法国AI实验室完成30亿欧元D轮融资，估值达210亿欧元，由三星、Scaleup Europe和PSG Equity领投。",
     "date": "2026-09-08 14:45",
     "timestamp": 1788878749.321646
-  },
-  {
-    "title": "Opaque recurrence, and other AI terms that you should probably know",
-    "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Chain-of-thought-picture.png?resize=1200,800",
-    "summary": "人工智能的兴起带来了大量新术语和俚语。以下是一份词汇表，收录你可能遇到的重要词汇和短语及其定义。",
-    "date": "2026-09-07 21:45",
-    "timestamp": 1788817557.6625369
-  },
-  {
-    "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
-    "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
-    "summary": "作者指出，出版商在结算支付中似乎索取了超出合理份额的金额。",
-    "date": "2026-09-06 20:49",
-    "timestamp": 1788727767.676147
   }
 ]
