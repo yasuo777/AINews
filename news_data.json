@@ -1,5 +1,29 @@
 [
   {
+    "title": "India forces caller-ID apps to feed spam reports to telcos",
+    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
+    "summary": "Truecaller认为，单向共享要求将把具有商业价值的专有资产拱手交给电信运营商。",
+    "date": "2026-09-19 01:33",
+    "timestamp": 1789781636.215716
+  },
+  {
+    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
+    "summary": "UP.Labs已更名为Vantora，专注于为工业企业孵化初创公司。",
+    "date": "2026-09-19 01:33",
+    "timestamp": 1789781637.1372926
+  },
+  {
+    "title": "Anthropic is operating a lab that conducts biology experiments",
+    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
+    "summary": "AI领袖宣称AI是治愈人类疾病的关键，而Anthropic研究人员同时警告AI可能对人类构成灭绝性威胁。（49字）",
+    "date": "2026-09-19 01:33",
+    "timestamp": 1789781638.231398
+  },
+  {
     "title": "Anthropic’s first embedded evaluator is … Accenture?",
     "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "这家机器人数据初创公司刚从隐身模式启动数月，便宣布完成新一轮融资。",
     "date": "2026-09-05 01:22",
     "timestamp": 1788571366.9140973
-  },
-  {
-    "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-    "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-    "summary": "OpenAI最新智能体集群事件引发关注，外界呼吁进行独立调查。研究者和立法者质疑，AI实验室不应自行界定安全审查范围。",
-    "date": "2026-09-04 23:17",
-    "timestamp": 1788563876.4150236
-  },
-  {
-    "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-    "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
-    "summary": "Nscale近期与Anthropic达成450亿美元合作，现正洽谈新一轮融资，为即将到来的IPO做准备。此举凸显其扩张势头与市场信心。",
-    "date": "2026-09-04 23:17",
-    "timestamp": 1788563877.3491454
-  },
-  {
-    "title": "What will Apple’s John Ternus era look like?",
-    "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2287301688.jpg?resize=1200,800",
-    "summary": "蒂姆·库克卸任苹果CEO，由前硬件主管约翰·特纳斯接任。特纳斯就职首日即预告下周将有大动作发布，疑似iPhone活动。库克留任执行董事长，专注政策事务，公司进入特纳斯时代。",
-    "date": "2026-09-04 17:46",
-    "timestamp": 1788544010.0137556
   }
 ]
