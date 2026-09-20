@@ -1,5 +1,29 @@
 [
   {
+    "title": "Is the AI industry really ready to slow down?",
+    "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "summary": "关于AI高管是否真心希望放缓发展，Equity节目就此展开了辩论。",
+    "date": "2026-09-20 19:02",
+    "timestamp": 1789930935.6578548
+  },
+  {
+    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
+    "summary": "Vocci推出的轻量级智能戒指售价249美元，但可能引发隐私问题。",
+    "date": "2026-09-20 19:02",
+    "timestamp": 1789930936.5957675
+  },
+  {
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
+    "summary": "ScrollEd将教科书转化为类似Instagram的可滚动信息流，融入视频、音频和测验。这家帕洛阿尔托初创公司由学生联合创始人Utsav Gupta和Rebecca Neff创立，并在TechCrunch Disrupt上进行了展示。",
+    "date": "2026-09-20 19:02",
+    "timestamp": 1789930937.595026
+  },
+  {
     "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
     "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/05/ac_crowd.png?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "安全专家正加紧发布补丁，以应对预期中由AI辅助发起的大规模攻击浪潮。",
     "date": "2026-09-08 22:00",
     "timestamp": 1788904851.9699078
-  },
-  {
-    "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-    "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1219382595.jpg?resize=1200,750",
-    "summary": "悬赏100万美元，征求纳维-斯托克斯方程存在性与光滑性问题的首个解答。该问题属于千禧年大奖难题，要求严格证明或反驳其解的存在与正则性，对数学与物理具有重大意义。",
-    "date": "2026-09-08 18:57",
-    "timestamp": 1788893855.2604313
-  },
-  {
-    "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-    "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
-    "summary": "谷歌云与埃森哲扩大企业AI合作，通过“前部署工程师”模式推动落地，以攻克部署瓶颈，加速企业采纳进程。",
-    "date": "2026-09-08 18:57",
-    "timestamp": 1788893856.3069584
-  },
-  {
-    "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-    "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
-    "summary": "Google将加快Chrome版本更新节奏，以更快推送安全补丁及新功能，提升响应速度与用户体验。",
-    "date": "2026-09-08 18:57",
-    "timestamp": 1788893857.4430776
   }
 ]
