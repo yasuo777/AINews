@@ -1,5 +1,13 @@
 [
   {
+    "title": "World model companies are keeping a lot of secrets",
+    "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+    "summary": "全球世界模型领域的从业者虽手握大量资金与关注度，却无人——从创始人到数据供应商——愿意透露其实际构建的产品。",
+    "date": "2026-09-20 21:48",
+    "timestamp": 1789940899.1232588
+  },
+  {
     "title": "Is the AI industry really ready to slow down?",
     "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta推出个人AI代理Muse，需获取用户邮件、日历、支付及健康服务等数据，成为其最大消费者AI押注，也考验用户对Meta数据信任度。",
     "date": "2026-09-08 22:00",
     "timestamp": 1788904850.0405269
-  },
-  {
-    "title": "Why this month's Microsoft patch release is a doozy",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security.jpg",
-    "summary": "安全专家正加紧发布补丁，以应对预期中由AI辅助发起的大规模攻击浪潮。",
-    "date": "2026-09-08 22:00",
-    "timestamp": 1788904851.9699078
   }
 ]
