@@ -1,5 +1,29 @@
 [
   {
+    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+    "summary": "Tabby是一款实时记账工具，可在处理客户票据的同时，为其提供企业盈亏的最新数据。",
+    "date": "2026-09-21 17:10",
+    "timestamp": 1790010654.3267393
+  },
+  {
+    "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SB200_Puttagunta-Randle-Altman-Fenton-Vishria.png?resize=1200,675",
+    "summary": "Benchmark合伙团队将在TechCrunch Disrupt 2026主舞台探讨下一个爆发式创业公司的来源。9月25日晚11:59（太平洋时间）前注册可节省最高200美元。",
+    "date": "2026-09-21 17:10",
+    "timestamp": 1790010655.3940718
+  },
+  {
+    "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+    "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/intelligence_hero.width-2200.format-webp.webp?resize=1200,675",
+    "summary": "谷歌推出AI原生Googlebook，将Gemini深度整合至光标、听写、小组件等桌面交互环节，使AI能力贯穿整个操作系统体验。",
+    "date": "2026-09-21 17:10",
+    "timestamp": 1790010656.218879
+  },
+  {
     "title": "World model companies are keeping a lot of secrets",
     "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Instacart在其平台中集成了对话式AI助手，成为最新采用该技术的应用。此举旨在通过智能交互提升用户购物体验，简化下单流程。",
     "date": "2026-09-09 14:47",
     "timestamp": 1788965250.8742921
-  },
-  {
-    "title": "Hackers are stealing Claude tokens from subscribers",
-    "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "Anthropic提醒用户注意账户安全，此前有用户发现账号在未使用时仍消耗token，疑似遭黑客入侵。",
-    "date": "2026-09-08 22:00",
-    "timestamp": 1788904847.761373
-  },
-  {
-    "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-    "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
-    "summary": "Cognition估值倍数高于Cursor被SpaceX收购前的水平，反映市场对其技术或前景给予更高溢价，但需关注高估值下的风险与可持续性。",
-    "date": "2026-09-08 22:00",
-    "timestamp": 1788904849.1278744
-  },
-  {
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Muse-Neswsroom-Banner.jpg?resize=1200,675",
-    "summary": "Meta推出个人AI代理Muse，需获取用户邮件、日历、支付及健康服务等数据，成为其最大消费者AI押注，也考验用户对Meta数据信任度。",
-    "date": "2026-09-08 22:00",
-    "timestamp": 1788904850.0405269
   }
 ]
