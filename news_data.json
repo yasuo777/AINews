@@ -1,5 +1,13 @@
 [
   {
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
+    "summary": "苹果零售业务前负责人罗恩·约翰逊指出，苹果零售店的核心竞争力始终在于其人才。他认为，员工是苹果取得成功的关键因素。",
+    "date": "2026-09-22 00:16",
+    "timestamp": 1790036168.8528843
+  },
+  {
     "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
     "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "该公司还表示，其设备端模型能为消费者提供更高隐私保护。",
     "date": "2026-09-09 18:50",
     "timestamp": 1788979820.536124
-  },
-  {
-    "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
-    "link": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-504013302-1152x648-1788971374.jpg",
-    "summary": "我们郑重相信，人工智能可能终结全人类。",
-    "date": "2026-09-09 18:50",
-    "timestamp": 1788979822.732973
   }
 ]
