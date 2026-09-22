@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "OpenAI推出两款新模型，据称与Astra同源。",
+    "date": "2026-09-22 19:07",
+    "timestamp": 1790104050.9621298
+  },
+  {
+    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "Anthropic称其最新模型为“迄今为止测试过性能最强的模型”。",
+    "date": "2026-09-22 19:07",
+    "timestamp": 1790104051.80679
+  },
+  {
+    "title": "AstroForge is putting AI in command of its next spacecraft",
+    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+    "summary": "自主科技公司Autonomy-1将采用基于Transformer的小型AI模型，负责操控太空探测器，实现自主决策与管理。",
+    "date": "2026-09-22 19:07",
+    "timestamp": 1790104052.9180996
+  },
+  {
     "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
     "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
@@ -774,29 +798,5 @@
     "summary": "AI对齐领域知名研究员Paul Christiano将加入OpenAI基金会董事会。",
     "date": "2026-09-10 00:33",
     "timestamp": 1789000425.1240458
-  },
-  {
-    "title": "Massachusetts hits data centers with new clean power rules",
-    "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
-    "summary": "马萨诸塞州成为三个月内第三个对数据中心开发施加新限制的州。",
-    "date": "2026-09-09 21:56",
-    "timestamp": 1788991000.2681172
-  },
-  {
-    "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-    "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679",
-    "summary": "苹果新表不保存原始音频，但能转录近期对话并总结周围交谈，引发对知情同意与隐私的新质疑，也改变人们自知可能被记录时的行为方式。",
-    "date": "2026-09-09 21:56",
-    "timestamp": 1788991001.3067925
-  },
-  {
-    "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-    "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730",
-    "summary": "科技巨头发布首款折叠屏手机iPhone Duo，成发布会焦点。该设备融合创新铰链与双屏设计，主打多任务处理与便携体验，标志着其在折叠屏市场正式发力。",
-    "date": "2026-09-09 21:56",
-    "timestamp": 1788991002.568204
   }
 ]
