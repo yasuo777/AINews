@@ -1,5 +1,21 @@
 [
   {
+    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
+    "summary": "AI生物科技公司完成融资，估值达20亿美元。目前正测试用于治疗皮肤疾病及在停用GLP-1类药物后维持减重效果的药物。",
+    "date": "2026-09-23 20:40",
+    "timestamp": 1790196010.6494105
+  },
+  {
+    "title": "ChatGPT mobile app gets voice-based agentic features",
+    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "Pro和Plus用户将可在手机端通过Work标签完成智能体任务。",
+    "date": "2026-09-23 20:40",
+    "timestamp": 1790196011.620879
+  },
+  {
     "title": "Even Americans who use AI every day are worried about it",
     "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "Anthropic一名研究员本周辞职，并在X平台警告公司正“直奔自我进化的超级智能，拿我们的生命赌博”，其对齐负责人亦联署该声明。此番警告在业界并非首次，但恰逢Anthropic筹备IPO之际，时机令其影响不同以往。",
     "date": "2026-09-11 20:00",
     "timestamp": 1789156856.0465844
-  },
-  {
-    "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-    "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/Fidji-Simo.jpg?w=1024",
-    "summary": "OpenAI二号高管曾于2023年带领Instacart完成IPO。",
-    "date": "2026-09-11 20:00",
-    "timestamp": 1789156857.9821022
-  },
-  {
-    "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-    "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
-    "summary": "黄仁勋表示，英伟达业务布局广泛，预计未来一年仍将丰收，但他强调公司各项交易并非循环交易。",
-    "date": "2026-09-10 23:23",
-    "timestamp": 1789082581.9302938
   }
 ]
