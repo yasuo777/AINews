@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic says its biology lab has already found something big",
+    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+    "summary": "Anthropic尚未让Claude自主运行其生物实验室，人类目前仍保留在决策闭环中。这或许是该公司最重大的信息披露。",
+    "date": "2026-09-23 23:10",
+    "timestamp": 1790205024.0418506
+  },
+  {
     "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
     "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "尽管K3近期使用量略有下降，但OpenRouter数据显示，K3模型在该系统上每日生成的token量仍高达3000亿。",
     "date": "2026-09-11 20:00",
     "timestamp": 1789156854.5317867
-  },
-  {
-    "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-    "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
-    "summary": "Anthropic一名研究员本周辞职，并在X平台警告公司正“直奔自我进化的超级智能，拿我们的生命赌博”，其对齐负责人亦联署该声明。此番警告在业界并非首次，但恰逢Anthropic筹备IPO之际，时机令其影响不同以往。",
-    "date": "2026-09-11 20:00",
-    "timestamp": 1789156856.0465844
   }
 ]
