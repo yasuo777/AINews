@@ -1,5 +1,29 @@
 [
   {
+    "title": "Even Americans who use AI every day are worried about it",
+    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900",
+    "summary": "报告指出，增加对AI技术的接触并不能缓解公众对该技术的忧虑，也无法降低公众对AI监管的支持度。",
+    "date": "2026-09-23 17:26",
+    "timestamp": 1790184417.949458
+  },
+  {
+    "title": "YouTube Music gets more conversational with new AI features",
+    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
+    "summary": "YouTube Music应用内嵌的Ask Music功能允许用户用日常语言描述想听的内容，而无需逐一搜索歌曲或艺人。",
+    "date": "2026-09-23 17:26",
+    "timestamp": 1790184418.6920931
+  },
+  {
+    "title": "YouTube will let you build your own algorithm with AI",
+    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675",
+    "summary": "YouTube推出自定义信息流功能，用户可用自然语言描述想看的视频内容，系统借助Gemini AI据此生成个性化推荐信息流。",
+    "date": "2026-09-23 17:26",
+    "timestamp": 1790184419.3926926
+  },
+  {
     "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
     "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "黄仁勋表示，英伟达业务布局广泛，预计未来一年仍将丰收，但他强调公司各项交易并非循环交易。",
     "date": "2026-09-10 23:23",
     "timestamp": 1789082581.9302938
-  },
-  {
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-    "summary": "马克·沃尔伯格将携手Bruce K. Lee亮相Disrupt大会，围绕投资、创业、医疗健康及商业构建等话题展开对谈。",
-    "date": "2026-09-10 23:23",
-    "timestamp": 1789082583.3315687
-  },
-  {
-    "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-    "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "summary": "公司表示，专业版订阅对其系统造成的压力最大，因此暂停新用户注册，同时扩充容量。",
-    "date": "2026-09-10 21:10",
-    "timestamp": 1789074657.1317093
-  },
-  {
-    "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-    "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2287646148.jpg?resize=1200,901",
-    "summary": "Anthropic周四发布新报告，指称中国AI公司持续对其发动“蒸馏攻击”，且近几个月随着行业竞争加剧，此类攻击愈发频繁。",
-    "date": "2026-09-10 21:10",
-    "timestamp": 1789074658.3884182
   }
 ]
