@@ -1,5 +1,29 @@
 [
   {
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
+    "summary": "在周三于门洛帕克举行的年度Connect大会上，CEO马克·扎克伯格宣布Meta将全力投入Muse，并计划将其引入Meta的AI眼镜。",
+    "date": "2026-09-24 01:38",
+    "timestamp": 1790213894.1501117
+  },
+  {
+    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+    "summary": "这款微型硬件设备为其AI助手Muse开拓了新的移动载体。",
+    "date": "2026-09-24 01:38",
+    "timestamp": 1790213895.0199125
+  },
+  {
+    "title": "Meta introduces camera-free AI glasses",
+    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
+    "summary": "Meta表示，无摄像头版智能眼镜将更轻便，续航最长可达12小时。",
+    "date": "2026-09-24 01:38",
+    "timestamp": 1790213895.8498237
+  },
+  {
     "title": "Anthropic says its biology lab has already found something big",
     "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Tan希望美国小型开放权重AI实验室采用与美国前沿AI实验室相同的训练技术，从而为美国提供更多非中国来源的开放权重模型选择。",
     "date": "2026-09-11 22:46",
     "timestamp": 1789166804.5858982
-  },
-  {
-    "title": "OpenAI’s feud with mathematicians is only escalating",
-    "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "25位顶尖数学家联名发表公开信，指称AI实验室正对其智力成果构成威胁。",
-    "date": "2026-09-11 22:46",
-    "timestamp": 1789166805.518312
-  },
-  {
-    "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
-    "summary": "仅剩一周预订展位，数量有限，或将于9月18日截止前售罄，请尽快确认。",
-    "date": "2026-09-11 22:46",
-    "timestamp": 1789166806.3068058
-  },
-  {
-    "title": "Kimi-maker Moonshot AI targets $2 billion in annual revenue",
-    "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2286500505.jpg?resize=1200,800",
-    "summary": "尽管K3近期使用量略有下降，但OpenRouter数据显示，K3模型在该系统上每日生成的token量仍高达3000亿。",
-    "date": "2026-09-11 20:00",
-    "timestamp": 1789156854.5317867
   }
 ]
