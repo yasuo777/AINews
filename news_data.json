@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026推出套票优惠：购买一张门票，同类型第二张享五折。优惠须在10月13日上午8点（太平洋时间）活动开始前注册。",
+    "date": "2026-09-24 21:46",
+    "timestamp": 1790286417.6364915
+  },
+  {
+    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
+    "summary": "Prism的更大目标是打造开放权重AI，使其能在设备端运行，并更充分地利用设备已有的算力。",
+    "date": "2026-09-24 21:46",
+    "timestamp": 1790286418.4723568
+  },
+  {
+    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
+    "summary": "通知将允许甲骨文在该设施未能如期于2028年上线时推迟付款。",
+    "date": "2026-09-24 21:46",
+    "timestamp": 1790286419.250589
+  },
+  {
     "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
     "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Fathom宣布其月活跃用户已超过40万。",
     "date": "2026-09-14 17:02",
     "timestamp": 1789405375.9016078
-  },
-  {
-    "title": "What’s behind the AI industry’s latest warnings of doom?",
-    "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
-    "summary": "关于Equity的讨论中，我们探讨了AI行业最新争论：人工智能是否对人类构成生存威胁。",
-    "date": "2026-09-13 19:45",
-    "timestamp": 1789328741.2691672
-  },
-  {
-    "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-    "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2282234557.jpg?w=1024",
-    "summary": "奥巴马近日表示，民主党需将人工智能列为“核心议程”之一，并“制定清晰计划”，以应对该技术在经济影响和安全方面的担忧。",
-    "date": "2026-09-13 17:03",
-    "timestamp": 1789318984.2558668
-  },
-  {
-    "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-    "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
-    "summary": "OpenAI已秘密提交IPO申请，但CEO Sam Altman表示公司今年不会上市。",
-    "date": "2026-09-12 21:39",
-    "timestamp": 1789249154.8843455
   }
 ]
