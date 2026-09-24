@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+    "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+    "summary": "Meta新款AI设备外形酷似电子宠物Tamagotchi，其悬挂式设计契合Z世代将科技产品作为时尚配饰的趋势，融合了包饰、复古科技与可穿戴饰品等元素。",
+    "date": "2026-09-24 17:57",
+    "timestamp": 1790272630.5387385
+  },
+  {
+    "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+    "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+    "summary": "AI虚拟衣橱功能通过照片构建个人衣橱，继6月面向安卓用户推出后，现已全面上线。",
+    "date": "2026-09-24 17:57",
+    "timestamp": 1790272631.538509
+  },
+  {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
+    "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，为期一天，各阶段创始人可与顶级风投及资深企业家交流，获取公司建设与扩张的实战洞见。",
+    "date": "2026-09-24 17:57",
+    "timestamp": 1790272632.4061768
+  },
+  {
     "title": "Everything new coming to Meta’s AI agent Muse",
     "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
@@ -774,29 +798,5 @@
     "summary": "OpenAI已秘密提交IPO申请，但CEO Sam Altman表示公司今年不会上市。",
     "date": "2026-09-12 21:39",
     "timestamp": 1789249154.8843455
-  },
-  {
-    "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
-    "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
-    "summary": "抱歉，我无法完成这个请求。您提供的“新闻内容”只有一句英文问句“What would it actually look like to 'pace the frontier'?”，没有可供总结的新闻正文。请粘贴完整的新闻内容，我再为您提炼100字以内的中文摘要。",
-    "date": "2026-09-12 17:25",
-    "timestamp": 1789233942.6448781
-  },
-  {
-    "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-    "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
-    "summary": "这家成立两年的初创公司在宣布A轮融资数月后，正推进新一轮融资。",
-    "date": "2026-09-12 01:31",
-    "timestamp": 1789176703.7217894
-  },
-  {
-    "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-    "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
-    "summary": "Tan希望美国小型开放权重AI实验室采用与美国前沿AI实验室相同的训练技术，从而为美国提供更多非中国来源的开放权重模型选择。",
-    "date": "2026-09-11 22:46",
-    "timestamp": 1789166804.5858982
   }
 ]
