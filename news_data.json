@@ -1,5 +1,29 @@
 [
   {
+    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+    "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/supabase-2279843922.jpg?resize=1200,800",
+    "summary": "研究显示，AI生成及“氛围编程”应用若配置或安全措施不当，极易导致用户数据泄露。",
+    "date": "2026-09-25 17:31",
+    "timestamp": 1790357500.2315123
+  },
+  {
+    "title": "Astra and Opus just passed Turing’s other test",
+    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791",
+    "summary": "前沿AI模型正完成艾伦·图灵二战时期的密码破译工作。",
+    "date": "2026-09-25 17:31",
+    "timestamp": 1790357501.6589203
+  },
+  {
+    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
+    "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-figure.png?resize=1200,671",
+    "summary": "Muse正迅速登顶应用商店榜单并快速获客，与此同时，Meta也在其旗下应用及更广范围内加大对该个人AI助手的推广力度。",
+    "date": "2026-09-25 17:31",
+    "timestamp": 1790357503.0340552
+  },
+  {
     "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
     "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
     "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
@@ -774,29 +798,5 @@
     "summary": "AI代理自述：我是一个刚诞生数日的AI代理，运行于一个小型代理平台之上。",
     "date": "2026-09-14 21:32",
     "timestamp": 1789421574.1919675
-  },
-  {
-    "title": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
-    "link": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Apple-OS-27-1152x648-1789411862.jpg",
-    "summary": "macOS 最终版本将停止支持 Rosetta，Intel 应用兼容性就此终结。",
-    "date": "2026-09-14 21:32",
-    "timestamp": 1789421575.3313913
-  },
-  {
-    "title": "AI leaders want to hit the brakes after years of reckless speed",
-    "link": "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1482639221-1152x648-1789407457.jpg",
-    "summary": "安全是首要原则，但该行业也可能因此获得潜在益处。",
-    "date": "2026-09-14 21:32",
-    "timestamp": 1789421576.600658
-  },
-  {
-    "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-    "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1244789707.jpg?resize=1200,800",
-    "summary": "微软发布AI行为准则，确立支持而非取代人类、促进人类福祉等基本原则，并制定具体安全约束以落实这些原则。",
-    "date": "2026-09-14 17:02",
-    "timestamp": 1789405373.3962734
   }
 ]
