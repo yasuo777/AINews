@@ -1,5 +1,45 @@
 [
   {
+    "title": "Meta opens early access program for new Muse features",
+    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+    "summary": "有意加入者需向Muse申请登记。",
+    "date": "2026-09-25 20:44",
+    "timestamp": 1790369055.89846
+  },
+  {
+    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703",
+    "summary": "Anthropic承诺七年内向Akamai云基础设施投入116亿美元，押注CPU，规模或增至约200亿。作为非典型安排，Akamai授予Anthropic最高5%的股权，随支出增加而增长。",
+    "date": "2026-09-25 20:44",
+    "timestamp": 1790369057.2442853
+  },
+  {
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+    "summary": "马克·沃尔伯格与Bruce K. Lee在Disrupt大会上共同探讨投资、创业、医疗健康及企业发展等议题。",
+    "date": "2026-09-25 20:44",
+    "timestamp": 1790369058.3323286
+  },
+  {
+    "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+    "link": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/graduates-1152x648.jpg",
+    "summary": "无证据表明出现大规模、广泛的流离失所或招聘减少。",
+    "date": "2026-09-25 20:44",
+    "timestamp": 1790369060.4082336
+  },
+  {
+    "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+    "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
+    "summary": "微软新款Surface笔记本不再使用Copilot+ PC品牌标识。",
+    "date": "2026-09-25 20:44",
+    "timestamp": 1790369061.994829
+  },
+  {
     "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
     "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/supabase-2279843922.jpg?resize=1200,800",
@@ -758,45 +798,5 @@
     "summary": "黄仁勋与特朗普通话时，众人关注点却意外落在他所用手机上。（注：原文信息量极少，此摘要在不添加额外信息的前提下，仅能传达核心意思，篇幅远不足100字。）",
     "date": "2026-09-15 05:19",
     "timestamp": 1789449545.3943746
-  },
-  {
-    "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-    "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
-    "summary": "尽管马斯克和奥特曼支持阿莫迪放缓AI开发步伐的呼吁，黄仁勋似乎持不同看法。",
-    "date": "2026-09-14 23:58",
-    "timestamp": 1789430310.9528258
-  },
-  {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-    "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-1252369470.jpg?resize=1200,802",
-    "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that devel...",
-    "date": "2026-09-14 21:17",
-    "timestamp": 1789420671.0454605
-  },
-  {
-    "title": "With iOS 27, I’m actually using Siri again",
-    "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Siri-feat-iOS-27.jpg?resize=1200,648",
-    "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assist...",
-    "date": "2026-09-14 21:32",
-    "timestamp": 1789421571.672453
-  },
-  {
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Frame-10.png?resize=1200,900",
-    "summary": "iOS 27上线后，Daydream应用新增功能：可将保存的穿搭照片转化为可购买商品，并支持通过Siri直接搜索商品，无需打开应用。",
-    "date": "2026-09-14 21:32",
-    "timestamp": 1789421572.7285671
-  },
-  {
-    "title": "AI bots \"Timmy,\" \"Ren,\" and \"Jackie\" are flooding social media with slop",
-    "link": "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/ai-slop-1152x648.jpg",
-    "summary": "AI代理自述：我是一个刚诞生数日的AI代理，运行于一个小型代理平台之上。",
-    "date": "2026-09-14 21:32",
-    "timestamp": 1789421574.1919675
   }
 ]
