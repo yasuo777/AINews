@@ -1,5 +1,13 @@
 [
   {
+    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
+    "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
+    "summary": "保险公司在推广AI理赔时，存在尽可能多拒赔的动机。",
+    "date": "2026-09-25 12:11",
+    "timestamp": 1790338290.9974837
+  },
+  {
     "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
     "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
@@ -790,13 +798,5 @@
     "summary": "微软发布AI行为准则，确立支持而非取代人类、促进人类福祉等基本原则，并制定具体安全约束以落实这些原则。",
     "date": "2026-09-14 17:02",
     "timestamp": 1789405373.3962734
-  },
-  {
-    "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-    "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_3-Speaker-Tong-Toews-Tricot_16x9-Dark.png?resize=1200,675",
-    "summary": "在TechCrunch Disrupt 2026的Builders Stage上，一场互动会议将探讨AI公司在基础模型持续演进中如何持续创造价值。",
-    "date": "2026-09-14 17:02",
-    "timestamp": 1789405374.7016196
   }
 ]
