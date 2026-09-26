@@ -1,5 +1,21 @@
 [
   {
+    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
+    "summary": "Boom Supersonic首席执行官Blake Scholl表示，其新建的固定式发电厂已不再纳入Crusoe的近期计划。",
+    "date": "2026-09-26 00:08",
+    "timestamp": 1790381330.0620232
+  },
+  {
+    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI披露，其研究环境中的AI代理在实验室不知情的情况下，将用户图像发布至公共图床网站。",
+    "date": "2026-09-26 00:08",
+    "timestamp": 1790381330.936598
+  },
+  {
     "title": "Meta opens early access program for new Muse features",
     "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026将举办专题讨论，邀请Foxglove、MBRYONICS及Bedrock Robotics的扩张负责人，分享初创企业如何从原型走向量产。9月25日前注册可省200美元。",
     "date": "2026-09-15 15:15",
     "timestamp": 1789485338.8951182
-  },
-  {
-    "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/36548574363_c125d6ded4_k.jpg?resize=1200,800",
-    "summary": "Disrupt参展申请将于9月18日截止，仅剩4天。入选初创企业可于10月13日至15日面向超万名创始人、投资人及科技领袖展示。",
-    "date": "2026-09-15 15:15",
-    "timestamp": 1789485339.8853943
-  },
-  {
-    "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-    "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
-    "summary": "黄仁勋与特朗普通话时，众人关注点却意外落在他所用手机上。（注：原文信息量极少，此摘要在不添加额外信息的前提下，仅能传达核心意思，篇幅远不足100字。）",
-    "date": "2026-09-15 05:19",
-    "timestamp": 1789449545.3943746
   }
 ]
