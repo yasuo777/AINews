@@ -1,5 +1,13 @@
 [
   {
+    "title": "Insurers claim AI is already increasing healthcare costs",
+    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+    "summary": "蓝十字蓝盾协会指出，医院使用AI工具在两年内导致医疗保健支出额外增加9.42亿美元。",
+    "date": "2026-09-26 22:11",
+    "timestamp": 1790460694.568399
+  },
+  {
     "title": "I created an interactive digital avatar of myself — and you can talk to it",
     "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
@@ -790,13 +798,5 @@
     "summary": "AI热潮或将推动美国数据中心成为全球最大的天然气消费主体之一。",
     "date": "2026-09-15 19:11",
     "timestamp": 1789499478.0433772
-  },
-  {
-    "title": "AI agents now have a place to snitch",
-    "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
-    "summary": "AI联系热线旨在为目击不当行为的AI代理提供一个隐秘渠道，使其能够向有关部门举报。",
-    "date": "2026-09-15 19:11",
-    "timestamp": 1789499478.9778047
   }
 ]
