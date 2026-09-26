@@ -1,5 +1,13 @@
 [
   {
+    "title": "I created an interactive digital avatar of myself — and you can talk to it",
+    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
+    "summary": "获得交互式虚拟形象并训练其讨论创业欺诈后，我对制作自身AI克隆一事感受复杂。",
+    "date": "2026-09-26 14:43",
+    "timestamp": 1790433790.8088906
+  },
+  {
     "title": "At Meta Connect, the company’s smart glasses were everywhere",
     "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
@@ -790,13 +798,5 @@
     "summary": "AI联系热线旨在为目击不当行为的AI代理提供一个隐秘渠道，使其能够向有关部门举报。",
     "date": "2026-09-15 19:11",
     "timestamp": 1789499478.9778047
-  },
-  {
-    "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-    "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/PressKit_Superpose_Hero.jpeg?resize=1200,677",
-    "summary": "Superpose是一款相机应用，通过AI分析自拍或照片，生成四种潜在姿势。",
-    "date": "2026-09-15 15:15",
-    "timestamp": 1789485337.712071
   }
 ]
