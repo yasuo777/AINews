@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s CEO is about to have dinner with President Trump",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+    "summary": "据悉，Dario Amodei与Donald Trump将举行首次一对一会晤。",
+    "date": "2026-09-27 21:35",
+    "timestamp": 1790544929.8113208
+  },
+  {
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+    "summary": "在Equity节目中，我们讨论了Meta的AI公告如何成功抢走了OpenAI和Anthropic的风头。",
+    "date": "2026-09-27 21:35",
+    "timestamp": 1790544930.9196992
+  },
+  {
     "title": "Anthropic’s Dario Amodei gets the SNL treatment",
     "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
@@ -782,21 +798,5 @@
     "summary": "黄仁勋认为，AI并非某种全新的“外星心智”，而只是硬件与软件的组合，因此每家AI产品制造商都能通过工程手段保障其安全性。",
     "date": "2026-09-16 00:46",
     "timestamp": 1789519599.0229053
-  },
-  {
-    "title": "The AI data center boom is colliding with cities scarred by big industry",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/3-DSCF1625.jpg?resize=1200,800",
-    "summary": "美国数据中心建设引发的公众反对已蔓延至费城。官员提议在当地一处曾受已关闭炼油厂影响的社区进行建设，此举引发民众担忧。",
-    "date": "2026-09-15 22:25",
-    "timestamp": 1789511145.6365588
-  },
-  {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
-    "summary": "全新WhatsApp Business MCP服务器上线，支持Claude、Cursor、Codex和ChatGPT等AI编程代理，可自动完成配置、消息模板管理、测试及故障排查。",
-    "date": "2026-09-15 22:25",
-    "timestamp": 1789511146.9335258
   }
 ]
