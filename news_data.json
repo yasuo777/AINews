@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+    "summary": "\"AI is the devil and I its maker.\"",
+    "date": "2026-09-27 17:56",
+    "timestamp": 1790531764.2942593
+  },
+  {
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "全新WhatsApp Business MCP服务器上线，支持Claude、Cursor、Codex和ChatGPT等AI编程代理，可自动完成配置、消息模板管理、测试及故障排查。",
     "date": "2026-09-15 22:25",
     "timestamp": 1789511146.9335258
-  },
-  {
-    "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-    "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
-    "summary": "从苹果屡次延期的Siri AI到OpenAI混乱的“超级应用”发布，多个人工智能项目或关停或未达预期。",
-    "date": "2026-09-15 19:11",
-    "timestamp": 1789499476.9490516
   }
 ]
