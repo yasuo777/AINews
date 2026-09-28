@@ -1,5 +1,29 @@
 [
   {
+    "title": "Modulate raises $25M for its voice models and analysis suite",
+    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675",
+    "summary": "Modulate公司部署其AI模型，用于检测深度伪造、欺诈及诈骗行为。",
+    "date": "2026-09-28 14:26",
+    "timestamp": 1790605603.6915767
+  },
+  {
+    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
+    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-exhibitor.jpg?resize=1200,800",
+    "summary": "Disrupt 2026 Exhibitor报名将于10月2日（周五）太平洋时间晚11:59截止。有意参展的初创企业需尽快预订展位，以在10月13日至15日于旧金山Moscone West举办的活动中，接触超过10,000名创始人、投资者及科技领袖。",
+    "date": "2026-09-28 14:26",
+    "timestamp": 1790605604.7835743
+  },
+  {
+    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
+    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675",
+    "summary": "该初创公司利用人工智能技术，为保险代理机构和经纪人自动化处理繁琐的文书工作。",
+    "date": "2026-09-28 14:26",
+    "timestamp": 1790605605.8374166
+  },
+  {
     "title": "Anthropic’s CEO is about to have dinner with President Trump",
     "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Anthropic 最初将向 Pro 和 Max 套餐订阅用户推出这些功能。",
     "date": "2026-09-16 17:44",
     "timestamp": 1789580645.4754758
-  },
-  {
-    "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-    "summary": "英伟达的Les Karpas在TechCrunch Disrupt 2026上解释了机器人行业为何仍未融入日常生活。9月25日前注册可节省最高200美元门票费用。",
-    "date": "2026-09-16 17:44",
-    "timestamp": 1789580646.6078086
-  },
-  {
-    "title": "Amazon launches Alexa+ in India with Hindi support",
-    "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/08/alexa-logo-1600x900-1.jpg?resize=1200,675",
-    "summary": "亚马逊宣布，所有客户均可在早期体验阶段使用Alexa+助手。",
-    "date": "2026-09-16 12:49",
-    "timestamp": 1789562943.3062005
-  },
-  {
-    "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-    "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "summary": "黄仁勋认为，AI并非某种全新的“外星心智”，而只是硬件与软件的组合，因此每家AI产品制造商都能通过工程手段保障其安全性。",
-    "date": "2026-09-16 00:46",
-    "timestamp": 1789519599.0229053
   }
 ]
