@@ -1,5 +1,29 @@
 [
   {
+    "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+    "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800",
+    "summary": "AMD收购World Labs，其创始人李飞飞将出任AMD执行副总裁兼首席科学家。",
+    "date": "2026-09-28 20:46",
+    "timestamp": 1790628404.6171808
+  },
+  {
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
+    "summary": "Shopify将WebMCP支持扩展至结账环节，允许浏览器端AI代理在买方授权下更新订单信息并完成购买。",
+    "date": "2026-09-28 20:46",
+    "timestamp": 1790628405.6770718
+  },
+  {
+    "title": "Nvidia launches new platform for reining in rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+    "summary": "英伟达CEO黄仁勋发布软硬件工具包，为AI代理增设独立安全层，以应对近期失控AI代理争议。",
+    "date": "2026-09-28 20:46",
+    "timestamp": 1790628406.4384294
+  },
+  {
     "title": "Modulate raises $25M for its voice models and analysis suite",
     "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Meta推出无摄像头新品，试图以此规避外界对其智能眼镜“偷拍”争议的指责。此举被视为回应隐私担忧的策略调整，但是否能真正消除公众疑虑仍有待观察。",
     "date": "2026-09-16 21:41",
     "timestamp": 1789594872.7847412
-  },
-  {
-    "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-    "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1486318910.jpg?resize=1200,776",
-    "summary": "监管失控代理的简便有效方案，或许就隐藏在显而易见之处。",
-    "date": "2026-09-16 21:41",
-    "timestamp": 1789594873.6136835
-  },
-  {
-    "title": "Your AI agents can now control your Google Home devices",
-    "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Google-Home-Speaker-Multi.png?resize=1200,755",
-    "summary": "谷歌推出Google Home MCP服务器早期访问，允许Claude、ChatGPT等AI代理通过自然语言控制智能家居设备、查看摄像头摘要及访问活动记录。",
-    "date": "2026-09-16 17:44",
-    "timestamp": 1789580644.1540663
-  },
-  {
-    "title": "Anthropic merges Claude chat and Cowork in one interface",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Claude-1920x1080-1.jpeg?resize=1200,675",
-    "summary": "Anthropic 最初将向 Pro 和 Max 套餐订阅用户推出这些功能。",
-    "date": "2026-09-16 17:44",
-    "timestamp": 1789580645.4754758
   }
 ]
