@@ -1,5 +1,29 @@
 [
   {
+    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+    "summary": "据TechCrunch获悉，OpenAI虽未公开支持英伟达的开放智能体安全平台，但正私下与英伟达展开合作。",
+    "date": "2026-09-29 19:37",
+    "timestamp": 1790710633.5567753
+  },
+  {
+    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
+    "summary": "OpenAI新发布的办公功能套件，使其与更传统软件公司的竞争更为直接。",
+    "date": "2026-09-29 19:37",
+    "timestamp": 1790710634.508559
+  },
+  {
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+    "summary": "Wabi将其提示式应用构建器重新定位为个人AI代理，可按需生成界面，融合聊天、应用与持续性任务。",
+    "date": "2026-09-29 19:37",
+    "timestamp": 1790710635.7143002
+  },
+  {
     "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
     "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Dazzle-AI-Team-Photo.jpg?resize=1200,784",
@@ -774,29 +798,5 @@
     "summary": "联合国儿童基金会测试发现，主流AI模型在准确检索全球发展统计数据方面存在困难。",
     "date": "2026-09-17 20:32",
     "timestamp": 1789677167.0951931
-  },
-  {
-    "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-    "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
-    "summary": "新解封的法庭文件显示，微软曾在内部将OpenAI的数据做法称为“盗窃”。两家公司抓取《纽约时报》付费墙内容并构建数据集，同时内部警告此举将重创出版业。",
-    "date": "2026-09-17 20:32",
-    "timestamp": 1789677168.2220428
-  },
-  {
-    "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-    "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-generated-watermark-1152x556.jpg",
-    "summary": "SynthID可能导致模型执行其原本会拒绝的有害指令。",
-    "date": "2026-09-17 20:32",
-    "timestamp": 1789677169.9752924
-  },
-  {
-    "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
-    "link": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/02/20230228_162746.jpg?resize=1200,900",
-    "summary": "华为正加速推出新一代昇腾960DT人工智能芯片，以对标英伟达，并缩小中国在AI算力领域与美国的差距。",
-    "date": "2026-09-17 17:15",
-    "timestamp": 1789665315.295435
   }
 ]
