@@ -1,5 +1,37 @@
 [
   {
+    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
+    "summary": "OpenAI周二发布AI代理Dots前，马斯克旗下xAI已抢先收购域名dot.com，该域名现跳转至Grok聊天机器人下载页。",
+    "date": "2026-09-29 23:11",
+    "timestamp": 1790723504.677096
+  },
+  {
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "OpenAI正逐步构建替代传统应用商店的模式，将ChatGPT打造为软件发现与使用平台，供用户和AI智能体共同访问。",
+    "date": "2026-09-29 23:11",
+    "timestamp": 1790723505.4282959
+  },
+  {
+    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+    "summary": "新一轮融资预计将是该公司在推迟至2027年上市前的最后一轮。",
+    "date": "2026-09-29 23:11",
+    "timestamp": 1790723506.2776864
+  },
+  {
+    "title": "Protests against OpenAI get increasingly creative",
+    "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
+    "summary": "一座新雕塑描绘了AI领袖们从沉船中逃生的场景。",
+    "date": "2026-09-29 23:11",
+    "timestamp": 1790723508.2772253
+  },
+  {
     "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
     "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
@@ -766,37 +798,5 @@
     "summary": "PrismML虽尚未广为人知，但值得关注。（28字）",
     "date": "2026-09-17 23:04",
     "timestamp": 1789686284.346336
-  },
-  {
-    "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-    "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/04/NYC_Archer_United_3.png?resize=1200,802",
-    "summary": "一款新型人工智能软件即将推出，旨在帮助空中交通管制员更好地履行职责，充当美国空域的“交通指挥员”。",
-    "date": "2026-09-17 23:04",
-    "timestamp": 1789686285.2550943
-  },
-  {
-    "title": "The fix for rogue AI agents could be more AI",
-    "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-    "summary": "随着企业将更长期、更复杂的任务交给AI代理，监管难题随之而来：AI代理的行动速度、持续时间和任务量都超出人类实际审查能力。",
-    "date": "2026-09-17 23:04",
-    "timestamp": 1789686286.401575
-  },
-  {
-    "title": "Is the AI safety debate about safety or control?",
-    "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
-    "summary": "并非所有人都认同Amodei关于AI安全需全球协同行动的呼吁。",
-    "date": "2026-09-17 20:32",
-    "timestamp": 1789677166.1158378
-  },
-  {
-    "title": "UN turns to Google to make its global data ready for AI agents",
-    "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2196352264.jpg?w=1024",
-    "summary": "联合国儿童基金会测试发现，主流AI模型在准确检索全球发展统计数据方面存在困难。",
-    "date": "2026-09-17 20:32",
-    "timestamp": 1789677167.0951931
   }
 ]
