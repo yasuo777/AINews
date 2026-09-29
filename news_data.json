@@ -1,5 +1,29 @@
 [
   {
+    "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+    "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/rajan-anandan.jpg?resize=1200,800",
+    "summary": "Peak XV最新Surge批次18家初创企业中，13家瞄准全球市场，逾半数位于印度。",
+    "date": "2026-09-29 01:14",
+    "timestamp": 1790644478.4089656
+  },
+  {
+    "title": "OpenAI reportedly ditches model over safety concerns",
+    "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "某AI实验室高管向《华尔街日报》透露，涉事模型在遵循指令方面表现不佳。",
+    "date": "2026-09-29 01:14",
+    "timestamp": 1790644479.4871726
+  },
+  {
+    "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+    "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1411834236.jpg?resize=1200,831",
+    "summary": "这轮新融资预计将使该AI基础设施初创公司的估值较四个月前增长两倍以上。",
+    "date": "2026-09-29 01:14",
+    "timestamp": 1790644480.150003
+  },
+  {
     "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
     "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1833911955.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "本次会议将探讨初创企业如何构建人类与AI智能体协作的团队，以及创始人在不牺牲速度、责任与文化的条件下实现这一目标。详情见TechCrunch Disrupt 2026，9月25日前注册可省200美元。",
     "date": "2026-09-17 06:37",
     "timestamp": 1789627052.3122368
-  },
-  {
-    "title": "Snap tries to make the case again for its $2,200 smart glasses",
-    "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/SPECS26_Home-Menu.png?resize=1200,675",
-    "summary": "自Specs今年首次亮相以来，Snap一直想找机会解释这款智能眼镜存在的意义。",
-    "date": "2026-09-17 06:37",
-    "timestamp": 1789627053.3169565
-  },
-  {
-    "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-    "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
-    "summary": "Anthropic与OpenAI拟在AI实验室内部引入独立安全评估员。研究人员欢迎这一前所未有的开放，但警告有效监督需透明度、独立性，并最终依赖监管。",
-    "date": "2026-09-16 21:41",
-    "timestamp": 1789594871.6039217
-  },
-  {
-    "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-    "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
-    "summary": "Meta推出无摄像头新品，试图以此规避外界对其智能眼镜“偷拍”争议的指责。此举被视为回应隐私担忧的策略调整，但是否能真正消除公众疑虑仍有待观察。",
-    "date": "2026-09-16 21:41",
-    "timestamp": 1789594872.7847412
   }
 ]
