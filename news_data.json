@@ -1,5 +1,13 @@
 [
   {
+    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
+    "summary": "美国官方网站未因国家安全而发布长篇诗歌，令人欣慰。",
+    "date": "2026-09-30 02:21",
+    "timestamp": 1790734897.994826
+  },
+  {
     "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
     "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
@@ -790,13 +798,5 @@
     "summary": "谷歌成立新机构，旨在呈现谷歌、谷歌DeepMind与全球研究界在AGI问题上的分歧。各方观点未必一致，且随前沿领域数据与信息快速更新，立场也可能变化。",
     "date": "2026-09-18 01:27",
     "timestamp": 1789694850.2776635
-  },
-  {
-    "title": "PrismML hopes its tiny LLM will change how we all use AI",
-    "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/LLMs-on-smartphones.png?resize=1200,600",
-    "summary": "PrismML虽尚未广为人知，但值得关注。（28字）",
-    "date": "2026-09-17 23:04",
-    "timestamp": 1789686284.346336
   }
 ]
