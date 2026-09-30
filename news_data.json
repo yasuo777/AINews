@@ -1,5 +1,37 @@
 [
   {
+    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
+    "summary": "OpenAI推出的“Decisions API”实为Jev的克隆产品，印证了快速、低成本智能的重要性。",
+    "date": "2026-09-30 20:59",
+    "timestamp": 1790801961.8518314
+  },
+  {
+    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+    "summary": "由Wellington和T. Rowe Price联合主导的3亿美元员工招标项目已完成。",
+    "date": "2026-09-30 20:59",
+    "timestamp": 1790801962.7138476
+  },
+  {
+    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+    "summary": "Reddit宣布将停止支持RSS订阅源，此举是该平台持续收紧用户生成内容访问权限的最新举措。",
+    "date": "2026-09-30 20:59",
+    "timestamp": 1790801963.6750345
+  },
+  {
+    "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+    "link": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2294068904-2560x1440.jpg",
+    "summary": "**摘要：**  \nAI并非完美工具，但相较肯尼迪，其“幻觉”现象似乎更少。此言或暗指后者言论失实频发，凸显AI在信息准确性上的相对优势。",
+    "date": "2026-09-30 20:59",
+    "timestamp": 1790801965.3734477
+  },
+  {
     "title": "DoorDash launches an AI agent you can text to order food",
     "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
@@ -766,37 +798,5 @@
     "summary": "尽管军方在AI应用上整体呈加速趋势，但具体进展仍不均衡。",
     "date": "2026-09-18 22:48",
     "timestamp": 1789771708.3368666
-  },
-  {
-    "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-    "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-    "summary": "新型AI模型Jev为开发者提供了更经济、更高效的软件智能化路径。",
-    "date": "2026-09-18 19:56",
-    "timestamp": 1789761383.9802558
-  },
-  {
-    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-    "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
-    "summary": "Character.AI前CEO将出任迪士尼首任首席技术官。迪士尼此前曾向该公司发出停止侵权函。",
-    "date": "2026-09-18 19:56",
-    "timestamp": 1789761384.9137938
-  },
-  {
-    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-    "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
-    "summary": "谷歌重新定位其CC AI代理，聚焦家庭协作场景，允许家庭成员共享邮件、日程与任务，由AI统筹管理日历、填写表单、生成购物清单及规划膳食等。",
-    "date": "2026-09-18 19:56",
-    "timestamp": 1789761386.0000527
-  },
-  {
-    "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-    "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2278374931.jpg?w=1024",
-    "summary": "Manus今年早些时候终止与Meta的合并后，正洽谈以40亿美元估值融资5亿美元。",
-    "date": "2026-09-18 16:42",
-    "timestamp": 1789749747.4156058
   }
 ]
