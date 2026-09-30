@@ -1,5 +1,37 @@
 [
   {
+    "title": "DoorDash launches an AI agent you can text to order food",
+    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
+    "summary": "DoorDash推出AI点餐代理，旨在在与Uber Eats和Grubhub的竞争中取得优势。",
+    "date": "2026-09-30 16:04",
+    "timestamp": 1790784263.3670385
+  },
+  {
+    "title": "Instinct’s new product recommendations are giving some users the ick",
+    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
+    "summary": "Instinct推出人工精选的产品与旅行推荐，但部分用户对未经请求即收到的推荐内容表示不满。",
+    "date": "2026-09-30 16:04",
+    "timestamp": 1790784264.4153948
+  },
+  {
+    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Andrew-Feldman_1-Speaker-16x9-Dark.png?resize=1200,675",
+    "summary": "在TechCrunch Disrupt 2026上，Cerebras Systems联合创始人兼CEO Andrew Feldman将探讨算力、能源与基础设施需求增长，Cerebras如何以不同方式应对这些瓶颈，以及当前AI硬件达到极限后的下一步。",
+    "date": "2026-09-30 16:04",
+    "timestamp": 1790784265.4119744
+  },
+  {
+    "title": "Google figures out how to watermark AI-designed proteins",
+    "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
+    "summary": "为加强生物安全，该技术可与一款主流AI蛋白质设计工具配合使用。",
+    "date": "2026-09-30 16:04",
+    "timestamp": 1790784266.8400726
+  },
+  {
     "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
     "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
@@ -766,37 +798,5 @@
     "summary": "Manus今年早些时候终止与Meta的合并后，正洽谈以40亿美元估值融资5亿美元。",
     "date": "2026-09-18 16:42",
     "timestamp": 1789749747.4156058
-  },
-  {
-    "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Sykes-Khalil-16x9-Dark.png?resize=1200,675",
-    "summary": "在TechCrunch Disrupt 2026的Builders Stage上，英伟达的Nader Khalil与Sydney Sykes探讨了塑造下一代初创企业的关键决策之一。",
-    "date": "2026-09-18 16:42",
-    "timestamp": 1789749748.4479012
-  },
-  {
-    "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-    "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/download-1.webp?resize=1200,1159",
-    "summary": "Muse现已登陆Mac平台，可与用户文件及应用协同工作，代为执行操作。",
-    "date": "2026-09-18 16:42",
-    "timestamp": 1789749749.408754
-  },
-  {
-    "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-    "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
-    "summary": "数据中心巨头完成新一轮融资，估值达309亿美元。",
-    "date": "2026-09-18 01:27",
-    "timestamp": 1789694849.1582825
-  },
-  {
-    "title": "Google DeepMind launches institute to widen the AGI debate",
-    "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1481927442.jpg?resize=1200,800",
-    "summary": "谷歌成立新机构，旨在呈现谷歌、谷歌DeepMind与全球研究界在AGI问题上的分歧。各方观点未必一致，且随前沿领域数据与信息快速更新，立场也可能变化。",
-    "date": "2026-09-18 01:27",
-    "timestamp": 1789694850.2776635
   }
 ]
