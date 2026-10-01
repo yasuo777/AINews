@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+    "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "summary": "谷歌发布最新Gemini模型，定位为编程与网络安全领域的实用工具。",
+    "date": "2026-10-01 00:49",
+    "timestamp": 1790815752.6274033
+  },
+  {
+    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+    "summary": "Flow Engineering获红杉资本Roelof Botha以天使投资人身份加入董事会，该公司致力于将AI代理技术引入硬件设计领域。",
+    "date": "2026-10-01 00:49",
+    "timestamp": 1790815753.5853767
+  },
+  {
     "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
     "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "埃森哲即将承接其史上风险最高的咨询项目。",
     "date": "2026-09-18 22:48",
     "timestamp": 1789771705.4431705
-  },
-  {
-    "title": "World model companies are keeping a lot of secrets",
-    "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
-    "summary": "全球世界模型领域参与者手握重金与高关注度，但无论创始团队还是数据供应商，均对具体研发内容讳莫如深。",
-    "date": "2026-09-18 22:48",
-    "timestamp": 1789771706.7068925
-  },
-  {
-    "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
-    "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2249618531-1152x648.jpg",
-    "summary": "尽管军方在AI应用上整体呈加速趋势，但具体进展仍不均衡。",
-    "date": "2026-09-18 22:48",
-    "timestamp": 1789771708.3368666
   }
 ]
