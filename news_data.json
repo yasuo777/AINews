@@ -1,5 +1,29 @@
 [
   {
+    "title": "Brian Chesky interview: AI agents need their own operating system",
+    "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
+    "summary": "Airbnb CEO Brian Chesky探讨了让平台对AI代理更友好、消费级AI现状，以及为何世界需要一个AI原生操作系统。",
+    "date": "2026-10-01 15:39",
+    "timestamp": 1790869142.0406804
+  },
+  {
+    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+    "summary": "该初创公司帮助开发者在iMessage、短信/RCS、电子邮件等消息平台上构建AI智能体，押注消费者将越来越多地使用智能体而非下载应用。",
+    "date": "2026-10-01 15:39",
+    "timestamp": 1790869143.2708638
+  },
+  {
+    "title": "Hearing tech startup Legato launches its AI hearing glasses",
+    "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Symphony-Lifestyle-Image-2.png?resize=1200,670",
+    "summary": "该智能眼镜源于一家初创公司，旨在通过解决传统助听器在成本、舒适度和使用污名方面的问题，让听力护理更易获得。",
+    "date": "2026-10-01 15:39",
+    "timestamp": 1790869144.80475
+  },
+  {
     "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
     "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Truecaller认为，单向共享要求将把具有商业价值的专有资产拱手交给电信运营商。",
     "date": "2026-09-19 01:33",
     "timestamp": 1789781636.215716
-  },
-  {
-    "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-    "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vantora_UpLabs_e18c36.jpg?resize=1200,781",
-    "summary": "UP.Labs已更名为Vantora，专注于为工业企业孵化初创公司。",
-    "date": "2026-09-19 01:33",
-    "timestamp": 1789781637.1372926
-  },
-  {
-    "title": "Anthropic is operating a lab that conducts biology experiments",
-    "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/08/DNA-—-Xero-2.jpg?resize=1200,750",
-    "summary": "AI领袖宣称AI是治愈人类疾病的关键，而Anthropic研究人员同时警告AI可能对人类构成灭绝性威胁。（49字）",
-    "date": "2026-09-19 01:33",
-    "timestamp": 1789781638.231398
-  },
-  {
-    "title": "Anthropic’s first embedded evaluator is … Accenture?",
-    "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
-    "summary": "埃森哲即将承接其史上风险最高的咨询项目。",
-    "date": "2026-09-18 22:48",
-    "timestamp": 1789771705.4431705
   }
 ]
