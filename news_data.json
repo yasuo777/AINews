@@ -1,5 +1,37 @@
 [
   {
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
+    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and...",
+    "date": "2026-10-01 20:46",
+    "timestamp": 1790887562.674321
+  },
+  {
+    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers....",
+    "date": "2026-10-01 21:01",
+    "timestamp": 1790888463.568551
+  },
+  {
+    "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+    "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mish...",
+    "date": "2026-10-01 21:16",
+    "timestamp": 1790889363.9941585
+  },
+  {
+    "title": "With most information hidden, the game Stratego had stumped AI—until now",
+    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1864707238-1152x648.jpg",
+    "summary": "研究发现，在模型中引入第二个神经网络来推测被遮挡棋子的身份，是提升系统表现的关键。该设计有助于更准确判断隐藏信息，从而增强整体预测与决策能力。",
+    "date": "2026-10-01 21:30",
+    "timestamp": 1790890244.6492107
+  },
+  {
     "title": "Brian Chesky interview: AI agents need their own operating system",
     "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Brian-Chesky-Environmental-Headshot-3.jpg?resize=1200,675",
@@ -766,37 +798,5 @@
     "summary": "Petlibro推出Granary 2智能喂食器，内置秤重功能，高端型号配备AI摄像头，可精准追踪猫咪进食量与时间，但高级健康监测功能需额外订阅。",
     "date": "2026-09-19 18:12",
     "timestamp": 1789841529.287389
-  },
-  {
-    "title": "AI safety conversations have gotten unbelievable",
-    "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
-    "summary": "本周两场关于AI安全的对话引发热议，凸显了辨别AI信息真伪之难。",
-    "date": "2026-09-19 18:12",
-    "timestamp": 1789841530.2467625
-  },
-  {
-    "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-    "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Team.jpeg?resize=1200,800",
-    "summary": "Vals AI致力于在AI模型激增的背景下，打造更中立、可信的AI基准测试资源。",
-    "date": "2026-09-19 14:46",
-    "timestamp": 1789829215.1144598
-  },
-  {
-    "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-    "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-3.22.19-PM.png?resize=1200,672",
-    "summary": "在一次尤为离奇的采访中，诺伍德似乎出现故障，突然开始说中文。",
-    "date": "2026-09-19 06:35",
-    "timestamp": 1789799722.181559
-  },
-  {
-    "title": "India forces caller-ID apps to feed spam reports to telcos",
-    "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/10/india-internet-users-getty.jpg?w=1200",
-    "summary": "Truecaller认为，单向共享要求将把具有商业价值的专有资产拱手交给电信运营商。",
-    "date": "2026-09-19 01:33",
-    "timestamp": 1789781636.215716
   }
 ]
