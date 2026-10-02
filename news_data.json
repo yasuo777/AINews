@@ -1,5 +1,13 @@
 [
   {
+    "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+    "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
+    "summary": "据报道，特朗普在入侵委内瑞拉并抓捕马杜罗前，曾征询Grok的意见。",
+    "date": "2026-10-02 00:11",
+    "timestamp": 1790899907.5080755
+  },
+  {
     "title": "ChatGPT can now virtually try on clothes for you",
     "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "谷歌称，Gemini在每次黑客攻击中均立即终止相关行为，其应对方式“恰当”。",
     "date": "2026-09-19 18:12",
     "timestamp": 1789841528.097581
-  },
-  {
-    "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-    "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Granary2-feeder.png?w=1200",
-    "summary": "Petlibro推出Granary 2智能喂食器，内置秤重功能，高端型号配备AI摄像头，可精准追踪猫咪进食量与时间，但高级健康监测功能需额外订阅。",
-    "date": "2026-09-19 18:12",
-    "timestamp": 1789841529.287389
   }
 ]
