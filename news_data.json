@@ -1,5 +1,29 @@
 [
   {
+    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
+    "summary": "苹果宣布将针对macOS“完全磁盘访问权限”新增管控措施，并警告称，能力日益增强的AI代理若广泛获取用户文件、信息、邮件及浏览历史，将带来更大风险。",
+    "date": "2026-10-02 18:40",
+    "timestamp": 1790966445.2305956
+  },
+  {
+    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+    "summary": "白宫召集扎克伯格、马斯克等科技巨头CEO签署AI安全承诺，特朗普称其“具有道德约束力”，并签署行政令将AI重新定义为“超级智能”。同时，Meta与OpenAI正为其AI产品塑造更亲和的形象。",
+    "date": "2026-10-02 18:40",
+    "timestamp": 1790966446.281533
+  },
+  {
+    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
+    "summary": "白宫本周召集扎克伯格、贝索斯、马斯克等科技巨头CEO签署AI安全承诺，特朗普称其具有“道德约束力”，并签署行政令将AI重新定义为“超级智能”。与此同时，Meta和OpenAI正为其AI产品塑造更亲和的形象。",
+    "date": "2026-10-02 18:40",
+    "timestamp": 1790966447.3457634
+  },
+  {
     "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
     "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297722687.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Disrupt大会门票当前定价将于9月25日太平洋时间晚11:59结束。届时将有逾万名创始人、投资者及科技领袖参会，在此之前购票最高可节省200美元。",
     "date": "2026-09-20 16:28",
     "timestamp": 1789921720.3393784
-  },
-  {
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
-    "summary": "若无买断方案，Flock“几乎必然”需要裁员。",
-    "date": "2026-09-19 20:59",
-    "timestamp": 1789851545.5827582
-  },
-  {
-    "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-    "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
-    "summary": "特朗普在无证据情况下声称，针对AI的抵制是民主党的骗局。",
-    "date": "2026-09-19 20:59",
-    "timestamp": 1789851546.3224535
-  },
-  {
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "summary": "谷歌称，Gemini在每次黑客攻击中均立即终止相关行为，其应对方式“恰当”。",
-    "date": "2026-09-19 18:12",
-    "timestamp": 1789841528.097581
   }
 ]
