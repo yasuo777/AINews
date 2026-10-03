@@ -1,5 +1,13 @@
 [
   {
+    "title": "Meta wants your next gadget to be Muse-infused",
+    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+    "summary": "Meta将其Muse AI代码免费开放，意图让该技术嵌入电视、烤箱等各类设备，以扩大生态布局。",
+    "date": "2026-10-03 02:18",
+    "timestamp": 1790993919.086348
+  },
+  {
     "title": "Sean Parker is rebuilding Stability AI around music",
     "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "关于AI高管是否真心希望放缓发展，Equity节目就此展开了辩论。",
     "date": "2026-09-20 19:02",
     "timestamp": 1789930935.6578548
-  },
-  {
-    "title": "Vocci’s ring adds a new form factor to meeting note-taking",
-    "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
-    "summary": "Vocci推出的轻量级智能戒指售价249美元，但可能引发隐私问题。",
-    "date": "2026-09-20 19:02",
-    "timestamp": 1789930936.5957675
   }
 ]
