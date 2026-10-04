@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+    "summary": "AI生成的低质量漏洞报告正大量涌入漏洞赏金项目，给审核工作带来严重负担。",
+    "date": "2026-10-04 22:30",
+    "timestamp": 1791153050.0457735
+  },
+  {
+    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+    "summary": "特朗普政府试图重塑人工智能叙事，相关讨论聚焦其在AI政策话语上的重新包装与定位。",
+    "date": "2026-10-04 22:30",
+    "timestamp": 1791153051.2199507
+  },
+  {
     "title": "Trump unveils his new Super Intelligence Force",
     "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026大会将于10月13日至15日在旧金山Moscone West举行，预计逾万名创始人、投资者及运营者参会。9月25日前购票可省200美元，第二张票享五折优惠。",
     "date": "2026-09-21 21:13",
     "timestamp": 1790025228.6782594
-  },
-  {
-    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-    "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-    "summary": "据Appfigures估算，Meta新AI代理Muse在美国和加拿大的下载量及日活用户数，均已超过ChatGPT移动端上线同期表现。",
-    "date": "2026-09-21 21:13",
-    "timestamp": 1790025229.6466
-  },
-  {
-    "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-    "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
-    "summary": "Tabby是一款实时记账工具，可在处理客户票据的同时，为其提供企业盈亏的最新数据。",
-    "date": "2026-09-21 17:10",
-    "timestamp": 1790010654.3267393
   }
 ]
