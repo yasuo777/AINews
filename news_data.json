@@ -1,5 +1,37 @@
 [
   {
+    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "OpenAI将在欧盟为ChatGPT和Codex文本添加水印，以符合《人工智能法案》要求。该公司表示，编辑可能使这些隐形标记更难被检测。",
+    "date": "2026-10-05 22:54",
+    "timestamp": 1791240852.2880287
+  },
+  {
+    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
+    "summary": "Reflection公司正将其Beam及未来模型瞄准企业和主权国家市场，推出“AI工厂”产品，允许机构利用自有专有数据训练其AI模型，从而构建定制化的本地AI系统。",
+    "date": "2026-10-05 22:54",
+    "timestamp": 1791240853.4142444
+  },
+  {
+    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "summary": "Instinct推出群聊功能，允许多位好友共同使用其AI代理，协作完成旅行规划、拼车安排和活动协调等任务。公司表示个人账户保持独立，个人代理在分享信息或执行操作前须获得用户授权。",
+    "date": "2026-10-05 22:54",
+    "timestamp": 1791240854.5527356
+  },
+  {
+    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg",
+    "summary": "The tool can free up over 12GB of storage.",
+    "date": "2026-10-05 22:54",
+    "timestamp": 1791240855.4712334
+  },
+  {
     "title": "OpenAI launches visual ads that appear alongside image generation results",
     "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
@@ -766,37 +798,5 @@
     "summary": "Anthropic称其最新模型为“迄今为止测试过性能最强的模型”。",
     "date": "2026-09-22 19:07",
     "timestamp": 1790104051.80679
-  },
-  {
-    "title": "AstroForge is putting AI in command of its next spacecraft",
-    "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "summary": "自主科技公司Autonomy-1将采用基于Transformer的小型AI模型，负责操控太空探测器，实现自主决策与管理。",
-    "date": "2026-09-22 19:07",
-    "timestamp": 1790104052.9180996
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-    "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/IMG_4162-rotated.jpg?resize=900,1200",
-    "summary": "Hello Robot联合创始人兼CEO Aaron Edsinger将在TechCrunch Disrupt 2026的Real World AI舞台现场演示Stretch 4。9月25日前注册可省200美元，并获第二张门票五折优惠。",
-    "date": "2026-09-22 15:09",
-    "timestamp": 1790089774.5271204
-  },
-  {
-    "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/54885180072_e211a254ca_k.jpg?resize=1200,800",
-    "summary": "参展商计划延长一周，9月30日太平洋时间晚11:59前预订展位，即可于10月13日至15日在旧金山Moscone West向超万名创始人、投资者及科技领袖展示初创企业。",
-    "date": "2026-09-22 15:09",
-    "timestamp": 1790089775.6929276
-  },
-  {
-    "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-Audience.webp?resize=1200,799",
-    "summary": "TechCrunch Disrupt 2026通行证限时优惠：最高可省200美元，9月25日太平洋时间晚11:59前购买第二张可享五折，价格随后上涨。",
-    "date": "2026-09-22 15:09",
-    "timestamp": 1790089776.701005
   }
 ]
