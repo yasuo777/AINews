@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+    "summary": "OpenAI宣布，其图像生成结果页面将开始展示视觉广告，目前仅限美国地区。",
+    "date": "2026-10-05 16:23",
+    "timestamp": 1791217425.593354
+  },
+  {
+    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+    "summary": "TechCrunch Disrupt 2026将探讨创始人在开放与封闭AI之间的选择。现在注册可节省高达100美元，并以五折获得第二张通行证。",
+    "date": "2026-10-05 16:23",
+    "timestamp": 1791217426.5601406
+  },
+  {
+    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+    "summary": "独立研究人员发现一个智能体集群，疑似运行于腾讯基础设施之上，并针对阿里巴巴旗下地图服务高德地图发起攻击。",
+    "date": "2026-10-05 16:23",
+    "timestamp": 1791217427.5062587
+  },
+  {
     "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
     "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
@@ -774,29 +798,5 @@
     "summary": "TechCrunch Disrupt 2026通行证限时优惠：最高可省200美元，9月25日太平洋时间晚11:59前购买第二张可享五折，价格随后上涨。",
     "date": "2026-09-22 15:09",
     "timestamp": 1790089776.701005
-  },
-  {
-    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-    "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1227849474.jpg?w=1024",
-    "summary": "苹果零售业务前负责人罗恩·约翰逊指出，苹果零售店的核心竞争力始终在于其人才。他认为，员工是苹果取得成功的关键因素。",
-    "date": "2026-09-22 00:16",
-    "timestamp": 1790036168.8528843
-  },
-  {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
-    "summary": "该小组不会获准放缓或改变OpenAI正在进行的数学研究。",
-    "date": "2026-09-21 21:13",
-    "timestamp": 1790025227.361727
-  },
-  {
-    "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-    "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026大会将于10月13日至15日在旧金山Moscone West举行，预计逾万名创始人、投资者及运营者参会。9月25日前购票可省200美元，第二张票享五折优惠。",
-    "date": "2026-09-21 21:13",
-    "timestamp": 1790025228.6782594
   }
 ]
