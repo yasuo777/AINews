@@ -1,5 +1,29 @@
 [
   {
+    "title": "Mirror Particle is building a ‘world model’ of human behavior",
+    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
+    "summary": "Mirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上发布，推出从零构建的世界模型以预测人类行为，并指出LLM角色扮演在市场研究与品牌策略方面存在不足。",
+    "date": "2026-10-06 17:24",
+    "timestamp": 1791307447.9334297
+  },
+  {
+    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+    "summary": "该项目旨在推动AI红利通过应用层企业而非基础模型本身惠及大众。",
+    "date": "2026-10-06 17:24",
+    "timestamp": 1791307448.755649
+  },
+  {
+    "title": "LibreOffice says ‘no AI’ is now a software feature",
+    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
+    "summary": "开源文档编辑器制造商表示，出于用户隐私考虑，暂无计划在软件默认配置中加入人工智能功能。",
+    "date": "2026-10-06 17:24",
+    "timestamp": 1791307449.6334298
+  },
+  {
     "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
     "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Meta称Muse为从零构建，但承认该AI助手“深受”OpenClaw启发，甚至连部分工作区文件名及内容都如出一辙。",
     "date": "2026-09-22 22:24",
     "timestamp": 1790115854.2469354
-  },
-  {
-    "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-    "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-automation-1152x648.jpg",
-    "summary": "EvilTokens提供端到端平台，使大规模账户入侵更快速、更便捷。",
-    "date": "2026-09-22 22:24",
-    "timestamp": 1790115855.8392217
-  },
-  {
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "summary": "OpenAI推出两款新模型，据称与Astra同源。",
-    "date": "2026-09-22 19:07",
-    "timestamp": 1790104050.9621298
-  },
-  {
-    "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-    "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "Anthropic称其最新模型为“迄今为止测试过性能最强的模型”。",
-    "date": "2026-09-22 19:07",
-    "timestamp": 1790104051.80679
   }
 ]
