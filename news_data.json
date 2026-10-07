@@ -1,5 +1,29 @@
 [
   {
+    "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+    "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
+    "summary": "Hermes Agent 开发商完成 9000 万美元 B 轮融资。",
+    "date": "2026-10-07 22:15",
+    "timestamp": 1791411341.1638155
+  },
+  {
+    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
+    "summary": "微软公布Surface Laptop Ultra规格与售价，该AI PC搭载英伟达芯片，专为运行AI模型与智能体设计。",
+    "date": "2026-10-07 22:15",
+    "timestamp": 1791411342.260865
+  },
+  {
+    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
+    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "summary": "Meta的AI助手Muse在移动端首发仅一个月后，现已登陆iPad，公司正加速扩大该助手的覆盖范围与集成能力。",
+    "date": "2026-10-07 22:15",
+    "timestamp": 1791411343.118028
+  },
+  {
     "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
     "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "Pro和Plus用户将可在手机端通过Work标签完成智能体任务。",
     "date": "2026-09-23 20:40",
     "timestamp": 1790196011.620879
-  },
-  {
-    "title": "Even Americans who use AI every day are worried about it",
-    "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2016/02/worried.jpg?resize=1200,900",
-    "summary": "报告指出，增加对AI技术的接触并不能缓解公众对该技术的忧虑，也无法降低公众对AI监管的支持度。",
-    "date": "2026-09-23 17:26",
-    "timestamp": 1790184417.949458
-  },
-  {
-    "title": "YouTube Music gets more conversational with new AI features",
-    "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Youtube-music.jpeg?resize=1200,589",
-    "summary": "YouTube Music应用内嵌的Ask Music功能允许用户用日常语言描述想听的内容，而无需逐一搜索歌曲或艺人。",
-    "date": "2026-09-23 17:26",
-    "timestamp": 1790184418.6920931
-  },
-  {
-    "title": "YouTube will let you build your own algorithm with AI",
-    "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Discovery-Custom-Feeds-Title-Card-1.jpg?resize=1200,675",
-    "summary": "YouTube推出自定义信息流功能，用户可用自然语言描述想看的视频内容，系统借助Gemini AI据此生成个性化推荐信息流。",
-    "date": "2026-09-23 17:26",
-    "timestamp": 1790184419.3926926
   }
 ]
