@@ -1,5 +1,29 @@
 [
   {
+    "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+    "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+    "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-1158861262.jpg?resize=1200,832",
+    "summary": "Extend工程师Bo Lau基于美国诉Elizabeth Holmes案中千余份邮件、幻灯片、短信及文档，创建了一个网站，模拟翻查这位Theranos创始人办公桌的体验。",
+    "date": "2026-10-08 22:25",
+    "timestamp": 1791498350.2814782
+  },
+  {
+    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "summary": "三名被解雇的OpenAI安全研究员否认不当处理敏感信息的指控，并发表公开信警告称，他们的解雇正在对公司的人工智能安全文化产生寒蝉效应。",
+    "date": "2026-10-08 22:25",
+    "timestamp": 1791498351.2046158
+  },
+  {
+    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
+    "summary": "本·阿弗莱克因精通AI技术（涵盖神经网络、Transformer架构及开放权重）引发热议。这位今年早些时候将AI电影制作初创公司出售给Netflix的演员，正证明自己远不止是好莱坞明星。",
+    "date": "2026-10-08 22:25",
+    "timestamp": 1791498352.21524
+  },
+  {
     "title": "Natura’s $99 smart ring puts AI agents on your finger",
     "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
@@ -774,29 +798,5 @@
     "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，为期一天，各阶段创始人可与顶级风投及资深企业家交流，获取公司建设与扩张的实战洞见。",
     "date": "2026-09-24 17:57",
     "timestamp": 1790272632.4061768
-  },
-  {
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-meta-connect.jpg?resize=1200,799",
-    "summary": "在周三于门洛帕克举行的年度Connect大会上，CEO马克·扎克伯格宣布Meta将全力投入Muse，并计划将其引入Meta的AI眼镜。",
-    "date": "2026-09-24 01:38",
-    "timestamp": 1790213894.1501117
-  },
-  {
-    "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-    "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-    "summary": "这款微型硬件设备为其AI助手Muse开拓了新的移动载体。",
-    "date": "2026-09-24 01:38",
-    "timestamp": 1790213895.0199125
-  },
-  {
-    "title": "Meta introduces camera-free AI glasses",
-    "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/ray-ban-audio.png?resize=1200,635",
-    "summary": "Meta表示，无摄像头版智能眼镜将更轻便，续航最长可达12小时。",
-    "date": "2026-09-24 01:38",
-    "timestamp": 1790213895.8498237
   }
 ]
