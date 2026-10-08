@@ -1,5 +1,29 @@
 [
   {
+    "title": "Natura’s $99 smart ring puts AI agents on your finger",
+    "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/interface-workshop-detail.jpg?resize=1200,491",
+    "summary": "Natura推出售价99美元的Interface智能戒指，用户按键即可唤起AI代理完成任务、记录想法及控制设备，同时兼具健康追踪功能。",
+    "date": "2026-10-08 16:55",
+    "timestamp": 1791478529.5838478
+  },
+  {
+    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+    "summary": "Goodfire推出新型AI代理监控方案：无需额外AI全程审查，其监控器可在模型运行时直接检测内部状态，仅在发现异常时才介入。该方案成本更低，旨在高效管控AI代理行为。",
+    "date": "2026-10-08 16:55",
+    "timestamp": 1791478530.8627634
+  },
+  {
+    "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+    "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+    "summary": "Ambrosia Energy CEO Ben Longmier与Bloom Energy高级副总裁Bill Thayer将出席TechCrunch Disrupt的Smart Systems Stage。现在注册可省最高100美元，同类型通行证第二张享五折优惠。",
+    "date": "2026-10-08 16:55",
+    "timestamp": 1791478531.8774042
+  },
+  {
     "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
     "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/02/GjsjauvbsAAgUtD.jpeg?w=900",
@@ -774,29 +798,5 @@
     "summary": "Meta表示，无摄像头版智能眼镜将更轻便，续航最长可达12小时。",
     "date": "2026-09-24 01:38",
     "timestamp": 1790213895.8498237
-  },
-  {
-    "title": "Anthropic says its biology lab has already found something big",
-    "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
-    "summary": "Anthropic尚未让Claude自主运行其生物实验室，人类目前仍保留在决策闭环中。这或许是该公司最重大的信息披露。",
-    "date": "2026-09-23 23:10",
-    "timestamp": 1790205024.0418506
-  },
-  {
-    "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-    "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/220509-Enveda-1038.jpg?resize=1200,800",
-    "summary": "AI生物科技公司完成融资，估值达20亿美元。目前正测试用于治疗皮肤疾病及在停用GLP-1类药物后维持减重效果的药物。",
-    "date": "2026-09-23 20:40",
-    "timestamp": 1790196010.6494105
-  },
-  {
-    "title": "ChatGPT mobile app gets voice-based agentic features",
-    "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "summary": "Pro和Plus用户将可在手机端通过Work标签完成智能体任务。",
-    "date": "2026-09-23 20:40",
-    "timestamp": 1790196011.620879
   }
 ]
