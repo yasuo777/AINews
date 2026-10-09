@@ -1,5 +1,29 @@
 [
   {
+    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
+    "summary": "Anthropic在其AI提交虚假举报后两个多月才发现该行为。",
+    "date": "2026-10-09 21:14",
+    "timestamp": 1791580476.965664
+  },
+  {
+    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+    "summary": "亚马逊宣布在与地方政府谈判数据中心协议时将停止使用保密协议，此举紧随微软今年早些时候的类似决定。保密做法此前引发社区对AI基础设施的强烈反对，纽约至旧金山等地已出现数百项拟议或已实施的暂停令。与此同时，一批初创公司正押注消费者将授权AI代理访问……",
+    "date": "2026-10-09 21:14",
+    "timestamp": 1791580478.5727253
+  },
+  {
+    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
+    "summary": "亚马逊宣布在数据中心谈判中不再要求地方政府签署保密协议，紧随微软今年早些时候的类似举措。保密做法曾引发社区对AI基础设施的强烈反对，纽约至旧金山等地已提出或实施数百项禁令。与此同时，一批初创公司正押注消费者将允许AI代理访问……",
+    "date": "2026-10-09 21:14",
+    "timestamp": 1791580479.57076
+  },
+  {
     "title": "a16z’s Olivia Moore on the state of consumer AI",
     "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Olivia-Moore-Headshot-2026.jpg?w=896",
@@ -774,29 +798,5 @@
     "summary": "TechCrunch Disrupt 2026推出套票优惠：购买一张门票，同类型第二张享五折。优惠须在10月13日上午8点（太平洋时间）活动开始前注册。",
     "date": "2026-09-24 21:46",
     "timestamp": 1790286417.6364915
-  },
-  {
-    "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-    "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
-    "summary": "Prism的更大目标是打造开放权重AI，使其能在设备端运行，并更充分地利用设备已有的算力。",
-    "date": "2026-09-24 21:46",
-    "timestamp": 1790286418.4723568
-  },
-  {
-    "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
-    "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-528022874.jpg?w=1024",
-    "summary": "通知将允许甲骨文在该设施未能如期于2028年上线时推迟付款。",
-    "date": "2026-09-24 21:46",
-    "timestamp": 1790286419.250589
-  },
-  {
-    "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
-    "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-    "summary": "Meta新款AI设备外形酷似电子宠物Tamagotchi，其悬挂式设计契合Z世代将科技产品作为时尚配饰的趋势，融合了包饰、复古科技与可穿戴饰品等元素。",
-    "date": "2026-09-24 17:57",
-    "timestamp": 1790272630.5387385
   }
 ]
