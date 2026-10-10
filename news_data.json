@@ -1,5 +1,21 @@
 [
   {
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+    "summary": "微软CEO周六发文指出，现在是时候“退后一步，评估人工智能的信任架构”了。",
+    "date": "2026-10-10 22:55",
+    "timestamp": 1791672924.0722973
+  },
+  {
+    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+    "summary": "苹果有意进军AI生成播客领域，相关举措或反映其对AI音频内容市场的战略布局。此举若成，可能改变播客生产与分发格局。",
+    "date": "2026-10-10 22:55",
+    "timestamp": 1791672925.4711723
+  },
+  {
     "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
     "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "微软新款Surface笔记本不再使用Copilot+ PC品牌标识。",
     "date": "2026-09-25 20:44",
     "timestamp": 1790369061.994829
-  },
-  {
-    "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
-    "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/supabase-2279843922.jpg?resize=1200,800",
-    "summary": "研究显示，AI生成及“氛围编程”应用若配置或安全措施不当，极易导致用户数据泄露。",
-    "date": "2026-09-25 17:31",
-    "timestamp": 1790357500.2315123
-  },
-  {
-    "title": "Astra and Opus just passed Turing’s other test",
-    "link": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-25-at-10.08.39-AM.png?w=791",
-    "summary": "前沿AI模型正完成艾伦·图灵二战时期的密码破译工作。",
-    "date": "2026-09-25 17:31",
-    "timestamp": 1790357501.6589203
   }
 ]
