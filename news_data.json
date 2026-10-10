@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
+    "summary": "Anthropic宣布，在另行通知前，已关闭所有内部评估的实时互联网访问功能。",
+    "date": "2026-10-10 01:13",
+    "timestamp": 1791594827.0804808
+  },
+  {
+    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
+    "summary": "TypeSafe公司声称其产品Jev在运行速度和token消耗方面均显著优于大语言模型，这一说法引发了用户和大型企业的广泛关注。",
+    "date": "2026-10-10 01:13",
+    "timestamp": 1791594828.2498212
+  },
+  {
     "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
     "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
@@ -782,21 +798,5 @@
     "summary": "保险公司在推广AI理赔时，存在尽可能多拒赔的动机。",
     "date": "2026-09-25 12:11",
     "timestamp": 1790338290.9974837
-  },
-  {
-    "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-    "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/06/india-ai.jpg?w=1200",
-    "summary": "这家硅谷公司首次将其印度募资周期与全球基金同步，并转向更短的投资周期。（37字）",
-    "date": "2026-09-25 06:34",
-    "timestamp": 1790318083.6811416
-  },
-  {
-    "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-    "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026推出套票优惠：购买一张门票，同类型第二张享五折。优惠须在10月13日上午8点（太平洋时间）活动开始前注册。",
-    "date": "2026-09-24 21:46",
-    "timestamp": 1790286417.6364915
   }
 ]
