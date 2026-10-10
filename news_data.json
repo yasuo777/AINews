@@ -1,5 +1,13 @@
 [
   {
+    "title": "Here are the top AI agents that can live in your text messages",
+    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+    "summary": "我们整理了一份最值得关注的短信AI代理清单，涵盖通用助手及面向家庭、旅行和工作的专用代理。",
+    "date": "2026-10-10 14:42",
+    "timestamp": 1791643359.337608
+  },
+  {
     "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
     "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
@@ -790,13 +798,5 @@
     "summary": "Muse正迅速登顶应用商店榜单并快速获客，与此同时，Meta也在其旗下应用及更广范围内加大对该个人AI助手的推广力度。",
     "date": "2026-09-25 17:31",
     "timestamp": 1790357503.0340552
-  },
-  {
-    "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-    "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2295026360-1024x648.jpg",
-    "summary": "保险公司在推广AI理赔时，存在尽可能多拒赔的动机。",
-    "date": "2026-09-25 12:11",
-    "timestamp": 1790338290.9974837
   }
 ]
