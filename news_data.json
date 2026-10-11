@@ -1,5 +1,13 @@
 [
   {
+    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
+    "summary": "语音AI的上下文层常遗漏关键信息，导致整个处理流程中断。",
+    "date": "2026-10-11 15:57",
+    "timestamp": 1791734238.7950864
+  },
+  {
     "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
     "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
@@ -790,13 +798,5 @@
     "summary": "无证据表明出现大规模、广泛的流离失所或招聘减少。",
     "date": "2026-09-25 20:44",
     "timestamp": 1790369060.4082336
-  },
-  {
-    "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-    "link": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/microsoft-copilot-windows-1024x648.jpg",
-    "summary": "微软新款Surface笔记本不再使用Copilot+ PC品牌标识。",
-    "date": "2026-09-25 20:44",
-    "timestamp": 1790369061.994829
   }
 ]
