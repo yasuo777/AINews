@@ -1,5 +1,13 @@
 [
   {
+    "title": "Will the HomeView be Apple’s first smart home success?",
+    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+    "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
+    "summary": "过去几年，多家媒体报道苹果正在研发一款新智能家居产品，如今该产品似乎已确定名称与发布时间。",
+    "date": "2026-10-11 23:58",
+    "timestamp": 1791763100.567683
+  },
+  {
     "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
     "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "有意加入者需向Muse申请登记。",
     "date": "2026-09-25 20:44",
     "timestamp": 1790369055.89846
-  },
-  {
-    "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-    "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1333934328.jpg?resize=1200,703",
-    "summary": "Anthropic承诺七年内向Akamai云基础设施投入116亿美元，押注CPU，规模或增至约200亿。作为非典型安排，Akamai授予Anthropic最高5%的股权，随支出增加而增长。",
-    "date": "2026-09-25 20:44",
-    "timestamp": 1790369057.2442853
   }
 ]
