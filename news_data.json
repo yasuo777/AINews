@@ -1,5 +1,37 @@
 [
   {
+    "title": "Meta releases its first frontier model, Muse Wonder",
+    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
+    "summary": "Muse Spark主打轻量低延迟，而Wonder模型规模更大、能力更强，基准测试得分更高，在编程等复杂任务上表现更优。",
+    "date": "2026-10-12 23:12",
+    "timestamp": 1791846757.898288
+  },
+  {
+    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "summary": "硅谷一家初创公司利用气象气球与人工智能进行天气预报，赢得美国军方近5000万美元合同。",
+    "date": "2026-10-12 23:12",
+    "timestamp": 1791846759.1385221
+  },
+  {
+    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
+    "summary": "记者、企业家乃至部分公关人士都认为公关流程已失灵，但AI能否真正改善现状？",
+    "date": "2026-10-12 23:12",
+    "timestamp": 1791846760.05401
+  },
+  {
+    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
+    "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
+    "summary": "AI赋能游戏开发引争议：某漫威/星球大战射击游戏被曝使用AI生成内容，引发“拒绝AI艺术”呼声，同时业界出现“告别手写代码”的自动化趋势。",
+    "date": "2026-10-12 23:12",
+    "timestamp": 1791846762.142339
+  },
+  {
     "title": "Microsoft president says UK is best placed to drive AI regulation",
     "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
@@ -766,37 +798,5 @@
     "summary": "\"AI is the devil and I its maker.\"",
     "date": "2026-09-27 17:56",
     "timestamp": 1790531764.2942593
-  },
-  {
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
-    "summary": "有限测试覆盖部分产品和用户，计划于10月晚些时候扩大推广。",
-    "date": "2026-09-27 07:04",
-    "timestamp": 1790492656.5224948
-  },
-  {
-    "title": "Insurers claim AI is already increasing healthcare costs",
-    "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
-    "summary": "蓝十字蓝盾协会指出，医院使用AI工具在两年内导致医疗保健支出额外增加9.42亿美元。",
-    "date": "2026-09-26 22:11",
-    "timestamp": 1790460694.568399
-  },
-  {
-    "title": "I created an interactive digital avatar of myself — and you can talk to it",
-    "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Digital-dom.png?resize=1200,667",
-    "summary": "获得交互式虚拟形象并训练其讨论创业欺诈后，我对制作自身AI克隆一事感受复杂。",
-    "date": "2026-09-26 14:43",
-    "timestamp": 1790433790.8088906
-  },
-  {
-    "title": "At Meta Connect, the company’s smart glasses were everywhere",
-    "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/P1110274-rotated.jpg?resize=901,1200",
-    "summary": "Meta公司致力于通过其不断扩展的智能眼镜产品线，让消费者保持与数字世界的连接。",
-    "date": "2026-09-26 05:26",
-    "timestamp": 1790400392.1262333
   }
 ]
