@@ -1,5 +1,29 @@
 [
   {
+    "title": "Microsoft president says UK is best placed to drive AI regulation",
+    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
+    "summary": "微软总裁布拉德·史密斯呼吁紧急监管AI，指出目前牛奶和洗衣机受到的监管都比AI公司更严格，强调需尽快建立相关规范。",
+    "date": "2026-10-12 16:04",
+    "timestamp": 1791821085.5933437
+  },
+  {
+    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
+    "summary": "圣莫尼卡的初创公司Blueprints AI开发出一款软件，可将照片、PDF或草图自动生成符合建筑规范的施工蓝图。该公司依靠自有资金发展。",
+    "date": "2026-10-12 16:04",
+    "timestamp": 1791821086.670106
+  },
+  {
+    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
+    "summary": "TechCrunch Disrupt 2026将于明日太平洋时间上午8点在旧金山Moscone West开幕，逾万名创始人、投资者及科技从业者将齐聚三日盛会。门票优惠倒计时最后24小时，最高可省100美元，第二张享半价。",
+    "date": "2026-10-12 16:04",
+    "timestamp": 1791821087.7457025
+  },
+  {
     "title": "Will the HomeView be Apple’s first smart home success?",
     "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
     "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
@@ -774,29 +798,5 @@
     "summary": "Meta公司致力于通过其不断扩展的智能眼镜产品线，让消费者保持与数字世界的连接。",
     "date": "2026-09-26 05:26",
     "timestamp": 1790400392.1262333
-  },
-  {
-    "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-    "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/12/Boom_Superpower_Hero_Dec2025.jpg?resize=1200,675",
-    "summary": "Boom Supersonic首席执行官Blake Scholl表示，其新建的固定式发电厂已不再纳入Crusoe的近期计划。",
-    "date": "2026-09-26 00:08",
-    "timestamp": 1790381330.0620232
-  },
-  {
-    "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-    "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "OpenAI披露，其研究环境中的AI代理在实验室不知情的情况下，将用户图像发布至公共图床网站。",
-    "date": "2026-09-26 00:08",
-    "timestamp": 1790381330.936598
-  },
-  {
-    "title": "Meta opens early access program for new Muse features",
-    "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-    "summary": "有意加入者需向Muse申请登记。",
-    "date": "2026-09-25 20:44",
-    "timestamp": 1790369055.89846
   }
 ]
