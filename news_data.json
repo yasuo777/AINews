@@ -1,5 +1,29 @@
 [
   {
+    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
+    "summary": "Flox的边缘设备可识别动物，并利用特定物种的声音将其驱离关键基础设施。",
+    "date": "2026-10-13 19:31",
+    "timestamp": 1791919873.0872157
+  },
+  {
+    "title": "Facebook is giving users more control over their algorithm",
+    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
+    "summary": "Meta宣布推出全新AI驱动功能“Your Algorithm”，该功能此前已在Instagram上线。",
+    "date": "2026-10-13 19:31",
+    "timestamp": 1791919874.030872
+  },
+  {
+    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+    "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+    "summary": "密歇根大学衍生公司Laplace Intelligence利用AI智能体和交互式仿真，在部署前对机器人及自动驾驶车辆进行压力测试。该已盈利初创公司将于10月13日至15日在旧金山参加TechCrunch Disrupt的Startup Battlefield竞赛。",
+    "date": "2026-10-13 19:31",
+    "timestamp": 1791919875.1750684
+  },
+  {
     "title": "Meta releases its first frontier model, Muse Wonder",
     "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
@@ -774,29 +798,5 @@
     "summary": "该初创公司利用人工智能技术，为保险代理机构和经纪人自动化处理繁琐的文书工作。",
     "date": "2026-09-28 14:26",
     "timestamp": 1790605605.8374166
-  },
-  {
-    "title": "Anthropic’s CEO is about to have dinner with President Trump",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
-    "summary": "据悉，Dario Amodei与Donald Trump将举行首次一对一会晤。",
-    "date": "2026-09-27 21:35",
-    "timestamp": 1790544929.8113208
-  },
-  {
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-    "summary": "在Equity节目中，我们讨论了Meta的AI公告如何成功抢走了OpenAI和Anthropic的风头。",
-    "date": "2026-09-27 21:35",
-    "timestamp": 1790544930.9196992
-  },
-  {
-    "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-    "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
-    "summary": "\"AI is the devil and I its maker.\"",
-    "date": "2026-09-27 17:56",
-    "timestamp": 1790531764.2942593
   }
 ]
