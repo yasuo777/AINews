@@ -1,5 +1,29 @@
 [
   {
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+    "summary": "Neuralink前总裁兼联合创始人Max Hodak在TechCrunch Disrupt上介绍了公司如何通过与PRIMA的合作，推进新型脑机接口的研发。",
+    "date": "2026-10-13 23:25",
+    "timestamp": 1791933914.8596041
+  },
+  {
+    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+    "summary": "Cerebras CEO预测，个人AI助手未来将如家电般普及，采用本地与云端协同运行模式。",
+    "date": "2026-10-13 23:25",
+    "timestamp": 1791933916.0932755
+  },
+  {
+    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
+    "summary": "Industrial Next致力于帮助制造商实现复杂精细任务的自动化，这些任务传统上依赖人工完成。",
+    "date": "2026-10-13 23:25",
+    "timestamp": 1791933917.1089213
+  },
+  {
     "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
     "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
@@ -774,29 +798,5 @@
     "summary": "英伟达CEO黄仁勋发布软硬件工具包，为AI代理增设独立安全层，以应对近期失控AI代理争议。",
     "date": "2026-09-28 20:46",
     "timestamp": 1790628406.4384294
-  },
-  {
-    "title": "Modulate raises $25M for its voice models and analysis suite",
-    "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Modulate-Cofounders_3.jpg?resize=1200,675",
-    "summary": "Modulate公司部署其AI模型，用于检测深度伪造、欺诈及诈骗行为。",
-    "date": "2026-09-28 14:26",
-    "timestamp": 1790605603.6915767
-  },
-  {
-    "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-    "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/Disrupt-2025-exhibitor.jpg?resize=1200,800",
-    "summary": "Disrupt 2026 Exhibitor报名将于10月2日（周五）太平洋时间晚11:59截止。有意参展的初创企业需尽快预订展位，以在10月13日至15日于旧金山Moscone West举办的活动中，接触超过10,000名创始人、投资者及科技领袖。",
-    "date": "2026-09-28 14:26",
-    "timestamp": 1790605604.7835743
-  },
-  {
-    "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-    "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/12/money-spill-2023.jpg?resize=1200,675",
-    "summary": "该初创公司利用人工智能技术，为保险代理机构和经纪人自动化处理繁琐的文书工作。",
-    "date": "2026-09-28 14:26",
-    "timestamp": 1790605605.8374166
   }
 ]
