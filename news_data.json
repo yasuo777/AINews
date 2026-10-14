@@ -1,5 +1,21 @@
 [
   {
+    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
+    "summary": "Scimplify年化收入运行率增长两倍至2亿美元，并计划拓展美国市场。",
+    "date": "2026-10-14 14:00",
+    "timestamp": 1791986426.806812
+  },
+  {
+    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+    "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+    "summary": "一种基于重量的小型自我复制器可能催生新一代计算机蠕虫。",
+    "date": "2026-10-14 14:00",
+    "timestamp": 1791986428.5212317
+  },
+  {
     "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
     "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "AMD收购World Labs，其创始人李飞飞将出任AMD执行副总裁兼首席科学家。",
     "date": "2026-09-28 20:46",
     "timestamp": 1790628404.6171808
-  },
-  {
-    "title": "Shopify opens checkout to browser-based AI agents",
-    "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/02/GettyImages-1238591177.jpg?resize=1200,800",
-    "summary": "Shopify将WebMCP支持扩展至结账环节，允许浏览器端AI代理在买方授权下更新订单信息并完成购买。",
-    "date": "2026-09-28 20:46",
-    "timestamp": 1790628405.6770718
-  },
-  {
-    "title": "Nvidia launches new platform for reining in rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
-    "summary": "英伟达CEO黄仁勋发布软硬件工具包，为AI代理增设独立安全层，以应对近期失控AI代理争议。",
-    "date": "2026-09-28 20:46",
-    "timestamp": 1790628406.4384294
   }
 ]
