@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI agents are coming to Rivian’s cars",
+    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
+    "summary": "公司或在12月“AI与自动驾驶日”披露更多运作细节。",
+    "date": "2026-10-15 17:20",
+    "timestamp": 1792084815.5986896
+  },
+  {
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Google-UniversalCart.png?w=1200",
+    "summary": "谷歌在美国推出全新购物工具，已接入谷歌搜索和Gemini应用。",
+    "date": "2026-10-15 17:20",
+    "timestamp": 1792084816.809421
+  },
+  {
+    "title": "TechCrunch Disrupt 2026: Last day",
+    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800",
+    "summary": "TechCrunch Disrupt 2026今日为报名最后一天，已有超万名科技领袖参与。现在购票可享75%折扣。",
+    "date": "2026-10-15 17:20",
+    "timestamp": 1792084817.808176
+  },
+  {
     "title": "Figma announces new features to define how agents work on its platform",
     "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "一座新雕塑描绘了AI领袖们从沉船中逃生的场景。",
     "date": "2026-09-29 23:11",
     "timestamp": 1790723508.2772253
-  },
-  {
-    "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-    "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
-    "summary": "据TechCrunch获悉，OpenAI虽未公开支持英伟达的开放智能体安全平台，但正私下与英伟达展开合作。",
-    "date": "2026-09-29 19:37",
-    "timestamp": 1790710633.5567753
-  },
-  {
-    "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-    "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
-    "summary": "OpenAI新发布的办公功能套件，使其与更传统软件公司的竞争更为直接。",
-    "date": "2026-09-29 19:37",
-    "timestamp": 1790710634.508559
-  },
-  {
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
-    "summary": "Wabi将其提示式应用构建器重新定位为个人AI代理，可按需生成界面，融合聊天、应用与持续性任务。",
-    "date": "2026-09-29 19:37",
-    "timestamp": 1790710635.7143002
   }
 ]
