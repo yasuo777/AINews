@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta launches an open-weight AI model that runs on Macs",
+    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+    "summary": "Meta与苹果合作推出社交媒体巨头最新模型Muse Spark Open，该模型将在苹果芯片上本地运行。",
+    "date": "2026-10-15 20:31",
+    "timestamp": 1792096288.204081
+  },
+  {
+    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+    "summary": "在TechCrunch Disrupt大会上，亚马逊设备负责人Panos Panay描绘了环境AI设备的未来：它们在后台运行，主动预判用户需求，而非等待指令。",
+    "date": "2026-10-15 20:31",
+    "timestamp": 1792096290.0402503
+  },
+  {
+    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "METR将对Anthropic的风险、事件及实践进行独立评估并发布报告，而Anthropic已放弃阻止这些评估发布的权利。",
+    "date": "2026-10-15 20:31",
+    "timestamp": 1792096291.1363854
+  },
+  {
     "title": "AI agents are coming to Rivian’s cars",
     "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "OpenAI周二发布AI代理Dots前，马斯克旗下xAI已抢先收购域名dot.com，该域名现跳转至Grok聊天机器人下载页。",
     "date": "2026-09-29 23:11",
     "timestamp": 1790723504.677096
-  },
-  {
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "summary": "OpenAI正逐步构建替代传统应用商店的模式，将ChatGPT打造为软件发现与使用平台，供用户和AI智能体共同访问。",
-    "date": "2026-09-29 23:11",
-    "timestamp": 1790723505.4282959
-  },
-  {
-    "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-    "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
-    "summary": "新一轮融资预计将是该公司在推迟至2027年上市前的最后一轮。",
-    "date": "2026-09-29 23:11",
-    "timestamp": 1790723506.2776864
-  },
-  {
-    "title": "Protests against OpenAI get increasingly creative",
-    "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/IMG_0886-1152x648.jpg",
-    "summary": "一座新雕塑描绘了AI领袖们从沉船中逃生的场景。",
-    "date": "2026-09-29 23:11",
-    "timestamp": 1790723508.2772253
   }
 ]
