@@ -1,5 +1,13 @@
 [
   {
+    "title": "India becomes the latest country to report rogue AI agent activity",
+    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
+    "summary": "攻击者通过应用配置、公开代码库及权限过宽的云角色中暴露的凭据和连接设置实现入侵。",
+    "date": "2026-10-16 20:03",
+    "timestamp": 1792181019.09147
+  },
+  {
     "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
     "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "DoorDash推出AI点餐代理，旨在在与Uber Eats和Grubhub的竞争中取得优势。",
     "date": "2026-09-30 16:04",
     "timestamp": 1790784263.3670385
-  },
-  {
-    "title": "Instinct’s new product recommendations are giving some users the ick",
-    "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1465545513.jpg?resize=1200,686",
-    "summary": "Instinct推出人工精选的产品与旅行推荐，但部分用户对未经请求即收到的推荐内容表示不满。",
-    "date": "2026-09-30 16:04",
-    "timestamp": 1790784264.4153948
   }
 ]
