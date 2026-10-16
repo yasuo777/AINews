@@ -1,5 +1,29 @@
 [
   {
+    "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "summary": "前英伟达机器人产品市场负责人Amulya Vishwanath认为，机器人行业尚处“乐高时代”，执行器、机械手、软件及安全标准等基础组件仍在重构，与通用基础模型即将引爆机器人行业的观点相左。",
+    "date": "2026-10-16 16:55",
+    "timestamp": 1792169751.4376009
+  },
+  {
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
+    "summary": "前英伟达机器人产品市场负责人Amulya Vishwanath认为，机器人行业正处于“乐高时代”，执行器、机械手、软件和安全标准等基础组件仍在重构中。这一观点与认为通用基础模型将推动机器人快速突破的看法相悖。",
+    "date": "2026-10-16 16:55",
+    "timestamp": 1792169752.7027113
+  },
+  {
+    "title": "Elorian’s first AI model wants to reason with images, not just about them",
+    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
+    "summary": "据Elorian评测，Glimpse在科学图表推理与短视频字幕任务上超越GPT-6 Astra，在其他视觉推理任务中亦表现不俗。",
+    "date": "2026-10-16 16:55",
+    "timestamp": 1792169753.5445786
+  },
+  {
     "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
     "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
@@ -774,29 +798,5 @@
     "summary": "Instinct推出人工精选的产品与旅行推荐，但部分用户对未经请求即收到的推荐内容表示不满。",
     "date": "2026-09-30 16:04",
     "timestamp": 1790784264.4153948
-  },
-  {
-    "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Andrew-Feldman_1-Speaker-16x9-Dark.png?resize=1200,675",
-    "summary": "在TechCrunch Disrupt 2026上，Cerebras Systems联合创始人兼CEO Andrew Feldman将探讨算力、能源与基础设施需求增长，Cerebras如何以不同方式应对这些瓶颈，以及当前AI硬件达到极限后的下一步。",
-    "date": "2026-09-30 16:04",
-    "timestamp": 1790784265.4119744
-  },
-  {
-    "title": "Google figures out how to watermark AI-designed proteins",
-    "link": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2204734561-1152x648.jpg",
-    "summary": "为加强生物安全，该技术可与一款主流AI蛋白质设计工具配合使用。",
-    "date": "2026-09-30 16:04",
-    "timestamp": 1790784266.8400726
-  },
-  {
-    "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-    "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/minecraft.jpg?w=700",
-    "summary": "美国官方网站未因国家安全而发布长篇诗歌，令人欣慰。",
-    "date": "2026-09-30 02:21",
-    "timestamp": 1790734897.994826
   }
 ]
