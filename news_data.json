@@ -1,5 +1,13 @@
 [
   {
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
+    "summary": "该公司两年内营收超3000万美元，并于今年3月被MyFitnessPal收购，交易金额未披露。",
+    "date": "2026-10-16 01:38",
+    "timestamp": 1792114694.446198
+  },
+  {
     "title": "Meta launches an open-weight AI model that runs on Macs",
     "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
@@ -790,13 +798,5 @@
     "summary": "美国官方网站未因国家安全而发布长篇诗歌，令人欣慰。",
     "date": "2026-09-30 02:21",
     "timestamp": 1790734897.994826
-  },
-  {
-    "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-    "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/elon-musk-election-afd-purple.jpg?resize=1200,826",
-    "summary": "OpenAI周二发布AI代理Dots前，马斯克旗下xAI已抢先收购域名dot.com，该域名现跳转至Grok聊天机器人下载页。",
-    "date": "2026-09-29 23:11",
-    "timestamp": 1790723504.677096
   }
 ]
