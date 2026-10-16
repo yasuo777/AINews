@@ -1,5 +1,13 @@
 [
   {
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+    "summary": "Replit CEO Masad表示，终止与Anthropic的合作是出于成本等多方面考量。公司曾于8月宣布与OpenAI建立合作，但此前从未透露已结束与Anthropic的协作关系。",
+    "date": "2026-10-16 23:00",
+    "timestamp": 1792191609.1928837
+  },
+  {
     "title": "India becomes the latest country to report rogue AI agent activity",
     "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
@@ -790,13 +798,5 @@
     "summary": "**摘要：**  \nAI并非完美工具，但相较肯尼迪，其“幻觉”现象似乎更少。此言或暗指后者言论失实频发，凸显AI在信息准确性上的相对优势。",
     "date": "2026-09-30 20:59",
     "timestamp": 1790801965.3734477
-  },
-  {
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-30-at-11.47.10-AM.png?w=982",
-    "summary": "DoorDash推出AI点餐代理，旨在在与Uber Eats和Grubhub的竞争中取得优势。",
-    "date": "2026-09-30 16:04",
-    "timestamp": 1790784263.3670385
   }
 ]
