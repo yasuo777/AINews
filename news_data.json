@@ -1,5 +1,21 @@
 [
   {
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "summary": "Meta发言人坚持表示，更新后的条款并不反映Meta抓取网络内容方式的改变。",
+    "date": "2026-10-17 22:38",
+    "timestamp": 1792276703.4964528
+  },
+  {
+    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "过去一年，Anthropic的员工构成及所完成的工作类型均发生了显著变化。",
+    "date": "2026-10-17 22:38",
+    "timestamp": 1792276704.377384
+  },
+  {
     "title": "Replit is no longer working with Anthropic, CEO says",
     "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "OpenAI推出的“Decisions API”实为Jev的克隆产品，印证了快速、低成本智能的重要性。",
     "date": "2026-09-30 20:59",
     "timestamp": 1790801961.8518314
-  },
-  {
-    "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-    "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
-    "summary": "由Wellington和T. Rowe Price联合主导的3亿美元员工招标项目已完成。",
-    "date": "2026-09-30 20:59",
-    "timestamp": 1790801962.7138476
-  },
-  {
-    "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-    "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
-    "summary": "Reddit宣布将停止支持RSS订阅源，此举是该平台持续收紧用户生成内容访问权限的最新举措。",
-    "date": "2026-09-30 20:59",
-    "timestamp": 1790801963.6750345
   }
 ]
