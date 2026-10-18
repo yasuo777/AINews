@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+    "summary": "Anthropic宣布将把公司5%的股份投入该基金。",
+    "date": "2026-10-18 21:53",
+    "timestamp": 1792360405.9097636
+  },
+  {
     "title": "Disney agrees to hire the majority of Character.AI’s workforce",
     "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
@@ -790,13 +798,5 @@
     "summary": "谷歌发布最新Gemini模型，定位为编程与网络安全领域的实用工具。",
     "date": "2026-10-01 00:49",
     "timestamp": 1790815752.6274033
-  },
-  {
-    "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-    "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-    "summary": "Flow Engineering获红杉资本Roelof Botha以天使投资人身份加入董事会，该公司致力于将AI代理技术引入硬件设计领域。",
-    "date": "2026-10-01 00:49",
-    "timestamp": 1790815753.5853767
   }
 ]
