@@ -1,5 +1,13 @@
 [
   {
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
+    "summary": "Character.AI申请破产后，其员工将有机会入职迪士尼。前CEO已任迪士尼首位CTO，迪士尼此前同意以2000万美元收购其部分资产。",
+    "date": "2026-10-18 17:32",
+    "timestamp": 1792344756.5377374
+  },
+  {
     "title": "Meta removes language that raised scraping and AI training concerns",
     "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "Flow Engineering获红杉资本Roelof Botha以天使投资人身份加入董事会，该公司致力于将AI代理技术引入硬件设计领域。",
     "date": "2026-10-01 00:49",
     "timestamp": 1790815753.5853767
-  },
-  {
-    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
-    "summary": "OpenAI推出的“Decisions API”实为Jev的克隆产品，印证了快速、低成本智能的重要性。",
-    "date": "2026-09-30 20:59",
-    "timestamp": 1790801961.8518314
   }
 ]
