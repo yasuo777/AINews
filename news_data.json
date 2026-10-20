@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+    "summary": "8月，Nscale与Anthropic宣布达成450亿美元算力协议。据悉，双方正就另一笔同等规模的交易进行洽谈。",
+    "date": "2026-10-20 01:16",
+    "timestamp": 1792458965.1998634
+  },
+  {
+    "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+    "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+    "summary": "AI实验室依赖模型基准测试评估产品优劣，但Hugging Face政策主管指出，这些评估方法复杂且尚不成熟，其中立性与准确性存疑。",
+    "date": "2026-10-20 01:16",
+    "timestamp": 1792458966.2754745
+  },
+  {
     "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
     "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
@@ -782,21 +798,5 @@
     "summary": "据报道，特朗普在入侵委内瑞拉并抓捕马杜罗前，曾征询Grok的意见。",
     "date": "2026-10-02 00:11",
     "timestamp": 1790899907.5080755
-  },
-  {
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Virtual-Try-On.jpg?resize=1200,675",
-    "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and...",
-    "date": "2026-10-01 20:46",
-    "timestamp": 1790887562.674321
-  },
-  {
-    "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-    "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-    "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers....",
-    "date": "2026-10-01 21:01",
-    "timestamp": 1790888463.568551
   }
 ]
