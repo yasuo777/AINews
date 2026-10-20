@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+    "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+    "summary": "Meta的AI助手Muse上线40天在美国下载量突破1000万，跻身Threads等少数应用之列。新数据还显示，Muse的用户留存率高于其他AI竞品。",
+    "date": "2026-10-20 17:30",
+    "timestamp": 1792517425.0407438
+  },
+  {
+    "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
+    "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/electric-plant-bud-sensor.jpeg?resize=1200,800",
+    "summary": "电厂开发AI翻译器，通过植物茎部微弱电流解读植物“语言”，助人类聆听植物之声。",
+    "date": "2026-10-20 17:30",
+    "timestamp": 1792517426.1800694
+  },
+  {
+    "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
+    "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1233645802.jpg?resize=1200,800",
+    "summary": "Figma表示，计划在支持尽可能多的标准的同时，确保不暴露其全部数据。",
+    "date": "2026-10-20 17:30",
+    "timestamp": 1792517427.1361973
+  },
+  {
     "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
     "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "Meta将其Muse AI代码免费开放，意图让该技术嵌入电视、烤箱等各类设备，以扩大生态布局。",
     "date": "2026-10-03 02:18",
     "timestamp": 1790993919.086348
-  },
-  {
-    "title": "Sean Parker is rebuilding Stability AI around music",
-    "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
-    "summary": "肖恩·帕克曾以先斩后奏的方式颠覆音乐行业，如今他带着唱片公司的支持与资金回归。",
-    "date": "2026-10-02 23:13",
-    "timestamp": 1790982839.100208
-  },
-  {
-    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600.png?w=1200",
-    "summary": "Expo+通行证限时优惠，仅需75美元，限前100名符合条件者。机会可能就在一次对话之间，欲购从速。",
-    "date": "2026-10-02 23:14",
-    "timestamp": 1790982840.3684957
-  },
-  {
-    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-    "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-    "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-    "summary": "苹果宣布将针对macOS“完全磁盘访问权限”新增管控措施，并警告称，能力日益增强的AI代理若广泛获取用户文件、信息、邮件及浏览历史，将带来更大风险。",
-    "date": "2026-10-02 18:40",
-    "timestamp": 1790966445.2305956
   }
 ]
