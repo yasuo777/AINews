@@ -1,5 +1,21 @@
 [
   {
+    "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+    "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+    "summary": "Otter.ai获General Catalyst客户价值基金3.2亿美元融资，该资金不稀释股权，按营销支出回报。公司将用于企业增长、市场策略、国际扩张及产品创新。",
+    "date": "2026-10-20 12:08",
+    "timestamp": 1792498112.6471837
+  },
+  {
+    "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+    "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Yelp-waitlist.jpg?resize=1200,675",
+    "summary": "Yelp应用新增多项AI功能，包括致电查询餐厅等位时间，以及基于用户偏好生成个性化推荐。",
+    "date": "2026-10-20 12:08",
+    "timestamp": 1792498113.6248214
+  },
+  {
     "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
     "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
@@ -782,21 +798,5 @@
     "summary": "苹果宣布将针对macOS“完全磁盘访问权限”新增管控措施，并警告称，能力日益增强的AI代理若广泛获取用户文件、信息、邮件及浏览历史，将带来更大风险。",
     "date": "2026-10-02 18:40",
     "timestamp": 1790966445.2305956
-  },
-  {
-    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-    "summary": "白宫召集扎克伯格、马斯克等科技巨头CEO签署AI安全承诺，特朗普称其“具有道德约束力”，并签署行政令将AI重新定义为“超级智能”。同时，Meta与OpenAI正为其AI产品塑造更亲和的形象。",
-    "date": "2026-10-02 18:40",
-    "timestamp": 1790966446.281533
-  },
-  {
-    "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-    "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-    "summary": "白宫本周召集扎克伯格、贝索斯、马斯克等科技巨头CEO签署AI安全承诺，特朗普称其具有“道德约束力”，并签署行政令将AI重新定义为“超级智能”。与此同时，Meta和OpenAI正为其AI产品塑造更亲和的形象。",
-    "date": "2026-10-02 18:40",
-    "timestamp": 1790966447.3457634
   }
 ]
