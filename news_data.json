@@ -1,5 +1,29 @@
 [
   {
+    "title": "SpaceX’s AI business is beating expectations",
+    "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "summary": "SpaceX二季度数据中心与Grok智能体盈利超预期，AI业务已占其收入52%，公司正从航天企业转向AI聚焦。马斯克旗下该集团第三季度营收达146亿美元。",
+    "date": "2026-10-20 20:51",
+    "timestamp": 1792529500.758678
+  },
+  {
+    "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+    "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+    "summary": "OpenAI将Orchestra团队及其技术纳入麾下，用于推进生命科学研究AI模型Rosalind及配套工具Rosalind Workbench的开发，该工具旨在协助研究人员规划实验并分析结果。",
+    "date": "2026-10-20 20:51",
+    "timestamp": 1792529501.7817986
+  },
+  {
+    "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+    "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+    "summary": "谷歌效仿亚马逊推出开发者工具，帮助PyTorch用户轻松将应用从英伟达GPU迁移至其他平台。",
+    "date": "2026-10-20 20:51",
+    "timestamp": 1792529502.4688845
+  },
+  {
     "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
     "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "AWS首席执行官针对外界对数据中心的普遍质疑作出回应，试图打消相关疑虑。",
     "date": "2026-10-03 21:44",
     "timestamp": 1791063860.7885313
-  },
-  {
-    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-    "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-    "summary": "David Robinson承认自己像个“老套角色”：在从一家顶尖AI公司离职时，发出严厉警告。",
-    "date": "2026-10-03 18:15",
-    "timestamp": 1791051358.5834846
-  },
-  {
-    "title": "All the AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-    "summary": "我们整理了一份最值得关注的短信AI助手清单，涵盖通用助手及专为家庭、旅行和工作场景设计的智能代理。",
-    "date": "2026-10-03 18:15",
-    "timestamp": 1791051359.4536715
-  },
-  {
-    "title": "Meta wants your next gadget to be Muse-infused",
-    "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-    "summary": "Meta将其Muse AI代码免费开放，意图让该技术嵌入电视、烤箱等各类设备，以扩大生态布局。",
-    "date": "2026-10-03 02:18",
-    "timestamp": 1790993919.086348
   }
 ]
