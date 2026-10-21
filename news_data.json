@@ -1,5 +1,37 @@
 [
   {
+    "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+    "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
+    "summary": "TechCrunch创始人峰会将于11月4日在波士顿举行，为期一天，各阶段创始人可与顶尖风投及资深企业家交流，获取公司建设与扩张的实战洞见。",
+    "date": "2026-10-21 22:43",
+    "timestamp": 1792622582.1619391
+  },
+  {
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+    "summary": "Meta在Q3财报中表示，其AI应用Meta Muse用户已超1000万，用户正将其用于购物和个人生产力场景。",
+    "date": "2026-10-21 22:43",
+    "timestamp": 1792622583.3772964
+  },
+  {
+    "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+    "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+    "summary": "Recursive公司发布免费笔记本级编程模型Flint，该模型主要由其自研AI系统构建，旨在初步验证AI自我迭代能力。",
+    "date": "2026-10-21 22:43",
+    "timestamp": 1792622584.390163
+  },
+  {
+    "title": "The new human-crafted Apple Music brand matters in an AI world",
+    "link": "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/apple-music-rebrand-icon-1152x648.jpg",
+    "summary": "观点：在AI生成内容泛滥的环境中，展示人类亲手制作的过程有助于体现真实性与价值。",
+    "date": "2026-10-21 22:43",
+    "timestamp": 1792622585.750737
+  },
+  {
     "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
     "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
     "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
@@ -766,37 +798,5 @@
     "summary": "Reflection公司正将其Beam及未来模型瞄准企业和主权国家市场，推出“AI工厂”产品，允许机构利用自有专有数据训练其AI模型，从而构建定制化的本地AI系统。",
     "date": "2026-10-05 22:54",
     "timestamp": 1791240853.4142444
-  },
-  {
-    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-    "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
-    "summary": "Instinct推出群聊功能，允许多位好友共同使用其AI代理，协作完成旅行规划、拼车安排和活动协调等任务。公司表示个人账户保持独立，个人代理在分享信息或执行操作前须获得用户授权。",
-    "date": "2026-10-05 22:54",
-    "timestamp": 1791240854.5527356
-  },
-  {
-    "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-    "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/Screenshot-2026-03-03-at-10.30.27-AM-1152x648.jpeg",
-    "summary": "The tool can free up over 12GB of storage.",
-    "date": "2026-10-05 22:54",
-    "timestamp": 1791240855.4712334
-  },
-  {
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-    "summary": "OpenAI宣布，其图像生成结果页面将开始展示视觉广告，目前仅限美国地区。",
-    "date": "2026-10-05 16:23",
-    "timestamp": 1791217425.593354
-  },
-  {
-    "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026将探讨创始人在开放与封闭AI之间的选择。现在注册可节省高达100美元，并以五折获得第二张通行证。",
-    "date": "2026-10-05 16:23",
-    "timestamp": 1791217426.5601406
   }
 ]
