@@ -1,5 +1,29 @@
 [
   {
+    "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+    "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+    "summary": "该政策名为防范AI失控，实则规定联邦机构未经法官许可不得阻止模型发布，变相为AI放行。",
+    "date": "2026-10-21 00:07",
+    "timestamp": 1792541222.6908658
+  },
+  {
+    "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+    "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+    "summary": "Hugging Face联合创始人Clem Delangue提醒，Netflix纪录片《AI失控》采用“全面末日论”视角，内容并不准确，建议观众分享前审慎对待。",
+    "date": "2026-10-21 00:07",
+    "timestamp": 1792541224.297545
+  },
+  {
+    "title": "Anthropic’s cloud partnerships are getting messy",
+    "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+    "summary": "据报道，Anthropic正面临算力获取困境：云服务商日益将其视为竞争对手，不愿提供足够算力，而其基础设施支出却在大幅攀升，且公司计划于11月进行IPO。",
+    "date": "2026-10-21 00:07",
+    "timestamp": 1792541225.497298
+  },
+  {
     "title": "SpaceX’s AI business is beating expectations",
     "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
@@ -774,29 +798,5 @@
     "summary": "AI生成的低质量漏洞报告正大量涌入漏洞赏金项目，给审核工作带来严重负担。",
     "date": "2026-10-04 22:30",
     "timestamp": 1791153050.0457735
-  },
-  {
-    "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-    "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-    "summary": "特朗普政府试图重塑人工智能叙事，相关讨论聚焦其在AI政策话语上的重新包装与定位。",
-    "date": "2026-10-04 22:30",
-    "timestamp": 1791153051.2199507
-  },
-  {
-    "title": "Trump unveils his new Super Intelligence Force",
-    "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-    "summary": "特朗普成立新特别工作组，作为其对AI安全争议的最新回应。",
-    "date": "2026-10-04 18:46",
-    "timestamp": 1791139617.8923318
-  },
-  {
-    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
-    "summary": "AWS首席执行官针对外界对数据中心的普遍质疑作出回应，试图打消相关疑虑。",
-    "date": "2026-10-03 21:44",
-    "timestamp": 1791063860.7885313
   }
 ]
