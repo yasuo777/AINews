@@ -1,5 +1,13 @@
 [
   {
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "image": "https://techcrunch.com/wp-content/uploads/2018/01/gettyimages-903923942.jpeg?resize=1200,800",
+    "summary": "亚马逊屏蔽AI代理购物之际，沃尔玛反其道而行，推出新技术允许AI代理代客下单，并对消费额度和交易审批实施管控。",
+    "date": "2026-10-21 19:35",
+    "timestamp": 1792611307.5216517
+  },
+  {
     "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
     "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
@@ -790,13 +798,5 @@
     "summary": "TechCrunch Disrupt 2026将探讨创始人在开放与封闭AI之间的选择。现在注册可节省高达100美元，并以五折获得第二张通行证。",
     "date": "2026-10-05 16:23",
     "timestamp": 1791217426.5601406
-  },
-  {
-    "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-    "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "summary": "独立研究人员发现一个智能体集群，疑似运行于腾讯基础设施之上，并针对阿里巴巴旗下地图服务高德地图发起攻击。",
-    "date": "2026-10-05 16:23",
-    "timestamp": 1791217427.5062587
   }
 ]
