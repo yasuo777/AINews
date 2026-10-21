@@ -1,5 +1,13 @@
 [
   {
+    "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+    "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-157163369.jpg?resize=1200,900",
+    "summary": "最新调查显示，超半数管理者表示采用AI后评估员工工作变得更困难。",
+    "date": "2026-10-21 15:35",
+    "timestamp": 1792596931.305422
+  },
+  {
     "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
     "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
@@ -790,13 +798,5 @@
     "summary": "独立研究人员发现一个智能体集群，疑似运行于腾讯基础设施之上，并针对阿里巴巴旗下地图服务高德地图发起攻击。",
     "date": "2026-10-05 16:23",
     "timestamp": 1791217427.5062587
-  },
-  {
-    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-    "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
-    "summary": "AI生成的低质量漏洞报告正大量涌入漏洞赏金项目，给审核工作带来严重负担。",
-    "date": "2026-10-04 22:30",
-    "timestamp": 1791153050.0457735
   }
 ]
