@@ -1,5 +1,29 @@
 [
   {
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+    "summary": "Claude Duet现通过候补名单向Pro和Max套餐用户开放。",
+    "date": "2026-10-22 14:04",
+    "timestamp": 1792677878.7069123
+  },
+  {
+    "title": "Nirva raises $33M for a pendant that only listens to you",
+    "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+    "summary": "Nirva计划于年底前出货其售价249美元的环境AI吊坠。",
+    "date": "2026-10-22 14:04",
+    "timestamp": 1792677879.6371126
+  },
+  {
+    "title": "DeepSeek reportedly raises $15B days after US restrictions",
+    "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+    "summary": "DeepSeek据报完成150亿美元融资，为中国最大规模融资之一。此前数日，美国以国家安全为由下令联邦机构移除其技术。",
+    "date": "2026-10-22 14:04",
+    "timestamp": 1792677880.9071674
+  },
+  {
     "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
     "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
@@ -774,29 +798,5 @@
     "summary": "Mirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上发布，推出从零构建的世界模型以预测人类行为，并指出LLM角色扮演在市场研究与品牌策略方面存在不足。",
     "date": "2026-10-06 17:24",
     "timestamp": 1791307447.9334297
-  },
-  {
-    "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-    "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
-    "summary": "该项目旨在推动AI红利通过应用层企业而非基础模型本身惠及大众。",
-    "date": "2026-10-06 17:24",
-    "timestamp": 1791307448.755649
-  },
-  {
-    "title": "LibreOffice says ‘no AI’ is now a software feature",
-    "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/libreoffice.jpg?w=1016",
-    "summary": "开源文档编辑器制造商表示，出于用户隐私考虑，暂无计划在软件默认配置中加入人工智能功能。",
-    "date": "2026-10-06 17:24",
-    "timestamp": 1791307449.6334298
-  },
-  {
-    "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-    "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "summary": "OpenAI将在欧盟为ChatGPT和Codex文本添加水印，以符合《人工智能法案》要求。该公司表示，编辑可能使这些隐形标记更难被检测。",
-    "date": "2026-10-05 22:54",
-    "timestamp": 1791240852.2880287
   }
 ]
