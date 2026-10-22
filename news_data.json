@@ -1,5 +1,29 @@
 [
   {
+    "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+    "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+    "summary": "若OpenAI本轮融资估值超1万亿美元，将创纪录成为史上估值最高的私营公司。",
+    "date": "2026-10-22 22:44",
+    "timestamp": 1792709070.0739088
+  },
+  {
+    "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+    "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
+    "summary": "新功能支持客服人员登录客户个人账户，同时保护账户的私人凭证安全。",
+    "date": "2026-10-22 22:44",
+    "timestamp": 1792709070.9781048
+  },
+  {
+    "title": "Canva releases its first image generation model",
+    "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+    "summary": "Canva向所有用户开放其新图像模型，承诺以更低成本提供更优、更可定制的性能。",
+    "date": "2026-10-22 22:44",
+    "timestamp": 1792709071.9438655
+  },
+  {
     "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
     "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "Meta的AI助手Muse在移动端首发仅一个月后，现已登陆iPad，公司正加速扩大该助手的覆盖范围与集成能力。",
     "date": "2026-10-07 22:15",
     "timestamp": 1791411343.118028
-  },
-  {
-    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
-    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
-    "summary": "该公司不再帮助营销人员管理和优化广告支出，而是专注于构建生成创意素材和广告活动的工具。",
-    "date": "2026-10-07 01:47",
-    "timestamp": 1791337673.3013313
-  },
-  {
-    "title": "How AI decision models could change content moderation",
-    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
-    "summary": "Musubi于周二发布轻量级实时审核决策模型PolicyLM-1.7B，并公开模型权重。",
-    "date": "2026-10-06 21:53",
-    "timestamp": 1791323582.0990937
-  },
-  {
-    "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
-    "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
-    "summary": "英伟达支持的Lambda拟以145亿美元投前估值融资至多40亿美元，由Coatue和黑石领投，并计划于2027年IPO。",
-    "date": "2026-10-06 21:53",
-    "timestamp": 1791323583.2002482
   }
 ]
