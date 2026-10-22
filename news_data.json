@@ -1,5 +1,29 @@
 [
   {
+    "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+    "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1935915215.jpg?w=1024",
+    "summary": "《科学》研究显示，微软新型AI诊断系统在疑难病例上优于全科医生，但性能提升主要源于底层AI模型，而非系统本身。",
+    "date": "2026-10-22 18:46",
+    "timestamp": 1792694815.5261765
+  },
+  {
+    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+    "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-591881449.jpg?resize=1200,799",
+    "summary": "微软将ConnectWise遭入侵归咎于与中国有关联的黑客，该黑客利用AI代理快速入侵了数千家客户。",
+    "date": "2026-10-22 18:46",
+    "timestamp": 1792694816.5332963
+  },
+  {
+    "title": "Uber puts all 30,000 employees on ChatGPT Work",
+    "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/wayve-uber-uk.jpg?resize=1200,800",
+    "summary": "网约车巨头此前仅小范围试点ChatGPT Work，现已在全公司范围内部署该企业级智能体。",
+    "date": "2026-10-22 18:46",
+    "timestamp": 1792694817.6403394
+  },
+  {
     "title": "Claude Duet app is Anthropic’s bet on agents",
     "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
@@ -774,29 +798,5 @@
     "summary": "英伟达支持的Lambda拟以145亿美元投前估值融资至多40亿美元，由Coatue和黑石领投，并计划于2027年IPO。",
     "date": "2026-10-06 21:53",
     "timestamp": 1791323583.2002482
-  },
-  {
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
-    "summary": "个人AI代理承诺代购、订票和预订，但网站蓄意拦截和反机器人防御构成障碍，消费者夹在中间。一项新标准旨在解决此问题。",
-    "date": "2026-10-06 21:53",
-    "timestamp": 1791323583.9594975
-  },
-  {
-    "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-    "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-    "summary": "该方案与其他同类方案一样，可靠性并不突出，且容易被规避。",
-    "date": "2026-10-06 21:53",
-    "timestamp": 1791323585.6009252
-  },
-  {
-    "title": "Mirror Particle is building a ‘world model’ of human behavior",
-    "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1404749040.jpg?resize=1200,675",
-    "summary": "Mirror Particle将在TechCrunch Disrupt的Startup Battlefield 200上发布，推出从零构建的世界模型以预测人类行为，并指出LLM角色扮演在市场研究与品牌策略方面存在不足。",
-    "date": "2026-10-06 17:24",
-    "timestamp": 1791307447.9334297
   }
 ]
