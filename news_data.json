@@ -1,5 +1,13 @@
 [
   {
+    "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+    "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591561486_34813d39be_c.jpg?w=799",
+    "summary": "黑石AI业务负责人表示，尽管市场对AI泡沫存在担忧，但黑石并不为此感到恐慌，认为当前市场波动属于正常现象，AI长期价值依然稳固。",
+    "date": "2026-10-22 01:50",
+    "timestamp": 1792633807.7893414
+  },
+  {
     "title": "TechCrunch Founder Summit 2026: Everything you need to know",
     "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/54657603888_9ade234c98_k.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "OpenAI将在欧盟为ChatGPT和Codex文本添加水印，以符合《人工智能法案》要求。该公司表示，编辑可能使这些隐形标记更难被检测。",
     "date": "2026-10-05 22:54",
     "timestamp": 1791240852.2880287
-  },
-  {
-    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Reflection-AI-Beam.png?resize=1200,669",
-    "summary": "Reflection公司正将其Beam及未来模型瞄准企业和主权国家市场，推出“AI工厂”产品，允许机构利用自有专有数据训练其AI模型，从而构建定制化的本地AI系统。",
-    "date": "2026-10-05 22:54",
-    "timestamp": 1791240853.4142444
   }
 ]
