@@ -1,5 +1,13 @@
 [
   {
+    "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+    "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
+    "summary": "inDrive计划于2027年上半年在哈萨克斯坦首都测试小马智行的自动驾驶出租车。",
+    "date": "2026-10-23 07:55",
+    "timestamp": 1792742118.9430702
+  },
+  {
     "title": "Left alone with nothing to do, AI agents started playing",
     "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
@@ -790,13 +798,5 @@
     "summary": "Hermes Agent 开发商完成 9000 万美元 B 轮融资。",
     "date": "2026-10-07 22:15",
     "timestamp": 1791411341.1638155
-  },
-  {
-    "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-    "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Microsoft-Surface-Laptop-Ultra.png?resize=1200,677",
-    "summary": "微软公布Surface Laptop Ultra规格与售价，该AI PC搭载英伟达芯片，专为运行AI模型与智能体设计。",
-    "date": "2026-10-07 22:15",
-    "timestamp": 1791411342.260865
   }
 ]
