@@ -1,5 +1,13 @@
 [
   {
+    "title": "Left alone with nothing to do, AI agents started playing",
+    "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+    "summary": "MIT研究人员将13个AI置于虚拟孤岛进行实验，AI表现出创造游戏、悼念丢失戒指等行为，并最终提升了工作能力。",
+    "date": "2026-10-23 01:56",
+    "timestamp": 1792720561.8242972
+  },
+  {
     "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
     "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
@@ -790,13 +798,5 @@
     "summary": "微软公布Surface Laptop Ultra规格与售价，该AI PC搭载英伟达芯片，专为运行AI模型与智能体设计。",
     "date": "2026-10-07 22:15",
     "timestamp": 1791411342.260865
-  },
-  {
-    "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-    "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
-    "summary": "Meta的AI助手Muse在移动端首发仅一个月后，现已登陆iPad，公司正加速扩大该助手的覆盖范围与集成能力。",
-    "date": "2026-10-07 22:15",
-    "timestamp": 1791411343.118028
   }
 ]
