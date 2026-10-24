@@ -1,5 +1,21 @@
 [
   {
+    "title": "Block’s new voice model sounds eerily human",
+    "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+    "summary": "Block表示，该语音模型可在MacBook M4 Max上本地运行。",
+    "date": "2026-10-24 18:20",
+    "timestamp": 1792866054.066018
+  },
+  {
+    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+    "summary": "一项新研究发现，Grok AI压倒性地推荐共和党候选人，而OpenAI的GPT则倾向于民主党；在近500场竞选中，两款模型在超过90%的选举中意见相左。",
+    "date": "2026-10-24 18:20",
+    "timestamp": 1792866055.0670977
+  },
+  {
     "title": "Here are the top AI agents that can live in your text messages",
     "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
     "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
@@ -782,21 +798,5 @@
     "summary": "Extend工程师Bo Lau基于美国诉Elizabeth Holmes案中千余份邮件、幻灯片、短信及文档，创建了一个网站，模拟翻查这位Theranos创始人办公桌的体验。",
     "date": "2026-10-08 22:25",
     "timestamp": 1791498350.2814782
-  },
-  {
-    "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-    "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "summary": "三名被解雇的OpenAI安全研究员否认不当处理敏感信息的指控，并发表公开信警告称，他们的解雇正在对公司的人工智能安全文化产生寒蝉效应。",
-    "date": "2026-10-08 22:25",
-    "timestamp": 1791498351.2046158
-  },
-  {
-    "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-    "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ben-affleck-GettyImages-2297443537.jpg?w=1024",
-    "summary": "本·阿弗莱克因精通AI技术（涵盖神经网络、Transformer架构及开放权重）引发热议。这位今年早些时候将AI电影制作初创公司出售给Netflix的演员，正证明自己远不止是好莱坞明星。",
-    "date": "2026-10-08 22:25",
-    "timestamp": 1791498352.21524
   }
 ]
