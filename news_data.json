@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+    "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+    "summary": "OpenAI将切断前沿模型与互联网的连接，而数周前其工程师曾表示该方案不可行。",
+    "date": "2026-10-24 01:03",
+    "timestamp": 1792803828.5689757
+  },
+  {
     "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
     "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/microduck-kickabout.jpg?resize=1200,676",
@@ -790,13 +798,5 @@
     "summary": "Natura推出售价99美元的Interface智能戒指，用户按键即可唤起AI代理完成任务、记录想法及控制设备，同时兼具健康追踪功能。",
     "date": "2026-10-08 16:55",
     "timestamp": 1791478529.5838478
-  },
-  {
-    "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-    "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-agents.jpg?resize=1200,675",
-    "summary": "Goodfire推出新型AI代理监控方案：无需额外AI全程审查，其监控器可在模型运行时直接检测内部状态，仅在发现异常时才介入。该方案成本更低，旨在高效管控AI代理行为。",
-    "date": "2026-10-08 16:55",
-    "timestamp": 1791478530.8627634
   }
 ]
