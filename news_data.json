@@ -1,5 +1,13 @@
 [
   {
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+    "summary": "画面尚可，但缺乏艺术性、灵感与人文关怀。",
+    "date": "2026-10-25 23:31",
+    "timestamp": 1792971095.232905
+  },
+  {
     "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
     "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
     "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "亚马逊宣布在与地方政府谈判数据中心协议时将停止使用保密协议，此举紧随微软今年早些时候的类似决定。保密做法此前引发社区对AI基础设施的强烈反对，纽约至旧金山等地已出现数百项拟议或已实施的暂停令。与此同时，一批初创公司正押注消费者将授权AI代理访问……",
     "date": "2026-10-09 21:14",
     "timestamp": 1791580478.5727253
-  },
-  {
-    "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-    "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/5-DSCF1634.jpg?resize=1200,800",
-    "summary": "亚马逊宣布在数据中心谈判中不再要求地方政府签署保密协议，紧随微软今年早些时候的类似举措。保密做法曾引发社区对AI基础设施的强烈反对，纽约至旧金山等地已提出或实施数百项禁令。与此同时，一批初创公司正押注消费者将允许AI代理访问……",
-    "date": "2026-10-09 21:14",
-    "timestamp": 1791580479.57076
   }
 ]
