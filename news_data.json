@@ -1,5 +1,21 @@
 [
   {
+    "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+    "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
+    "summary": "Anthropic的S-1文件显示，其超10万美元客户中逾半数同时使用Claude平台与第一方应用，这一交叉销售策略类似亚马逊，正增强企业客户粘性。",
+    "date": "2026-10-26 20:44",
+    "timestamp": 1793047464.5456672
+  },
+  {
+    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
+    "summary": "SpaceX在监管文件中披露，已锁定约400亿美元融资承诺，用于采购AI芯片及相关数据中心设备，并称这是史上最大规模的GPU融资承诺。",
+    "date": "2026-10-26 20:44",
+    "timestamp": 1793047465.4621828
+  },
+  {
     "title": "Anthropic officially files for its public debut",
     "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "Anthropic宣布，在另行通知前，已关闭所有内部评估的实时互联网访问功能。",
     "date": "2026-10-10 01:13",
     "timestamp": 1791594827.0804808
-  },
-  {
-    "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-    "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/typesafe-ai.jpg?resize=1174,1200",
-    "summary": "TypeSafe公司声称其产品Jev在运行速度和token消耗方面均显著优于大语言模型，这一说法引发了用户和大型企业的广泛关注。",
-    "date": "2026-10-10 01:13",
-    "timestamp": 1791594828.2498212
-  },
-  {
-    "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-    "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1490947739.jpg?resize=1200,797",
-    "summary": "Anthropic在其AI提交虚假举报后两个多月才发现该行为。",
-    "date": "2026-10-09 21:14",
-    "timestamp": 1791580476.965664
   }
 ]
