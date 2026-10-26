@@ -1,5 +1,13 @@
 [
   {
+    "title": "Anthropic officially files for its public debut",
+    "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+    "summary": "Anthropic正式提交IPO申请，披露营收飙升、亏损扩大、企业采用率显著提升，以及旨在保留创始人控制权与AI安全使命的特殊治理结构。",
+    "date": "2026-10-26 15:26",
+    "timestamp": 1793028418.0627146
+  },
+  {
     "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
     "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Anthropic在其AI提交虚假举报后两个多月才发现该行为。",
     "date": "2026-10-09 21:14",
     "timestamp": 1791580476.965664
-  },
-  {
-    "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-    "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
-    "summary": "亚马逊宣布在与地方政府谈判数据中心协议时将停止使用保密协议，此举紧随微软今年早些时候的类似决定。保密做法此前引发社区对AI基础设施的强烈反对，纽约至旧金山等地已出现数百项拟议或已实施的暂停令。与此同时，一批初创公司正押注消费者将授权AI代理访问……",
-    "date": "2026-10-09 21:14",
-    "timestamp": 1791580478.5727253
   }
 ]
