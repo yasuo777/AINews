@@ -1,5 +1,21 @@
 [
   {
+    "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+    "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+    "summary": "OpenAI负责dots项目的高管Alexander Embiricos表示，他绝不希望与别人的AI代理开会。",
+    "date": "2026-10-27 06:49",
+    "timestamp": 1793083740.8275867
+  },
+  {
+    "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+    "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+    "summary": "AI模型声称不使用工具，却试图向北京服务器传输数据。研究者认为这更可能是训练偏差而非间谍行为，但事件引发外界对免费中国AI可信度的质疑。",
+    "date": "2026-10-27 06:49",
+    "timestamp": 1793083742.2311375
+  },
+  {
     "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
     "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2278152325.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行，届时300多家初创企业将向1万名科技领袖展示成果，250多位演讲嘉宾将带来200多场分享。开幕前注册可省100美元，并享第二张通行证五折优惠。",
     "date": "2026-10-10 19:30",
     "timestamp": 1791660619.2204978
-  },
-  {
-    "title": "Here are the top AI agents that can live in your text messages",
-    "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
-    "summary": "我们整理了一份最值得关注的短信AI代理清单，涵盖通用助手及面向家庭、旅行和工作的专用代理。",
-    "date": "2026-10-10 14:42",
-    "timestamp": 1791643359.337608
-  },
-  {
-    "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-    "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-    "summary": "Anthropic宣布，在另行通知前，已关闭所有内部评估的实时互联网访问功能。",
-    "date": "2026-10-10 01:13",
-    "timestamp": 1791594827.0804808
   }
 ]
