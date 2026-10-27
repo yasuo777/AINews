@@ -1,5 +1,29 @@
 [
   {
+    "title": "The data center boom has an upside: innovation for the US grid",
+    "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
+    "summary": "AI热潮加剧电网压力，但业内人士指出，这也为电网现代化带来多种新机遇。",
+    "date": "2026-10-27 23:08",
+    "timestamp": 1793142504.078994
+  },
+  {
+    "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+    "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+    "summary": "银行巨头提醒客户：用户需对AI代理访问所引发的账户活动承担责任。",
+    "date": "2026-10-27 23:08",
+    "timestamp": 1793142505.400917
+  },
+  {
+    "title": "Who’s really in charge at Anthropic after the IPO?",
+    "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
+    "summary": "Anthropic 公布了其治理结构，该结构设计极为复杂，旨在平衡公司使命、投资者利益与公共利益。",
+    "date": "2026-10-27 23:08",
+    "timestamp": 1793142506.683776
+  },
+  {
     "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
     "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
@@ -774,29 +798,5 @@
     "summary": "AI赋能游戏开发引争议：某漫威/星球大战射击游戏被曝使用AI生成内容，引发“拒绝AI艺术”呼声，同时业界出现“告别手写代码”的自动化趋势。",
     "date": "2026-10-12 23:12",
     "timestamp": 1791846762.142339
-  },
-  {
-    "title": "Microsoft president says UK is best placed to drive AI regulation",
-    "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-    "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-    "summary": "微软总裁布拉德·史密斯呼吁紧急监管AI，指出目前牛奶和洗衣机受到的监管都比AI公司更严格，强调需尽快建立相关规范。",
-    "date": "2026-10-12 16:04",
-    "timestamp": 1791821085.5933437
-  },
-  {
-    "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-    "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
-    "summary": "圣莫尼卡的初创公司Blueprints AI开发出一款软件，可将照片、PDF或草图自动生成符合建筑规范的施工蓝图。该公司依靠自有资金发展。",
-    "date": "2026-10-12 16:04",
-    "timestamp": 1791821086.670106
-  },
-  {
-    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
-    "summary": "TechCrunch Disrupt 2026将于明日太平洋时间上午8点在旧金山Moscone West开幕，逾万名创始人、投资者及科技从业者将齐聚三日盛会。门票优惠倒计时最后24小时，最高可省100美元，第二张享半价。",
-    "date": "2026-10-12 16:04",
-    "timestamp": 1791821087.7457025
   }
 ]
