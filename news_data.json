@@ -1,5 +1,29 @@
 [
   {
+    "title": "Japan internet giant GMO says hackers posted stolen customer data",
+    "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
+    "summary": "日本GMO互联网公司正就云服务遭 breach 后疑似黑客公布的客户数据展开核实。",
+    "date": "2026-10-27 13:33",
+    "timestamp": 1793107993.4034266
+  },
+  {
+    "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+    "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+    "summary": "新标准WebAI旨在兼容多种AI模型。",
+    "date": "2026-10-27 13:33",
+    "timestamp": 1793107994.7865312
+  },
+  {
+    "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+    "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
+    "summary": "通用计算公司正押注英伟达生态体系之外的推理芯片。",
+    "date": "2026-10-27 13:33",
+    "timestamp": 1793107995.791398
+  },
+  {
     "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
     "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "语音AI的上下文层常遗漏关键信息，导致整个处理流程中断。",
     "date": "2026-10-11 15:57",
     "timestamp": 1791734238.7950864
-  },
-  {
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-    "summary": "微软CEO周六发文指出，现在是时候“退后一步，评估人工智能的信任架构”了。",
-    "date": "2026-10-10 22:55",
-    "timestamp": 1791672924.0722973
-  },
-  {
-    "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-    "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
-    "summary": "苹果有意进军AI生成播客领域，相关举措或反映其对AI音频内容市场的战略布局。此举若成，可能改变播客生产与分发格局。",
-    "date": "2026-10-10 22:55",
-    "timestamp": 1791672925.4711723
-  },
-  {
-    "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-    "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/06/Startup-Battlefield-2023-2.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026将于10月13日至15日在旧金山举行，届时300多家初创企业将向1万名科技领袖展示成果，250多位演讲嘉宾将带来200多场分享。开幕前注册可省100美元，并享第二张通行证五折优惠。",
-    "date": "2026-10-10 19:30",
-    "timestamp": 1791660619.2204978
   }
 ]
