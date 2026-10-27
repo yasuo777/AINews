@@ -1,5 +1,37 @@
 [
   {
+    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+    "summary": "TechCrunch采访了MIT计算机科学家，其任务是解释OpenAI最新令人费解的发现。",
+    "date": "2026-10-27 18:57",
+    "timestamp": 1793127432.8899775
+  },
+  {
+    "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+    "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Genie-4-blog-header.png?resize=1200,675",
+    "summary": "Google DeepMind发布世界模型Genie 4研究预览版，面向受信任测试者开放。新版本支持实时音频、更逼真的模拟效果，并可在模拟过程中输入文本提示。",
+    "date": "2026-10-27 18:57",
+    "timestamp": 1793127433.7885678
+  },
+  {
+    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+    "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
+    "summary": "Rohit Patel在Meta工作八年后离职，此前负责AI评估与强化学习。其创业公司Ndoc将瞄准微软Office套件市场。",
+    "date": "2026-10-27 18:57",
+    "timestamp": 1793127434.8096955
+  },
+  {
+    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
+    "link": "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/10/GettyImages-615307388-832x648.jpg",
+    "summary": "AI工具现已支持用户指定所需合成的蛋白质类型，标志着蛋白质设计向用户定制化方向迈进。",
+    "date": "2026-10-27 18:57",
+    "timestamp": 1793127436.5727026
+  },
+  {
     "title": "Japan internet giant GMO says hackers posted stolen customer data",
     "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
@@ -766,37 +798,5 @@
     "summary": "TechCrunch Disrupt 2026将于明日太平洋时间上午8点在旧金山Moscone West开幕，逾万名创始人、投资者及科技从业者将齐聚三日盛会。门票优惠倒计时最后24小时，最高可省100美元，第二张享半价。",
     "date": "2026-10-12 16:04",
     "timestamp": 1791821087.7457025
-  },
-  {
-    "title": "Will the HomeView be Apple’s first smart home success?",
-    "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-    "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
-    "summary": "过去几年，多家媒体报道苹果正在研发一款新智能家居产品，如今该产品似乎已确定名称与发布时间。",
-    "date": "2026-10-11 23:58",
-    "timestamp": 1791763100.567683
-  },
-  {
-    "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-    "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026将在48小时内于旧金山Moscone West开幕。现在购票可省100美元，第二张票享五折优惠，现场购票价格更高。",
-    "date": "2026-10-11 20:33",
-    "timestamp": 1791750818.0001736
-  },
-  {
-    "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-    "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
-    "summary": "关于数据中心暂停令的影响及AI行业是否存在沟通问题，业界在Equity平台上展开辩论。",
-    "date": "2026-10-11 20:33",
-    "timestamp": 1791750819.2379444
-  },
-  {
-    "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-    "summary": "语音AI的上下文层常遗漏关键信息，导致整个处理流程中断。",
-    "date": "2026-10-11 15:57",
-    "timestamp": 1791734238.7950864
   }
 ]
