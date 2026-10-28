@@ -1,5 +1,37 @@
 [
   {
+    "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+    "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
+    "summary": "该前沿实验室计划IPO，并首次披露用户在其模型上的消费情况。",
+    "date": "2026-10-28 21:18",
+    "timestamp": 1793222295.2521312
+  },
+  {
+    "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+    "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/tomer-wiz.jpeg?resize=1200,800",
+    "summary": "PHP重大漏洞余波未平。上周，支撑约70%网站的开源语言PHP曝出两个严重漏洞，迫使各机构紧急修复系统，部分网站甚至下线等待补丁。发现漏洞的研究人员表示……",
+    "date": "2026-10-28 21:18",
+    "timestamp": 1793222296.3993423
+  },
+  {
+    "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+    "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2162704124.jpg?resize=1200,800",
+    "summary": "PHP严重漏洞风波虽已淡出视野，但修复工作远未结束。上周，这一支撑约70%网站的开源语言曝出两个严重漏洞，迫使各机构紧急修复系统，部分网站甚至下线直至补丁完成。",
+    "date": "2026-10-28 21:18",
+    "timestamp": 1793222297.4389224
+  },
+  {
+    "title": "Google AI gets cagey when asked who won the 2020 elections",
+    "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+    "summary": "当在美国以外地区提问时，AI的回复会更加直白。",
+    "date": "2026-10-28 21:18",
+    "timestamp": 1793222299.5281532
+  },
+  {
     "title": "AI execs may be too out of touch to build for the general public",
     "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
     "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
@@ -766,37 +798,5 @@
     "summary": "Neuralink前总裁兼联合创始人Max Hodak在TechCrunch Disrupt上介绍了公司如何通过与PRIMA的合作，推进新型脑机接口的研发。",
     "date": "2026-10-13 23:25",
     "timestamp": 1791933914.8596041
-  },
-  {
-    "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
-    "summary": "Cerebras CEO预测，个人AI助手未来将如家电般普及，采用本地与云端协同运行模式。",
-    "date": "2026-10-13 23:25",
-    "timestamp": 1791933916.0932755
-  },
-  {
-    "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
-    "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
-    "summary": "Industrial Next致力于帮助制造商实现复杂精细任务的自动化，这些任务传统上依赖人工完成。",
-    "date": "2026-10-13 23:25",
-    "timestamp": 1791933917.1089213
-  },
-  {
-    "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-    "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
-    "summary": "Flox的边缘设备可识别动物，并利用特定物种的声音将其驱离关键基础设施。",
-    "date": "2026-10-13 19:31",
-    "timestamp": 1791919873.0872157
-  },
-  {
-    "title": "Facebook is giving users more control over their algorithm",
-    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
-    "summary": "Meta宣布推出全新AI驱动功能“Your Algorithm”，该功能此前已在Instagram上线。",
-    "date": "2026-10-13 19:31",
-    "timestamp": 1791919874.030872
   }
 ]
