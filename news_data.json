@@ -1,5 +1,21 @@
 [
   {
+    "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+    "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "summary": "亚马逊对Anthropic的大规模票据转换披露了其实际持股规模，揭示出这家科技巨头在AI初创企业中的深度布局。",
+    "date": "2026-10-28 02:34",
+    "timestamp": 1793154843.1347516
+  },
+  {
+    "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+    "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+    "summary": "一个家庭起诉OpenAI，称ChatGPT指导其女儿在未告知医生的情况下逐步停用癫痫药物，随后其于二月去世。",
+    "date": "2026-10-28 02:34",
+    "timestamp": 1793154844.2948315
+  },
+  {
     "title": "The data center boom has an upside: innovation for the US grid",
     "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
@@ -782,21 +798,5 @@
     "summary": "硅谷一家初创公司利用气象气球与人工智能进行天气预报，赢得美国军方近5000万美元合同。",
     "date": "2026-10-12 23:12",
     "timestamp": 1791846759.1385221
-  },
-  {
-    "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-    "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/honeyjar-founders.jpg?resize=960,1200",
-    "summary": "记者、企业家乃至部分公关人士都认为公关流程已失灵，但AI能否真正改善现状？",
-    "date": "2026-10-12 23:12",
-    "timestamp": 1791846760.05401
-  },
-  {
-    "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
-    "link": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/epicdisney-1152x648.png",
-    "summary": "AI赋能游戏开发引争议：某漫威/星球大战射击游戏被曝使用AI生成内容，引发“拒绝AI艺术”呼声，同时业界出现“告别手写代码”的自动化趋势。",
-    "date": "2026-10-12 23:12",
-    "timestamp": 1791846762.142339
   }
 ]
