@@ -1,5 +1,29 @@
 [
   {
+    "title": "AI execs may be too out of touch to build for the general public",
+    "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+    "summary": "科技领袖炫耀用AI与家人联络，恰恰暴露了他们与现实的脱节。",
+    "date": "2026-10-28 16:15",
+    "timestamp": 1793204146.1493907
+  },
+  {
+    "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+    "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+    "summary": "韩国金融机构再遭网络攻击，凸显亚洲地区AI驱动黑客攻击风险日益上升。",
+    "date": "2026-10-28 16:15",
+    "timestamp": 1793204147.374217
+  },
+  {
+    "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+    "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+    "summary": "英伟达发布免费语音转文字模型，支持多达40种语言转录，但仅适用于录音文件，不支持实时音频。该模型对会议和医疗转录工具意义重大，实时应用领域仍由ElevenLabs等竞争对手占据。",
+    "date": "2026-10-28 16:15",
+    "timestamp": 1793204148.7733903
+  },
+  {
     "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
     "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
@@ -774,29 +798,5 @@
     "summary": "Meta宣布推出全新AI驱动功能“Your Algorithm”，该功能此前已在Instagram上线。",
     "date": "2026-10-13 19:31",
     "timestamp": 1791919874.030872
-  },
-  {
-    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-    "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-    "summary": "密歇根大学衍生公司Laplace Intelligence利用AI智能体和交互式仿真，在部署前对机器人及自动驾驶车辆进行压力测试。该已盈利初创公司将于10月13日至15日在旧金山参加TechCrunch Disrupt的Startup Battlefield竞赛。",
-    "date": "2026-10-13 19:31",
-    "timestamp": 1791919875.1750684
-  },
-  {
-    "title": "Meta releases its first frontier model, Muse Wonder",
-    "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-    "summary": "Muse Spark主打轻量低延迟，而Wonder模型规模更大、能力更强，基准测试得分更高，在编程等复杂任务上表现更优。",
-    "date": "2026-10-12 23:12",
-    "timestamp": 1791846757.898288
-  },
-  {
-    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-    "summary": "硅谷一家初创公司利用气象气球与人工智能进行天气预报，赢得美国军方近5000万美元合同。",
-    "date": "2026-10-12 23:12",
-    "timestamp": 1791846759.1385221
   }
 ]
