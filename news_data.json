@@ -1,5 +1,29 @@
 [
   {
+    "title": "Meta quietly launches an AI fashion app called Style Sketch",
+    "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625",
+    "summary": "该应用可连接Instagram，将已发布的照片转化为虚拟衣橱，也支持用户通过拍照、录制短视频或从相册上传图片手动添加衣物。",
+    "date": "2026-10-29 19:51",
+    "timestamp": 1793303519.6253767
+  },
+  {
+    "title": "Granola crunches up a dictation feature to compete with Wispr",
+    "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Granola.jpg?resize=1200,675",
+    "summary": "Wispr在听写应用中新增会议记录功能后，Granola随即在其会议记录工具中加入听写功能，语音AI领域竞争日趋激烈。",
+    "date": "2026-10-29 19:52",
+    "timestamp": 1793303520.9251552
+  },
+  {
+    "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+    "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1760104305.jpg?resize=1200,798",
+    "summary": "Mistral表示，其新模型能让组织对其网络防御获得某种程度的控制，而这是封闭模型无法提供的。",
+    "date": "2026-10-29 19:52",
+    "timestamp": 1793303522.030601
+  },
+  {
     "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
     "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
@@ -774,29 +798,5 @@
     "summary": "创始人们介绍了其初创公司正在开发能够设计芯片的AI，该AI可从每次迭代中学习并优化后续设计，目标是实现芯片设计流程的自动化与加速。",
     "date": "2026-10-15 06:25",
     "timestamp": 1792045519.8810906
-  },
-  {
-    "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
-    "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
-    "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197117084.jpg?resize=1200,843",
-    "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insig...",
-    "date": "2026-10-15 01:05",
-    "timestamp": 1792026359.7932959
-  },
-  {
-    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
-    "summary": "隐私倡导者（包括ACLU）及公众对Flock技术的滥用问题日益关注，Langley就此作出回应。",
-    "date": "2026-10-14 22:36",
-    "timestamp": 1792017369.793583
-  },
-  {
-    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-    "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/youtube-music-gen-ai-labels.png?w=1080",
-    "summary": "播放器页面将添加标识，明确标注完全由AI生成或部分参与创作（如作曲、人声）的歌曲。",
-    "date": "2026-10-14 18:51",
-    "timestamp": 1792003918.6064854
   }
 ]
