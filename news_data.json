@@ -1,5 +1,29 @@
 [
   {
+    "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+    "summary": "微软从未披露Azure季度营收的具体美元数字，但如今我们首次得以窥见其与市场最大竞争对手AWS的差距已缩小至何种程度。",
+    "date": "2026-10-29 01:12",
+    "timestamp": 1793236366.7382536
+  },
+  {
+    "title": "Google expands AI Search ads globally as core ad growth slows",
+    "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+    "summary": "Alphabet第三季度财报显示营收同比增长25%至1276亿美元，相关公告随财报一同发布。",
+    "date": "2026-10-29 01:12",
+    "timestamp": 1793236368.4733496
+  },
+  {
+    "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+    "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+    "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+    "summary": "微软披露截至9月30日季度从与OpenAI的商业安排中获得100亿美元收入，含收入分成，凸显双方合作中仍巨大的财务依赖。",
+    "date": "2026-10-29 01:12",
+    "timestamp": 1793236370.2690392
+  },
+  {
     "title": "Anthropic just launched tools to show companies what their AI spending is buying",
     "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/claude-enterprise-social-smartreports-five-beats-gray200-animated-1080x608-v032.gif?w=1080",
@@ -774,29 +798,5 @@
     "summary": "AI设计工具已能创造出可分解数百年稳定化学键的蛋白质，突破传统生物催化极限。",
     "date": "2026-10-14 18:52",
     "timestamp": 1792003922.2128365
-  },
-  {
-    "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
-    "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/scimplify-co-founder-sachin-santhosh.jpg?resize=1200,800",
-    "summary": "Scimplify年化收入运行率增长两倍至2亿美元，并计划拓展美国市场。",
-    "date": "2026-10-14 14:00",
-    "timestamp": 1791986426.806812
-  },
-  {
-    "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-    "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
-    "summary": "一种基于重量的小型自我复制器可能催生新一代计算机蠕虫。",
-    "date": "2026-10-14 14:00",
-    "timestamp": 1791986428.5212317
-  },
-  {
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-    "summary": "Neuralink前总裁兼联合创始人Max Hodak在TechCrunch Disrupt上介绍了公司如何通过与PRIMA的合作，推进新型脑机接口的研发。",
-    "date": "2026-10-13 23:25",
-    "timestamp": 1791933914.8596041
   }
 ]
