@@ -1,5 +1,29 @@
 [
   {
+    "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+    "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+    "summary": "AI应用Wabi（现定位为“个人智能体”）周四宣布完成5500万美元融资，估值达12.5亿美元。",
+    "date": "2026-10-29 14:39",
+    "timestamp": 1793284750.724582
+  },
+  {
+    "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+    "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Scott-Kwin-1.jpg?resize=1200,800",
+    "summary": "Deepgram承诺将继续保持Pipecat的开源状态。",
+    "date": "2026-10-29 14:39",
+    "timestamp": 1793284752.013689
+  },
+  {
+    "title": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+    "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1252468735.jpg?resize=1200,800",
+    "summary": "亚马逊Alexa功能更新，现支持用户通过语音创建清单、查看清单内容、添加或编辑清单项目，并可通过AI助手管理订阅服务。",
+    "date": "2026-10-29 14:39",
+    "timestamp": 1793284753.3238573
+  },
+  {
     "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
     "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
@@ -774,29 +798,5 @@
     "summary": "播放器页面将添加标识，明确标注完全由AI生成或部分参与创作（如作曲、人声）的歌曲。",
     "date": "2026-10-14 18:51",
     "timestamp": 1792003918.6064854
-  },
-  {
-    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/6811e05224449e9b499b4916_apate_team-p-1600.webp?resize=1200,797",
-    "summary": "多数企业用AI代理加速产品交付或工作流，Apate.ai却反其道而行，派AI代理潜入诈骗场景，主动接触骗子以收集情报。",
-    "date": "2026-10-14 18:51",
-    "timestamp": 1792003919.7717752
-  },
-  {
-    "title": "Deezer will soon let you filter out AI-generated music",
-    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
-    "summary": "Deezer宣布，新的切换功能将于今年年底前上线。",
-    "date": "2026-10-14 18:52",
-    "timestamp": 1792003920.9017463
-  },
-  {
-    "title": "Researchers use AI to design proteins that cut up other proteins",
-    "link": "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2298087641-1152x648.jpg",
-    "summary": "AI设计工具已能创造出可分解数百年稳定化学键的蛋白质，突破传统生物催化极限。",
-    "date": "2026-10-14 18:52",
-    "timestamp": 1792003922.2128365
   }
 ]
