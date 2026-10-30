@@ -1,5 +1,21 @@
 [
   {
+    "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+    "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800",
+    "summary": "TechCrunch Founder Summit 2026将于11月4日在波士顿举行，现注册可享限时5天优惠，最高省100美元，并获赠第二张免费通行证。",
+    "date": "2026-10-30 13:30",
+    "timestamp": 1793367042.3539824
+  },
+  {
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+    "summary": "Runware正筹建工厂，以流水线方式生产预制AI数据中心。其真正的考验在于能否实现规模化交付。",
+    "date": "2026-10-30 13:30",
+    "timestamp": 1793367043.8812077
+  },
+  {
     "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
     "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
@@ -782,21 +798,5 @@
     "summary": "在TechCrunch Disrupt大会上，亚马逊设备负责人Panos Panay描绘了环境AI设备的未来：它们在后台运行，主动预判用户需求，而非等待指令。",
     "date": "2026-10-15 20:31",
     "timestamp": 1792096290.0402503
-  },
-  {
-    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "METR将对Anthropic的风险、事件及实践进行独立评估并发布报告，而Anthropic已放弃阻止这些评估发布的权利。",
-    "date": "2026-10-15 20:31",
-    "timestamp": 1792096291.1363854
-  },
-  {
-    "title": "AI agents are coming to Rivian’s cars",
-    "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55587802359_b756c3c3bd_k.jpg?resize=1200,800",
-    "summary": "公司或在12月“AI与自动驾驶日”披露更多运作细节。",
-    "date": "2026-10-15 17:20",
-    "timestamp": 1792084815.5986896
   }
 ]
