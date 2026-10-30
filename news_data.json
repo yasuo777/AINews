@@ -1,5 +1,45 @@
 [
   {
+    "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+    "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
+    "summary": "AI助手Ollie创始人宣布，由于市场上AI助手数量激增，该注重用户隐私的产品将于一周后停止运营。",
+    "date": "2026-10-30 23:11",
+    "timestamp": 1793401895.5486758
+  },
+  {
+    "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+    "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Intel-Lip-Bu-Tan-1.jpg?resize=1200,800",
+    "summary": "英特尔正因PC销量下滑而受冲击，与此同时，AI产业大量消耗内存及其他零部件，导致PC价格上涨。",
+    "date": "2026-10-30 23:11",
+    "timestamp": 1793401896.8213203
+  },
+  {
+    "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+    "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+    "summary": "黑石集团的评级预测仅为预判，但若Anthropic真获高垃圾级评级，其融资难度与成本将显著上升，进而影响其支撑业务的大规模支出所需的资金筹措。",
+    "date": "2026-10-30 23:11",
+    "timestamp": 1793401898.0514681
+  },
+  {
+    "title": "Dartmouth's provost warned us about AI cheating—but his own AI use cost him his job",
+    "link": "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2228700612-2560x1440.jpg",
+    "summary": "调查显示，AI爱好者并不总愿意向他人透露自己使用AI的情况，反映出用户对AI使用存在一定的社会顾虑。",
+    "date": "2026-10-30 23:11",
+    "timestamp": 1793401899.434889
+  },
+  {
+    "title": "Basically no one is using AI agents for their DoorDash orders",
+    "link": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2301817894-1024x648.jpg",
+    "summary": "电子商务的这一新用例仍处于早期阶段。",
+    "date": "2026-10-30 23:11",
+    "timestamp": 1793401900.5508196
+  },
+  {
     "title": "Zest’s new AI agent finds restaurants and books reservations over text",
     "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
@@ -758,45 +798,5 @@
     "summary": "周末，Masad澄清OpenAI将取代Anthropic成为其默认模型供应商，但Claude仍将对该平台客户开放。",
     "date": "2026-10-17 19:42",
     "timestamp": 1792266133.5399776
-  },
-  {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-    "summary": "Replit CEO Masad表示，终止与Anthropic的合作是出于成本等多方面考量。公司曾于8月宣布与OpenAI建立合作，但此前从未透露已结束与Anthropic的协作关系。",
-    "date": "2026-10-16 23:00",
-    "timestamp": 1792191609.1928837
-  },
-  {
-    "title": "India becomes the latest country to report rogue AI agent activity",
-    "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-    "summary": "攻击者通过应用配置、公开代码库及权限过宽的云角色中暴露的凭据和连接设置实现入侵。",
-    "date": "2026-10-16 20:03",
-    "timestamp": 1792181019.09147
-  },
-  {
-    "title": "A Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-    "summary": "前英伟达机器人产品市场负责人Amulya Vishwanath认为，机器人行业尚处“乐高时代”，执行器、机械手、软件及安全标准等基础组件仍在重构，与通用基础模型即将引爆机器人行业的观点相左。",
-    "date": "2026-10-16 16:55",
-    "timestamp": 1792169751.4376009
-  },
-  {
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
-    "summary": "前英伟达机器人产品市场负责人Amulya Vishwanath认为，机器人行业正处于“乐高时代”，执行器、机械手、软件和安全标准等基础组件仍在重构中。这一观点与认为通用基础模型将推动机器人快速突破的看法相悖。",
-    "date": "2026-10-16 16:55",
-    "timestamp": 1792169752.7027113
-  },
-  {
-    "title": "Elorian’s first AI model wants to reason with images, not just about them",
-    "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/image-1.png?resize=1200,675",
-    "summary": "据Elorian评测，Glimpse在科学图表推理与短视频字幕任务上超越GPT-6 Astra，在其他视觉推理任务中亦表现不俗。",
-    "date": "2026-10-16 16:55",
-    "timestamp": 1792169753.5445786
   }
 ]
