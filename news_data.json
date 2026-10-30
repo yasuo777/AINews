@@ -1,5 +1,29 @@
 [
   {
+    "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+    "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+    "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+    "summary": "亚马逊CEO表示，公司目标是成为AI云计算领域的领导者，并成为首家营收达1万亿美元的企业，但实现这一目标需要持续加大资本支出。",
+    "date": "2026-10-30 00:19",
+    "timestamp": 1793319580.2378483
+  },
+  {
+    "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+    "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+    "image": "https://techcrunch.com/wp-content/uploads/2023/03/reddit-e1708636699632.jpg?resize=1200,800",
+    "summary": "Reddit正调整其开放网络策略，以在AI改变信息获取方式的背景下保护用户与业务利益。",
+    "date": "2026-10-30 00:19",
+    "timestamp": 1793319581.3765676
+  },
+  {
+    "title": "Rivian expands joint venture with VW to include AI assistant",
+    "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/12/rivian-assisant-event.png?resize=1200,672",
+    "summary": "Rivian未披露其58亿美元合资企业的价值是否会因此扩大。",
+    "date": "2026-10-30 00:19",
+    "timestamp": 1793319582.327078
+  },
+  {
     "title": "Meta quietly launches an AI fashion app called Style Sketch",
     "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/meta-style-sketch.png?resize=1200,625",
@@ -774,29 +798,5 @@
     "summary": "谷歌在美国推出全新购物工具，已接入谷歌搜索和Gemini应用。",
     "date": "2026-10-15 17:20",
     "timestamp": 1792084816.809421
-  },
-  {
-    "title": "TechCrunch Disrupt 2026: Last day",
-    "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800",
-    "summary": "TechCrunch Disrupt 2026今日为报名最后一天，已有超万名科技领袖参与。现在购票可享75%折扣。",
-    "date": "2026-10-15 17:20",
-    "timestamp": 1792084817.808176
-  },
-  {
-    "title": "Figma announces new features to define how agents work on its platform",
-    "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Specs_agent.jpeg?resize=1200,675",
-    "summary": "Figma 代码层功能已进入公开测试阶段，面向所有用户开放。",
-    "date": "2026-10-15 06:25",
-    "timestamp": 1792045518.4638863
-  },
-  {
-    "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-    "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/55590095286_7fe28ddb94_o.jpg?resize=1200,800",
-    "summary": "创始人们介绍了其初创公司正在开发能够设计芯片的AI，该AI可从每次迭代中学习并优化后续设计，目标是实现芯片设计流程的自动化与加速。",
-    "date": "2026-10-15 06:25",
-    "timestamp": 1792045519.8810906
   }
 ]
