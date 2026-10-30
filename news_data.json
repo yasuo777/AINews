@@ -1,5 +1,29 @@
 [
   {
+    "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+    "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+    "summary": "Zest的AI礼宾服务可整合众人饮食偏好，生成餐厅选项并组织投票，最终完成预订，解决聚餐选址分歧。",
+    "date": "2026-10-30 18:49",
+    "timestamp": 1793386189.805636
+  },
+  {
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+    "summary": "首块太空TPU正在运行谷歌DeepMind的Gemma 4模型，并创作略显俗气的诗歌。",
+    "date": "2026-10-30 18:49",
+    "timestamp": 1793386190.9963863
+  },
+  {
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
+    "summary": "Theranos的警示故事在AI时代具有新的意义——那些从未盈利的公司正以万亿美元估值融资。",
+    "date": "2026-10-30 18:49",
+    "timestamp": 1793386192.1325572
+  },
+  {
     "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
     "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
     "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800",
@@ -774,29 +798,5 @@
     "summary": "据Elorian评测，Glimpse在科学图表推理与短视频字幕任务上超越GPT-6 Astra，在其他视觉推理任务中亦表现不俗。",
     "date": "2026-10-16 16:55",
     "timestamp": 1792169753.5445786
-  },
-  {
-    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4996.jpeg?resize=1200,900",
-    "summary": "该公司两年内营收超3000万美元，并于今年3月被MyFitnessPal收购，交易金额未披露。",
-    "date": "2026-10-16 01:38",
-    "timestamp": 1792114694.446198
-  },
-  {
-    "title": "Meta launches an open-weight AI model that runs on Macs",
-    "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
-    "summary": "Meta与苹果合作推出社交媒体巨头最新模型Muse Spark Open，该模型将在苹果芯片上本地运行。",
-    "date": "2026-10-15 20:31",
-    "timestamp": 1792096288.204081
-  },
-  {
-    "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-    "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
-    "summary": "在TechCrunch Disrupt大会上，亚马逊设备负责人Panos Panay描绘了环境AI设备的未来：它们在后台运行，主动预判用户需求，而非等待指令。",
-    "date": "2026-10-15 20:31",
-    "timestamp": 1792096290.0402503
   }
 ]
