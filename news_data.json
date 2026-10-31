@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+    "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
+    "summary": "当投资者对AI支出感到紧张时，让出售芯片的芯片制造商主动提出为贷款提供担保，不失为一种有效策略。",
+    "date": "2026-10-31 02:42",
+    "timestamp": 1793414533.7254097
+  },
+  {
     "title": "Ollie, a privacy-focused AI assistant, is shutting down",
     "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/09/Ollie_Hero.png?resize=1200,847",
@@ -790,13 +798,5 @@
     "summary": "过去一年，Anthropic的员工构成及所完成的工作类型均发生了显著变化。",
     "date": "2026-10-17 22:38",
     "timestamp": 1792276704.377384
-  },
-  {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-    "summary": "周末，Masad澄清OpenAI将取代Anthropic成为其默认模型供应商，但Claude仍将对该平台客户开放。",
-    "date": "2026-10-17 19:42",
-    "timestamp": 1792266133.5399776
   }
 ]
