@@ -1,5 +1,13 @@
 [
   {
+    "title": "OpenAI reportedly lowers funding target for new round",
+    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+    "summary": "OpenAI最新一轮融资表现似乎未达预期。",
+    "date": "2026-10-31 20:17",
+    "timestamp": 1793477829.810272
+  },
+  {
     "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
     "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2235971874.jpg?resize=1200,800",
@@ -790,13 +798,5 @@
     "summary": "Meta发言人坚持表示，更新后的条款并不反映Meta抓取网络内容方式的改变。",
     "date": "2026-10-17 22:38",
     "timestamp": 1792276703.4964528
-  },
-  {
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "summary": "过去一年，Anthropic的员工构成及所完成的工作类型均发生了显著变化。",
-    "date": "2026-10-17 22:38",
-    "timestamp": 1792276704.377384
   }
 ]
