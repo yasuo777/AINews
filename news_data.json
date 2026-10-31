@@ -1,5 +1,29 @@
 [
   {
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+    "summary": "苹果新任CEO为公司在人工智能领域的现状进行了辩护，强调其当前战略定位合理。",
+    "date": "2026-10-31 23:42",
+    "timestamp": 1793490166.6107595
+  },
+  {
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+    "summary": "11月4日波士顿SoWa Power Station将举办全天活动，提供社交机会与实用见解，助力创业想法与初创企业发展。建议提前注册以享优惠票价。",
+    "date": "2026-10-31 23:42",
+    "timestamp": 1793490167.7349393
+  },
+  {
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+    "summary": "NAACP起诉SpaceX旗下AI公司，指控其违反《清洁空气法》。",
+    "date": "2026-10-31 23:42",
+    "timestamp": 1793490168.6742616
+  },
+  {
     "title": "OpenAI reportedly lowers funding target for new round",
     "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
@@ -774,29 +798,5 @@
     "summary": "独立游戏开发者面临新困境：Steam Next Fest试玩版延期现象折射出行业普遍问题。",
     "date": "2026-10-19 17:45",
     "timestamp": 1792431925.5540433
-  },
-  {
-    "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
-    "summary": "Anthropic宣布将把公司5%的股份投入该基金。",
-    "date": "2026-10-18 21:53",
-    "timestamp": 1792360405.9097636
-  },
-  {
-    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-    "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
-    "summary": "Character.AI申请破产后，其员工将有机会入职迪士尼。前CEO已任迪士尼首位CTO，迪士尼此前同意以2000万美元收购其部分资产。",
-    "date": "2026-10-18 17:32",
-    "timestamp": 1792344756.5377374
-  },
-  {
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-    "summary": "Meta发言人坚持表示，更新后的条款并不反映Meta抓取网络内容方式的改变。",
-    "date": "2026-10-17 22:38",
-    "timestamp": 1792276703.4964528
   }
 ]
