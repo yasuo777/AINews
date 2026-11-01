@@ -1,5 +1,21 @@
 [
   {
+    "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+    "summary": "数据中心因能耗与土地占用等问题常受公众抵触。有观点提出，若换一种称呼，或可改善其社会接受度。该讨论折射出数据中心行业面临的形象与沟通挑战，值得关注。",
+    "date": "2026-11-01 23:03",
+    "timestamp": 1793574187.1626203
+  },
+  {
+    "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+    "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+    "summary": "科技CEO的公开表态为何常显得缺乏共情？On Equity节目对此展开讨论，剖析高管言论与公众感受脱节的深层原因。",
+    "date": "2026-11-01 23:03",
+    "timestamp": 1793574188.6265817
+  },
+  {
     "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
     "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
     "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
@@ -782,21 +798,5 @@
     "summary": "部分智能电视用户因不满广告、追踪和卡顿界面，转而借助AI工具剔除预装冗余软件，重新掌控电视使用体验。",
     "date": "2026-10-19 17:45",
     "timestamp": 1792431922.9054253
-  },
-  {
-    "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-    "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-    "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183848501.jpg?resize=1200,800",
-    "summary": "英伟达正大力布局两大趋势：企业希望在自有数据中心运行开源模型，以及推动设备端私有AI代理的普及。",
-    "date": "2026-10-19 17:45",
-    "timestamp": 1792431924.091569
-  },
-  {
-    "title": "AI game clones are making indie developers afraid to show their work",
-    "link": "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
-    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ss_c6067e139d8dd2cbf79c41a9c4e41e3bb088c95a.1920x1080-1152x648.jpg",
-    "summary": "独立游戏开发者面临新困境：Steam Next Fest试玩版延期现象折射出行业普遍问题。",
-    "date": "2026-10-19 17:45",
-    "timestamp": 1792431925.5540433
   }
 ]
